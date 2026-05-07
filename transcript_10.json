@@ -1,0 +1,1068 @@
+{
+    "video_url": "https://www.youtube.com/watch?v=dWeoSKLt_fc",
+    "video_id": "dWeoSKLt_fc",
+    "audio_file": "dWeoSKLt_fc.mp3",
+    "model_used": "base",
+    "language": "en",
+    "duration": "0:13:28",
+    "number_of_chunks": 2,
+    "status": "success",
+    "quality": {
+        "score": 100,
+        "issues": [],
+        "needs_manual_review": false
+    },
+    "transcript": [
+        {
+            "start": "0:00:00",
+            "end": "0:00:06",
+            "text": "My name is Evan and I scaled an app called locked to $14,000 per month in only a few months."
+        },
+        {
+            "start": "0:00:06",
+            "end": "0:00:07",
+            "text": "Meet Evan."
+        },
+        {
+            "start": "0:00:07",
+            "end": "0:00:12",
+            "text": "He just launched a mobile app and four months later, it's doing $14,000 a month."
+        },
+        {
+            "start": "0:00:12",
+            "end": "0:00:15",
+            "text": "But here's what makes the story different."
+        },
+        {
+            "start": "0:00:15",
+            "end": "0:00:18",
+            "text": "He didn't launch with a huge audience or run paid ads."
+        },
+        {
+            "start": "0:00:18",
+            "end": "0:00:22",
+            "text": "He only had one strategy and it worked from day one."
+        },
+        {
+            "start": "0:00:22",
+            "end": "0:00:25",
+            "text": "The big advantage here is that it feels way more authentic."
+        },
+        {
+            "start": "0:00:25",
+            "end": "0:00:29",
+            "text": "Most founders spend months trying to figure out how to get their first user."
+        },
+        {
+            "start": "0:00:29",
+            "end": "0:00:31",
+            "text": "But Evan figured it out fast."
+        },
+        {
+            "start": "0:00:31",
+            "end": "0:00:36",
+            "text": "This would be my playbook if I wanted to nail starting out on a new app."
+        },
+        {
+            "start": "0:00:36",
+            "end": "0:00:40",
+            "text": "So I brought him out of the channel to walk through his entire playbook."
+        },
+        {
+            "start": "0:00:40",
+            "end": "0:00:46",
+            "text": "And in this episode, we'll dive into the one growth channel that helped him grow very, very fast."
+        },
+        {
+            "start": "0:00:46",
+            "end": "0:00:50",
+            "text": "How he got thousands of users from a single piece of content."
+        },
+        {
+            "start": "0:00:50",
+            "end": "0:00:55",
+            "text": "And the step-by-step strategy he'd use if he had to start over tomorrow with a brand new app."
+        },
+        {
+            "start": "0:00:55",
+            "end": "0:01:01",
+            "text": "If you're thinking about building an app in 2026, this is the episode that you must watch."
+        },
+        {
+            "start": "0:01:01",
+            "end": "0:01:02",
+            "text": "Alright, let's dive in."
+        },
+        {
+            "start": "0:01:02",
+            "end": "0:01:03",
+            "text": "I'm Pat Walls."
+        },
+        {
+            "start": "0:01:03",
+            "end": "0:01:05",
+            "text": "And this is Starter Story."
+        },
+        {
+            "start": "0:01:05",
+            "end": "0:01:13",
+            "text": "Alright, real quick, before we dive in, Evan is about to break down his exact distribution strategy that took his app to $14,000 a month."
+        },
+        {
+            "start": "0:01:13",
+            "end": "0:01:17",
+            "text": "And this is actually something that we have studied a lot here at Starter Story."
+        },
+        {
+            "start": "0:01:17",
+            "end": "0:01:22",
+            "text": "So I put together a full playbook on how the best founders grow and market their apps."
+        },
+        {
+            "start": "0:01:22",
+            "end": "0:01:26",
+            "text": "The link is right down there in the description, but I'll be talking a little bit more about that later."
+        },
+        {
+            "start": "0:01:26",
+            "end": "0:01:28",
+            "text": "For now, let's get into the episode."
+        },
+        {
+            "start": "0:01:28",
+            "end": "0:01:31",
+            "text": "Evan, welcome my man to the channel."
+        },
+        {
+            "start": "0:01:31",
+            "end": "0:01:34",
+            "text": "Tell me about who you are, what you built, and what's your story."
+        },
+        {
+            "start": "0:01:34",
+            "end": "0:01:40",
+            "text": "Hey, my name is Evan, and I scaled an app called Locked to $14,000 per month in only a few months."
+        },
+        {
+            "start": "0:01:40",
+            "end": "0:01:44",
+            "text": "Today, I'm excited to talk about the strategies in place that I'm using to scale off."
+        },
+        {
+            "start": "0:01:44",
+            "end": "0:01:49",
+            "text": "Well, I'm excited to talk about how you grew this app to $14,000 a month and growing."
+        },
+        {
+            "start": "0:01:49",
+            "end": "0:01:50",
+            "text": "It's amazing."
+        },
+        {
+            "start": "0:01:50",
+            "end": "0:01:52",
+            "text": "Before we do, what is this app?"
+        },
+        {
+            "start": "0:01:52",
+            "end": "0:01:53",
+            "text": "What's the business model?"
+        },
+        {
+            "start": "0:01:53",
+            "end": "0:01:58",
+            "text": "And if you could walk through some of your dashboards and metrics to show that the thing is legit, would you be able to do that?"
+        },
+        {
+            "start": "0:01:58",
+            "end": "0:01:59",
+            "text": "Sure."
+        },
+        {
+            "start": "0:01:59",
+            "end": "0:02:02",
+            "text": "Locked is a gamified health fitness app."
+        },
+        {
+            "start": "0:02:02",
+            "end": "0:02:08",
+            "text": "And the whole point of it is to help our users stay on task while gamifying the whole experience."
+        },
+        {
+            "start": "0:02:08",
+            "end": "0:02:12",
+            "text": "From the start of the onboarding, you have to choose your character to get started."
+        },
+        {
+            "start": "0:02:12",
+            "end": "0:02:18",
+            "text": "There are leaderboards, motivational features, and even badges and levels to keep people on task and stay motivated."
+        },
+        {
+            "start": "0:02:18",
+            "end": "0:02:26",
+            "text": "For our paywall, we charge $40 a year, or $7 a week, and the yearly option includes a three-day free trial."
+        },
+        {
+            "start": "0:02:26",
+            "end": "0:02:38",
+            "text": "On top of that, if they X out of this paywall or escape, it will take them to a transaction abandoned paywall, which is basically just a discounted offer for only $20 a year."
+        },
+        {
+            "start": "0:02:38",
+            "end": "0:02:40",
+            "text": "All right. Well, thank you for sharing that. Thanks for sharing all the numbers."
+        },
+        {
+            "start": "0:02:40",
+            "end": "0:02:45",
+            "text": "How do you get to this point where you have an app that's doing over $14,000 a month? What's your background?"
+        },
+        {
+            "start": "0:02:45",
+            "end": "0:02:49",
+            "text": "Sure. So I've been obsessed with entrepreneurship ever since I was a kid."
+        },
+        {
+            "start": "0:02:49",
+            "end": "0:02:55",
+            "text": "At nine years old, my friends would all play Roblox, but instead I decided to develop the Roblox games."
+        },
+        {
+            "start": "0:02:55",
+            "end": "0:02:59",
+            "text": "I didn't make money from those games, but that marked the start of my journey."
+        },
+        {
+            "start": "0:02:59",
+            "end": "0:03:05",
+            "text": "After that, I tested a bunch of business models, dropped shipping, reselling, clipping, betting machines."
+        },
+        {
+            "start": "0:03:05",
+            "end": "0:03:10",
+            "text": "They all failed. Until eventually, my older brother Zach suggested I get into the app space."
+        },
+        {
+            "start": "0:03:10",
+            "end": "0:03:16",
+            "text": "My first app was Problem-Pal. It peaked at about $2,000 per month, and I recently sold that."
+        },
+        {
+            "start": "0:03:16",
+            "end": "0:03:20",
+            "text": "Next, I built a clear AI in a few weeks, but it didn't really go anywhere."
+        },
+        {
+            "start": "0:03:20",
+            "end": "0:03:26",
+            "text": "Then a friend told me about how he was struggling to stay on task and motivate it. So that sparked an idea."
+        },
+        {
+            "start": "0:03:26",
+            "end": "0:03:35",
+            "text": "I didn't want another boring habit tracker, so I gamified the whole experience with leaderboards, XP, badges, and even characters."
+        },
+        {
+            "start": "0:03:35",
+            "end": "0:03:38",
+            "text": "So let's dive into that a little bit. Can you just walk me through?"
+        },
+        {
+            "start": "0:03:38",
+            "end": "0:03:40",
+            "text": "How did you build it? How long did it take?"
+        },
+        {
+            "start": "0:03:40",
+            "end": "0:03:49",
+            "text": "Our designs took us about two weeks. We went in a figment file, did everything from scratch, and once that was done, we began transferring it over to Xcode."
+        },
+        {
+            "start": "0:03:49",
+            "end": "0:03:55",
+            "text": "To do this, we use YouTube tutorials, some of our own knowledge, and also, of course, we use Clawed Code to help us."
+        },
+        {
+            "start": "0:03:55",
+            "end": "0:03:59",
+            "text": "From start to finish, idea to live in the app store, it took about a month and a half."
+        },
+        {
+            "start": "0:03:59",
+            "end": "0:04:04",
+            "text": "A month and a half to build an app is amazing. That's, I guess, how things are going these days."
+        },
+        {
+            "start": "0:04:04",
+            "end": "0:04:09",
+            "text": "Why I wanted to bring you on is to talk about growth. You grew it to over 14,000 per month in revenue."
+        },
+        {
+            "start": "0:04:09",
+            "end": "0:04:14",
+            "text": "How did you do that? What was the growth strategy or tactic? And how did you get all these users?"
+        },
+        {
+            "start": "0:04:14",
+            "end": "0:04:19",
+            "text": "Yeah, sure. I partnered with influencers to promote my app."
+        },
+        {
+            "start": "0:04:19",
+            "end": "0:04:24",
+            "text": "Going into this channel, I realized my RPM was around $2 to $3."
+        },
+        {
+            "start": "0:04:24",
+            "end": "0:04:31",
+            "text": "So I knew I had to close creators at a CPM lower than that. Typically, it would be between the dollar and $1.50 range."
+        },
+        {
+            "start": "0:04:31",
+            "end": "0:04:36",
+            "text": "The big advantage here is that most influencers already have trust with their audience."
+        },
+        {
+            "start": "0:04:36",
+            "end": "0:04:42",
+            "text": "And when they recommend an app, it feels way more authentic than a traditional ad, which usually leads to much stronger results."
+        },
+        {
+            "start": "0:04:42",
+            "end": "0:04:50",
+            "text": "Would you be able to like show me one of the influencers you worked with and the type of content that was created and share how much revenue and installs this content led to?"
+        },
+        {
+            "start": "0:04:50",
+            "end": "0:04:58",
+            "text": "So here, if we click on Jeremiah's video, which was basically explaining how to stay locked in and on task."
+        },
+        {
+            "start": "0:04:58",
+            "end": "0:05:04",
+            "text": "Right here, he shows app was in the first 15 seconds. That's always something that you should require influencers to do."
+        },
+        {
+            "start": "0:05:04",
+            "end": "0:05:07",
+            "text": "This piece of content worked for multiple reasons."
+        },
+        {
+            "start": "0:05:07",
+            "end": "0:05:13",
+            "text": "Number one, Jeremiah Jones has great engagement and his videos are filled with high quality comments."
+        },
+        {
+            "start": "0:05:13",
+            "end": "0:05:17",
+            "text": "That's how I know he has an amazing audience, which is arguably the most important factor."
+        },
+        {
+            "start": "0:05:17",
+            "end": "0:05:24",
+            "text": "Number two, his content focuses on staying locked in and on task, which perfectly aligns with locked."
+        },
+        {
+            "start": "0:05:24",
+            "end": "0:05:29",
+            "text": "Number three, it was a seamless integration with the app. It made sense to add it and it fit in perfectly."
+        },
+        {
+            "start": "0:05:29",
+            "end": "0:05:35",
+            "text": "Could you share like any of the numbers? Like just give a sense of how many views did this piece of content get?"
+        },
+        {
+            "start": "0:05:35",
+            "end": "0:05:44",
+            "text": "And like how many installs did it lead to or revenue impact? I think the audience would be curious about how this actually leads to installs and revenue."
+        },
+        {
+            "start": "0:05:44",
+            "end": "0:05:48",
+            "text": "You can see that he posted the video right around February 6, which is when we had a huge spike."
+        },
+        {
+            "start": "0:05:48",
+            "end": "0:05:59",
+            "text": "As you can see, we were doing about $300 a day and then just spiked up $728, $600, $700, $600, $678, $600, even almost $1,000."
+        },
+        {
+            "start": "0:05:59",
+            "end": "0:06:10",
+            "text": "So I would say across this video, probably generated around $3,000 and about 1,800 downloads at approximately $1,000,000 views across all platforms."
+        },
+        {
+            "start": "0:06:11",
+            "end": "0:06:15",
+            "text": "We pay them something like $800 with a $600,000 minimum view clause."
+        },
+        {
+            "start": "0:06:15",
+            "end": "0:06:18",
+            "text": "And if they hit the minimum view clause, all of some they're done."
+        },
+        {
+            "start": "0:06:18",
+            "end": "0:06:21",
+            "text": "And we can move on to an even bigger deal considering that it converted."
+        },
+        {
+            "start": "0:06:21",
+            "end": "0:06:26",
+            "text": "But if not, they have the option to post a few more videos, hit that NBC and so get paid out."
+        },
+        {
+            "start": "0:06:26",
+            "end": "0:06:30",
+            "text": "What Evan is showing us right now is that distribution is everything."
+        },
+        {
+            "start": "0:06:30",
+            "end": "0:06:36",
+            "text": "He figured out how to work with influencers. And this is one of the strategies I'm seeing work over and over and over."
+        },
+        {
+            "start": "0:06:36",
+            "end": "0:06:40",
+            "text": "Organic short form on TikTok, Instagram, and YouTube shorts."
+        },
+        {
+            "start": "0:06:40",
+            "end": "0:06:46",
+            "text": "If you watch this channel, you'll notice that many of the founders we bring on have talked at length about this exact strategy."
+        },
+        {
+            "start": "0:06:46",
+            "end": "0:06:51",
+            "text": "That's why we put together the organic short form playbook inside Starter Story Build."
+        },
+        {
+            "start": "0:06:51",
+            "end": "0:06:59",
+            "text": "It is a step-by-step system for finding viral ideas, reverse engineering, what's working on short form, and getting millions of views on your app."
+        },
+        {
+            "start": "0:07:00",
+            "end": "0:07:07",
+            "text": "We break down the exact content formats that make money and we give you real world examples you can try for free with your app."
+        },
+        {
+            "start": "0:07:07",
+            "end": "0:07:12",
+            "text": "If you want to get this resource right now, just head to the first link in the description to grab it."
+        },
+        {
+            "start": "0:07:12",
+            "end": "0:07:16",
+            "text": "It is 100% free. I'm excited to see you all put this into action."
+        },
+        {
+            "start": "0:07:16",
+            "end": "0:07:18",
+            "text": "Alright, let's get back to the episode."
+        },
+        {
+            "start": "0:07:18",
+            "end": "0:07:20",
+            "text": "Okay, cool. I mean, thanks for showing that example."
+        },
+        {
+            "start": "0:07:20",
+            "end": "0:07:24",
+            "text": "If you were to start over with a new app right now, how would you get started right now in 2026?"
+        },
+        {
+            "start": "0:07:24",
+            "end": "0:07:31",
+            "text": "What would be your step-by-step to find influencers, book them, and make sure that they lead to actual sales and revenue for your app?"
+        },
+        {
+            "start": "0:07:31",
+            "end": "0:07:34",
+            "text": "For the first step, you have to find creators in your niche."
+        },
+        {
+            "start": "0:07:34",
+            "end": "0:07:38",
+            "text": "You look up something related to your niche on Instagram or TikTok."
+        },
+        {
+            "start": "0:07:38",
+            "end": "0:07:43",
+            "text": "Then you scroll through the videos, click on their accounts, and send each creator the same message every time."
+        },
+        {
+            "start": "0:07:43",
+            "end": "0:07:46",
+            "text": "Which would always start with paid promo question mark."
+        },
+        {
+            "start": "0:07:46",
+            "end": "0:07:48",
+            "text": "The second step is getting them on a call."
+        },
+        {
+            "start": "0:07:48",
+            "end": "0:07:51",
+            "text": "Step three, you want to close them on a profitable deal."
+        },
+        {
+            "start": "0:07:51",
+            "end": "0:07:55",
+            "text": "But once you have them on a call, keep in mind that you need to close them on a profitable deal."
+        },
+        {
+            "start": "0:07:55",
+            "end": "0:07:59",
+            "text": "This is achieved by closing them on a CPM lower than your RPM."
+        },
+        {
+            "start": "0:07:59",
+            "end": "0:08:02",
+            "text": "Step number four is structuring the deal."
+        },
+        {
+            "start": "0:08:02",
+            "end": "0:08:05",
+            "text": "Now that you have them on a call, you should offer them one of four deals."
+        },
+        {
+            "start": "0:08:05",
+            "end": "0:08:12",
+            "text": "The first deal is a flat rate where you pay them $500 for a real or $1,200 for four deals."
+        },
+        {
+            "start": "0:08:12",
+            "end": "0:08:19",
+            "text": "You should only use this deal when working with creators that consistently get a lot of use in your confident that they'll be able to match your target CPM"
+        },
+        {
+            "start": "0:08:19",
+            "end": "0:08:23",
+            "text": "without a minimum view clause or something of that nature."
+        },
+        {
+            "start": "0:08:23",
+            "end": "0:08:30",
+            "text": "The second deal is a CPM deal where you offer a dollar per every thousand views or $2 for every thousand views."
+        },
+        {
+            "start": "0:08:30",
+            "end": "0:08:32",
+            "text": "And you should always have a cap."
+        },
+        {
+            "start": "0:08:32",
+            "end": "0:08:39",
+            "text": "For example, if the creator were to get 10 million views but your cap was $500, then you only have to pay them $500."
+        },
+        {
+            "start": "0:08:39",
+            "end": "0:08:46",
+            "text": "The third deal is a minimum view clause deal where you offer something like $500 with a $500,000 minimum view clause."
+        },
+        {
+            "start": "0:08:46",
+            "end": "0:08:50",
+            "text": "This is the deal I almost always go with and it helps keep the CPM under your RPM."
+        },
+        {
+            "start": "0:08:50",
+            "end": "0:08:56",
+            "text": "The fourth and final deal is a bonus deal where you say, look, we'll pay you $500 for a video."
+        },
+        {
+            "start": "0:08:56",
+            "end": "0:09:00",
+            "text": "And if it gets a million views and we'll pay you an additional $500."
+        },
+        {
+            "start": "0:09:00",
+            "end": "0:09:04",
+            "text": "And then the fifth and final step is of course launching the partnership."
+        },
+        {
+            "start": "0:09:04",
+            "end": "0:09:10",
+            "text": "Next you want to send them the video requirements and a contract and give them a one week deadline to get the first video out."
+        },
+        {
+            "start": "0:09:10",
+            "end": "0:09:14",
+            "text": "They perform well and generate a lot of revenue and keep working with them."
+        },
+        {
+            "start": "0:09:14",
+            "end": "0:09:17",
+            "text": "Okay, cool influencer playbook. That was amazing. Thank you for sharing all that."
+        },
+        {
+            "start": "0:09:17",
+            "end": "0:09:21",
+            "text": "Would you be able to give me a demo of this app? How does it work? What does it do?"
+        },
+        {
+            "start": "0:09:21",
+            "end": "0:09:26",
+            "text": "Yeah, when you enter the app, you are on the main screen. Of course, you have your level, your XP."
+        },
+        {
+            "start": "0:09:26",
+            "end": "0:09:32",
+            "text": "And you can scroll through add custom tasks. We also give users some basic tasks to start."
+        },
+        {
+            "start": "0:09:32",
+            "end": "0:09:39",
+            "text": "Check one off. You get 100 XP. Then you have all the different levels along with your progress on one tab."
+        },
+        {
+            "start": "0:09:39",
+            "end": "0:09:46",
+            "text": "We have every single user on here all time ranking last seven days and today's rankings and of course your profile."
+        },
+        {
+            "start": "0:09:46",
+            "end": "0:09:59",
+            "text": "And finally, a motivational screen where you're basically just getting yelled at by Jeremiah."
+        },
+        {
+            "start": "0:09:59",
+            "end": "0:10:00",
+            "text": "Thank you."
+        },
+        {
+            "start": "0:10:01",
+            "end": "0:10:02",
+            "text": "Let's talk about tech stack."
+        },
+        {
+            "start": "0:10:02",
+            "end": "0:10:04",
+            "text": "What is this app built on?"
+        },
+        {
+            "start": "0:10:04",
+            "end": "0:10:06",
+            "text": "How do you do development?"
+        },
+        {
+            "start": "0:10:06",
+            "end": "0:10:09",
+            "text": "What comprises this app that's doing $14,000 a month?"
+        },
+        {
+            "start": "0:10:09",
+            "end": "0:10:12",
+            "text": "Sure, so of course, first, for designing,"
+        },
+        {
+            "start": "0:10:12",
+            "end": "0:10:17",
+            "text": "we use Figma, Second, we use Cloud Code to help us out with development."
+        },
+        {
+            "start": "0:10:17",
+            "end": "0:10:19",
+            "text": "We use the $200 among subscription."
+        },
+        {
+            "start": "0:10:19",
+            "end": "0:10:21",
+            "text": "Then there is Superwall, which helps you"
+        },
+        {
+            "start": "0:10:21",
+            "end": "0:10:26",
+            "text": "A.B. tester paywalls that takes 1% of your earnings."
+        },
+        {
+            "start": "0:10:26",
+            "end": "0:10:31",
+            "text": "And finally, there is Superbase for our database, which is again free."
+        },
+        {
+            "start": "0:10:31",
+            "end": "0:10:32",
+            "text": "Thanks for sharing."
+        },
+        {
+            "start": "0:10:32",
+            "end": "0:10:34",
+            "text": "Last question that we ask all founders who come on Star Story."
+        },
+        {
+            "start": "0:10:34",
+            "end": "0:10:37",
+            "text": "We'll be your advice to younger Evan,"
+        },
+        {
+            "start": "0:10:37",
+            "end": "0:10:40",
+            "text": "or to anyone watching this who are inspired by what you do."
+        },
+        {
+            "start": "0:10:40",
+            "end": "0:10:43",
+            "text": "Sure, I would tell myself to worry less about school"
+        },
+        {
+            "start": "0:10:43",
+            "end": "0:10:46",
+            "text": "and put more time into building my business."
+        },
+        {
+            "start": "0:10:46",
+            "end": "0:10:50",
+            "text": "From a young age, you are siopped into thinking there's only one path."
+        },
+        {
+            "start": "0:10:50",
+            "end": "0:10:53",
+            "text": "Go to school, get good grades, go to a good college,"
+        },
+        {
+            "start": "0:10:53",
+            "end": "0:10:56",
+            "text": "then get a stable job, and you'll be happy."
+        },
+        {
+            "start": "0:10:56",
+            "end": "0:10:58",
+            "text": "Most people are very high-minded,"
+        },
+        {
+            "start": "0:10:58",
+            "end": "0:11:01",
+            "text": "and follow that path without even questioning it."
+        },
+        {
+            "start": "0:11:01",
+            "end": "0:11:02",
+            "text": "If you can see through that early,"
+        },
+        {
+            "start": "0:11:02",
+            "end": "0:11:04",
+            "text": "you gain a huge advantage."
+        },
+        {
+            "start": "0:11:04",
+            "end": "0:11:04",
+            "text": "Well, thanks."
+        },
+        {
+            "start": "0:11:04",
+            "end": "0:11:06",
+            "text": "That's great advice, Evan."
+        },
+        {
+            "start": "0:11:06",
+            "end": "0:11:09",
+            "text": "Congratulations to what you built, especially as such a young age,"
+        },
+        {
+            "start": "0:11:09",
+            "end": "0:11:12",
+            "text": "and still in school, crushing it."
+        },
+        {
+            "start": "0:11:12",
+            "end": "0:11:15",
+            "text": "I can't imagine where it's going to be even a couple of months"
+        },
+        {
+            "start": "0:11:15",
+            "end": "0:11:15",
+            "text": "or a couple of years."
+        },
+        {
+            "start": "0:11:15",
+            "end": "0:11:18",
+            "text": "So thanks for coming on, sharing all this."
+        },
+        {
+            "start": "0:11:18",
+            "end": "0:11:20",
+            "text": "And I will hope to have you back on the channel"
+        },
+        {
+            "start": "0:11:20",
+            "end": "0:11:22",
+            "text": "when you're at 100K a month."
+        },
+        {
+            "start": "0:11:22",
+            "end": "0:11:23",
+            "text": "Yeah, thank you so much."
+        },
+        {
+            "start": "0:11:23",
+            "end": "0:11:25",
+            "text": "Producer Gus, what did you think about this one?"
+        },
+        {
+            "start": "0:11:25",
+            "end": "0:11:28",
+            "text": "What I thought was cool was how simple the app is."
+        },
+        {
+            "start": "0:11:28",
+            "end": "0:11:33",
+            "text": "Gamify, XP, totally matches probably a demographic"
+        },
+        {
+            "start": "0:11:33",
+            "end": "0:11:35",
+            "text": "that I just don't know."
+        },
+        {
+            "start": "0:11:35",
+            "end": "0:11:37",
+            "text": "He's this young kid who knows what he likes"
+        },
+        {
+            "start": "0:11:37",
+            "end": "0:11:38",
+            "text": "or what his friends like."
+        },
+        {
+            "start": "0:11:38",
+            "end": "0:11:41",
+            "text": "So simple, stupidly simple."
+        },
+        {
+            "start": "0:11:41",
+            "end": "0:11:44",
+            "text": "Yeah, it's funny, because we had a few habit trackers"
+        },
+        {
+            "start": "0:11:44",
+            "end": "0:11:47",
+            "text": "on the channel that are actually crushing it."
+        },
+        {
+            "start": "0:11:47",
+            "end": "0:11:50",
+            "text": "I sometimes am skeptical of doing that as a business idea"
+        },
+        {
+            "start": "0:11:50",
+            "end": "0:11:53",
+            "text": "because it's, you know, there's so many of them."
+        },
+        {
+            "start": "0:11:53",
+            "end": "0:11:58",
+            "text": "What I think is a little secret on habit trackers is iOS,"
+        },
+        {
+            "start": "0:11:58",
+            "end": "0:12:00",
+            "text": "like a cool app that will do well on social media"
+        },
+        {
+            "start": "0:12:00",
+            "end": "0:12:03",
+            "text": "or habit tracker, like subashions"
+        },
+        {
+            "start": "0:12:03",
+            "end": "0:12:05",
+            "text": "that we had chatted with a few months ago,"
+        },
+        {
+            "start": "0:12:05",
+            "end": "0:12:07",
+            "text": "that ranks well in ASO."
+        },
+        {
+            "start": "0:12:07",
+            "end": "0:12:11",
+            "text": "So in iOS app store optimization."
+        },
+        {
+            "start": "0:12:11",
+            "end": "0:12:13",
+            "text": "Yeah, and then the other thing obviously is,"
+        },
+        {
+            "start": "0:12:13",
+            "end": "0:12:17",
+            "text": "when he's at the end, he's like, we're, we're siopped"
+        },
+        {
+            "start": "0:12:17",
+            "end": "0:12:20",
+            "text": "into just going to school and stuff."
+        },
+        {
+            "start": "0:12:20",
+            "end": "0:12:21",
+            "text": "I thought that was awesome."
+        },
+        {
+            "start": "0:12:21",
+            "end": "0:12:24",
+            "text": "And I just love that, that's this point of view."
+        },
+        {
+            "start": "0:12:24",
+            "end": "0:12:26",
+            "text": "Yeah, I think some people may watch this and, you know,"
+        },
+        {
+            "start": "0:12:26",
+            "end": "0:12:29",
+            "text": "sometimes when you see someone who's young and doing so well,"
+        },
+        {
+            "start": "0:12:29",
+            "end": "0:12:31",
+            "text": "they can be like a little bit formed of like,"
+        },
+        {
+            "start": "0:12:31",
+            "end": "0:12:33",
+            "text": "oh, like, I'm not far enough along."
+        },
+        {
+            "start": "0:12:33",
+            "end": "0:12:36",
+            "text": "When we were kids, we didn't have access."
+        },
+        {
+            "start": "0:12:36",
+            "end": "0:12:39",
+            "text": "There wasn't even a way to build a business like this before."
+        },
+        {
+            "start": "0:12:39",
+            "end": "0:12:41",
+            "text": "This is just how the world has changed."
+        },
+        {
+            "start": "0:12:41",
+            "end": "0:12:43",
+            "text": "Now you don't need, you don't need permission"
+        },
+        {
+            "start": "0:12:43",
+            "end": "0:12:44",
+            "text": "to build anything anymore."
+        },
+        {
+            "start": "0:12:44",
+            "end": "0:12:46",
+            "text": "You can open up a vibe coding tool"
+        },
+        {
+            "start": "0:12:46",
+            "end": "0:12:47",
+            "text": "and you can build a business."
+        },
+        {
+            "start": "0:12:47",
+            "end": "0:12:48",
+            "text": "You can put it out on the worldwide web"
+        },
+        {
+            "start": "0:12:48",
+            "end": "0:12:51",
+            "text": "and anyone can subscribe to it."
+        },
+        {
+            "start": "0:12:51",
+            "end": "0:12:53",
+            "text": "So, you know, we had chatted with him."
+        },
+        {
+            "start": "0:12:53",
+            "end": "0:12:55",
+            "text": "Yeah, he is young, but he let us know"
+        },
+        {
+            "start": "0:12:55",
+            "end": "0:12:57",
+            "text": "that he had been starting businesses for years, right?"
+        },
+        {
+            "start": "0:12:57",
+            "end": "0:13:00",
+            "text": "He's years into the game and it may feel like,"
+        },
+        {
+            "start": "0:13:00",
+            "end": "0:13:00",
+            "text": "oh, he's so young."
+        },
+        {
+            "start": "0:13:00",
+            "end": "0:13:03",
+            "text": "But actually, he told us about all the different business ideas"
+        },
+        {
+            "start": "0:13:03",
+            "end": "0:13:05",
+            "text": "that he tried that failed."
+        },
+        {
+            "start": "0:13:05",
+            "end": "0:13:07",
+            "text": "Thank you guys for watching this episode."
+        },
+        {
+            "start": "0:13:07",
+            "end": "0:13:08",
+            "text": "I hope you enjoyed it."
+        },
+        {
+            "start": "0:13:08",
+            "end": "0:13:12",
+            "text": "If you want to start an iPhone app or an iOS app like Evan did,"
+        },
+        {
+            "start": "0:13:12",
+            "end": "0:13:13",
+            "text": "I'll put a link in the description"
+        },
+        {
+            "start": "0:13:13",
+            "end": "0:13:14",
+            "text": "where you can learn how to do that,"
+        },
+        {
+            "start": "0:13:14",
+            "end": "0:13:17",
+            "text": "how to go from an idea to a shipped app"
+        },
+        {
+            "start": "0:13:17",
+            "end": "0:13:19",
+            "text": "that will be right down there in the description,"
+        },
+        {
+            "start": "0:13:19",
+            "end": "0:13:20",
+            "text": "get started, solve free."
+        },
+        {
+            "start": "0:13:20",
+            "end": "0:13:22",
+            "text": "All right, guys, thank you guys for watching."
+        },
+        {
+            "start": "0:13:22",
+            "end": "0:13:23",
+            "text": "We'll see you in the next one."
+        },
+        {
+            "start": "0:13:23",
+            "end": "0:13:23",
+            "text": "Peace."
+        }
+    ],
+    "plain_text": "[0:00:00] My name is Evan and I scaled an app called locked to $14,000 per month in only a few months.\n[0:00:06] Meet Evan.\n[0:00:07] He just launched a mobile app and four months later, it's doing $14,000 a month.\n[0:00:12] But here's what makes the story different.\n[0:00:15] He didn't launch with a huge audience or run paid ads.\n[0:00:18] He only had one strategy and it worked from day one.\n[0:00:22] The big advantage here is that it feels way more authentic.\n[0:00:25] Most founders spend months trying to figure out how to get their first user.\n[0:00:29] But Evan figured it out fast.\n[0:00:31] This would be my playbook if I wanted to nail starting out on a new app.\n[0:00:36] So I brought him out of the channel to walk through his entire playbook.\n[0:00:40] And in this episode, we'll dive into the one growth channel that helped him grow very, very fast.\n[0:00:46] How he got thousands of users from a single piece of content.\n[0:00:50] And the step-by-step strategy he'd use if he had to start over tomorrow with a brand new app.\n[0:00:55] If you're thinking about building an app in 2026, this is the episode that you must watch.\n[0:01:01] Alright, let's dive in.\n[0:01:02] I'm Pat Walls.\n[0:01:03] And this is Starter Story.\n[0:01:05] Alright, real quick, before we dive in, Evan is about to break down his exact distribution strategy that took his app to $14,000 a month.\n[0:01:13] And this is actually something that we have studied a lot here at Starter Story.\n[0:01:17] So I put together a full playbook on how the best founders grow and market their apps.\n[0:01:22] The link is right down there in the description, but I'll be talking a little bit more about that later.\n[0:01:26] For now, let's get into the episode.\n[0:01:28] Evan, welcome my man to the channel.\n[0:01:31] Tell me about who you are, what you built, and what's your story.\n[0:01:34] Hey, my name is Evan, and I scaled an app called Locked to $14,000 per month in only a few months.\n[0:01:40] Today, I'm excited to talk about the strategies in place that I'm using to scale off.\n[0:01:44] Well, I'm excited to talk about how you grew this app to $14,000 a month and growing.\n[0:01:49] It's amazing.\n[0:01:50] Before we do, what is this app?\n[0:01:52] What's the business model?\n[0:01:53] And if you could walk through some of your dashboards and metrics to show that the thing is legit, would you be able to do that?\n[0:01:58] Sure.\n[0:01:59] Locked is a gamified health fitness app.\n[0:02:02] And the whole point of it is to help our users stay on task while gamifying the whole experience.\n[0:02:08] From the start of the onboarding, you have to choose your character to get started.\n[0:02:12] There are leaderboards, motivational features, and even badges and levels to keep people on task and stay motivated.\n[0:02:18] For our paywall, we charge $40 a year, or $7 a week, and the yearly option includes a three-day free trial.\n[0:02:26] On top of that, if they X out of this paywall or escape, it will take them to a transaction abandoned paywall, which is basically just a discounted offer for only $20 a year.\n[0:02:38] All right. Well, thank you for sharing that. Thanks for sharing all the numbers.\n[0:02:40] How do you get to this point where you have an app that's doing over $14,000 a month? What's your background?\n[0:02:45] Sure. So I've been obsessed with entrepreneurship ever since I was a kid.\n[0:02:49] At nine years old, my friends would all play Roblox, but instead I decided to develop the Roblox games.\n[0:02:55] I didn't make money from those games, but that marked the start of my journey.\n[0:02:59] After that, I tested a bunch of business models, dropped shipping, reselling, clipping, betting machines.\n[0:03:05] They all failed. Until eventually, my older brother Zach suggested I get into the app space.\n[0:03:10] My first app was Problem-Pal. It peaked at about $2,000 per month, and I recently sold that.\n[0:03:16] Next, I built a clear AI in a few weeks, but it didn't really go anywhere.\n[0:03:20] Then a friend told me about how he was struggling to stay on task and motivate it. So that sparked an idea.\n[0:03:26] I didn't want another boring habit tracker, so I gamified the whole experience with leaderboards, XP, badges, and even characters.\n[0:03:35] So let's dive into that a little bit. Can you just walk me through?\n[0:03:38] How did you build it? How long did it take?\n[0:03:40] Our designs took us about two weeks. We went in a figment file, did everything from scratch, and once that was done, we began transferring it over to Xcode.\n[0:03:49] To do this, we use YouTube tutorials, some of our own knowledge, and also, of course, we use Clawed Code to help us.\n[0:03:55] From start to finish, idea to live in the app store, it took about a month and a half.\n[0:03:59] A month and a half to build an app is amazing. That's, I guess, how things are going these days.\n[0:04:04] Why I wanted to bring you on is to talk about growth. You grew it to over 14,000 per month in revenue.\n[0:04:09] How did you do that? What was the growth strategy or tactic? And how did you get all these users?\n[0:04:14] Yeah, sure. I partnered with influencers to promote my app.\n[0:04:19] Going into this channel, I realized my RPM was around $2 to $3.\n[0:04:24] So I knew I had to close creators at a CPM lower than that. Typically, it would be between the dollar and $1.50 range.\n[0:04:31] The big advantage here is that most influencers already have trust with their audience.\n[0:04:36] And when they recommend an app, it feels way more authentic than a traditional ad, which usually leads to much stronger results.\n[0:04:42] Would you be able to like show me one of the influencers you worked with and the type of content that was created and share how much revenue and installs this content led to?\n[0:04:50] So here, if we click on Jeremiah's video, which was basically explaining how to stay locked in and on task.\n[0:04:58] Right here, he shows app was in the first 15 seconds. That's always something that you should require influencers to do.\n[0:05:04] This piece of content worked for multiple reasons.\n[0:05:07] Number one, Jeremiah Jones has great engagement and his videos are filled with high quality comments.\n[0:05:13] That's how I know he has an amazing audience, which is arguably the most important factor.\n[0:05:17] Number two, his content focuses on staying locked in and on task, which perfectly aligns with locked.\n[0:05:24] Number three, it was a seamless integration with the app. It made sense to add it and it fit in perfectly.\n[0:05:29] Could you share like any of the numbers? Like just give a sense of how many views did this piece of content get?\n[0:05:35] And like how many installs did it lead to or revenue impact? I think the audience would be curious about how this actually leads to installs and revenue.\n[0:05:44] You can see that he posted the video right around February 6, which is when we had a huge spike.\n[0:05:48] As you can see, we were doing about $300 a day and then just spiked up $728, $600, $700, $600, $678, $600, even almost $1,000.\n[0:05:59] So I would say across this video, probably generated around $3,000 and about 1,800 downloads at approximately $1,000,000 views across all platforms.\n[0:06:11] We pay them something like $800 with a $600,000 minimum view clause.\n[0:06:15] And if they hit the minimum view clause, all of some they're done.\n[0:06:18] And we can move on to an even bigger deal considering that it converted.\n[0:06:21] But if not, they have the option to post a few more videos, hit that NBC and so get paid out.\n[0:06:26] What Evan is showing us right now is that distribution is everything.\n[0:06:30] He figured out how to work with influencers. And this is one of the strategies I'm seeing work over and over and over.\n[0:06:36] Organic short form on TikTok, Instagram, and YouTube shorts.\n[0:06:40] If you watch this channel, you'll notice that many of the founders we bring on have talked at length about this exact strategy.\n[0:06:46] That's why we put together the organic short form playbook inside Starter Story Build.\n[0:06:51] It is a step-by-step system for finding viral ideas, reverse engineering, what's working on short form, and getting millions of views on your app.\n[0:07:00] We break down the exact content formats that make money and we give you real world examples you can try for free with your app.\n[0:07:07] If you want to get this resource right now, just head to the first link in the description to grab it.\n[0:07:12] It is 100% free. I'm excited to see you all put this into action.\n[0:07:16] Alright, let's get back to the episode.\n[0:07:18] Okay, cool. I mean, thanks for showing that example.\n[0:07:20] If you were to start over with a new app right now, how would you get started right now in 2026?\n[0:07:24] What would be your step-by-step to find influencers, book them, and make sure that they lead to actual sales and revenue for your app?\n[0:07:31] For the first step, you have to find creators in your niche.\n[0:07:34] You look up something related to your niche on Instagram or TikTok.\n[0:07:38] Then you scroll through the videos, click on their accounts, and send each creator the same message every time.\n[0:07:43] Which would always start with paid promo question mark.\n[0:07:46] The second step is getting them on a call.\n[0:07:48] Step three, you want to close them on a profitable deal.\n[0:07:51] But once you have them on a call, keep in mind that you need to close them on a profitable deal.\n[0:07:55] This is achieved by closing them on a CPM lower than your RPM.\n[0:07:59] Step number four is structuring the deal.\n[0:08:02] Now that you have them on a call, you should offer them one of four deals.\n[0:08:05] The first deal is a flat rate where you pay them $500 for a real or $1,200 for four deals.\n[0:08:12] You should only use this deal when working with creators that consistently get a lot of use in your confident that they'll be able to match your target CPM\n[0:08:19] without a minimum view clause or something of that nature.\n[0:08:23] The second deal is a CPM deal where you offer a dollar per every thousand views or $2 for every thousand views.\n[0:08:30] And you should always have a cap.\n[0:08:32] For example, if the creator were to get 10 million views but your cap was $500, then you only have to pay them $500.\n[0:08:39] The third deal is a minimum view clause deal where you offer something like $500 with a $500,000 minimum view clause.\n[0:08:46] This is the deal I almost always go with and it helps keep the CPM under your RPM.\n[0:08:50] The fourth and final deal is a bonus deal where you say, look, we'll pay you $500 for a video.\n[0:08:56] And if it gets a million views and we'll pay you an additional $500.\n[0:09:00] And then the fifth and final step is of course launching the partnership.\n[0:09:04] Next you want to send them the video requirements and a contract and give them a one week deadline to get the first video out.\n[0:09:10] They perform well and generate a lot of revenue and keep working with them.\n[0:09:14] Okay, cool influencer playbook. That was amazing. Thank you for sharing all that.\n[0:09:17] Would you be able to give me a demo of this app? How does it work? What does it do?\n[0:09:21] Yeah, when you enter the app, you are on the main screen. Of course, you have your level, your XP.\n[0:09:26] And you can scroll through add custom tasks. We also give users some basic tasks to start.\n[0:09:32] Check one off. You get 100 XP. Then you have all the different levels along with your progress on one tab.\n[0:09:39] We have every single user on here all time ranking last seven days and today's rankings and of course your profile.\n[0:09:46] And finally, a motivational screen where you're basically just getting yelled at by Jeremiah.\n[0:09:59] Thank you.\n[0:10:01] Let's talk about tech stack.\n[0:10:02] What is this app built on?\n[0:10:04] How do you do development?\n[0:10:06] What comprises this app that's doing $14,000 a month?\n[0:10:09] Sure, so of course, first, for designing,\n[0:10:12] we use Figma, Second, we use Cloud Code to help us out with development.\n[0:10:17] We use the $200 among subscription.\n[0:10:19] Then there is Superwall, which helps you\n[0:10:21] A.B. tester paywalls that takes 1% of your earnings.\n[0:10:26] And finally, there is Superbase for our database, which is again free.\n[0:10:31] Thanks for sharing.\n[0:10:32] Last question that we ask all founders who come on Star Story.\n[0:10:34] We'll be your advice to younger Evan,\n[0:10:37] or to anyone watching this who are inspired by what you do.\n[0:10:40] Sure, I would tell myself to worry less about school\n[0:10:43] and put more time into building my business.\n[0:10:46] From a young age, you are siopped into thinking there's only one path.\n[0:10:50] Go to school, get good grades, go to a good college,\n[0:10:53] then get a stable job, and you'll be happy.\n[0:10:56] Most people are very high-minded,\n[0:10:58] and follow that path without even questioning it.\n[0:11:01] If you can see through that early,\n[0:11:02] you gain a huge advantage.\n[0:11:04] Well, thanks.\n[0:11:04] That's great advice, Evan.\n[0:11:06] Congratulations to what you built, especially as such a young age,\n[0:11:09] and still in school, crushing it.\n[0:11:12] I can't imagine where it's going to be even a couple of months\n[0:11:15] or a couple of years.\n[0:11:15] So thanks for coming on, sharing all this.\n[0:11:18] And I will hope to have you back on the channel\n[0:11:20] when you're at 100K a month.\n[0:11:22] Yeah, thank you so much.\n[0:11:23] Producer Gus, what did you think about this one?\n[0:11:25] What I thought was cool was how simple the app is.\n[0:11:28] Gamify, XP, totally matches probably a demographic\n[0:11:33] that I just don't know.\n[0:11:35] He's this young kid who knows what he likes\n[0:11:37] or what his friends like.\n[0:11:38] So simple, stupidly simple.\n[0:11:41] Yeah, it's funny, because we had a few habit trackers\n[0:11:44] on the channel that are actually crushing it.\n[0:11:47] I sometimes am skeptical of doing that as a business idea\n[0:11:50] because it's, you know, there's so many of them.\n[0:11:53] What I think is a little secret on habit trackers is iOS,\n[0:11:58] like a cool app that will do well on social media\n[0:12:00] or habit tracker, like subashions\n[0:12:03] that we had chatted with a few months ago,\n[0:12:05] that ranks well in ASO.\n[0:12:07] So in iOS app store optimization.\n[0:12:11] Yeah, and then the other thing obviously is,\n[0:12:13] when he's at the end, he's like, we're, we're siopped\n[0:12:17] into just going to school and stuff.\n[0:12:20] I thought that was awesome.\n[0:12:21] And I just love that, that's this point of view.\n[0:12:24] Yeah, I think some people may watch this and, you know,\n[0:12:26] sometimes when you see someone who's young and doing so well,\n[0:12:29] they can be like a little bit formed of like,\n[0:12:31] oh, like, I'm not far enough along.\n[0:12:33] When we were kids, we didn't have access.\n[0:12:36] There wasn't even a way to build a business like this before.\n[0:12:39] This is just how the world has changed.\n[0:12:41] Now you don't need, you don't need permission\n[0:12:43] to build anything anymore.\n[0:12:44] You can open up a vibe coding tool\n[0:12:46] and you can build a business.\n[0:12:47] You can put it out on the worldwide web\n[0:12:48] and anyone can subscribe to it.\n[0:12:51] So, you know, we had chatted with him.\n[0:12:53] Yeah, he is young, but he let us know\n[0:12:55] that he had been starting businesses for years, right?\n[0:12:57] He's years into the game and it may feel like,\n[0:13:00] oh, he's so young.\n[0:13:00] But actually, he told us about all the different business ideas\n[0:13:03] that he tried that failed.\n[0:13:05] Thank you guys for watching this episode.\n[0:13:07] I hope you enjoyed it.\n[0:13:08] If you want to start an iPhone app or an iOS app like Evan did,\n[0:13:12] I'll put a link in the description\n[0:13:13] where you can learn how to do that,\n[0:13:14] how to go from an idea to a shipped app\n[0:13:17] that will be right down there in the description,\n[0:13:19] get started, solve free.\n[0:13:20] All right, guys, thank you guys for watching.\n[0:13:22] We'll see you in the next one.\n[0:13:23] Peace."
+}

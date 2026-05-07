@@ -1,0 +1,422 @@
+[0:00:00] This is Jeremy, and he might be one of the most successful solar
+[0:00:03] preneurs of all time.
+[0:00:05] But before we get into that, we gotta go back.
+[0:00:10] It all started with the DM.
+[0:00:12] Hey Pat, I just sold my sass for millions,
+[0:00:14] and I wanted to share the secret with you.
+[0:00:17] I gave him a quick call, and when he told me about this strategy,
+[0:00:19] I just couldn't believe it.
+[0:00:21] Is this actually real?
+[0:00:22] Did he just get lucky?
+[0:00:24] And will this secret strategy still work in 2026?
+[0:00:27] Only way to find out?
+[0:00:29] Well, I decided to travel to the hills of Los Angeles,
+[0:00:31] knock on his door, and have him show me everything.
+[0:00:34] Because this wasn't just a strategy,
+[0:00:36] it was a change in how software will be built forever.
+[0:00:40] Come join me as I spend 24 hours with a sass millionaire.
+[0:00:44] I'm Pat Walls, and this is Starter Story.
+[0:00:48] We're at Jeremy's house in the Hollywood hills right now.
+[0:00:51] He claims to have built a sass business that made millions of dollars
+[0:00:55] and then sold it for even more millions.
+[0:00:57] His secret, apparently, is this thing called the tent pole strategy.
+[0:01:01] I mean, with AI vibe coding tools,
+[0:01:03] everyone's talking about how sass is dead.
+[0:01:05] He told me there's a couple of things to share about that,
+[0:01:07] which I'm excited to go over.
+[0:01:08] Is sass dead?
+[0:01:09] Guess we'll find out.
+[0:01:14] Hello?
+[0:01:15] Is this Jeremy's house?
+[0:01:17] Oh, let's go.
+[0:01:19] Whoa, he must have sold his sass for millions
+[0:01:21] if he's got this G-wagon here.
+[0:01:23] This is Mercedes AMG.
+[0:01:25] Look at this thing, man.
+[0:01:26] This is sick.
+[0:01:27] This is not a video about nice cars.
+[0:01:29] Let's go talk about sass.
+[0:01:30] Let's go.
+[0:01:36] Guess this is the place.
+[0:01:38] Hey, good to see you, man.
+[0:01:40] Wow, nice place, man.
+[0:01:42] Oh, thank you so much.
+[0:01:43] This is how a sass millionaire lives.
+[0:01:46] Look at this.
+[0:01:46] This is the original from Disneyland.
+[0:01:49] Wow.
+[0:01:50] This here is commissioned art.
+[0:01:53] I don't know what that means.
+[0:01:54] It was made for the house.
+[0:01:55] Wow.
+[0:01:56] And then this was specifically for this,
+[0:01:59] and that was flown in from Italy.
+[0:02:01] See, believe how douchebaggy that is to say?
+[0:02:04] Here.
+[0:02:05] Thanks for having me.
+[0:02:06] Hey, no problem.
+[0:02:06] Thanks for coming.
+[0:02:07] I got the sass millionaire here
+[0:02:09] about to learn all about his business.
+[0:02:11] You sold your business.
+[0:02:12] I did, I did.
+[0:02:13] What was the business that you built?
+[0:02:14] The business was task magic.
+[0:02:16] As a solo founder,
+[0:02:17] I kept finding myself like dabbling like no-code tools,
+[0:02:20] and one of those biggest no-code tools was Zapier.
+[0:02:23] And I noticed that like a lot of Zapier users
+[0:02:26] struggled to just automate things
+[0:02:29] because it was very limited by APIs.
+[0:02:31] So we built a tool that allowed them to click the button
+[0:02:34] or automate the messy browser human behavior
+[0:02:37] in like a web browser.
+[0:02:38] And we eventually scaled task magic
+[0:02:41] to over 60,000 users,
+[0:02:43] and about 8,000 paying customers.
+[0:02:45] And some months we would do north of 400 grand.
+[0:02:48] Wow.
+[0:02:49] And got it to about 3 million annually.
+[0:02:52] You have making the Inc 500 list last year
+[0:02:55] with a single employee.
+[0:02:57] A single employee, just you and one employee.
+[0:02:59] Me and my CTO.
+[0:03:00] Wow.
+[0:03:01] So last year after making the Inc 500 list,
+[0:03:05] we were like, okay, this could be a peak
+[0:03:06] that we could maybe like explore a sale.
+[0:03:08] We got one that was good.
+[0:03:10] That was in the mid-oper seven figures.
+[0:03:14] In million, enough to get that very cheap plaque with the badge.
+[0:03:18] But this was like life changing for me
+[0:03:21] and then one employee.
+[0:03:22] And I just thought it was the time to do it,
+[0:03:25] especially before I turned 38 years old.
+[0:03:28] As we had chatted before,
+[0:03:29] and you let me know about this amazing strategy.
+[0:03:31] We're going to talk about that a little bit later,
+[0:03:33] but just give me a little tease on that one.
+[0:03:34] Yeah, so that's the temple strategy.
+[0:03:36] Most people will build one product and then market it.
+[0:03:39] We marketed our product by building other side products
+[0:03:43] that would funnel paid users to that one temple product.
+[0:03:46] Yeah, just give us the tour.
+[0:03:48] Give us the tour.
+[0:03:49] So this is the Product Hunt Golden Kitty Award.
+[0:03:52] And this is our one of one I've been assured by Gas,
+[0:03:56] the founder of Acquired.com, where we sold Task Magic.
+[0:04:00] This is the magazine that we were in,
+[0:04:03] the Inc 5000 magazine.
+[0:04:05] This one, Task Magic, was awarded by AppSumo.
+[0:04:10] Tell me how this all started.
+[0:04:12] Did you have a software background?
+[0:04:14] How did you get to this point where you had a $3 million per year
+[0:04:17] SaaS with one founder, one employee?
+[0:04:19] So I started non-technical just like hacking away
+[0:04:23] at the original product, which was V1.
+[0:04:25] That was like a no-code app builder that ran slow as shit.
+[0:04:29] And then because I was able to monetize that,
+[0:04:32] like early in 2019, I was able to hire my first employee.
+[0:04:35] We kind of rebuilt the thing and we launched that in 2020.
+[0:04:39] We got that to seven figures in revenue.
+[0:04:42] And then 2021, we kind of took like a step back
+[0:04:45] because we were thinking, what is the bigger opportunity here?
+[0:04:49] And the sentiment with like customers was,
+[0:04:51] how do we automate those things?
+[0:04:53] We thought, okay, let's listen to this automation thing.
+[0:04:55] Maybe we can get on the forefront there.
+[0:04:57] And we kind of started with just like a few hundred grand
+[0:04:59] in like 2021 of that revenue.
+[0:05:01] And then made it to about three million in three years.
+[0:05:04] Well, okay, well, congratulations on the sale.
+[0:05:07] We're going to be talking about this tent post strategies.
+[0:05:10] Oh, let's do it.
+[0:05:12] Hey guys, Pat from the future here.
+[0:05:13] I'm just finishing up the edit on this video right now.
+[0:05:16] But before I do, I got to show you something.
+[0:05:18] You're about to learn about Jeremy's secret tent post strategy.
+[0:05:21] But reminder that it still all starts with one idea.
+[0:05:25] So in typical starter story fashion,
+[0:05:26] why not build your first idea inspired by already successful businesses?
+[0:05:31] Well, we worked with HubSpot to put together a free database
+[0:05:34] of over 190 proven micro SaaS ideas.
+[0:05:38] These are all real businesses.
+[0:05:40] And they include real revenue numbers,
+[0:05:42] real traffic, pricing models, cost to start,
+[0:05:45] everything you'd want to know.
+[0:05:47] So if you want to skip the guesswork and find an idea
+[0:05:50] that might actually work,
+[0:05:51] then click the description right down there below
+[0:05:54] and you can grab it for free.
+[0:05:55] All right, let's get back to the episode.
+[0:05:57] So this was the fuck you purchase.
+[0:06:00] My wife let me make it.
+[0:06:01] Yeah, I've never been inside of a G-wagon.
+[0:06:03] Here, get in the driver seat.
+[0:06:05] My name is G-wagon.
+[0:06:06] Yeah.
+[0:06:08] Good one.
+[0:06:09] Wow.
+[0:06:10] Look at this dude.
+[0:06:12] This is what you get when you build SaaS products.
+[0:06:23] All right, let's talk about the tent pole strategy.
+[0:06:26] The tent pole strategy.
+[0:06:27] You know, typical SaaS is like you build one product.
+[0:06:30] You have a subscription.
+[0:06:31] Yep, people sign up.
+[0:06:32] They turn off.
+[0:06:33] But you did it differently.
+[0:06:34] Correct.
+[0:06:35] Can you explain the tent pole strategy to me?
+[0:06:37] Yep.
+[0:06:38] And I'll even make a tent.
+[0:06:39] So look at that.
+[0:06:40] It's a tent pole almost.
+[0:06:42] And then task magic.
+[0:06:43] So task magic, our browser-based automation software,
+[0:06:46] was the main tent pole, the core business.
+[0:06:48] Yeah.
+[0:06:49] And instead of what normal people do,
+[0:06:51] they will just market this business.
+[0:06:53] And the way they do that is like something
+[0:06:55] with like some free product,
+[0:06:57] like an information tool.
+[0:06:58] And with today's no code tools,
+[0:07:01] now you can sell functionality, not information.
+[0:07:05] And that's exactly what we did.
+[0:07:07] So task magic being the tent pole.
+[0:07:09] I love that dude.
+[0:07:11] I can put a tent.
+[0:07:12] Oh, nice.
+[0:07:14] The temple strategy is essentially
+[0:07:16] making small, cheap products that serve this core
+[0:07:20] because they will essentially rank on their own
+[0:07:22] and make more money.
+[0:07:23] Got it.
+[0:07:24] So step one, we would build for the customer's next problem.
+[0:07:29] So task magic's original customers,
+[0:07:31] they were business owners, agencies, freelancers,
+[0:07:34] people who need sales.
+[0:07:36] Step two, building something very simple.
+[0:07:38] So we were like, okay,
+[0:07:39] we'll let's build like a very simple outbound tool.
+[0:07:42] And we called that mail lead.
+[0:07:46] Damn it, I love this.
+[0:07:48] Which is a simple email outbound platform for task magic.
+[0:07:52] And we wanted to build something really, really simple
+[0:07:55] because SEO helps it is specificity.
+[0:07:59] So the more specific you can get,
+[0:08:01] like cold outreach, email for some sector,
+[0:08:05] or whatever, like for automation,
+[0:08:06] that's gonna rank as high as it can faster
+[0:08:09] than something general, just like task magic automation.
+[0:08:12] So we not only sold this to our existing customers,
+[0:08:16] but we were able to attract more customers
+[0:08:18] because essentially mail lead got its own SEO lift.
+[0:08:22] This brought in alone almost seven figures, a revenue.
+[0:08:26] And is this like a white labeled version of this
+[0:08:28] or is it its own product?
+[0:08:30] This was its own product, got it.
+[0:08:31] Step three is making sure that it hits a natural upgrade path.
+[0:08:36] So this goes, okay, I want to send cold emails,
+[0:08:41] I got to get more customers.
+[0:08:42] But okay, now I want to connect mail lead
+[0:08:45] to these other apps I use.
+[0:08:48] So boom, you click the automation button
+[0:08:50] and it's task magic.
+[0:08:51] Built right in seamlessly.
+[0:08:53] Nice.
+[0:08:54] You hit some kind of limit there,
+[0:08:55] you're now paying for task magic.
+[0:08:57] So people will come in and buy this product,
+[0:08:59] they find this product and even know about task magic.
+[0:09:02] And then you'd have these upsell opportunities
+[0:09:04] for them to use task magic,
+[0:09:06] which was at a subscription task magic.
+[0:09:08] So one of the major unlocks that we found
+[0:09:10] with task magic really early on
+[0:09:12] was people didn't want to pay subscription pricing constantly.
+[0:09:15] And the way to like really have this bank role itself
+[0:09:18] at the beginning was like lifetime deal
+[0:09:20] and then usage based pricing.
+[0:09:22] The last step in this entire temple strategy
+[0:09:25] is stack an ecosystem.
+[0:09:27] So what do the people of mail lead need?
+[0:09:30] Oh, leads to email too.
+[0:09:32] So we built lead quest.
+[0:09:33] Nice, that help them search for leads to email too.
+[0:09:39] So then when you want to start bringing the emails
+[0:09:42] that come up in lead quest.ai
+[0:09:45] and again, you click the automation tab on the left,
+[0:09:49] it goes to task magic, right?
+[0:09:52] Not only do you want to click the automation tab
+[0:09:54] and you're like take this email
+[0:09:55] and automatically mail it to Gmail.
+[0:09:57] These people would like to go, oh, but.
+[0:09:59] oh, but I got a mass email all these leads that I have.
+[0:10:02] Boom.
+[0:10:04] Then they buy mail lead.
+[0:10:05] Right, right.
+[0:10:06] So that's how mail lead became almost seven figures.
+[0:10:09] Task magic then brought in more money
+[0:10:11] from the people from mail lead and the people from,
+[0:10:14] and now this looks like John Madden.
+[0:10:16] Go here, go.
+[0:10:18] I think this is super cool,
+[0:10:19] because as we talked about earlier, like SaaS,
+[0:10:21] you think I just built one thing.
+[0:10:22] I convinced everyone to use this one thing
+[0:10:24] and it only does one thing,
+[0:10:25] but that's like the old way of doing stuff.
+[0:10:27] Right, when you needed all these developers,
+[0:10:28] you're able to create all these mini products almost.
+[0:10:30] Yes, that can cross sell back and forth to each other.
+[0:10:34] Yeah, what do you think is the future of SaaS?
+[0:10:36] Like if you were to start over today
+[0:10:38] and start from scratch, would this be your strategy
+[0:10:42] or what would you change?
+[0:10:43] If I were to start over today,
+[0:10:44] this is what I would do.
+[0:10:46] So taking lead quest as an example,
+[0:10:48] now how can I make lead quest to the temple product?
+[0:10:52] And when you start stacking them,
+[0:10:53] they help each other.
+[0:10:55] The big thing to like walk away with is,
+[0:10:57] these aren't like separate side hustles.
+[0:10:59] They're serving the same ecosystem.
+[0:11:02] Okay, Jeremy, let's talk about the sale of the business.
+[0:11:06] It looks great on paper.
+[0:11:07] It does.
+[0:11:08] You sold this business for seven figures.
+[0:11:10] You have this awesome house you're living
+[0:11:11] in your dream home in LA.
+[0:11:13] But what I want to hear is the real story
+[0:11:15] about the sales process.
+[0:11:16] I just sold starter story, our company.
+[0:11:19] Congratulations.
+[0:11:20] Thank you.
+[0:11:21] It was a crazy process of ups and downs and rollercoaster.
+[0:11:25] So I'd love to hear your perspective.
+[0:11:27] Obviously you're on the other side now
+[0:11:29] and it's been amazing.
+[0:11:30] But what was that process like for you?
+[0:11:32] Walk me through the emotions and the process.
+[0:11:36] It was all amazing and great at the end,
+[0:11:39] but you're kind of like still shocked
+[0:11:41] or coming out of like the sales coma.
+[0:11:44] I would always think about it as.
+[0:11:46] But the way mine happened with, I want to sell
+[0:11:50] who would you sell to?
+[0:11:52] No idea, but I want to exit a company
+[0:11:54] before I turn 38.
+[0:11:56] And you have a daughter, you have a young kid
+[0:11:58] and the mortgage on our house is like $9,000.
+[0:12:02] So I was like, it's probably a good time to sell.
+[0:12:06] So I talked to a couple brokers.
+[0:12:08] They introduced me to people.
+[0:12:09] We put it on the acquire.com marketplace
+[0:12:12] and then over 100 people were messaging me about it.
+[0:12:14] Then we had bought out investors for what I thought we could.
+[0:12:18] That depleted the bank account,
+[0:12:20] both personally and for the business.
+[0:12:22] And we had next to no money.
+[0:12:24] And I put 50 grand on my MX Platinum card.
+[0:12:28] I went 200 grand more in personal debt through this
+[0:12:32] to pay my bills.
+[0:12:34] So people who want a judge,
+[0:12:36] unlike a, oh, you sold it fast.
+[0:12:38] You maybe the six month, seven month timeframe that it took.
+[0:12:41] It was me, my back against the wall.
+[0:12:44] And I was just like, dude, I just need to get out of this
+[0:12:46] because I'm not gonna walk into that room to my wife
+[0:12:50] and be like, hey, you know this house we moved into
+[0:12:52] and now put money into, gun fuck and lose it.
+[0:12:56] And no, no, no, no, no.
+[0:12:57] And that took me to such a dark place.
+[0:13:00] The only thing that brought me some fricking calm man
+[0:13:04] or like clarity was walking into my daughter's room
+[0:13:08] and just like being with her.
+[0:13:09] And then it sold and I walked away with like millions
+[0:13:14] in my bank account.
+[0:13:15] And now my existence becomes, what is my new daily routine?
+[0:13:20] I want to shout out Jeremy because he is the real deal.
+[0:13:23] He is an actually a true SaaS millionaire.
+[0:13:26] So I want to congratulate something
+[0:13:28] and you can reveal this camera if you'd like.
+[0:13:30] Yeah, I would like.
+[0:13:31] What is it?
+[0:13:33] Hunter K-Club.
+[0:13:34] So technically he shouldn't get this shirt
+[0:13:36] until this video gets 100,000 views,
+[0:13:38] but I think it will.
+[0:13:39] If it doesn't, fuck off.
+[0:13:43] And I wanted to ask you as the last question
+[0:13:45] we asked all founders to come onto starter story.
+[0:13:48] For anyone who's watching this
+[0:13:49] that it wants to build SaaS,
+[0:13:50] maybe follow this new tent bowl strategy
+[0:13:52] that you talked about earlier, which I think is awesome.
+[0:13:54] It would be like one piece of advice
+[0:13:55] you could leave the audience with.
+[0:13:57] Oh yeah, okay.
+[0:13:58] When I went through the sale of the process
+[0:14:01] and I kind of had like some lows,
+[0:14:03] I realized that like everyone is just
+[0:14:06] toxically positive online.
+[0:14:08] Everyone's crushing it.
+[0:14:10] Everyone's grateful to just be here and be it.
+[0:14:14] And like, meanwhile, there will be a stretch
+[0:14:18] where they go through what I go through
+[0:14:19] and they won't share that.
+[0:14:21] And something will be a surprise
+[0:14:23] that they gave up or the business went out
+[0:14:25] of style or out of business.
+[0:14:27] So focus on the problems.
+[0:14:29] Have your bad day.
+[0:14:31] Have your bad video.
+[0:14:32] Share it.
+[0:14:33] Well, thank you Jeremy for coming on
+[0:14:34] to starter story.
+[0:14:35] Thank you.
+[0:14:36] Thanks for coming by.
+[0:14:36] I will have to have you buy again.
+[0:14:38] Yeah, thanks for having me over.
+[0:14:39] I got to spend a day with a SaaS millionaire
+[0:14:41] follow this advice, especially the tent bowl strategy.
+[0:14:44] You might too.
+[0:14:45] I swear to God, you will make seven.
+[0:14:49] Can I say that?
+[0:14:50] Can I say, I swear.
+[0:14:51] If you do what I do, you'll get there.
+[0:14:54] It might be product five, but cumulatively.
+[0:14:57] You'll look at that seven figure of a million there.
+[0:14:59] All right, we just finished up filming with Jeremy.
+[0:15:01] I got my water lift, not sponsored.
+[0:15:06] But Jeremy has an awesome business.
+[0:15:08] He's the real deal.
+[0:15:09] Not only did he build a SaaS that did upwards
+[0:15:11] of $3 million a year,
+[0:15:12] but he sold the business for millions in cash,
+[0:15:15] which is a super outlier thing.
+[0:15:17] Most people never end up building a successful business
+[0:15:19] let alone selling it.
+[0:15:20] So I learned a lot from him.
+[0:15:22] I think my biggest learning here is AI
+[0:15:24] is going to change SaaS,
+[0:15:26] but I really love his strategy.
+[0:15:27] He treats products as almost like content.
+[0:15:29] You can create little products overnight.
+[0:15:32] These are all different products
+[0:15:34] that can help your customers.
+[0:15:35] So if you're watching this, now it's your turn.
+[0:15:38] What kind of ecosystem of SaaS are you gonna build?
+[0:15:40] If you're building in SaaS,
+[0:15:41] put it in the comments down below.
+[0:15:43] I also put a very special download down there
+[0:15:45] to help you find your business idea.
+[0:15:47] Let me know if you enjoyed this video,
+[0:15:48] us going in person and spending time
+[0:15:51] with really successful people in SaaS and other industries.
+[0:15:53] Thank you guys for watching.
+[0:15:54] We'll see you in the next one.
+[0:15:55] Peace.

@@ -1,0 +1,1808 @@
+{
+    "video_url": "https://www.youtube.com/watch?v=bq3-qH-CpYQ",
+    "video_id": "bq3-qH-CpYQ",
+    "audio_file": "bq3-qH-CpYQ.mp3",
+    "model_used": "base",
+    "language": "en",
+    "duration": "0:14:21",
+    "number_of_chunks": 2,
+    "status": "success",
+    "quality": {
+        "score": 100,
+        "issues": [],
+        "needs_manual_review": false
+    },
+    "transcript": [
+        {
+            "start": "0:00:00",
+            "end": "0:00:03",
+            "text": "95% of you do not realize that this is an industry."
+        },
+        {
+            "start": "0:00:03",
+            "end": "0:00:07",
+            "text": "This is Jordan and he's made over $1.5 million"
+        },
+        {
+            "start": "0:00:07",
+            "end": "0:00:11",
+            "text": "from a single app, but I can guarantee you've never heard of it."
+        },
+        {
+            "start": "0:00:11",
+            "end": "0:00:13",
+            "text": "My product doesn't have a user interface,"
+        },
+        {
+            "start": "0:00:13",
+            "end": "0:00:15",
+            "text": "there's no mobile app, you cannot download it on your phone."
+        },
+        {
+            "start": "0:00:15",
+            "end": "0:00:17",
+            "text": "Here's the thing, Jordan didn't just build"
+        },
+        {
+            "start": "0:00:17",
+            "end": "0:00:18",
+            "text": "another trending idea."
+        },
+        {
+            "start": "0:00:18",
+            "end": "0:00:22",
+            "text": "He found a customer that almost nobody is building for."
+        },
+        {
+            "start": "0:00:22",
+            "end": "0:00:24",
+            "text": "Then he went all in and it worked."
+        },
+        {
+            "start": "0:00:24",
+            "end": "0:00:28",
+            "text": "I built my MVP, I released it and then I had 200 paying users"
+        },
+        {
+            "start": "0:00:28",
+            "end": "0:00:30",
+            "text": "and I was profitable from within the first month."
+        },
+        {
+            "start": "0:00:30",
+            "end": "0:00:33",
+            "text": "So I brought Jordan on the channel to tell the whole story."
+        },
+        {
+            "start": "0:00:33",
+            "end": "0:00:37",
+            "text": "In this episode, we'll dive into how he found this hidden market"
+        },
+        {
+            "start": "0:00:37",
+            "end": "0:00:39",
+            "text": "that nobody's building for, the secret"
+        },
+        {
+            "start": "0:00:39",
+            "end": "0:00:42",
+            "text": "to how he got his first 200 paying users"
+        },
+        {
+            "start": "0:00:42",
+            "end": "0:00:44",
+            "text": "and the business idea you've never heard of"
+        },
+        {
+            "start": "0:00:44",
+            "end": "0:00:46",
+            "text": "and it's absolutely crushing it."
+        },
+        {
+            "start": "0:00:46",
+            "end": "0:00:49",
+            "text": "I'm not going to spoil it, you just have to watch."
+        },
+        {
+            "start": "0:00:49",
+            "end": "0:00:49",
+            "text": "Let's dive in."
+        },
+        {
+            "start": "0:00:49",
+            "end": "0:00:51",
+            "text": "I'm Pat Walls and this is Starter Story."
+        },
+        {
+            "start": "0:00:53",
+            "end": "0:00:54",
+            "text": "Jordan, welcome to the channel,"
+        },
+        {
+            "start": "0:00:54",
+            "end": "0:00:56",
+            "text": "telling about who you are, what you built,"
+        },
+        {
+            "start": "0:00:56",
+            "end": "0:00:57",
+            "text": "and what's your story."
+        },
+        {
+            "start": "0:00:57",
+            "end": "0:01:01",
+            "text": "Okay, my name's Jordan and I have solo bootstrapped two businesses"
+        },
+        {
+            "start": "0:01:01",
+            "end": "0:01:04",
+            "text": "but I've each made over a million in total revenue."
+        },
+        {
+            "start": "0:01:04",
+            "end": "0:01:06",
+            "text": "The first one is pretty boring mainstream normal."
+        },
+        {
+            "start": "0:01:06",
+            "end": "0:01:09",
+            "text": "You know, working on self-driving cars,"
+        },
+        {
+            "start": "0:01:09",
+            "end": "0:01:10",
+            "text": "drones for famous companies."
+        },
+        {
+            "start": "0:01:10",
+            "end": "0:01:11",
+            "text": "But you probably wouldn't guess the second one."
+        },
+        {
+            "start": "0:01:11",
+            "end": "0:01:15",
+            "text": "It's in the category 95% of people don't even think of"
+        },
+        {
+            "start": "0:01:15",
+            "end": "0:01:18",
+            "text": "as an industry, that's what I'm happy to talk about."
+        },
+        {
+            "start": "0:01:18",
+            "end": "0:01:19",
+            "text": "Okay, well, I'm excited to get into it."
+        },
+        {
+            "start": "0:01:19",
+            "end": "0:01:21",
+            "text": "When you told me about what your app does,"
+        },
+        {
+            "start": "0:01:21",
+            "end": "0:01:24",
+            "text": "I got super excited because I think it's really, really cool."
+        },
+        {
+            "start": "0:01:24",
+            "end": "0:01:26",
+            "text": "We're gonna talk all about it, but before we do,"
+        },
+        {
+            "start": "0:01:26",
+            "end": "0:01:29",
+            "text": "let's talk about how you get into building apps."
+        },
+        {
+            "start": "0:01:29",
+            "end": "0:01:29",
+            "text": "What's your background?"
+        },
+        {
+            "start": "0:01:29",
+            "end": "0:01:33",
+            "text": "So when I was a kid, I wanted to be a scientist or an engineer"
+        },
+        {
+            "start": "0:01:33",
+            "end": "0:01:35",
+            "text": "or an astronaut and I went to grad school."
+        },
+        {
+            "start": "0:01:35",
+            "end": "0:01:37",
+            "text": "I got a Master's of Science."
+        },
+        {
+            "start": "0:01:37",
+            "end": "0:01:39",
+            "text": "I worked on Moon Rover and some of our robotics stuff"
+        },
+        {
+            "start": "0:01:39",
+            "end": "0:01:40",
+            "text": "in grad school."
+        },
+        {
+            "start": "0:01:40",
+            "end": "0:01:43",
+            "text": "Then I graduated, I got a corporate job as a researcher,"
+        },
+        {
+            "start": "0:01:43",
+            "end": "0:01:45",
+            "text": "a big American company, a Fortune 100."
+        },
+        {
+            "start": "0:01:45",
+            "end": "0:01:47",
+            "text": "And I thought the corporate world was a little boring,"
+        },
+        {
+            "start": "0:01:47",
+            "end": "0:01:49",
+            "text": "so I taught myself how to code"
+        },
+        {
+            "start": "0:01:49",
+            "end": "0:01:51",
+            "text": "and when I went to San Francisco and from there,"
+        },
+        {
+            "start": "0:01:51",
+            "end": "0:01:53",
+            "text": "I got more into entrepreneurship."
+        },
+        {
+            "start": "0:01:53",
+            "end": "0:01:54",
+            "text": "Okay, cool."
+        },
+        {
+            "start": "0:01:54",
+            "end": "0:01:55",
+            "text": "So you get into corporate America."
+        },
+        {
+            "start": "0:01:55",
+            "end": "0:01:57",
+            "text": "You realize it's not exactly for you, right?"
+        },
+        {
+            "start": "0:01:57",
+            "end": "0:01:58",
+            "text": "Reminds me a little bit of my story."
+        },
+        {
+            "start": "0:01:58",
+            "end": "0:02:00",
+            "text": "I went to college, went to the corporate world"
+        },
+        {
+            "start": "0:02:00",
+            "end": "0:02:01",
+            "text": "and realized I want to build stuff."
+        },
+        {
+            "start": "0:02:01",
+            "end": "0:02:02",
+            "text": "I want to learn how to code."
+        },
+        {
+            "start": "0:02:02",
+            "end": "0:02:03",
+            "text": "So let's talk about that."
+        },
+        {
+            "start": "0:02:03",
+            "end": "0:02:05",
+            "text": "This app that we're talking about today,"
+        },
+        {
+            "start": "0:02:05",
+            "end": "0:02:06",
+            "text": "how did you learn to build it?"
+        },
+        {
+            "start": "0:02:06",
+            "end": "0:02:08",
+            "text": "By the time I started this project,"
+        },
+        {
+            "start": "0:02:08",
+            "end": "0:02:11",
+            "text": "I already had probably about a decade of experience"
+        },
+        {
+            "start": "0:02:11",
+            "end": "0:02:13",
+            "text": "writing software, so I wasn't completely clueless."
+        },
+        {
+            "start": "0:02:13",
+            "end": "0:02:15",
+            "text": "And so it took me a month to build the prototype,"
+        },
+        {
+            "start": "0:02:15",
+            "end": "0:02:17",
+            "text": "which is what I used to validate the idea"
+        },
+        {
+            "start": "0:02:17",
+            "end": "0:02:20",
+            "text": "and then another month to build the payment system."
+        },
+        {
+            "start": "0:02:20",
+            "end": "0:02:22",
+            "text": "So from the second month, it was profitable."
+        },
+        {
+            "start": "0:02:22",
+            "end": "0:02:26",
+            "text": "So it took about one month to get the first 200 users"
+        },
+        {
+            "start": "0:02:26",
+            "end": "0:02:28",
+            "text": "on the platform and it's just kind of grown."
+        },
+        {
+            "start": "0:02:28",
+            "end": "0:02:29",
+            "text": "What I love about Jordan's story"
+        },
+        {
+            "start": "0:02:29",
+            "end": "0:02:32",
+            "text": "is that he found this hyper niche problem"
+        },
+        {
+            "start": "0:02:32",
+            "end": "0:02:34",
+            "text": "that nobody was paying attention to."
+        },
+        {
+            "start": "0:02:34",
+            "end": "0:02:35",
+            "text": "And then he turned this hidden idea"
+        },
+        {
+            "start": "0:02:35",
+            "end": "0:02:39",
+            "text": "into a $300,000 per year SaaS business."
+        },
+        {
+            "start": "0:02:39",
+            "end": "0:02:40",
+            "text": "I think the best business ideas,"
+        },
+        {
+            "start": "0:02:40",
+            "end": "0:02:41",
+            "text": "ones like these,"
+        },
+        {
+            "start": "0:02:41",
+            "end": "0:02:45",
+            "text": "solve a real problem for a very niche type of customer."
+        },
+        {
+            "start": "0:02:45",
+            "end": "0:02:48",
+            "text": "But how do you actually go about finding these ideas?"
+        },
+        {
+            "start": "0:02:48",
+            "end": "0:02:50",
+            "text": "Well, in partnership with HubSpot,"
+        },
+        {
+            "start": "0:02:50",
+            "end": "0:02:53",
+            "text": "we built a free database of over 190 proven"
+        },
+        {
+            "start": "0:02:53",
+            "end": "0:02:56",
+            "text": "micro SaaS ideas that are already making money right now."
+        },
+        {
+            "start": "0:02:56",
+            "end": "0:02:59",
+            "text": "This database includes real revenue numbers,"
+        },
+        {
+            "start": "0:02:59",
+            "end": "0:03:02",
+            "text": "traffic, cost to start, pricing models,"
+        },
+        {
+            "start": "0:03:02",
+            "end": "0:03:03",
+            "text": "growth tactics, all of this."
+        },
+        {
+            "start": "0:03:03",
+            "end": "0:03:05",
+            "text": "So if you want to find your next idea,"
+        },
+        {
+            "start": "0:03:05",
+            "end": "0:03:07",
+            "text": "just head to the first link in the description"
+        },
+        {
+            "start": "0:03:07",
+            "end": "0:03:09",
+            "text": "to grab the database for free."
+        },
+        {
+            "start": "0:03:09",
+            "end": "0:03:10",
+            "text": "All right, let's get back to the episode."
+        },
+        {
+            "start": "0:03:10",
+            "end": "0:03:11",
+            "text": "Okay, cool."
+        },
+        {
+            "start": "0:03:11",
+            "end": "0:03:12",
+            "text": "Well, you got 200 users."
+        },
+        {
+            "start": "0:03:12",
+            "end": "0:03:14",
+            "text": "It wasn't a million users, but 200."
+        },
+        {
+            "start": "0:03:14",
+            "end": "0:03:15",
+            "text": "That's when you know you had something."
+        },
+        {
+            "start": "0:03:15",
+            "end": "0:03:17",
+            "text": "Let's talk about the tech stack."
+        },
+        {
+            "start": "0:03:17",
+            "end": "0:03:18",
+            "text": "Can you walk me through that?"
+        },
+        {
+            "start": "0:03:18",
+            "end": "0:03:20",
+            "text": "Sure, I built it in TypeScript"
+        },
+        {
+            "start": "0:03:20",
+            "end": "0:03:22",
+            "text": "because I build almost everything in TypeScript."
+        },
+        {
+            "start": "0:03:22",
+            "end": "0:03:24",
+            "text": "I mean, nowadays you do everything in AI."
+        },
+        {
+            "start": "0:03:24",
+            "end": "0:03:27",
+            "text": "So again, this was made in the Stone Age"
+        },
+        {
+            "start": "0:03:27",
+            "end": "0:03:28",
+            "text": "back when we would write code manually."
+        },
+        {
+            "start": "0:03:28",
+            "end": "0:03:29",
+            "text": "But at this point,"
+        },
+        {
+            "start": "0:03:29",
+            "end": "0:03:32",
+            "text": "I haven't opened my code editor in three to six months."
+        },
+        {
+            "start": "0:03:32",
+            "end": "0:03:34",
+            "text": "I have the AI system writing all the code for me."
+        },
+        {
+            "start": "0:03:34",
+            "end": "0:03:36",
+            "text": "AI is the new tech stack is my point."
+        },
+        {
+            "start": "0:03:36",
+            "end": "0:03:38",
+            "text": "But specifically on my project,"
+        },
+        {
+            "start": "0:03:38",
+            "end": "0:03:40",
+            "text": "what I used is TypeScript, like I said,"
+        },
+        {
+            "start": "0:03:40",
+            "end": "0:03:44",
+            "text": "React for the front end, Postgres as the database,"
+        },
+        {
+            "start": "0:03:44",
+            "end": "0:03:46",
+            "text": "Redis as the in-memory database,"
+        },
+        {
+            "start": "0:03:46",
+            "end": "0:03:48",
+            "text": "which I used with the queuing system off zero"
+        },
+        {
+            "start": "0:03:48",
+            "end": "0:03:50",
+            "text": "because no one wants to write their own login system."
+        },
+        {
+            "start": "0:03:50",
+            "end": "0:03:53",
+            "text": "So you use something that someone else wrote."
+        },
+        {
+            "start": "0:03:53",
+            "end": "0:03:55",
+            "text": "Brisma, which is a helps it makes it easier"
+        },
+        {
+            "start": "0:03:55",
+            "end": "0:03:56",
+            "text": "to make calls to your database."
+        },
+        {
+            "start": "0:03:56",
+            "end": "0:03:58",
+            "text": "Although nowadays, I guess technically the AI does it for you."
+        },
+        {
+            "start": "0:03:58",
+            "end": "0:04:00",
+            "text": "So perhaps these things aren't as useful."
+        },
+        {
+            "start": "0:04:00",
+            "end": "0:04:04",
+            "text": "And Zod, which is a way to make sure"
+        },
+        {
+            "start": "0:04:04",
+            "end": "0:04:07",
+            "text": "that information coming in from external servers"
+        },
+        {
+            "start": "0:04:07",
+            "end": "0:04:09",
+            "text": "can be validated to a certain schema."
+        },
+        {
+            "start": "0:04:09",
+            "end": "0:04:10",
+            "text": "And also a lot of Docker containers."
+        },
+        {
+            "start": "0:04:10",
+            "end": "0:04:12",
+            "text": "One question I get a lot is,"
+        },
+        {
+            "start": "0:04:12",
+            "end": "0:04:13",
+            "text": "I got a brilliant business idea."
+        },
+        {
+            "start": "0:04:13",
+            "end": "0:04:14",
+            "text": "What language should I use?"
+        },
+        {
+            "start": "0:04:14",
+            "end": "0:04:16",
+            "text": "And the answer is it doesn't really matter."
+        },
+        {
+            "start": "0:04:16",
+            "end": "0:04:17",
+            "text": "Do what you think works."
+        },
+        {
+            "start": "0:04:17",
+            "end": "0:04:18",
+            "text": "Do what you think is interesting."
+        },
+        {
+            "start": "0:04:18",
+            "end": "0:04:21",
+            "text": "The tech stack is not that important as sheer speed."
+        },
+        {
+            "start": "0:04:21",
+            "end": "0:04:23",
+            "text": "Love that. There's one more skill"
+        },
+        {
+            "start": "0:04:23",
+            "end": "0:04:25",
+            "text": "that I think is still very, very valuable"
+        },
+        {
+            "start": "0:04:25",
+            "end": "0:04:26",
+            "text": "is to have good ideas."
+        },
+        {
+            "start": "0:04:26",
+            "end": "0:04:27",
+            "text": "Let's talk about that."
+        },
+        {
+            "start": "0:04:27",
+            "end": "0:04:29",
+            "text": "How'd you come up with the idea for this eventual app"
+        },
+        {
+            "start": "0:04:29",
+            "end": "0:04:31",
+            "text": "that makes over $300,000 a year?"
+        },
+        {
+            "start": "0:04:31",
+            "end": "0:04:34",
+            "text": "So I had been working in San Francisco"
+        },
+        {
+            "start": "0:04:34",
+            "end": "0:04:35",
+            "text": "as a freelance software engineer"
+        },
+        {
+            "start": "0:04:35",
+            "end": "0:04:37",
+            "text": "and I had a guy I was working with"
+        },
+        {
+            "start": "0:04:37",
+            "end": "0:04:39",
+            "text": "I was producing a mobile app for him"
+        },
+        {
+            "start": "0:04:39",
+            "end": "0:04:41",
+            "text": "and we were having a meeting to finish up the project."
+        },
+        {
+            "start": "0:04:41",
+            "end": "0:04:43",
+            "text": "It was near completion."
+        },
+        {
+            "start": "0:04:43",
+            "end": "0:04:44",
+            "text": "And I go on to the Zoom call"
+        },
+        {
+            "start": "0:04:44",
+            "end": "0:04:47",
+            "text": "and I get there and his girlfriend who I wasn't expecting"
+        },
+        {
+            "start": "0:04:47",
+            "end": "0:04:49",
+            "text": "was there and she was really upset"
+        },
+        {
+            "start": "0:04:49",
+            "end": "0:04:51",
+            "text": "and she just told me he got sent to prison."
+        },
+        {
+            "start": "0:04:51",
+            "end": "0:04:53",
+            "text": "And that kind of just sort of shocked me a lot."
+        },
+        {
+            "start": "0:04:53",
+            "end": "0:04:55",
+            "text": "One day he's here and you're talking"
+        },
+        {
+            "start": "0:04:55",
+            "end": "0:04:57",
+            "text": "and you're working with him and the next day he's gone."
+        },
+        {
+            "start": "0:04:57",
+            "end": "0:05:00",
+            "text": "So I kept in touch with him for a couple of years,"
+        },
+        {
+            "start": "0:05:00",
+            "end": "0:05:01",
+            "text": "paper letters, very high tech."
+        },
+        {
+            "start": "0:05:01",
+            "end": "0:05:06",
+            "text": "Eventually he told me how a lot of the services in prison"
+        },
+        {
+            "start": "0:05:06",
+            "end": "0:05:07",
+            "text": "are just a massive scam."
+        },
+        {
+            "start": "0:05:07",
+            "end": "0:05:10",
+            "text": "It offers not very good quality services"
+        },
+        {
+            "start": "0:05:10",
+            "end": "0:05:11",
+            "text": "at a very high price."
+        },
+        {
+            "start": "0:05:11",
+            "end": "0:05:13",
+            "text": "So I figured I could do something better"
+        },
+        {
+            "start": "0:05:13",
+            "end": "0:05:16",
+            "text": "and lots of people who use my product agree."
+        },
+        {
+            "start": "0:05:16",
+            "end": "0:05:17",
+            "text": "Okay, I mean, that's a crazy story."
+        },
+        {
+            "start": "0:05:17",
+            "end": "0:05:20",
+            "text": "Usually people just find ideas from some AI thing"
+        },
+        {
+            "start": "0:05:20",
+            "end": "0:05:22",
+            "text": "that they want to help do"
+        },
+        {
+            "start": "0:05:22",
+            "end": "0:05:24",
+            "text": "but you build something in the prison industry"
+        },
+        {
+            "start": "0:05:24",
+            "end": "0:05:25",
+            "text": "which is just wild."
+        },
+        {
+            "start": "0:05:25",
+            "end": "0:05:27",
+            "text": "So you come up with this idea"
+        },
+        {
+            "start": "0:05:27",
+            "end": "0:05:29",
+            "text": "to improve the lives of people that are in prison."
+        },
+        {
+            "start": "0:05:29",
+            "end": "0:05:31",
+            "text": "How did you validate this idea?"
+        },
+        {
+            "start": "0:05:31",
+            "end": "0:05:33",
+            "text": "In this situation it's a bit different."
+        },
+        {
+            "start": "0:05:33",
+            "end": "0:05:35",
+            "text": "Prison is a closed ecosystem"
+        },
+        {
+            "start": "0:05:35",
+            "end": "0:05:37",
+            "text": "and so you can't easily send them a link"
+        },
+        {
+            "start": "0:05:37",
+            "end": "0:05:40",
+            "text": "to your web page and they can check out your idea"
+        },
+        {
+            "start": "0:05:40",
+            "end": "0:05:41",
+            "text": "and you collect email addresses."
+        },
+        {
+            "start": "0:05:41",
+            "end": "0:05:42",
+            "text": "It's not gonna work."
+        },
+        {
+            "start": "0:05:42",
+            "end": "0:05:44",
+            "text": "In this step, validating the idea"
+        },
+        {
+            "start": "0:05:44",
+            "end": "0:05:46",
+            "text": "and building the MVP were the same thing."
+        },
+        {
+            "start": "0:05:46",
+            "end": "0:05:47",
+            "text": "I had to build the MVP"
+        },
+        {
+            "start": "0:05:47",
+            "end": "0:05:49",
+            "text": "get it in front of them in order to validate it."
+        },
+        {
+            "start": "0:05:49",
+            "end": "0:05:52",
+            "text": "So I talked to my contacts in the prison."
+        },
+        {
+            "start": "0:05:52",
+            "end": "0:05:54",
+            "text": "I said, hey, here's this tool I want to build."
+        },
+        {
+            "start": "0:05:54",
+            "end": "0:05:57",
+            "text": "I've heard you guys are currently using older technology."
+        },
+        {
+            "start": "0:05:57",
+            "end": "0:05:58",
+            "text": "Doesn't work very well."
+        },
+        {
+            "start": "0:05:58",
+            "end": "0:05:59",
+            "text": "It's overpriced."
+        },
+        {
+            "start": "0:05:59",
+            "end": "0:06:00",
+            "text": "So here's what I envision"
+        },
+        {
+            "start": "0:06:00",
+            "end": "0:06:01",
+            "text": "could be a better product for you."
+        },
+        {
+            "start": "0:06:01",
+            "end": "0:06:02",
+            "text": "And so you get a lot of feedback."
+        },
+        {
+            "start": "0:06:02",
+            "end": "0:06:04",
+            "text": "People are super responsive for this."
+        },
+        {
+            "start": "0:06:04",
+            "end": "0:06:06",
+            "text": "People were telling other people about it"
+        },
+        {
+            "start": "0:06:06",
+            "end": "0:06:09",
+            "text": "and like I said within a month, I had 200 users"
+        },
+        {
+            "start": "0:06:09",
+            "end": "0:06:10",
+            "text": "and that was enough for me to validate it."
+        },
+        {
+            "start": "0:06:10",
+            "end": "0:06:11",
+            "text": "Okay, cool."
+        },
+        {
+            "start": "0:06:11",
+            "end": "0:06:13",
+            "text": "You kind of mentioned a little bit earlier"
+        },
+        {
+            "start": "0:06:13",
+            "end": "0:06:14",
+            "text": "that you're the type of person"
+        },
+        {
+            "start": "0:06:14",
+            "end": "0:06:16",
+            "text": "that has lots and lots of business ideas."
+        },
+        {
+            "start": "0:06:16",
+            "end": "0:06:17",
+            "text": "I think a lot of people watching this channel"
+        },
+        {
+            "start": "0:06:17",
+            "end": "0:06:18",
+            "text": "also feel the same."
+        },
+        {
+            "start": "0:06:18",
+            "end": "0:06:20",
+            "text": "They want to build lots and lots of things."
+        },
+        {
+            "start": "0:06:20",
+            "end": "0:06:23",
+            "text": "So what would be your advice for someone watching this"
+        },
+        {
+            "start": "0:06:23",
+            "end": "0:06:25",
+            "text": "who wants to build something"
+        },
+        {
+            "start": "0:06:25",
+            "end": "0:06:26",
+            "text": "and make sure it's validated?"
+        },
+        {
+            "start": "0:06:26",
+            "end": "0:06:29",
+            "text": "The specifics about how to validate"
+        },
+        {
+            "start": "0:06:29",
+            "end": "0:06:31",
+            "text": "aren't as important as the fact that you must validate."
+        },
+        {
+            "start": "0:06:31",
+            "end": "0:06:33",
+            "text": "And what I mean by that is a lot of entrepreneurs"
+        },
+        {
+            "start": "0:06:33",
+            "end": "0:06:34",
+            "text": "they fall in love with their idea."
+        },
+        {
+            "start": "0:06:34",
+            "end": "0:06:35",
+            "text": "You've probably heard lots of people,"
+        },
+        {
+            "start": "0:06:35",
+            "end": "0:06:37",
+            "text": "they say, oh, I've got this idea for an app"
+        },
+        {
+            "start": "0:06:37",
+            "end": "0:06:40",
+            "text": "and they spend 12 months creating the perfect mobile app."
+        },
+        {
+            "start": "0:06:40",
+            "end": "0:06:42",
+            "text": "They haven't shown it to anyone."
+        },
+        {
+            "start": "0:06:42",
+            "end": "0:06:44",
+            "text": "They have no feedback from actual customers."
+        },
+        {
+            "start": "0:06:44",
+            "end": "0:06:47",
+            "text": "Validation is not necessarily a specific strategy"
+        },
+        {
+            "start": "0:06:47",
+            "end": "0:06:48",
+            "text": "is do you want to validate?"
+        },
+        {
+            "start": "0:06:48",
+            "end": "0:06:50",
+            "text": "Because as soon as you validate,"
+        },
+        {
+            "start": "0:06:50",
+            "end": "0:06:52",
+            "text": "your idea goes from a little thing in your head"
+        },
+        {
+            "start": "0:06:52",
+            "end": "0:06:55",
+            "text": "that you love and is so protected to the world"
+        },
+        {
+            "start": "0:06:55",
+            "end": "0:06:56",
+            "text": "and the world is probably going to spit on it"
+        },
+        {
+            "start": "0:06:56",
+            "end": "0:06:57",
+            "text": "and they're going to hate it"
+        },
+        {
+            "start": "0:06:57",
+            "end": "0:06:58",
+            "text": "and they're going to think it's boring."
+        },
+        {
+            "start": "0:06:58",
+            "end": "0:07:00",
+            "text": "You can look up in five minutes on the internet"
+        },
+        {
+            "start": "0:07:00",
+            "end": "0:07:02",
+            "text": "how to validate any specific thing."
+        },
+        {
+            "start": "0:07:02",
+            "end": "0:07:04",
+            "text": "The point is, most people don't want to validate."
+        },
+        {
+            "start": "0:07:04",
+            "end": "0:07:08",
+            "text": "Because if you validate, it means you might invalidate your idea."
+        },
+        {
+            "start": "0:07:08",
+            "end": "0:07:10",
+            "text": "And most people, it's an emotional thing."
+        },
+        {
+            "start": "0:07:10",
+            "end": "0:07:12",
+            "text": "They don't want to, they're too emotionally invested"
+        },
+        {
+            "start": "0:07:12",
+            "end": "0:07:14",
+            "text": "in the idea of being an entrepreneur."
+        },
+        {
+            "start": "0:07:14",
+            "end": "0:07:16",
+            "text": "Except that you must validate"
+        },
+        {
+            "start": "0:07:16",
+            "end": "0:07:18",
+            "text": "and you must be willing to let your idea die."
+        },
+        {
+            "start": "0:07:18",
+            "end": "0:07:21",
+            "text": "That's a great piece of advice or insight"
+        },
+        {
+            "start": "0:07:21",
+            "end": "0:07:23",
+            "text": "is that validation isn't a specific framework is ready."
+        },
+        {
+            "start": "0:07:23",
+            "end": "0:07:25",
+            "text": "So if you're coming on here watching this thinking,"
+        },
+        {
+            "start": "0:07:25",
+            "end": "0:07:27",
+            "text": "okay, I'll follow this and I'll validate."
+        },
+        {
+            "start": "0:07:27",
+            "end": "0:07:28",
+            "text": "Like you said, just do it."
+        },
+        {
+            "start": "0:07:28",
+            "end": "0:07:31",
+            "text": "So validate fast, validate often validate early."
+        },
+        {
+            "start": "0:07:31",
+            "end": "0:07:33",
+            "text": "That's what I see from the hundreds of people"
+        },
+        {
+            "start": "0:07:33",
+            "end": "0:07:34",
+            "text": "that we've brought onto this YouTube channel."
+        },
+        {
+            "start": "0:07:34",
+            "end": "0:07:35",
+            "text": "Let's talk about growth."
+        },
+        {
+            "start": "0:07:35",
+            "end": "0:07:37",
+            "text": "How'd you get people to use your thing"
+        },
+        {
+            "start": "0:07:37",
+            "end": "0:07:39",
+            "text": "and eventually turn it into a 300 k per year app?"
+        },
+        {
+            "start": "0:07:39",
+            "end": "0:07:42",
+            "text": "So prison is a closed ecosystem."
+        },
+        {
+            "start": "0:07:42",
+            "end": "0:07:44",
+            "text": "It is very difficult if you're on the outside"
+        },
+        {
+            "start": "0:07:44",
+            "end": "0:07:46",
+            "text": "to communicate and vice versa."
+        },
+        {
+            "start": "0:07:46",
+            "end": "0:07:47",
+            "text": "So I had a few people on the inside"
+        },
+        {
+            "start": "0:07:47",
+            "end": "0:07:50",
+            "text": "who I was talking about with my project"
+        },
+        {
+            "start": "0:07:50",
+            "end": "0:07:51",
+            "text": "and they just showed it to other people."
+        },
+        {
+            "start": "0:07:51",
+            "end": "0:07:53",
+            "text": "And then those people showed it to other people"
+        },
+        {
+            "start": "0:07:53",
+            "end": "0:07:55",
+            "text": "because if you create a good product"
+        },
+        {
+            "start": "0:07:55",
+            "end": "0:07:57",
+            "text": "and it resonates with people,"
+        },
+        {
+            "start": "0:07:57",
+            "end": "0:08:00",
+            "text": "people will be your zealous, right?"
+        },
+        {
+            "start": "0:08:00",
+            "end": "0:08:01",
+            "text": "They'll be your cultists."
+        },
+        {
+            "start": "0:08:01",
+            "end": "0:08:03",
+            "text": "Like I heard this expression apple doesn't have customers."
+        },
+        {
+            "start": "0:08:03",
+            "end": "0:08:05",
+            "text": "They have cult members"
+        },
+        {
+            "start": "0:08:05",
+            "end": "0:08:07",
+            "text": "and that's kind of an exaggeration"
+        },
+        {
+            "start": "0:08:07",
+            "end": "0:08:07",
+            "text": "but it's true."
+        },
+        {
+            "start": "0:08:07",
+            "end": "0:08:09",
+            "text": "Lots of people who like these products"
+        },
+        {
+            "start": "0:08:09",
+            "end": "0:08:10",
+            "text": "want to talk about it."
+        },
+        {
+            "start": "0:08:10",
+            "end": "0:08:11",
+            "text": "So it's all word of mouth."
+        },
+        {
+            "start": "0:08:11",
+            "end": "0:08:14",
+            "text": "Honestly, and people want like a cooler answer"
+        },
+        {
+            "start": "0:08:14",
+            "end": "0:08:16",
+            "text": "but no, it's just all word of mouth."
+        },
+        {
+            "start": "0:08:16",
+            "end": "0:08:18",
+            "text": "I did build an internal recruitment system"
+        },
+        {
+            "start": "0:08:18",
+            "end": "0:08:20",
+            "text": "where if one of our customers"
+        },
+        {
+            "start": "0:08:20",
+            "end": "0:08:21",
+            "text": "would recruit another customer"
+        },
+        {
+            "start": "0:08:21",
+            "end": "0:08:23",
+            "text": "and the other person signed up"
+        },
+        {
+            "start": "0:08:23",
+            "end": "0:08:24",
+            "text": "and start paying for the product,"
+        },
+        {
+            "start": "0:08:24",
+            "end": "0:08:26",
+            "text": "the first person would get like a month or so"
+        },
+        {
+            "start": "0:08:26",
+            "end": "0:08:27",
+            "text": "of free credits."
+        },
+        {
+            "start": "0:08:27",
+            "end": "0:08:27",
+            "text": "So that helped."
+        },
+        {
+            "start": "0:08:27",
+            "end": "0:08:29",
+            "text": "The way you want to think about growth"
+        },
+        {
+            "start": "0:08:29",
+            "end": "0:08:32",
+            "text": "and entrepreneurship is as a scientist."
+        },
+        {
+            "start": "0:08:32",
+            "end": "0:08:33",
+            "text": "So just be willing to experiment,"
+        },
+        {
+            "start": "0:08:33",
+            "end": "0:08:34",
+            "text": "be willing to fail,"
+        },
+        {
+            "start": "0:08:34",
+            "end": "0:08:35",
+            "text": "come up with a strategy."
+        },
+        {
+            "start": "0:08:35",
+            "end": "0:08:36",
+            "text": "It's probably terrible"
+        },
+        {
+            "start": "0:08:36",
+            "end": "0:08:38",
+            "text": "but you will get data back"
+        },
+        {
+            "start": "0:08:38",
+            "end": "0:08:40",
+            "text": "and then you will be able to reiterate on that."
+        },
+        {
+            "start": "0:08:40",
+            "end": "0:08:42",
+            "text": "Yeah, I 100% agree with that."
+        },
+        {
+            "start": "0:08:42",
+            "end": "0:08:43",
+            "text": "I want to change topics"
+        },
+        {
+            "start": "0:08:43",
+            "end": "0:08:44",
+            "text": "and actually talk about this app."
+        },
+        {
+            "start": "0:08:44",
+            "end": "0:08:46",
+            "text": "Can you explain what is the actual app"
+        },
+        {
+            "start": "0:08:46",
+            "end": "0:08:48",
+            "text": "that you built that makes $300,000 a year?"
+        },
+        {
+            "start": "0:08:48",
+            "end": "0:08:51",
+            "text": "Parakeet Chat is an AI learning communication app"
+        },
+        {
+            "start": "0:08:51",
+            "end": "0:08:52",
+            "text": "for incarcerated people."
+        },
+        {
+            "start": "0:08:52",
+            "end": "0:08:54",
+            "text": "It helps them talk to chat GPT"
+        },
+        {
+            "start": "0:08:54",
+            "end": "0:08:55",
+            "text": "and other AI services"
+        },
+        {
+            "start": "0:08:55",
+            "end": "0:08:57",
+            "text": "so they can learn whatever they want."
+        },
+        {
+            "start": "0:08:57",
+            "end": "0:08:58",
+            "text": "Mostly they use it to learn"
+        },
+        {
+            "start": "0:08:58",
+            "end": "0:09:00",
+            "text": "about their own legal rights"
+        },
+        {
+            "start": "0:09:00",
+            "end": "0:09:02",
+            "text": "and also there's a communication aspect"
+        },
+        {
+            "start": "0:09:02",
+            "end": "0:09:04",
+            "text": "where people can use it to talk to their family."
+        },
+        {
+            "start": "0:09:04",
+            "end": "0:09:06",
+            "text": "We've had a lot of messages from our users saying,"
+        },
+        {
+            "start": "0:09:06",
+            "end": "0:09:08",
+            "text": "oh thank you, thanks for your system."
+        },
+        {
+            "start": "0:09:08",
+            "end": "0:09:09",
+            "text": "I was able to talk to my daughter."
+        },
+        {
+            "start": "0:09:09",
+            "end": "0:09:11",
+            "text": "I haven't been able to talk to her in years"
+        },
+        {
+            "start": "0:09:11",
+            "end": "0:09:13",
+            "text": "and she sent me a hello message"
+        },
+        {
+            "start": "0:09:13",
+            "end": "0:09:14",
+            "text": "and it means the world for me."
+        },
+        {
+            "start": "0:09:14",
+            "end": "0:09:16",
+            "text": "From the perspective of the users,"
+        },
+        {
+            "start": "0:09:16",
+            "end": "0:09:18",
+            "text": "it's the internal prison email system."
+        },
+        {
+            "start": "0:09:18",
+            "end": "0:09:20",
+            "text": "They just email a specific email address"
+        },
+        {
+            "start": "0:09:20",
+            "end": "0:09:22",
+            "text": "and our bot processes that information"
+        },
+        {
+            "start": "0:09:22",
+            "end": "0:09:24",
+            "text": "and then sends them a reply."
+        },
+        {
+            "start": "0:09:24",
+            "end": "0:09:27",
+            "text": "And so our app is actually a chat bot"
+        },
+        {
+            "start": "0:09:27",
+            "end": "0:09:29",
+            "text": "that people on the inside can use to talk to"
+        },
+        {
+            "start": "0:09:29",
+            "end": "0:09:31",
+            "text": "and it will look up things on chat GPT."
+        },
+        {
+            "start": "0:09:31",
+            "end": "0:09:33",
+            "text": "It'll look up sports statistics."
+        },
+        {
+            "start": "0:09:33",
+            "end": "0:09:35",
+            "text": "That is if there is no app in the sense"
+        },
+        {
+            "start": "0:09:35",
+            "end": "0:09:37",
+            "text": "that you can go on the Play Store and download it."
+        },
+        {
+            "start": "0:09:37",
+            "end": "0:09:38",
+            "text": "This is so cool."
+        },
+        {
+            "start": "0:09:38",
+            "end": "0:09:39",
+            "text": "I don't know that much about the email system"
+        },
+        {
+            "start": "0:09:39",
+            "end": "0:09:42",
+            "text": "that they use but you built around these limitations."
+        },
+        {
+            "start": "0:09:42",
+            "end": "0:09:44",
+            "text": "I'm curious on what a lot of people will be wondering is like,"
+        },
+        {
+            "start": "0:09:44",
+            "end": "0:09:46",
+            "text": "how does an app like this make money"
+        },
+        {
+            "start": "0:09:46",
+            "end": "0:09:48",
+            "text": "or how to prisoners even pay for this"
+        },
+        {
+            "start": "0:09:48",
+            "end": "0:09:50",
+            "text": "since I'm assuming that's a little bit more complicated?"
+        },
+        {
+            "start": "0:09:50",
+            "end": "0:09:51",
+            "text": "That's a good question."
+        },
+        {
+            "start": "0:09:51",
+            "end": "0:09:54",
+            "text": "In most businesses, customers and the users"
+        },
+        {
+            "start": "0:09:54",
+            "end": "0:09:56",
+            "text": "of the same people, in this it's different."
+        },
+        {
+            "start": "0:09:56",
+            "end": "0:09:59",
+            "text": "So the users are the incarcerated people on the inside."
+        },
+        {
+            "start": "0:10:00",
+            "end": "0:10:05",
+            "text": "are their families on the outside and it's just a monthly SaaS. The customers just pay for it."
+        },
+        {
+            "start": "0:10:05",
+            "end": "0:10:10",
+            "text": "It's 15 or 20 bucks a month depending on the plan you want. It's a discount if you get yearly."
+        },
+        {
+            "start": "0:10:10",
+            "end": "0:10:18",
+            "text": "Last year, 2025, Parakeet Chat made a little over 300K in revenue and in total over the lifetime"
+        },
+        {
+            "start": "0:10:18",
+            "end": "0:10:25",
+            "text": "it has made 1.5 million American dollars and in the last month you can check that live if you"
+        },
+        {
+            "start": "0:10:25",
+            "end": "0:10:31",
+            "text": "want to trust MRR if you don't trust me. Total amount of people who've ever tried it is around"
+        },
+        {
+            "start": "0:10:31",
+            "end": "0:10:37",
+            "text": "30,000 people and that's 20% of the entire federal prison population in the United States. So if you"
+        },
+        {
+            "start": "0:10:37",
+            "end": "0:10:42",
+            "text": "know someone who's in federal prison or has bitten is a pretty good chance that they've used it."
+        },
+        {
+            "start": "0:10:42",
+            "end": "0:10:48",
+            "text": "That means someone on the inside talking to their family. So almost 100,000 family connections"
+        },
+        {
+            "start": "0:10:48",
+            "end": "0:10:53",
+            "text": "that wouldn't exist if this product didn't happen and we've sent out like 9 million messages"
+        },
+        {
+            "start": "0:10:53",
+            "end": "0:10:59",
+            "text": "since then. When people use Parakeet Chat, most of them it's studying case law and legal research."
+        },
+        {
+            "start": "0:10:59",
+            "end": "0:11:03",
+            "text": "I would assume it's probably about their own legal case understanding their rights. They have very"
+        },
+        {
+            "start": "0:11:03",
+            "end": "0:11:08",
+            "text": "limited resources. So that's the biggest use case. We actually get a lot of entrepreneurial questions"
+        },
+        {
+            "start": "0:11:08",
+            "end": "0:11:13",
+            "text": "through the platform and a lot of them I would say are probably smarter than the average ones I get"
+        },
+        {
+            "start": "0:11:13",
+            "end": "0:11:17",
+            "text": "on the outside. That's awesome. I mean I think that's awesome that there's a lot of entrepreneurial"
+        },
+        {
+            "start": "0:11:17",
+            "end": "0:11:21",
+            "text": "questions because I know that when you get out of prison it can't be tough to get back into the"
+        },
+        {
+            "start": "0:11:21",
+            "end": "0:11:27",
+            "text": "workforce. So starting a business may be a great option for people who have been recently incarcerated."
+        },
+        {
+            "start": "0:11:27",
+            "end": "0:11:31",
+            "text": "Last question that we ask all founders who come onto Starter Story. If you could go back in time"
+        },
+        {
+            "start": "0:11:31",
+            "end": "0:11:36",
+            "text": "and stand on Jordan's shoulders before you got started, even maybe before you started building"
+        },
+        {
+            "start": "0:11:36",
+            "end": "0:11:40",
+            "text": "stuff in Silicon Valley and learn to code and all that. What would be your advice for anyone"
+        },
+        {
+            "start": "0:11:40",
+            "end": "0:11:46",
+            "text": "watching this who wants to build stuff like you did? If I to go back in time and give young Jordan"
+        },
+        {
+            "start": "0:11:46",
+            "end": "0:11:50",
+            "text": "advice, I would tell him everything you think about business is wrong. This is not just an entrepreneur"
+        },
+        {
+            "start": "0:11:50",
+            "end": "0:11:56",
+            "text": "thing. This is in general. Most people's most ideas about most things are not grounded in anything."
+        },
+        {
+            "start": "0:11:56",
+            "end": "0:12:01",
+            "text": "If you've not done business or any specific subject, everything you believe is probably wrong. I didn't"
+        },
+        {
+            "start": "0:12:01",
+            "end": "0:12:06",
+            "text": "do everything perfectly with parakeet. You always make mistakes but on the whole I had previously made"
+        },
+        {
+            "start": "0:12:06",
+            "end": "0:12:11",
+            "text": "enough mistakes that I didn't make them later on. And the reason things worked out pretty well in"
+        },
+        {
+            "start": "0:12:11",
+            "end": "0:12:15",
+            "text": "this project is not because I'm a brilliant and I'm a genius because I've made these mistakes"
+        },
+        {
+            "start": "0:12:15",
+            "end": "0:12:20",
+            "text": "10 years ago. So it took me 10 years to get to this point. People say an overnight success"
+        },
+        {
+            "start": "0:12:20",
+            "end": "0:12:24",
+            "text": "no such thing. It doesn't exist. Reality is if you want to be a successful entrepreneur,"
+        },
+        {
+            "start": "0:12:24",
+            "end": "0:12:30",
+            "text": "you need to start fucking up right now. You need to go and couple the stupid idea, an idiotic idea,"
+        },
+        {
+            "start": "0:12:30",
+            "end": "0:12:34",
+            "text": "but everyone tells you will not work and just do it right now. Even if you know it's going to fail,"
+        },
+        {
+            "start": "0:12:34",
+            "end": "0:12:37",
+            "text": "good, even better if you know if it's going to fail because then you have no illusions that it"
+        },
+        {
+            "start": "0:12:37",
+            "end": "0:12:41",
+            "text": "will succeed. Just do it. In a way, if it doesn't completely cripple you and lose all your money"
+        },
+        {
+            "start": "0:12:41",
+            "end": "0:12:46",
+            "text": "and get you arrested, right? But do it in a controlled way and you will learn more from that mess"
+        },
+        {
+            "start": "0:12:46",
+            "end": "0:12:51",
+            "text": "up than you will from reading 20 books. That's the best advice I've heard all week. Love that."
+        },
+        {
+            "start": "0:12:51",
+            "end": "0:12:55",
+            "text": "Thanks for coming on the show, Jordan. Awesome business. Awesome story. Awesome insights. Thanks for"
+        },
+        {
+            "start": "0:12:55",
+            "end": "0:13:00",
+            "text": "coming on. I'm glad. Thanks for having me Pat. All right, Gus, producer of Starter Story. What"
+        },
+        {
+            "start": "0:13:00",
+            "end": "0:13:04",
+            "text": "do you think? First thought is super unique business. I had never heard of that. That's one of the"
+        },
+        {
+            "start": "0:13:04",
+            "end": "0:13:08",
+            "text": "reasons I was like interested in having them on the channel and that stood out to me. It's like, wow,"
+        },
+        {
+            "start": "0:13:08",
+            "end": "0:13:15",
+            "text": "there it's really a business everywhere. I personally love the business. incarcerated people"
+        },
+        {
+            "start": "0:13:15",
+            "end": "0:13:21",
+            "text": "or prisoners are getting access to AI tools that can help them with things like case law and stuff"
+        },
+        {
+            "start": "0:13:21",
+            "end": "0:13:25",
+            "text": "like that. So you're sitting there, prison wanting to learn, wanting to better your situation,"
+        },
+        {
+            "start": "0:13:25",
+            "end": "0:13:29",
+            "text": "wanting to help you fight your case. And like we talked about in the last video, we just found"
+        },
+        {
+            "start": "0:13:29",
+            "end": "0:13:35",
+            "text": "building niche apps for small communities is maybe the future of AI and building businesses."
+        },
+        {
+            "start": "0:13:35",
+            "end": "0:13:39",
+            "text": "A lot of the times we'll interview people that are young, 22 years old, 23 years old,"
+        },
+        {
+            "start": "0:13:39",
+            "end": "0:13:43",
+            "text": "they have this successful app and then you kind of feel bad when you see that because you're older"
+        },
+        {
+            "start": "0:13:43",
+            "end": "0:13:47",
+            "text": "than them and maybe it feels like they just started out and then figured out right away."
+        },
+        {
+            "start": "0:13:47",
+            "end": "0:13:51",
+            "text": "But every time you look at those stories, you realize that they're still like six, seven,"
+        },
+        {
+            "start": "0:13:51",
+            "end": "0:13:56",
+            "text": "ten years behind. They just got started earlier and they made all those mistakes. And as he mentioned,"
+        },
+        {
+            "start": "0:13:56",
+            "end": "0:14:00",
+            "text": "there is no such thing as an overnight success. So if you're watching this and thinking, I want to"
+        },
+        {
+            "start": "0:14:00",
+            "end": "0:14:05",
+            "text": "get started, I want to invalidate some ideas. Check out that link I put down there in the description"
+        },
+        {
+            "start": "0:14:05",
+            "end": "0:14:10",
+            "text": "where you can find microsass ideas. Some that might be similar to this that serve niche communities"
+        },
+        {
+            "start": "0:14:10",
+            "end": "0:14:14",
+            "text": "that do one thing, they do one thing. Well, I'll put that link in the description. It's free,"
+        },
+        {
+            "start": "0:14:14",
+            "end": "0:14:17",
+            "text": "you can download it. Hope you enjoyed this episode. We'll see you in the next one. Peace."
+        }
+    ],
+    "plain_text": "[0:00:00] 95% of you do not realize that this is an industry.\n[0:00:03] This is Jordan and he's made over $1.5 million\n[0:00:07] from a single app, but I can guarantee you've never heard of it.\n[0:00:11] My product doesn't have a user interface,\n[0:00:13] there's no mobile app, you cannot download it on your phone.\n[0:00:15] Here's the thing, Jordan didn't just build\n[0:00:17] another trending idea.\n[0:00:18] He found a customer that almost nobody is building for.\n[0:00:22] Then he went all in and it worked.\n[0:00:24] I built my MVP, I released it and then I had 200 paying users\n[0:00:28] and I was profitable from within the first month.\n[0:00:30] So I brought Jordan on the channel to tell the whole story.\n[0:00:33] In this episode, we'll dive into how he found this hidden market\n[0:00:37] that nobody's building for, the secret\n[0:00:39] to how he got his first 200 paying users\n[0:00:42] and the business idea you've never heard of\n[0:00:44] and it's absolutely crushing it.\n[0:00:46] I'm not going to spoil it, you just have to watch.\n[0:00:49] Let's dive in.\n[0:00:49] I'm Pat Walls and this is Starter Story.\n[0:00:53] Jordan, welcome to the channel,\n[0:00:54] telling about who you are, what you built,\n[0:00:56] and what's your story.\n[0:00:57] Okay, my name's Jordan and I have solo bootstrapped two businesses\n[0:01:01] but I've each made over a million in total revenue.\n[0:01:04] The first one is pretty boring mainstream normal.\n[0:01:06] You know, working on self-driving cars,\n[0:01:09] drones for famous companies.\n[0:01:10] But you probably wouldn't guess the second one.\n[0:01:11] It's in the category 95% of people don't even think of\n[0:01:15] as an industry, that's what I'm happy to talk about.\n[0:01:18] Okay, well, I'm excited to get into it.\n[0:01:19] When you told me about what your app does,\n[0:01:21] I got super excited because I think it's really, really cool.\n[0:01:24] We're gonna talk all about it, but before we do,\n[0:01:26] let's talk about how you get into building apps.\n[0:01:29] What's your background?\n[0:01:29] So when I was a kid, I wanted to be a scientist or an engineer\n[0:01:33] or an astronaut and I went to grad school.\n[0:01:35] I got a Master's of Science.\n[0:01:37] I worked on Moon Rover and some of our robotics stuff\n[0:01:39] in grad school.\n[0:01:40] Then I graduated, I got a corporate job as a researcher,\n[0:01:43] a big American company, a Fortune 100.\n[0:01:45] And I thought the corporate world was a little boring,\n[0:01:47] so I taught myself how to code\n[0:01:49] and when I went to San Francisco and from there,\n[0:01:51] I got more into entrepreneurship.\n[0:01:53] Okay, cool.\n[0:01:54] So you get into corporate America.\n[0:01:55] You realize it's not exactly for you, right?\n[0:01:57] Reminds me a little bit of my story.\n[0:01:58] I went to college, went to the corporate world\n[0:02:00] and realized I want to build stuff.\n[0:02:01] I want to learn how to code.\n[0:02:02] So let's talk about that.\n[0:02:03] This app that we're talking about today,\n[0:02:05] how did you learn to build it?\n[0:02:06] By the time I started this project,\n[0:02:08] I already had probably about a decade of experience\n[0:02:11] writing software, so I wasn't completely clueless.\n[0:02:13] And so it took me a month to build the prototype,\n[0:02:15] which is what I used to validate the idea\n[0:02:17] and then another month to build the payment system.\n[0:02:20] So from the second month, it was profitable.\n[0:02:22] So it took about one month to get the first 200 users\n[0:02:26] on the platform and it's just kind of grown.\n[0:02:28] What I love about Jordan's story\n[0:02:29] is that he found this hyper niche problem\n[0:02:32] that nobody was paying attention to.\n[0:02:34] And then he turned this hidden idea\n[0:02:35] into a $300,000 per year SaaS business.\n[0:02:39] I think the best business ideas,\n[0:02:40] ones like these,\n[0:02:41] solve a real problem for a very niche type of customer.\n[0:02:45] But how do you actually go about finding these ideas?\n[0:02:48] Well, in partnership with HubSpot,\n[0:02:50] we built a free database of over 190 proven\n[0:02:53] micro SaaS ideas that are already making money right now.\n[0:02:56] This database includes real revenue numbers,\n[0:02:59] traffic, cost to start, pricing models,\n[0:03:02] growth tactics, all of this.\n[0:03:03] So if you want to find your next idea,\n[0:03:05] just head to the first link in the description\n[0:03:07] to grab the database for free.\n[0:03:09] All right, let's get back to the episode.\n[0:03:10] Okay, cool.\n[0:03:11] Well, you got 200 users.\n[0:03:12] It wasn't a million users, but 200.\n[0:03:14] That's when you know you had something.\n[0:03:15] Let's talk about the tech stack.\n[0:03:17] Can you walk me through that?\n[0:03:18] Sure, I built it in TypeScript\n[0:03:20] because I build almost everything in TypeScript.\n[0:03:22] I mean, nowadays you do everything in AI.\n[0:03:24] So again, this was made in the Stone Age\n[0:03:27] back when we would write code manually.\n[0:03:28] But at this point,\n[0:03:29] I haven't opened my code editor in three to six months.\n[0:03:32] I have the AI system writing all the code for me.\n[0:03:34] AI is the new tech stack is my point.\n[0:03:36] But specifically on my project,\n[0:03:38] what I used is TypeScript, like I said,\n[0:03:40] React for the front end, Postgres as the database,\n[0:03:44] Redis as the in-memory database,\n[0:03:46] which I used with the queuing system off zero\n[0:03:48] because no one wants to write their own login system.\n[0:03:50] So you use something that someone else wrote.\n[0:03:53] Brisma, which is a helps it makes it easier\n[0:03:55] to make calls to your database.\n[0:03:56] Although nowadays, I guess technically the AI does it for you.\n[0:03:58] So perhaps these things aren't as useful.\n[0:04:00] And Zod, which is a way to make sure\n[0:04:04] that information coming in from external servers\n[0:04:07] can be validated to a certain schema.\n[0:04:09] And also a lot of Docker containers.\n[0:04:10] One question I get a lot is,\n[0:04:12] I got a brilliant business idea.\n[0:04:13] What language should I use?\n[0:04:14] And the answer is it doesn't really matter.\n[0:04:16] Do what you think works.\n[0:04:17] Do what you think is interesting.\n[0:04:18] The tech stack is not that important as sheer speed.\n[0:04:21] Love that. There's one more skill\n[0:04:23] that I think is still very, very valuable\n[0:04:25] is to have good ideas.\n[0:04:26] Let's talk about that.\n[0:04:27] How'd you come up with the idea for this eventual app\n[0:04:29] that makes over $300,000 a year?\n[0:04:31] So I had been working in San Francisco\n[0:04:34] as a freelance software engineer\n[0:04:35] and I had a guy I was working with\n[0:04:37] I was producing a mobile app for him\n[0:04:39] and we were having a meeting to finish up the project.\n[0:04:41] It was near completion.\n[0:04:43] And I go on to the Zoom call\n[0:04:44] and I get there and his girlfriend who I wasn't expecting\n[0:04:47] was there and she was really upset\n[0:04:49] and she just told me he got sent to prison.\n[0:04:51] And that kind of just sort of shocked me a lot.\n[0:04:53] One day he's here and you're talking\n[0:04:55] and you're working with him and the next day he's gone.\n[0:04:57] So I kept in touch with him for a couple of years,\n[0:05:00] paper letters, very high tech.\n[0:05:01] Eventually he told me how a lot of the services in prison\n[0:05:06] are just a massive scam.\n[0:05:07] It offers not very good quality services\n[0:05:10] at a very high price.\n[0:05:11] So I figured I could do something better\n[0:05:13] and lots of people who use my product agree.\n[0:05:16] Okay, I mean, that's a crazy story.\n[0:05:17] Usually people just find ideas from some AI thing\n[0:05:20] that they want to help do\n[0:05:22] but you build something in the prison industry\n[0:05:24] which is just wild.\n[0:05:25] So you come up with this idea\n[0:05:27] to improve the lives of people that are in prison.\n[0:05:29] How did you validate this idea?\n[0:05:31] In this situation it's a bit different.\n[0:05:33] Prison is a closed ecosystem\n[0:05:35] and so you can't easily send them a link\n[0:05:37] to your web page and they can check out your idea\n[0:05:40] and you collect email addresses.\n[0:05:41] It's not gonna work.\n[0:05:42] In this step, validating the idea\n[0:05:44] and building the MVP were the same thing.\n[0:05:46] I had to build the MVP\n[0:05:47] get it in front of them in order to validate it.\n[0:05:49] So I talked to my contacts in the prison.\n[0:05:52] I said, hey, here's this tool I want to build.\n[0:05:54] I've heard you guys are currently using older technology.\n[0:05:57] Doesn't work very well.\n[0:05:58] It's overpriced.\n[0:05:59] So here's what I envision\n[0:06:00] could be a better product for you.\n[0:06:01] And so you get a lot of feedback.\n[0:06:02] People are super responsive for this.\n[0:06:04] People were telling other people about it\n[0:06:06] and like I said within a month, I had 200 users\n[0:06:09] and that was enough for me to validate it.\n[0:06:10] Okay, cool.\n[0:06:11] You kind of mentioned a little bit earlier\n[0:06:13] that you're the type of person\n[0:06:14] that has lots and lots of business ideas.\n[0:06:16] I think a lot of people watching this channel\n[0:06:17] also feel the same.\n[0:06:18] They want to build lots and lots of things.\n[0:06:20] So what would be your advice for someone watching this\n[0:06:23] who wants to build something\n[0:06:25] and make sure it's validated?\n[0:06:26] The specifics about how to validate\n[0:06:29] aren't as important as the fact that you must validate.\n[0:06:31] And what I mean by that is a lot of entrepreneurs\n[0:06:33] they fall in love with their idea.\n[0:06:34] You've probably heard lots of people,\n[0:06:35] they say, oh, I've got this idea for an app\n[0:06:37] and they spend 12 months creating the perfect mobile app.\n[0:06:40] They haven't shown it to anyone.\n[0:06:42] They have no feedback from actual customers.\n[0:06:44] Validation is not necessarily a specific strategy\n[0:06:47] is do you want to validate?\n[0:06:48] Because as soon as you validate,\n[0:06:50] your idea goes from a little thing in your head\n[0:06:52] that you love and is so protected to the world\n[0:06:55] and the world is probably going to spit on it\n[0:06:56] and they're going to hate it\n[0:06:57] and they're going to think it's boring.\n[0:06:58] You can look up in five minutes on the internet\n[0:07:00] how to validate any specific thing.\n[0:07:02] The point is, most people don't want to validate.\n[0:07:04] Because if you validate, it means you might invalidate your idea.\n[0:07:08] And most people, it's an emotional thing.\n[0:07:10] They don't want to, they're too emotionally invested\n[0:07:12] in the idea of being an entrepreneur.\n[0:07:14] Except that you must validate\n[0:07:16] and you must be willing to let your idea die.\n[0:07:18] That's a great piece of advice or insight\n[0:07:21] is that validation isn't a specific framework is ready.\n[0:07:23] So if you're coming on here watching this thinking,\n[0:07:25] okay, I'll follow this and I'll validate.\n[0:07:27] Like you said, just do it.\n[0:07:28] So validate fast, validate often validate early.\n[0:07:31] That's what I see from the hundreds of people\n[0:07:33] that we've brought onto this YouTube channel.\n[0:07:34] Let's talk about growth.\n[0:07:35] How'd you get people to use your thing\n[0:07:37] and eventually turn it into a 300 k per year app?\n[0:07:39] So prison is a closed ecosystem.\n[0:07:42] It is very difficult if you're on the outside\n[0:07:44] to communicate and vice versa.\n[0:07:46] So I had a few people on the inside\n[0:07:47] who I was talking about with my project\n[0:07:50] and they just showed it to other people.\n[0:07:51] And then those people showed it to other people\n[0:07:53] because if you create a good product\n[0:07:55] and it resonates with people,\n[0:07:57] people will be your zealous, right?\n[0:08:00] They'll be your cultists.\n[0:08:01] Like I heard this expression apple doesn't have customers.\n[0:08:03] They have cult members\n[0:08:05] and that's kind of an exaggeration\n[0:08:07] but it's true.\n[0:08:07] Lots of people who like these products\n[0:08:09] want to talk about it.\n[0:08:10] So it's all word of mouth.\n[0:08:11] Honestly, and people want like a cooler answer\n[0:08:14] but no, it's just all word of mouth.\n[0:08:16] I did build an internal recruitment system\n[0:08:18] where if one of our customers\n[0:08:20] would recruit another customer\n[0:08:21] and the other person signed up\n[0:08:23] and start paying for the product,\n[0:08:24] the first person would get like a month or so\n[0:08:26] of free credits.\n[0:08:27] So that helped.\n[0:08:27] The way you want to think about growth\n[0:08:29] and entrepreneurship is as a scientist.\n[0:08:32] So just be willing to experiment,\n[0:08:33] be willing to fail,\n[0:08:34] come up with a strategy.\n[0:08:35] It's probably terrible\n[0:08:36] but you will get data back\n[0:08:38] and then you will be able to reiterate on that.\n[0:08:40] Yeah, I 100% agree with that.\n[0:08:42] I want to change topics\n[0:08:43] and actually talk about this app.\n[0:08:44] Can you explain what is the actual app\n[0:08:46] that you built that makes $300,000 a year?\n[0:08:48] Parakeet Chat is an AI learning communication app\n[0:08:51] for incarcerated people.\n[0:08:52] It helps them talk to chat GPT\n[0:08:54] and other AI services\n[0:08:55] so they can learn whatever they want.\n[0:08:57] Mostly they use it to learn\n[0:08:58] about their own legal rights\n[0:09:00] and also there's a communication aspect\n[0:09:02] where people can use it to talk to their family.\n[0:09:04] We've had a lot of messages from our users saying,\n[0:09:06] oh thank you, thanks for your system.\n[0:09:08] I was able to talk to my daughter.\n[0:09:09] I haven't been able to talk to her in years\n[0:09:11] and she sent me a hello message\n[0:09:13] and it means the world for me.\n[0:09:14] From the perspective of the users,\n[0:09:16] it's the internal prison email system.\n[0:09:18] They just email a specific email address\n[0:09:20] and our bot processes that information\n[0:09:22] and then sends them a reply.\n[0:09:24] And so our app is actually a chat bot\n[0:09:27] that people on the inside can use to talk to\n[0:09:29] and it will look up things on chat GPT.\n[0:09:31] It'll look up sports statistics.\n[0:09:33] That is if there is no app in the sense\n[0:09:35] that you can go on the Play Store and download it.\n[0:09:37] This is so cool.\n[0:09:38] I don't know that much about the email system\n[0:09:39] that they use but you built around these limitations.\n[0:09:42] I'm curious on what a lot of people will be wondering is like,\n[0:09:44] how does an app like this make money\n[0:09:46] or how to prisoners even pay for this\n[0:09:48] since I'm assuming that's a little bit more complicated?\n[0:09:50] That's a good question.\n[0:09:51] In most businesses, customers and the users\n[0:09:54] of the same people, in this it's different.\n[0:09:56] So the users are the incarcerated people on the inside.\n[0:10:00] are their families on the outside and it's just a monthly SaaS. The customers just pay for it.\n[0:10:05] It's 15 or 20 bucks a month depending on the plan you want. It's a discount if you get yearly.\n[0:10:10] Last year, 2025, Parakeet Chat made a little over 300K in revenue and in total over the lifetime\n[0:10:18] it has made 1.5 million American dollars and in the last month you can check that live if you\n[0:10:25] want to trust MRR if you don't trust me. Total amount of people who've ever tried it is around\n[0:10:31] 30,000 people and that's 20% of the entire federal prison population in the United States. So if you\n[0:10:37] know someone who's in federal prison or has bitten is a pretty good chance that they've used it.\n[0:10:42] That means someone on the inside talking to their family. So almost 100,000 family connections\n[0:10:48] that wouldn't exist if this product didn't happen and we've sent out like 9 million messages\n[0:10:53] since then. When people use Parakeet Chat, most of them it's studying case law and legal research.\n[0:10:59] I would assume it's probably about their own legal case understanding their rights. They have very\n[0:11:03] limited resources. So that's the biggest use case. We actually get a lot of entrepreneurial questions\n[0:11:08] through the platform and a lot of them I would say are probably smarter than the average ones I get\n[0:11:13] on the outside. That's awesome. I mean I think that's awesome that there's a lot of entrepreneurial\n[0:11:17] questions because I know that when you get out of prison it can't be tough to get back into the\n[0:11:21] workforce. So starting a business may be a great option for people who have been recently incarcerated.\n[0:11:27] Last question that we ask all founders who come onto Starter Story. If you could go back in time\n[0:11:31] and stand on Jordan's shoulders before you got started, even maybe before you started building\n[0:11:36] stuff in Silicon Valley and learn to code and all that. What would be your advice for anyone\n[0:11:40] watching this who wants to build stuff like you did? If I to go back in time and give young Jordan\n[0:11:46] advice, I would tell him everything you think about business is wrong. This is not just an entrepreneur\n[0:11:50] thing. This is in general. Most people's most ideas about most things are not grounded in anything.\n[0:11:56] If you've not done business or any specific subject, everything you believe is probably wrong. I didn't\n[0:12:01] do everything perfectly with parakeet. You always make mistakes but on the whole I had previously made\n[0:12:06] enough mistakes that I didn't make them later on. And the reason things worked out pretty well in\n[0:12:11] this project is not because I'm a brilliant and I'm a genius because I've made these mistakes\n[0:12:15] 10 years ago. So it took me 10 years to get to this point. People say an overnight success\n[0:12:20] no such thing. It doesn't exist. Reality is if you want to be a successful entrepreneur,\n[0:12:24] you need to start fucking up right now. You need to go and couple the stupid idea, an idiotic idea,\n[0:12:30] but everyone tells you will not work and just do it right now. Even if you know it's going to fail,\n[0:12:34] good, even better if you know if it's going to fail because then you have no illusions that it\n[0:12:37] will succeed. Just do it. In a way, if it doesn't completely cripple you and lose all your money\n[0:12:41] and get you arrested, right? But do it in a controlled way and you will learn more from that mess\n[0:12:46] up than you will from reading 20 books. That's the best advice I've heard all week. Love that.\n[0:12:51] Thanks for coming on the show, Jordan. Awesome business. Awesome story. Awesome insights. Thanks for\n[0:12:55] coming on. I'm glad. Thanks for having me Pat. All right, Gus, producer of Starter Story. What\n[0:13:00] do you think? First thought is super unique business. I had never heard of that. That's one of the\n[0:13:04] reasons I was like interested in having them on the channel and that stood out to me. It's like, wow,\n[0:13:08] there it's really a business everywhere. I personally love the business. incarcerated people\n[0:13:15] or prisoners are getting access to AI tools that can help them with things like case law and stuff\n[0:13:21] like that. So you're sitting there, prison wanting to learn, wanting to better your situation,\n[0:13:25] wanting to help you fight your case. And like we talked about in the last video, we just found\n[0:13:29] building niche apps for small communities is maybe the future of AI and building businesses.\n[0:13:35] A lot of the times we'll interview people that are young, 22 years old, 23 years old,\n[0:13:39] they have this successful app and then you kind of feel bad when you see that because you're older\n[0:13:43] than them and maybe it feels like they just started out and then figured out right away.\n[0:13:47] But every time you look at those stories, you realize that they're still like six, seven,\n[0:13:51] ten years behind. They just got started earlier and they made all those mistakes. And as he mentioned,\n[0:13:56] there is no such thing as an overnight success. So if you're watching this and thinking, I want to\n[0:14:00] get started, I want to invalidate some ideas. Check out that link I put down there in the description\n[0:14:05] where you can find microsass ideas. Some that might be similar to this that serve niche communities\n[0:14:10] that do one thing, they do one thing. Well, I'll put that link in the description. It's free,\n[0:14:14] you can download it. Hope you enjoyed this episode. We'll see you in the next one. Peace."
+}

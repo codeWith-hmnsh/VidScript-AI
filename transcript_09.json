@@ -1,0 +1,1388 @@
+{
+    "video_url": "https://www.youtube.com/watch?v=rGLXc1GmsaI",
+    "video_id": "rGLXc1GmsaI",
+    "audio_file": "rGLXc1GmsaI.mp3",
+    "model_used": "base",
+    "language": "en",
+    "duration": "0:21:48",
+    "number_of_chunks": 3,
+    "status": "success",
+    "quality": {
+        "score": 100,
+        "issues": [],
+        "needs_manual_review": false
+    },
+    "transcript": [
+        {
+            "start": "0:00:00",
+            "end": "0:00:05",
+            "text": "Right now it's easier than ever to build apps, but distribution is harder than it's ever been."
+        },
+        {
+            "start": "0:00:05",
+            "end": "0:00:12",
+            "text": "TikTok, paid ads, read it, what do you do? Well, today I think I found a solution."
+        },
+        {
+            "start": "0:00:12",
+            "end": "0:00:16",
+            "text": "I partnered with one guy and we grew by 10,000 percent."
+        },
+        {
+            "start": "0:00:16",
+            "end": "0:00:22",
+            "text": "This is Flow, a solid developer who built a really simple mobile app, but for over a year he tried"
+        },
+        {
+            "start": "0:00:22",
+            "end": "0:00:28",
+            "text": "everything and barely made a few hundred dollars. I tried doing it all by myself and only made"
+        },
+        {
+            "start": "0:00:28",
+            "end": "0:00:32",
+            "text": "300 dollars per month. Then something happened that changed everything."
+        },
+        {
+            "start": "0:00:32",
+            "end": "0:00:37",
+            "text": "In just one year my entire business completely changed. So I brought him out of the channel to"
+        },
+        {
+            "start": "0:00:37",
+            "end": "0:00:42",
+            "text": "break it all down and in this episode we'll dive into his really simple app that makes over"
+        },
+        {
+            "start": "0:00:42",
+            "end": "0:00:49",
+            "text": "$30,000 a month. Why you do not need a TikTok army in order to win and how one smart partnership"
+        },
+        {
+            "start": "0:00:49",
+            "end": "0:00:55",
+            "text": "can change everything for a business. If you're thinking of building an app in 2026,"
+        },
+        {
+            "start": "0:00:55",
+            "end": "0:01:00",
+            "text": "this video is for you. All right, let's dive in. I'm Pat Walls and this is StarterStory."
+        },
+        {
+            "start": "0:01:01",
+            "end": "0:01:06",
+            "text": "All right, Flow, welcome to the channel. Tell me about who you are, what you built and what's your story."
+        },
+        {
+            "start": "0:01:06",
+            "end": "0:01:11",
+            "text": "I'm Flow, I'm from Germany. I built an expense tracking app called Moniai. I launched it"
+        },
+        {
+            "start": "0:01:11",
+            "end": "0:01:18",
+            "text": "around three years ago and spent around one and a half years. I'm scaling it to $300 of"
+        },
+        {
+            "start": "0:01:18",
+            "end": "0:01:24",
+            "text": "MRR by myself and then I partnered with the content creator and together we scale it to over 35k"
+        },
+        {
+            "start": "0:01:24",
+            "end": "0:01:31",
+            "text": "in MRR in just over a year. Okay, wow, so $300 MRR in the first year and a half. Then you found"
+        },
+        {
+            "start": "0:01:31",
+            "end": "0:01:35",
+            "text": "an influencer and then it blew up. That's what we're going to be talking about today. I'm super"
+        },
+        {
+            "start": "0:01:35",
+            "end": "0:01:40",
+            "text": "excited. But before we get into that, could you walk me through the app you built, who uses it"
+        },
+        {
+            "start": "0:01:40",
+            "end": "0:01:45",
+            "text": "and then some of your revenue dashboards to show that this is legit? Yeah, sure. So it's basically"
+        },
+        {
+            "start": "0:01:45",
+            "end": "0:01:52",
+            "text": "money tracking app that makes the entry a lot more frictionless by using AI to use voice or use"
+        },
+        {
+            "start": "0:01:52",
+            "end": "0:01:58",
+            "text": "automations. So that is the main concept and also that it's minimalistic and not bloated like most"
+        },
+        {
+            "start": "0:01:58",
+            "end": "0:02:04",
+            "text": "of the other expense tracking apps. You can see we are currently at a bit over 35k of MRR."
+        },
+        {
+            "start": "0:02:04",
+            "end": "0:02:10",
+            "text": "We are a subscription-based app. We only offer a seven-day trial right now. We use to be"
+        },
+        {
+            "start": "0:02:10",
+            "end": "0:02:16",
+            "text": "with a B-testing. We figured out that actually a hard paywall with free trial works best for us."
+        },
+        {
+            "start": "0:02:16",
+            "end": "0:02:20",
+            "text": "Okay, well, let's change topics a little bit before we get into how you found this influencer"
+        },
+        {
+            "start": "0:02:20",
+            "end": "0:02:24",
+            "text": "distribution, all this. Talk about your background. How do you get to this point where you start"
+        },
+        {
+            "start": "0:02:24",
+            "end": "0:02:29",
+            "text": "building apps, start getting excited about the finance category? How do you get here? So initially,"
+        },
+        {
+            "start": "0:02:29",
+            "end": "0:02:34",
+            "text": "I actually wanted to study something in the creative space, but eventually ended up studying"
+        },
+        {
+            "start": "0:02:34",
+            "end": "0:02:41",
+            "text": "computer science, and then I taught myself to code iOS apps. Afterwards, I was a mobile UX lead."
+        },
+        {
+            "start": "0:02:41",
+            "end": "0:02:46",
+            "text": "Yeah, I always wanted to build something myself to fully work on my own apps. So I kept building"
+        },
+        {
+            "start": "0:02:46",
+            "end": "0:02:51",
+            "text": "side projects next to my shop, but none of them had success until this one. Earlier this year,"
+        },
+        {
+            "start": "0:02:51",
+            "end": "0:02:57",
+            "text": "I was finally able to quit my job and do this full-time. Okay, cool. So let's talk about the idea."
+        },
+        {
+            "start": "0:02:57",
+            "end": "0:03:02",
+            "text": "How you come up with the idea for an app that eventually is doing over $30,000 MRR? I initially"
+        },
+        {
+            "start": "0:03:02",
+            "end": "0:03:08",
+            "text": "built the app for myself because I wanted to get back into tracking my expenses. I tried many"
+        },
+        {
+            "start": "0:03:08",
+            "end": "0:03:12",
+            "text": "different expense tracking apps over the years, and I always quit them again, because they were just"
+        },
+        {
+            "start": "0:03:12",
+            "end": "0:03:18",
+            "text": "too cumbersome to use. And eventually, at this point, AI was becoming fairly usable. So I thought"
+        },
+        {
+            "start": "0:03:18",
+            "end": "0:03:24",
+            "text": "of combining these two things and using AI to make it more of a frictionless experience. So my goal"
+        },
+        {
+            "start": "0:03:24",
+            "end": "0:03:30",
+            "text": "was to also ship it as fast as possible, because before that, I built an app that took me two years,"
+        },
+        {
+            "start": "0:03:30",
+            "end": "0:03:36",
+            "text": "and in the end, I launched it and obviously no one cared about it. So I wanted to improve that"
+        },
+        {
+            "start": "0:03:36",
+            "end": "0:03:41",
+            "text": "and launch it very quickly. I think it took me a month or two to get the first version,"
+        },
+        {
+            "start": "0:03:41",
+            "end": "0:03:45",
+            "text": "and then I continuously iterate it over it. Let's switch topics a little bit and talk about"
+        },
+        {
+            "start": "0:03:45",
+            "end": "0:03:50",
+            "text": "this distribution topic, right? It's easy to build stuff nowadays. You can build pretty amazing"
+        },
+        {
+            "start": "0:03:50",
+            "end": "0:03:56",
+            "text": "stuff with AI, and when you build it, you got to like $300 MRR after a year and a half, which"
+        },
+        {
+            "start": "0:03:56",
+            "end": "0:04:00",
+            "text": "still is amazing to be making money with an app, but it's probably not what you really wanted."
+        },
+        {
+            "start": "0:04:00",
+            "end": "0:04:07",
+            "text": "Then something changed. And in one year, you went from 300 to 30,000 in MRR. What was that?"
+        },
+        {
+            "start": "0:04:07",
+            "end": "0:04:13",
+            "text": "What was the big strategy in Wiery here today to share it? Basically, on a very high level,"
+        },
+        {
+            "start": "0:04:13",
+            "end": "0:04:19",
+            "text": "I started to collaborate with a fairly big influencer from Colombia after we negotiated some terms."
+        },
+        {
+            "start": "0:04:19",
+            "end": "0:04:24",
+            "text": "He actually reached out to me because he found my socialists in the app, and after negotiating,"
+        },
+        {
+            "start": "0:04:24",
+            "end": "0:04:31",
+            "text": "we came up with an agreement, and he's now posting three videos per month on his main channel."
+        },
+        {
+            "start": "0:04:31",
+            "end": "0:04:37",
+            "text": "The first video he posted end of 2024. Within a week, we 10x the MRR, and within a month,"
+        },
+        {
+            "start": "0:04:37",
+            "end": "0:04:43",
+            "text": "it was at almost 8K. Okay, yeah. This is why I wanted to bring you on the channel because a lot of"
+        },
+        {
+            "start": "0:04:43",
+            "end": "0:04:48",
+            "text": "developers or technical people watch this, and like you said, you thought maybe I don't have product"
+        },
+        {
+            "start": "0:04:48",
+            "end": "0:04:51",
+            "text": "market fit or something like that. Maybe there's something wrong with my app. The only thing wrong"
+        },
+        {
+            "start": "0:04:51",
+            "end": "0:04:55",
+            "text": "with your app is that nobody was seeing it. And that's what we love to talk about on starter"
+        },
+        {
+            "start": "0:04:55",
+            "end": "0:05:00",
+            "text": "stories. Building is cool, but distribution. What's the actual strategy here? I'd love to hear"
+        },
+        {
+            "start": "0:05:00",
+            "end": "0:05:06",
+            "text": "just a little bit more of a deeper dive into how this works. How is the influencer partnership"
+        },
+        {
+            "start": "0:05:06",
+            "end": "0:05:10",
+            "text": "set up? I think it's cool that you only have one influencer. You don't have to work with like"
+        },
+        {
+            "start": "0:05:10",
+            "end": "0:05:14",
+            "text": "20 of them, which sounds complicated. Let's dive in a little bit deeper into it. What's worked"
+        },
+        {
+            "start": "0:05:14",
+            "end": "0:05:21",
+            "text": "for you and what's the kind of strategy here? So the partnership is largely built on trust right now."
+        },
+        {
+            "start": "0:05:21",
+            "end": "0:05:27",
+            "text": "We do, of course, have a contract. So now we have a percentage of the profits and a fixed monthly"
+        },
+        {
+            "start": "0:05:27",
+            "end": "0:05:32",
+            "text": "retina before we had a percentage of revenue. And we notice that it doesn't really scale well."
+        },
+        {
+            "start": "0:05:32",
+            "end": "0:05:39",
+            "text": "What's good about this is since it's profit-based, his payout is mostly profit-based, he's incentivized"
+        },
+        {
+            "start": "0:05:39",
+            "end": "0:05:44",
+            "text": "to actually do what's best for the app. It's not like he's my employee and he just delivers the video"
+        },
+        {
+            "start": "0:05:44",
+            "end": "0:05:50",
+            "text": "and calls it a day, but he's constantly thinking about what to do and how to make the greatest"
+        },
+        {
+            "start": "0:05:50",
+            "end": "0:05:55",
+            "text": "videos. So he's also incentivized there. What's different also to many other people that work with"
+        },
+        {
+            "start": "0:05:55",
+            "end": "0:06:01",
+            "text": "content creators is that we only post three videos per month. They are very high quality, so we really"
+        },
+        {
+            "start": "0:06:01",
+            "end": "0:06:07",
+            "text": "want to have quality over quantity. So they are always very story-driven. We don't get millions of"
+        },
+        {
+            "start": "0:06:07",
+            "end": "0:06:14",
+            "text": "views mostly, but those that we get, they do convert with a fairly high rate. So yeah, and he's"
+        },
+        {
+            "start": "0:06:14",
+            "end": "0:06:19",
+            "text": "responsible for coming up with the video ideas, so I don't have to constantly think about new viral"
+        },
+        {
+            "start": "0:06:19",
+            "end": "0:06:24",
+            "text": "video ideas or something that he's the creative mind behind it basically. Okay, cool. I mean,"
+        },
+        {
+            "start": "0:06:24",
+            "end": "0:06:29",
+            "text": "this makes a lot of sense to me. I see a couple themes here. The first one is like quality over"
+        },
+        {
+            "start": "0:06:29",
+            "end": "0:06:34",
+            "text": "quantity. Both in terms of influencers, right? You don't have, you have one quality influencer,"
+        },
+        {
+            "start": "0:06:34",
+            "end": "0:06:40",
+            "text": "not 20 of them, and you do three videos a month, not a hundred, and then hope that something hits."
+        },
+        {
+            "start": "0:06:40",
+            "end": "0:06:45",
+            "text": "The second thing that I think is actually really smart here, as you mentioned, is this guy has"
+        },
+        {
+            "start": "0:06:45",
+            "end": "0:06:50",
+            "text": "skin in the game, right? It's not like you just pitching them $300 videos to create, and they create"
+        },
+        {
+            "start": "0:06:50",
+            "end": "0:06:57",
+            "text": "something quick and it doesn't convert. This person is incentivized to make great videos, which I think"
+        },
+        {
+            "start": "0:06:57",
+            "end": "0:07:01",
+            "text": "makes a lot of sense. I'd love if you could dive a little bit deeper and just show me like, what kind of"
+        },
+        {
+            "start": "0:07:01",
+            "end": "0:07:05",
+            "text": "videos are you creating? What's the impact of these videos? I didn't expect you to say that you only"
+        },
+        {
+            "start": "0:07:05",
+            "end": "0:07:09",
+            "text": "do three videos a month. Could you show me what the impact of what a successful influencer can do"
+        },
+        {
+            "start": "0:07:09",
+            "end": "0:07:14",
+            "text": "to a software business? Yeah, sure. I actually built a little tool for that to visualize it a bit"
+        },
+        {
+            "start": "0:07:14",
+            "end": "0:07:20",
+            "text": "better. You can see those small circles where a video was posted, so you can see this was the first one."
+        },
+        {
+            "start": "0:07:20",
+            "end": "0:07:26",
+            "text": "It was actually a very simple video. This one was just a walkthrough of the app, but since his main"
+        },
+        {
+            "start": "0:07:26",
+            "end": "0:07:31",
+            "text": "audience didn't know the idea behind it yet, it worked quite well. So this and another video"
+        },
+        {
+            "start": "0:07:31",
+            "end": "0:07:39",
+            "text": "actually got us to 7.8K MRR from the 300 from before, and then another video, which was also"
+        },
+        {
+            "start": "0:07:39",
+            "end": "0:07:46",
+            "text": "fairly short, but it also got us another boost of more than 5K to 13K MRR. Then we did a lot of"
+        },
+        {
+            "start": "0:07:46",
+            "end": "0:07:53",
+            "text": "testing. Actually, we had a low season there. We didn't get another viral video until June 21,"
+        },
+        {
+            "start": "0:07:53",
+            "end": "0:07:59",
+            "text": "which was when we were invited from Apple to try and adapt up to see together, so that made for a"
+        },
+        {
+            "start": "0:07:59",
+            "end": "0:08:05",
+            "text": "really great story. And like I said, the videos that we post are mostly story-based. That's why"
+        },
+        {
+            "start": "0:08:05",
+            "end": "0:08:10",
+            "text": "also we only post three of them because it takes a long time to create them, but this one in total"
+        },
+        {
+            "start": "0:08:10",
+            "end": "0:08:18",
+            "text": "got us 1.7 million views and grew in plus almost 5K MRR. And then the latest one was a feature that"
+        },
+        {
+            "start": "0:08:18",
+            "end": "0:08:24",
+            "text": "was really wanted by people, and he also made a very nice story behind it, and that grew us now"
+        },
+        {
+            "start": "0:08:24",
+            "end": "0:08:31",
+            "text": "to finally over 35K. So you can see from the beginning till now, we grew by over 10,000%."
+        },
+        {
+            "start": "0:08:31",
+            "end": "0:08:37",
+            "text": "I absolutely love everything Flow is sharing right now about how he grew this thing. It just goes"
+        },
+        {
+            "start": "0:08:37",
+            "end": "0:08:42",
+            "text": "to show you the power that content can have on your business or your app that you're building"
+        },
+        {
+            "start": "0:08:42",
+            "end": "0:08:47",
+            "text": "in 2026. We've actually talked to dozens of founders right here on this channel who've used"
+        },
+        {
+            "start": "0:08:47",
+            "end": "0:08:52",
+            "text": "similar strategies to grow their apps. So I decided to put it all together into one free resource"
+        },
+        {
+            "start": "0:08:52",
+            "end": "0:08:57",
+            "text": "to help you get started. The organic short form playbook will walk you through how real founders"
+        },
+        {
+            "start": "0:08:57",
+            "end": "0:09:03",
+            "text": "are growing real apps making real money right now. From how to find viral content ideas to building"
+        },
+        {
+            "start": "0:09:03",
+            "end": "0:09:07",
+            "text": "a content system, this playbook will show you how to think about growth differently. So if you're"
+        },
+        {
+            "start": "0:09:07",
+            "end": "0:09:12",
+            "text": "ready to grow, head to the first link in the description and download it for free. All right,"
+        },
+        {
+            "start": "0:09:12",
+            "end": "0:09:17",
+            "text": "let's get back to the episode. So this awesome influencer reached out to you because you had built"
+        },
+        {
+            "start": "0:09:17",
+            "end": "0:09:20",
+            "text": "something cool and you guys partnered together. For a lot of people watching this, they might be"
+        },
+        {
+            "start": "0:09:20",
+            "end": "0:09:25",
+            "text": "thinking, I'm a developer, I'm technical minded. How can I find someone who's a genius at marketing"
+        },
+        {
+            "start": "0:09:25",
+            "end": "0:09:30",
+            "text": "and video and content. If you were starting over from scratch with a new app in 2026,"
+        },
+        {
+            "start": "0:09:30",
+            "end": "0:09:34",
+            "text": "what would be your playbook for nailing influencer marketing based on everything you've learned?"
+        },
+        {
+            "start": "0:09:34",
+            "end": "0:09:39",
+            "text": "Yeah, totally. I talked to my partner about this and we came up with this playbook."
+        },
+        {
+            "start": "0:09:39",
+            "end": "0:09:45",
+            "text": "So step one, finding your aligned partners. So before reaching out, you should make sure that"
+        },
+        {
+            "start": "0:09:46",
+            "end": "0:09:52",
+            "text": "the influencer's lifestyle, the tone, the audience actually met your product. So what I was"
+        },
+        {
+            "start": "0:09:52",
+            "end": "0:09:57",
+            "text": "looking for in a partnership was great personality, of course, charisma, but also that he connects"
+        },
+        {
+            "start": "0:09:57",
+            "end": "0:09:59",
+            "text": "with his viewers. So he replies to comments, which is..."
+        },
+        {
+            "start": "0:10:00",
+            "end": "0:10:04",
+            "text": "if you have an app to sell because they will have questions about it so that was important"
+        },
+        {
+            "start": "0:10:04",
+            "end": "0:10:10",
+            "text": "and also that he's not purely a tech influencer but he's also like he's kind of tech and lifestyle"
+        },
+        {
+            "start": "0:10:10",
+            "end": "0:10:15",
+            "text": "that's why his audience is not just interested in specs of apps or something like that but they"
+        },
+        {
+            "start": "0:10:15",
+            "end": "0:10:19",
+            "text": "really care about his story about what he's doing in his life so that makes it really valuable."
+        },
+        {
+            "start": "0:10:19",
+            "end": "0:10:24",
+            "text": "Then step two warm up that relationship that means you should follow them beforehand."
+        },
+        {
+            "start": "0:10:24",
+            "end": "0:10:30",
+            "text": "Those influencers usually notice that people are constantly commenting on their videos so they"
+        },
+        {
+            "start": "0:10:30",
+            "end": "0:10:35",
+            "text": "see that recurringly and they see that you actually care about it. Of course that takes a lot of"
+        },
+        {
+            "start": "0:10:35",
+            "end": "0:10:40",
+            "text": "time so if you don't have the time then at least be upfront like don't fake that you follow them"
+        },
+        {
+            "start": "0:10:40",
+            "end": "0:10:46",
+            "text": "for month or something like that. Step three is that you should be very specific with the outreach"
+        },
+        {
+            "start": "0:10:46",
+            "end": "0:10:51",
+            "text": "so don't just send what a lot of people do to say I love your content let's collaborate"
+        },
+        {
+            "start": "0:10:51",
+            "end": "0:10:57",
+            "text": "that won't cut it. Instead you should reference a specific video or a specific moment a joke they"
+        },
+        {
+            "start": "0:10:57",
+            "end": "0:11:03",
+            "text": "made or something like that so they actually know okay they watch the content they actually care"
+        },
+        {
+            "start": "0:11:03",
+            "end": "0:11:07",
+            "text": "about what I do. For example you could say something like I really liked how you made such a little"
+        },
+        {
+            "start": "0:11:07",
+            "end": "0:11:14",
+            "text": "detail look so cinematic in that video of whatever that specific product. Step four is connect the"
+        },
+        {
+            "start": "0:11:14",
+            "end": "0:11:20",
+            "text": "dots to your product after you show that appreciation he should see the alignment not just a"
+        },
+        {
+            "start": "0:11:20",
+            "end": "0:11:25",
+            "text": "transaction so it shouldn't look like I want to pay you make something for me but he should see"
+        },
+        {
+            "start": "0:11:25",
+            "end": "0:11:30",
+            "text": "that there's an alignment between the both of you so for me there was like his audience clearly"
+        },
+        {
+            "start": "0:11:30",
+            "end": "0:11:36",
+            "text": "values aesthetics and nice tech and my product I think was a perfect overlap for this because it's"
+        },
+        {
+            "start": "0:11:36",
+            "end": "0:11:42",
+            "text": "minimalistic aesthetic but still also has the tech heavy side with the AI automations and things"
+        },
+        {
+            "start": "0:11:42",
+            "end": "0:11:47",
+            "text": "like that. Then for step five I think this one is the most important one and you should acknowledge"
+        },
+        {
+            "start": "0:11:47",
+            "end": "0:11:53",
+            "text": "their value and signal willingness to pay very early on you should really lead with making it clear"
+        },
+        {
+            "start": "0:11:53",
+            "end": "0:11:58",
+            "text": "that you will get incentivized one way or another I think that's already set you apart from the rest"
+        },
+        {
+            "start": "0:11:58",
+            "end": "0:12:04",
+            "text": "and what could also work really well would be to show examples of products in that niche that already"
+        },
+        {
+            "start": "0:12:04",
+            "end": "0:12:09",
+            "text": "make a lot of money you can easily look that up on sensor tower or other websites yeah so you could"
+        },
+        {
+            "start": "0:12:09",
+            "end": "0:12:14",
+            "text": "say something like understand the value of what you do you can reach millions of people with a"
+        },
+        {
+            "start": "0:12:14",
+            "end": "0:12:19",
+            "text": "single video I would love to have you as a long-term partner and share the profits of the app with you"
+        },
+        {
+            "start": "0:12:19",
+            "end": "0:12:24",
+            "text": "it might not be much in the beginning but other apps in that niche make 50 to 100k per month"
+        },
+        {
+            "start": "0:12:24",
+            "end": "0:12:29",
+            "text": "with the right distribution so that kind of gives them like a future mental model of what this"
+        },
+        {
+            "start": "0:12:29",
+            "end": "0:12:34",
+            "text": "collaboration could lead to and there's some final tips try to be brief I think this one is"
+        },
+        {
+            "start": "0:12:34",
+            "end": "0:12:39",
+            "text": "important these creators get hundreds of emails per week so they don't want to read through"
+        },
+        {
+            "start": "0:12:39",
+            "end": "0:12:45",
+            "text": "a huge paragraph of text bonus points if you can send a personalized video where you actually"
+        },
+        {
+            "start": "0:12:45",
+            "end": "0:12:49",
+            "text": "mentioned their creators name and their content in that video because that shows actually that you"
+        },
+        {
+            "start": "0:12:49",
+            "end": "0:12:54",
+            "text": "really care about this collaboration most people won't do this so that's exactly why you should"
+        },
+        {
+            "start": "0:12:54",
+            "end": "0:12:59",
+            "text": "do it then what worked for me is that you should add your social handles on your profile that"
+        },
+        {
+            "start": "0:12:59",
+            "end": "0:13:03",
+            "text": "this is the the first step you should probably do when you build an app I think this will actually"
+        },
+        {
+            "start": "0:13:03",
+            "end": "0:13:09",
+            "text": "become increasingly important in the future because the popularity of apps is getting bigger"
+        },
+        {
+            "start": "0:13:09",
+            "end": "0:13:14",
+            "text": "and bigger I feel like so I think more and more content creators will see the value in collaborating"
+        },
+        {
+            "start": "0:13:14",
+            "end": "0:13:19",
+            "text": "with a developer so if they find nice apps and they see oh okay there's just a single person"
+        },
+        {
+            "start": "0:13:19",
+            "end": "0:13:24",
+            "text": "working on the app I think that could lead to the influence actually reaching out to you which"
+        },
+        {
+            "start": "0:13:24",
+            "end": "0:13:30",
+            "text": "would be a lot better for you because then you can also negotiate terms a lot better and most"
+        },
+        {
+            "start": "0:13:30",
+            "end": "0:13:35",
+            "text": "importantly which also worked for me is that you should look into other markets than just the US I think"
+        },
+        {
+            "start": "0:13:36",
+            "end": "0:13:42",
+            "text": "a lot of great content creators also outside and I think my partner also makes it clear that it"
+        },
+        {
+            "start": "0:13:42",
+            "end": "0:13:47",
+            "text": "can also work in in any other market as well yeah there's a lot of influencers out there that are"
+        },
+        {
+            "start": "0:13:47",
+            "end": "0:13:53",
+            "text": "US based or popular but the influencer that you worked with is kind of tackling the Colombian"
+        },
+        {
+            "start": "0:13:53",
+            "end": "0:13:58",
+            "text": "market it goes to show that there's a lot of emerging influencers across the world that developers"
+        },
+        {
+            "start": "0:13:58",
+            "end": "0:14:03",
+            "text": "could work with your German he's Colombian there's so many opportunities and apps are such a huge"
+        },
+        {
+            "start": "0:14:03",
+            "end": "0:14:08",
+            "text": "growing space right now so I guess for anyone watching this don't just limit it just to the US"
+        },
+        {
+            "start": "0:14:08",
+            "end": "0:14:12",
+            "text": "thank you for sharing that playbook that's amazing I think it's gonna be super useful for people"
+        },
+        {
+            "start": "0:14:12",
+            "end": "0:14:17",
+            "text": "watching this I love if you could just give us a quick demo of your app what's the app that makes"
+        },
+        {
+            "start": "0:14:17",
+            "end": "0:14:23",
+            "text": "over 30,000 MRR yeah so this is the app it's very minimalistic it doesn't even have tabs or anything"
+        },
+        {
+            "start": "0:14:23",
+            "end": "0:14:28",
+            "text": "like that it just shows you what's really important which is the distribution of your expenses and below"
+        },
+        {
+            "start": "0:14:28",
+            "end": "0:14:33",
+            "text": "that you see the list if you want to make a new expense you can either do it manually or you can"
+        },
+        {
+            "start": "0:14:33",
+            "end": "0:14:39",
+            "text": "use the voice input feature and say something like coffee at Starbucks 50 bucks and we'll use that"
+        },
+        {
+            "start": "0:14:39",
+            "end": "0:14:45",
+            "text": "and automatically create the transaction for you add tags add the category and automatically add"
+        },
+        {
+            "start": "0:14:45",
+            "end": "0:14:52",
+            "text": "to your list what also works is you can use the Apple Pay automation so we heavily also use shortcuts"
+        },
+        {
+            "start": "0:14:52",
+            "end": "0:14:58",
+            "text": "integrations to make it even easier so if you just pay once it gets realized you can see that it"
+        },
+        {
+            "start": "0:14:58",
+            "end": "0:15:02",
+            "text": "was automatically now added to the list this is more or less it there's a lot of other things"
+        },
+        {
+            "start": "0:15:02",
+            "end": "0:15:09",
+            "text": "like you can add budgets or if you don't find some feature you can always use the AI reports feature"
+        },
+        {
+            "start": "0:15:09",
+            "end": "0:15:15",
+            "text": "so you can just simply ask questions about all the finances that you already added which makes it"
+        },
+        {
+            "start": "0:15:15",
+            "end": "0:15:22",
+            "text": "very simple like for example you could say I want to save 300 euros a month on which cost should I"
+        },
+        {
+            "start": "0:15:22",
+            "end": "0:15:27",
+            "text": "cut back you can see that it would analyze your your finances and then come up with a plan"
+        },
+        {
+            "start": "0:15:27",
+            "end": "0:15:32",
+            "text": "okay cool well thanks for showing the app looks like a really cool app I love the AI features"
+        },
+        {
+            "start": "0:15:32",
+            "end": "0:15:36",
+            "text": "on that note let's talk about tech stack what's the stack that you built this in where all the tools"
+        },
+        {
+            "start": "0:15:36",
+            "end": "0:15:43",
+            "text": "that run is $30,000 plus per month app I build my apps natively so I just use xcode which is free"
+        },
+        {
+            "start": "0:15:43",
+            "end": "0:15:49",
+            "text": "I use cloud code extensively I'm paying for the max plan which is 100 bucks I use revenue cats"
+        },
+        {
+            "start": "0:15:49",
+            "end": "0:15:56",
+            "text": "to show the revenue stats of course but also most importantly to do AB tests so for me it's around"
+        },
+        {
+            "start": "0:15:56",
+            "end": "0:16:01",
+            "text": "400 bucks a month now then I use app right for my backend and authentication and database as well"
+        },
+        {
+            "start": "0:16:01",
+            "end": "0:16:10",
+            "text": "that together is 25 bucks for the AI request in the app I use open AI for the easier tasks and"
+        },
+        {
+            "start": "0:16:10",
+            "end": "0:16:17",
+            "text": "anthropic for the deeper analysis that is around 200 bucks a month then Helm every iOS developer will"
+        },
+        {
+            "start": "0:16:17",
+            "end": "0:16:22",
+            "text": "know the pain of using FSO Connect so this makes it a bit more hassle free I bought the lifetime plan"
+        },
+        {
+            "start": "0:16:22",
+            "end": "0:16:30",
+            "text": "which is around 175 bucks and for designer use Figma but just the free plan cool well thanks for"
+        },
+        {
+            "start": "0:16:30",
+            "end": "0:16:34",
+            "text": "sharing that last question that we ask all founders to come on starter story you built this awesome"
+        },
+        {
+            "start": "0:16:34",
+            "end": "0:16:41",
+            "text": "business is doing over $30,000 a month in revenue congratulations if you go back in time to when"
+        },
+        {
+            "start": "0:16:41",
+            "end": "0:16:46",
+            "text": "you had just started your app or when you're at $300 MRR you couldn't figure out how to crack"
+        },
+        {
+            "start": "0:16:46",
+            "end": "0:16:51",
+            "text": "product market fit what would be your advice to young flow or anyone who's watching this who wants"
+        },
+        {
+            "start": "0:16:51",
+            "end": "0:16:57",
+            "text": "to build apps and achieve success like you did I was very reluctant to start with meta ads because"
+        },
+        {
+            "start": "0:16:57",
+            "end": "0:17:02",
+            "text": "it always looked super intimidating for me and I was always afraid it would be a waste of money or"
+        },
+        {
+            "start": "0:17:02",
+            "end": "0:17:08",
+            "text": "something like that but what I noticed is my creator can make such great videos these videos you"
+        },
+        {
+            "start": "0:17:08",
+            "end": "0:17:14",
+            "text": "can use to experiment with meta ads very easily we just started a few weeks ago and we already see"
+        },
+        {
+            "start": "0:17:14",
+            "end": "0:17:18",
+            "text": "really great results with this so I think we could have made a lot more money if we got on that"
+        },
+        {
+            "start": "0:17:19",
+            "end": "0:17:24",
+            "text": "yeah no we talked to a lot of founders who are building apps specifically who are crushing it"
+        },
+        {
+            "start": "0:17:24",
+            "end": "0:17:29",
+            "text": "with ads right now yeah you got to figure out the content first the content that you run on the"
+        },
+        {
+            "start": "0:17:29",
+            "end": "0:17:35",
+            "text": "ads needs to be good but there's been like two three four guys out of a dozen that are building apps"
+        },
+        {
+            "start": "0:17:35",
+            "end": "0:17:41",
+            "text": "where ads are really starting to work and they can pour gasoline on the on the fire and it's working"
+        },
+        {
+            "start": "0:17:41",
+            "end": "0:17:45",
+            "text": "so that's super cool to hear anybody who's watching this get started throw some money on some paid"
+        },
+        {
+            "start": "0:17:45",
+            "end": "0:17:49",
+            "text": "ads and see what happens it can't hurt thank you flow for coming on to the channel and sharing"
+        },
+        {
+            "start": "0:17:49",
+            "end": "0:17:53",
+            "text": "all this congratulations to what you've built it's amazing let us know in the comments which you"
+        },
+        {
+            "start": "0:17:53",
+            "end": "0:17:58",
+            "text": "thought of this video any other questions if you want flow to come back on and maybe share some more"
+        },
+        {
+            "start": "0:17:58",
+            "end": "0:18:03",
+            "text": "things that worked for this $30,000 per month personal finance app which I think is super cool"
+        },
+        {
+            "start": "0:18:03",
+            "end": "0:18:08",
+            "text": "thanks for coming on thanks for having me all right Gus producer of starter story what did you think"
+        },
+        {
+            "start": "0:18:08",
+            "end": "0:18:14",
+            "text": "of flow man I love that guy super chill and just like straightforward with his like system in terms"
+        },
+        {
+            "start": "0:18:14",
+            "end": "0:18:20",
+            "text": "of the story initially what stands out to me obviously is this one influencer thing we talked a"
+        },
+        {
+            "start": "0:18:20",
+            "end": "0:18:24",
+            "text": "lot of guys and this is no shade to them but I talked to a lot of guys are seeing on Twitter like"
+        },
+        {
+            "start": "0:18:24",
+            "end": "0:18:30",
+            "text": "spamming TikTok dozens of sort of brain-radi content he did the exact opposite that's why I wanted"
+        },
+        {
+            "start": "0:18:30",
+            "end": "0:18:34",
+            "text": "to have them on the show that that was like a different way so that's that's one thing for me yeah"
+        },
+        {
+            "start": "0:18:34",
+            "end": "0:18:39",
+            "text": "one thing that I like about this is that the skin in the game aspect like I'm a little bit skeptical"
+        },
+        {
+            "start": "0:18:39",
+            "end": "0:18:45",
+            "text": "of the influencer strategy of like contact a hundred influencers make a deal with 10 of them"
+        },
+        {
+            "start": "0:18:45",
+            "end": "0:18:50",
+            "text": "and then one of them works out and helps you grow your business but that's as far as you can"
+        },
+        {
+            "start": "0:18:50",
+            "end": "0:18:56",
+            "text": "really take it right because then you know pay them again and then it gets sort of complicated"
+        },
+        {
+            "start": "0:18:56",
+            "end": "0:19:00",
+            "text": "when we talked a lot of these guys that do the influencer playbook there is usually just one influencer"
+        },
+        {
+            "start": "0:19:00",
+            "end": "0:19:05",
+            "text": "that really crushed it for them even though they contacted a bunch that's kind of what he did is"
+        },
+        {
+            "start": "0:19:05",
+            "end": "0:19:09",
+            "text": "he had one influencer who has skin in the game who's taking a share of the profits who's gonna"
+        },
+        {
+            "start": "0:19:09",
+            "end": "0:19:15",
+            "text": "create great content and gonna be thinking about the business from an actual growth perspective"
+        },
+        {
+            "start": "0:19:15",
+            "end": "0:19:19",
+            "text": "rather than just recording a video and posting it so the influencer for equity thing is something"
+        },
+        {
+            "start": "0:19:19",
+            "end": "0:19:25",
+            "text": "that we there's a lot of videos on our channel that cover that influencer for equity model I think"
+        },
+        {
+            "start": "0:19:25",
+            "end": "0:19:30",
+            "text": "it's gonna get bigger and I think it's really great for people like him who clearly aren't content"
+        },
+        {
+            "start": "0:19:30",
+            "end": "0:19:34",
+            "text": "creators but they're good developers they can build cool stuff this I think is gonna be big the other"
+        },
+        {
+            "start": "0:19:34",
+            "end": "0:19:39",
+            "text": "thing I always think about this when guys like this come on the channel is like his app is basically"
+        },
+        {
+            "start": "0:19:39",
+            "end": "0:19:44",
+            "text": "yet another budget tracking essentially for myself from building something or thinking about"
+        },
+        {
+            "start": "0:19:44",
+            "end": "0:19:49",
+            "text": "something I'm like oh it's already been done and this is just a good example of like yes it's"
+        },
+        {
+            "start": "0:19:49",
+            "end": "0:19:53",
+            "text": "obviously yet another budget tracking app there's obviously some unique things to it that we"
+        },
+        {
+            "start": "0:19:53",
+            "end": "0:19:55",
+            "text": "saw in the demo that were really cool but"
+        },
+        {
+            "start": "0:19:54",
+            "end": "0:19:56",
+            "text": "but that doesn't matter."
+        },
+        {
+            "start": "0:19:56",
+            "end": "0:19:58",
+            "text": "Like what matters is the distribution"
+        },
+        {
+            "start": "0:19:58",
+            "end": "0:19:59",
+            "text": "which you talk about a ton."
+        },
+        {
+            "start": "0:19:59",
+            "end": "0:20:01",
+            "text": "And obviously there's the like other markets element,"
+        },
+        {
+            "start": "0:20:01",
+            "end": "0:20:03",
+            "text": "like the Colombian influence"
+        },
+        {
+            "start": "0:20:03",
+            "end": "0:20:05",
+            "text": "or the whole other thing we could have driven into."
+        },
+        {
+            "start": "0:20:05",
+            "end": "0:20:07",
+            "text": "But that's what's standing out to me."
+        },
+        {
+            "start": "0:20:07",
+            "end": "0:20:09",
+            "text": "It's like, it's just another budget tracking app."
+        },
+        {
+            "start": "0:20:09",
+            "end": "0:20:09",
+            "text": "That's crazy."
+        },
+        {
+            "start": "0:20:09",
+            "end": "0:20:12",
+            "text": "And it's like 2026 and people are still making money"
+        },
+        {
+            "start": "0:20:12",
+            "end": "0:20:14",
+            "text": "with this kind of stuff."
+        },
+        {
+            "start": "0:20:14",
+            "end": "0:20:15",
+            "text": "Right."
+        },
+        {
+            "start": "0:20:15",
+            "end": "0:20:16",
+            "text": "I mean, yeah, there's no clear winner"
+        },
+        {
+            "start": "0:20:16",
+            "end": "0:20:18",
+            "text": "in the budget tracking space."
+        },
+        {
+            "start": "0:20:18",
+            "end": "0:20:19",
+            "text": "I don't really use something."
+        },
+        {
+            "start": "0:20:19",
+            "end": "0:20:21",
+            "text": "When he showed me his app, I was like,"
+        },
+        {
+            "start": "0:20:21",
+            "end": "0:20:22",
+            "text": "oh, I kind of want to try this out."
+        },
+        {
+            "start": "0:20:22",
+            "end": "0:20:24",
+            "text": "It integrates with Apple Pay."
+        },
+        {
+            "start": "0:20:24",
+            "end": "0:20:26",
+            "text": "Like I use that so that could be kind of cool."
+        },
+        {
+            "start": "0:20:26",
+            "end": "0:20:27",
+            "text": "I immediately wanted to try it out."
+        },
+        {
+            "start": "0:20:27",
+            "end": "0:20:31",
+            "text": "So I can see the appeal and I can see how it would,"
+        },
+        {
+            "start": "0:20:31",
+            "end": "0:20:33",
+            "text": "you know, it could be a popular app."
+        },
+        {
+            "start": "0:20:33",
+            "end": "0:20:35",
+            "text": "And yeah, as you mentioned,"
+        },
+        {
+            "start": "0:20:35",
+            "end": "0:20:37",
+            "text": "what he did that was really smart is that"
+        },
+        {
+            "start": "0:20:37",
+            "end": "0:20:40",
+            "text": "he didn't build it for people in Germany"
+        },
+        {
+            "start": "0:20:40",
+            "end": "0:20:43",
+            "text": "where he lives or in the US, where we live."
+        },
+        {
+            "start": "0:20:43",
+            "end": "0:20:45",
+            "text": "He partnered with the influencer"
+        },
+        {
+            "start": "0:20:45",
+            "end": "0:20:49",
+            "text": "who built it in Columbia of all places."
+        },
+        {
+            "start": "0:20:49",
+            "end": "0:20:52",
+            "text": "You can, that's a great money in Columbia, by the way."
+        },
+        {
+            "start": "0:20:52",
+            "end": "0:20:55",
+            "text": "There's so much opportunity to build popular apps."
+        },
+        {
+            "start": "0:20:55",
+            "end": "0:20:58",
+            "text": "Build the same exact app in another country"
+        },
+        {
+            "start": "0:20:58",
+            "end": "0:21:01",
+            "text": "because the app stores huge in other countries."
+        },
+        {
+            "start": "0:21:01",
+            "end": "0:21:03",
+            "text": "And we talked to a lot of founders who crushed it"
+        },
+        {
+            "start": "0:21:03",
+            "end": "0:21:05",
+            "text": "in the early days by targeting other countries."
+        },
+        {
+            "start": "0:21:05",
+            "end": "0:21:08",
+            "text": "France, Argentina come to mind in a couple of videos we did."
+        },
+        {
+            "start": "0:21:08",
+            "end": "0:21:11",
+            "text": "So yeah, let's put that to rest the idea"
+        },
+        {
+            "start": "0:21:11",
+            "end": "0:21:14",
+            "text": "that like if it's already been built, you can't build it again."
+        },
+        {
+            "start": "0:21:14",
+            "end": "0:21:15",
+            "text": "So if you're watching this"
+        },
+        {
+            "start": "0:21:15",
+            "end": "0:21:18",
+            "text": "and you've built something cool, just like Flow did,"
+        },
+        {
+            "start": "0:21:18",
+            "end": "0:21:21",
+            "text": "you definitely want to check out our short form content playbook."
+        },
+        {
+            "start": "0:21:21",
+            "end": "0:21:23",
+            "text": "It is our starter story build playbook"
+        },
+        {
+            "start": "0:21:23",
+            "end": "0:21:25",
+            "text": "where you can go on it's 100% free."
+        },
+        {
+            "start": "0:21:25",
+            "end": "0:21:27",
+            "text": "You can see a bunch of different content playbooks"
+        },
+        {
+            "start": "0:21:27",
+            "end": "0:21:29",
+            "text": "that are working short form content playbooks"
+        },
+        {
+            "start": "0:21:29",
+            "end": "0:21:31",
+            "text": "of the many founders we interviewed on starter story."
+        },
+        {
+            "start": "0:21:31",
+            "end": "0:21:34",
+            "text": "We put it all into one place so you can watch, learn,"
+        },
+        {
+            "start": "0:21:34",
+            "end": "0:21:36",
+            "text": "and see what kind of content that might work for you"
+        },
+        {
+            "start": "0:21:36",
+            "end": "0:21:38",
+            "text": "so you can focus on distribution."
+        },
+        {
+            "start": "0:21:38",
+            "end": "0:21:40",
+            "text": "I'll put a link to that down there in the description."
+        },
+        {
+            "start": "0:21:40",
+            "end": "0:21:41",
+            "text": "Hope you enjoy it."
+        },
+        {
+            "start": "0:21:41",
+            "end": "0:21:42",
+            "text": "Otherwise, we'll see you in the next one."
+        },
+        {
+            "start": "0:21:42",
+            "end": "0:21:43",
+            "text": "Peace."
+        }
+    ],
+    "plain_text": "[0:00:00] Right now it's easier than ever to build apps, but distribution is harder than it's ever been.\n[0:00:05] TikTok, paid ads, read it, what do you do? Well, today I think I found a solution.\n[0:00:12] I partnered with one guy and we grew by 10,000 percent.\n[0:00:16] This is Flow, a solid developer who built a really simple mobile app, but for over a year he tried\n[0:00:22] everything and barely made a few hundred dollars. I tried doing it all by myself and only made\n[0:00:28] 300 dollars per month. Then something happened that changed everything.\n[0:00:32] In just one year my entire business completely changed. So I brought him out of the channel to\n[0:00:37] break it all down and in this episode we'll dive into his really simple app that makes over\n[0:00:42] $30,000 a month. Why you do not need a TikTok army in order to win and how one smart partnership\n[0:00:49] can change everything for a business. If you're thinking of building an app in 2026,\n[0:00:55] this video is for you. All right, let's dive in. I'm Pat Walls and this is StarterStory.\n[0:01:01] All right, Flow, welcome to the channel. Tell me about who you are, what you built and what's your story.\n[0:01:06] I'm Flow, I'm from Germany. I built an expense tracking app called Moniai. I launched it\n[0:01:11] around three years ago and spent around one and a half years. I'm scaling it to $300 of\n[0:01:18] MRR by myself and then I partnered with the content creator and together we scale it to over 35k\n[0:01:24] in MRR in just over a year. Okay, wow, so $300 MRR in the first year and a half. Then you found\n[0:01:31] an influencer and then it blew up. That's what we're going to be talking about today. I'm super\n[0:01:35] excited. But before we get into that, could you walk me through the app you built, who uses it\n[0:01:40] and then some of your revenue dashboards to show that this is legit? Yeah, sure. So it's basically\n[0:01:45] money tracking app that makes the entry a lot more frictionless by using AI to use voice or use\n[0:01:52] automations. So that is the main concept and also that it's minimalistic and not bloated like most\n[0:01:58] of the other expense tracking apps. You can see we are currently at a bit over 35k of MRR.\n[0:02:04] We are a subscription-based app. We only offer a seven-day trial right now. We use to be\n[0:02:10] with a B-testing. We figured out that actually a hard paywall with free trial works best for us.\n[0:02:16] Okay, well, let's change topics a little bit before we get into how you found this influencer\n[0:02:20] distribution, all this. Talk about your background. How do you get to this point where you start\n[0:02:24] building apps, start getting excited about the finance category? How do you get here? So initially,\n[0:02:29] I actually wanted to study something in the creative space, but eventually ended up studying\n[0:02:34] computer science, and then I taught myself to code iOS apps. Afterwards, I was a mobile UX lead.\n[0:02:41] Yeah, I always wanted to build something myself to fully work on my own apps. So I kept building\n[0:02:46] side projects next to my shop, but none of them had success until this one. Earlier this year,\n[0:02:51] I was finally able to quit my job and do this full-time. Okay, cool. So let's talk about the idea.\n[0:02:57] How you come up with the idea for an app that eventually is doing over $30,000 MRR? I initially\n[0:03:02] built the app for myself because I wanted to get back into tracking my expenses. I tried many\n[0:03:08] different expense tracking apps over the years, and I always quit them again, because they were just\n[0:03:12] too cumbersome to use. And eventually, at this point, AI was becoming fairly usable. So I thought\n[0:03:18] of combining these two things and using AI to make it more of a frictionless experience. So my goal\n[0:03:24] was to also ship it as fast as possible, because before that, I built an app that took me two years,\n[0:03:30] and in the end, I launched it and obviously no one cared about it. So I wanted to improve that\n[0:03:36] and launch it very quickly. I think it took me a month or two to get the first version,\n[0:03:41] and then I continuously iterate it over it. Let's switch topics a little bit and talk about\n[0:03:45] this distribution topic, right? It's easy to build stuff nowadays. You can build pretty amazing\n[0:03:50] stuff with AI, and when you build it, you got to like $300 MRR after a year and a half, which\n[0:03:56] still is amazing to be making money with an app, but it's probably not what you really wanted.\n[0:04:00] Then something changed. And in one year, you went from 300 to 30,000 in MRR. What was that?\n[0:04:07] What was the big strategy in Wiery here today to share it? Basically, on a very high level,\n[0:04:13] I started to collaborate with a fairly big influencer from Colombia after we negotiated some terms.\n[0:04:19] He actually reached out to me because he found my socialists in the app, and after negotiating,\n[0:04:24] we came up with an agreement, and he's now posting three videos per month on his main channel.\n[0:04:31] The first video he posted end of 2024. Within a week, we 10x the MRR, and within a month,\n[0:04:37] it was at almost 8K. Okay, yeah. This is why I wanted to bring you on the channel because a lot of\n[0:04:43] developers or technical people watch this, and like you said, you thought maybe I don't have product\n[0:04:48] market fit or something like that. Maybe there's something wrong with my app. The only thing wrong\n[0:04:51] with your app is that nobody was seeing it. And that's what we love to talk about on starter\n[0:04:55] stories. Building is cool, but distribution. What's the actual strategy here? I'd love to hear\n[0:05:00] just a little bit more of a deeper dive into how this works. How is the influencer partnership\n[0:05:06] set up? I think it's cool that you only have one influencer. You don't have to work with like\n[0:05:10] 20 of them, which sounds complicated. Let's dive in a little bit deeper into it. What's worked\n[0:05:14] for you and what's the kind of strategy here? So the partnership is largely built on trust right now.\n[0:05:21] We do, of course, have a contract. So now we have a percentage of the profits and a fixed monthly\n[0:05:27] retina before we had a percentage of revenue. And we notice that it doesn't really scale well.\n[0:05:32] What's good about this is since it's profit-based, his payout is mostly profit-based, he's incentivized\n[0:05:39] to actually do what's best for the app. It's not like he's my employee and he just delivers the video\n[0:05:44] and calls it a day, but he's constantly thinking about what to do and how to make the greatest\n[0:05:50] videos. So he's also incentivized there. What's different also to many other people that work with\n[0:05:55] content creators is that we only post three videos per month. They are very high quality, so we really\n[0:06:01] want to have quality over quantity. So they are always very story-driven. We don't get millions of\n[0:06:07] views mostly, but those that we get, they do convert with a fairly high rate. So yeah, and he's\n[0:06:14] responsible for coming up with the video ideas, so I don't have to constantly think about new viral\n[0:06:19] video ideas or something that he's the creative mind behind it basically. Okay, cool. I mean,\n[0:06:24] this makes a lot of sense to me. I see a couple themes here. The first one is like quality over\n[0:06:29] quantity. Both in terms of influencers, right? You don't have, you have one quality influencer,\n[0:06:34] not 20 of them, and you do three videos a month, not a hundred, and then hope that something hits.\n[0:06:40] The second thing that I think is actually really smart here, as you mentioned, is this guy has\n[0:06:45] skin in the game, right? It's not like you just pitching them $300 videos to create, and they create\n[0:06:50] something quick and it doesn't convert. This person is incentivized to make great videos, which I think\n[0:06:57] makes a lot of sense. I'd love if you could dive a little bit deeper and just show me like, what kind of\n[0:07:01] videos are you creating? What's the impact of these videos? I didn't expect you to say that you only\n[0:07:05] do three videos a month. Could you show me what the impact of what a successful influencer can do\n[0:07:09] to a software business? Yeah, sure. I actually built a little tool for that to visualize it a bit\n[0:07:14] better. You can see those small circles where a video was posted, so you can see this was the first one.\n[0:07:20] It was actually a very simple video. This one was just a walkthrough of the app, but since his main\n[0:07:26] audience didn't know the idea behind it yet, it worked quite well. So this and another video\n[0:07:31] actually got us to 7.8K MRR from the 300 from before, and then another video, which was also\n[0:07:39] fairly short, but it also got us another boost of more than 5K to 13K MRR. Then we did a lot of\n[0:07:46] testing. Actually, we had a low season there. We didn't get another viral video until June 21,\n[0:07:53] which was when we were invited from Apple to try and adapt up to see together, so that made for a\n[0:07:59] really great story. And like I said, the videos that we post are mostly story-based. That's why\n[0:08:05] also we only post three of them because it takes a long time to create them, but this one in total\n[0:08:10] got us 1.7 million views and grew in plus almost 5K MRR. And then the latest one was a feature that\n[0:08:18] was really wanted by people, and he also made a very nice story behind it, and that grew us now\n[0:08:24] to finally over 35K. So you can see from the beginning till now, we grew by over 10,000%.\n[0:08:31] I absolutely love everything Flow is sharing right now about how he grew this thing. It just goes\n[0:08:37] to show you the power that content can have on your business or your app that you're building\n[0:08:42] in 2026. We've actually talked to dozens of founders right here on this channel who've used\n[0:08:47] similar strategies to grow their apps. So I decided to put it all together into one free resource\n[0:08:52] to help you get started. The organic short form playbook will walk you through how real founders\n[0:08:57] are growing real apps making real money right now. From how to find viral content ideas to building\n[0:09:03] a content system, this playbook will show you how to think about growth differently. So if you're\n[0:09:07] ready to grow, head to the first link in the description and download it for free. All right,\n[0:09:12] let's get back to the episode. So this awesome influencer reached out to you because you had built\n[0:09:17] something cool and you guys partnered together. For a lot of people watching this, they might be\n[0:09:20] thinking, I'm a developer, I'm technical minded. How can I find someone who's a genius at marketing\n[0:09:25] and video and content. If you were starting over from scratch with a new app in 2026,\n[0:09:30] what would be your playbook for nailing influencer marketing based on everything you've learned?\n[0:09:34] Yeah, totally. I talked to my partner about this and we came up with this playbook.\n[0:09:39] So step one, finding your aligned partners. So before reaching out, you should make sure that\n[0:09:46] the influencer's lifestyle, the tone, the audience actually met your product. So what I was\n[0:09:52] looking for in a partnership was great personality, of course, charisma, but also that he connects\n[0:09:57] with his viewers. So he replies to comments, which is...\n[0:10:00] if you have an app to sell because they will have questions about it so that was important\n[0:10:04] and also that he's not purely a tech influencer but he's also like he's kind of tech and lifestyle\n[0:10:10] that's why his audience is not just interested in specs of apps or something like that but they\n[0:10:15] really care about his story about what he's doing in his life so that makes it really valuable.\n[0:10:19] Then step two warm up that relationship that means you should follow them beforehand.\n[0:10:24] Those influencers usually notice that people are constantly commenting on their videos so they\n[0:10:30] see that recurringly and they see that you actually care about it. Of course that takes a lot of\n[0:10:35] time so if you don't have the time then at least be upfront like don't fake that you follow them\n[0:10:40] for month or something like that. Step three is that you should be very specific with the outreach\n[0:10:46] so don't just send what a lot of people do to say I love your content let's collaborate\n[0:10:51] that won't cut it. Instead you should reference a specific video or a specific moment a joke they\n[0:10:57] made or something like that so they actually know okay they watch the content they actually care\n[0:11:03] about what I do. For example you could say something like I really liked how you made such a little\n[0:11:07] detail look so cinematic in that video of whatever that specific product. Step four is connect the\n[0:11:14] dots to your product after you show that appreciation he should see the alignment not just a\n[0:11:20] transaction so it shouldn't look like I want to pay you make something for me but he should see\n[0:11:25] that there's an alignment between the both of you so for me there was like his audience clearly\n[0:11:30] values aesthetics and nice tech and my product I think was a perfect overlap for this because it's\n[0:11:36] minimalistic aesthetic but still also has the tech heavy side with the AI automations and things\n[0:11:42] like that. Then for step five I think this one is the most important one and you should acknowledge\n[0:11:47] their value and signal willingness to pay very early on you should really lead with making it clear\n[0:11:53] that you will get incentivized one way or another I think that's already set you apart from the rest\n[0:11:58] and what could also work really well would be to show examples of products in that niche that already\n[0:12:04] make a lot of money you can easily look that up on sensor tower or other websites yeah so you could\n[0:12:09] say something like understand the value of what you do you can reach millions of people with a\n[0:12:14] single video I would love to have you as a long-term partner and share the profits of the app with you\n[0:12:19] it might not be much in the beginning but other apps in that niche make 50 to 100k per month\n[0:12:24] with the right distribution so that kind of gives them like a future mental model of what this\n[0:12:29] collaboration could lead to and there's some final tips try to be brief I think this one is\n[0:12:34] important these creators get hundreds of emails per week so they don't want to read through\n[0:12:39] a huge paragraph of text bonus points if you can send a personalized video where you actually\n[0:12:45] mentioned their creators name and their content in that video because that shows actually that you\n[0:12:49] really care about this collaboration most people won't do this so that's exactly why you should\n[0:12:54] do it then what worked for me is that you should add your social handles on your profile that\n[0:12:59] this is the the first step you should probably do when you build an app I think this will actually\n[0:13:03] become increasingly important in the future because the popularity of apps is getting bigger\n[0:13:09] and bigger I feel like so I think more and more content creators will see the value in collaborating\n[0:13:14] with a developer so if they find nice apps and they see oh okay there's just a single person\n[0:13:19] working on the app I think that could lead to the influence actually reaching out to you which\n[0:13:24] would be a lot better for you because then you can also negotiate terms a lot better and most\n[0:13:30] importantly which also worked for me is that you should look into other markets than just the US I think\n[0:13:36] a lot of great content creators also outside and I think my partner also makes it clear that it\n[0:13:42] can also work in in any other market as well yeah there's a lot of influencers out there that are\n[0:13:47] US based or popular but the influencer that you worked with is kind of tackling the Colombian\n[0:13:53] market it goes to show that there's a lot of emerging influencers across the world that developers\n[0:13:58] could work with your German he's Colombian there's so many opportunities and apps are such a huge\n[0:14:03] growing space right now so I guess for anyone watching this don't just limit it just to the US\n[0:14:08] thank you for sharing that playbook that's amazing I think it's gonna be super useful for people\n[0:14:12] watching this I love if you could just give us a quick demo of your app what's the app that makes\n[0:14:17] over 30,000 MRR yeah so this is the app it's very minimalistic it doesn't even have tabs or anything\n[0:14:23] like that it just shows you what's really important which is the distribution of your expenses and below\n[0:14:28] that you see the list if you want to make a new expense you can either do it manually or you can\n[0:14:33] use the voice input feature and say something like coffee at Starbucks 50 bucks and we'll use that\n[0:14:39] and automatically create the transaction for you add tags add the category and automatically add\n[0:14:45] to your list what also works is you can use the Apple Pay automation so we heavily also use shortcuts\n[0:14:52] integrations to make it even easier so if you just pay once it gets realized you can see that it\n[0:14:58] was automatically now added to the list this is more or less it there's a lot of other things\n[0:15:02] like you can add budgets or if you don't find some feature you can always use the AI reports feature\n[0:15:09] so you can just simply ask questions about all the finances that you already added which makes it\n[0:15:15] very simple like for example you could say I want to save 300 euros a month on which cost should I\n[0:15:22] cut back you can see that it would analyze your your finances and then come up with a plan\n[0:15:27] okay cool well thanks for showing the app looks like a really cool app I love the AI features\n[0:15:32] on that note let's talk about tech stack what's the stack that you built this in where all the tools\n[0:15:36] that run is $30,000 plus per month app I build my apps natively so I just use xcode which is free\n[0:15:43] I use cloud code extensively I'm paying for the max plan which is 100 bucks I use revenue cats\n[0:15:49] to show the revenue stats of course but also most importantly to do AB tests so for me it's around\n[0:15:56] 400 bucks a month now then I use app right for my backend and authentication and database as well\n[0:16:01] that together is 25 bucks for the AI request in the app I use open AI for the easier tasks and\n[0:16:10] anthropic for the deeper analysis that is around 200 bucks a month then Helm every iOS developer will\n[0:16:17] know the pain of using FSO Connect so this makes it a bit more hassle free I bought the lifetime plan\n[0:16:22] which is around 175 bucks and for designer use Figma but just the free plan cool well thanks for\n[0:16:30] sharing that last question that we ask all founders to come on starter story you built this awesome\n[0:16:34] business is doing over $30,000 a month in revenue congratulations if you go back in time to when\n[0:16:41] you had just started your app or when you're at $300 MRR you couldn't figure out how to crack\n[0:16:46] product market fit what would be your advice to young flow or anyone who's watching this who wants\n[0:16:51] to build apps and achieve success like you did I was very reluctant to start with meta ads because\n[0:16:57] it always looked super intimidating for me and I was always afraid it would be a waste of money or\n[0:17:02] something like that but what I noticed is my creator can make such great videos these videos you\n[0:17:08] can use to experiment with meta ads very easily we just started a few weeks ago and we already see\n[0:17:14] really great results with this so I think we could have made a lot more money if we got on that\n[0:17:19] yeah no we talked to a lot of founders who are building apps specifically who are crushing it\n[0:17:24] with ads right now yeah you got to figure out the content first the content that you run on the\n[0:17:29] ads needs to be good but there's been like two three four guys out of a dozen that are building apps\n[0:17:35] where ads are really starting to work and they can pour gasoline on the on the fire and it's working\n[0:17:41] so that's super cool to hear anybody who's watching this get started throw some money on some paid\n[0:17:45] ads and see what happens it can't hurt thank you flow for coming on to the channel and sharing\n[0:17:49] all this congratulations to what you've built it's amazing let us know in the comments which you\n[0:17:53] thought of this video any other questions if you want flow to come back on and maybe share some more\n[0:17:58] things that worked for this $30,000 per month personal finance app which I think is super cool\n[0:18:03] thanks for coming on thanks for having me all right Gus producer of starter story what did you think\n[0:18:08] of flow man I love that guy super chill and just like straightforward with his like system in terms\n[0:18:14] of the story initially what stands out to me obviously is this one influencer thing we talked a\n[0:18:20] lot of guys and this is no shade to them but I talked to a lot of guys are seeing on Twitter like\n[0:18:24] spamming TikTok dozens of sort of brain-radi content he did the exact opposite that's why I wanted\n[0:18:30] to have them on the show that that was like a different way so that's that's one thing for me yeah\n[0:18:34] one thing that I like about this is that the skin in the game aspect like I'm a little bit skeptical\n[0:18:39] of the influencer strategy of like contact a hundred influencers make a deal with 10 of them\n[0:18:45] and then one of them works out and helps you grow your business but that's as far as you can\n[0:18:50] really take it right because then you know pay them again and then it gets sort of complicated\n[0:18:56] when we talked a lot of these guys that do the influencer playbook there is usually just one influencer\n[0:19:00] that really crushed it for them even though they contacted a bunch that's kind of what he did is\n[0:19:05] he had one influencer who has skin in the game who's taking a share of the profits who's gonna\n[0:19:09] create great content and gonna be thinking about the business from an actual growth perspective\n[0:19:15] rather than just recording a video and posting it so the influencer for equity thing is something\n[0:19:19] that we there's a lot of videos on our channel that cover that influencer for equity model I think\n[0:19:25] it's gonna get bigger and I think it's really great for people like him who clearly aren't content\n[0:19:30] creators but they're good developers they can build cool stuff this I think is gonna be big the other\n[0:19:34] thing I always think about this when guys like this come on the channel is like his app is basically\n[0:19:39] yet another budget tracking essentially for myself from building something or thinking about\n[0:19:44] something I'm like oh it's already been done and this is just a good example of like yes it's\n[0:19:49] obviously yet another budget tracking app there's obviously some unique things to it that we\n[0:19:53] saw in the demo that were really cool but\n[0:19:54] but that doesn't matter.\n[0:19:56] Like what matters is the distribution\n[0:19:58] which you talk about a ton.\n[0:19:59] And obviously there's the like other markets element,\n[0:20:01] like the Colombian influence\n[0:20:03] or the whole other thing we could have driven into.\n[0:20:05] But that's what's standing out to me.\n[0:20:07] It's like, it's just another budget tracking app.\n[0:20:09] That's crazy.\n[0:20:09] And it's like 2026 and people are still making money\n[0:20:12] with this kind of stuff.\n[0:20:14] Right.\n[0:20:15] I mean, yeah, there's no clear winner\n[0:20:16] in the budget tracking space.\n[0:20:18] I don't really use something.\n[0:20:19] When he showed me his app, I was like,\n[0:20:21] oh, I kind of want to try this out.\n[0:20:22] It integrates with Apple Pay.\n[0:20:24] Like I use that so that could be kind of cool.\n[0:20:26] I immediately wanted to try it out.\n[0:20:27] So I can see the appeal and I can see how it would,\n[0:20:31] you know, it could be a popular app.\n[0:20:33] And yeah, as you mentioned,\n[0:20:35] what he did that was really smart is that\n[0:20:37] he didn't build it for people in Germany\n[0:20:40] where he lives or in the US, where we live.\n[0:20:43] He partnered with the influencer\n[0:20:45] who built it in Columbia of all places.\n[0:20:49] You can, that's a great money in Columbia, by the way.\n[0:20:52] There's so much opportunity to build popular apps.\n[0:20:55] Build the same exact app in another country\n[0:20:58] because the app stores huge in other countries.\n[0:21:01] And we talked to a lot of founders who crushed it\n[0:21:03] in the early days by targeting other countries.\n[0:21:05] France, Argentina come to mind in a couple of videos we did.\n[0:21:08] So yeah, let's put that to rest the idea\n[0:21:11] that like if it's already been built, you can't build it again.\n[0:21:14] So if you're watching this\n[0:21:15] and you've built something cool, just like Flow did,\n[0:21:18] you definitely want to check out our short form content playbook.\n[0:21:21] It is our starter story build playbook\n[0:21:23] where you can go on it's 100% free.\n[0:21:25] You can see a bunch of different content playbooks\n[0:21:27] that are working short form content playbooks\n[0:21:29] of the many founders we interviewed on starter story.\n[0:21:31] We put it all into one place so you can watch, learn,\n[0:21:34] and see what kind of content that might work for you\n[0:21:36] so you can focus on distribution.\n[0:21:38] I'll put a link to that down there in the description.\n[0:21:40] Hope you enjoy it.\n[0:21:41] Otherwise, we'll see you in the next one.\n[0:21:42] Peace."
+}

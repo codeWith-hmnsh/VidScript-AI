@@ -1,0 +1,2338 @@
+{
+    "video_url": "https://www.youtube.com/watch?v=DkmStHS8NP0",
+    "video_id": "DkmStHS8NP0",
+    "audio_file": "DkmStHS8NP0.mp3",
+    "model_used": "base",
+    "language": "en",
+    "duration": "0:23:35",
+    "number_of_chunks": 3,
+    "status": "success",
+    "quality": {
+        "score": 100,
+        "issues": [],
+        "needs_manual_review": false
+    },
+    "transcript": [
+        {
+            "start": "0:00:00",
+            "end": "0:00:02",
+            "text": "There's a well-known secret in the app space right now."
+        },
+        {
+            "start": "0:00:02",
+            "end": "0:00:07",
+            "text": "And it's arguably the fastest way to see whether your idea is good or not."
+        },
+        {
+            "start": "0:00:07",
+            "end": "0:00:10",
+            "text": "Well, I met a guy who executed this perfectly."
+        },
+        {
+            "start": "0:00:10",
+            "end": "0:00:14",
+            "text": "I had zero experience with Mumbai apps, so I wasn't as sure as good warriors."
+        },
+        {
+            "start": "0:00:14",
+            "end": "0:00:15",
+            "text": "Meet's Umberto."
+        },
+        {
+            "start": "0:00:15",
+            "end": "0:00:20",
+            "text": "He built a really simple mobile app, but instead of launching with a free trial,"
+        },
+        {
+            "start": "0:00:20",
+            "end": "0:00:21",
+            "text": "he did something different."
+        },
+        {
+            "start": "0:00:21",
+            "end": "0:00:25",
+            "text": "And in 24 hours, he made over $100,000."
+        },
+        {
+            "start": "0:00:25",
+            "end": "0:00:27",
+            "text": "This is the best way to validate your idea."
+        },
+        {
+            "start": "0:00:27",
+            "end": "0:00:30",
+            "text": "Most people might tell you this strategy is a bad idea,"
+        },
+        {
+            "start": "0:00:30",
+            "end": "0:00:33",
+            "text": "but Umberto had a playbook, and it worked."
+        },
+        {
+            "start": "0:00:33",
+            "end": "0:00:37",
+            "text": "So I asked him to come on the channel to break it all down for me."
+        },
+        {
+            "start": "0:00:37",
+            "end": "0:00:41",
+            "text": "And in this episode, we will dive into how a very simple strategy"
+        },
+        {
+            "start": "0:00:41",
+            "end": "0:00:44",
+            "text": "generated over $100,000 in a single day."
+        },
+        {
+            "start": "0:00:44",
+            "end": "0:00:47",
+            "text": "The exact email sequence you can copy for your product."
+        },
+        {
+            "start": "0:00:47",
+            "end": "0:00:52",
+            "text": "And why this strategy might be the smartest move for early stage products."
+        },
+        {
+            "start": "0:00:52",
+            "end": "0:00:55",
+            "text": "If you're building something and planning on launching soon,"
+        },
+        {
+            "start": "0:00:55",
+            "end": "0:00:57",
+            "text": "then this is one that you cannot miss."
+        },
+        {
+            "start": "0:00:57",
+            "end": "0:00:58",
+            "text": "All right, let's dive in."
+        },
+        {
+            "start": "0:00:58",
+            "end": "0:01:00",
+            "text": "I'm Pat Walsh, and this is Starter Story."
+        },
+        {
+            "start": "0:01:02",
+            "end": "0:01:03",
+            "text": "All right, guys, before we dive in,"
+        },
+        {
+            "start": "0:01:03",
+            "end": "0:01:07",
+            "text": "if after watching this episode, you feel inspired to build?"
+        },
+        {
+            "start": "0:01:07",
+            "end": "0:01:08",
+            "text": "Well, you're in luck."
+        },
+        {
+            "start": "0:01:08",
+            "end": "0:01:11",
+            "text": "We built a nine-day bootcamp that will take you from an idea"
+        },
+        {
+            "start": "0:01:11",
+            "end": "0:01:13",
+            "text": "to a real working mobile app."
+        },
+        {
+            "start": "0:01:13",
+            "end": "0:01:15",
+            "text": "And I'm going to be talking a little bit more about that later."
+        },
+        {
+            "start": "0:01:15",
+            "end": "0:01:19",
+            "text": "But for now, let's dive into this awesome episode."
+        },
+        {
+            "start": "0:01:19",
+            "end": "0:01:20",
+            "text": "All right, Umberto, welcome to the channel."
+        },
+        {
+            "start": "0:01:20",
+            "end": "0:01:23",
+            "text": "Tell me who you are, what you built and what's your story."
+        },
+        {
+            "start": "0:01:23",
+            "end": "0:01:25",
+            "text": "Thank you. I'm Umberto, founder of Floga,"
+        },
+        {
+            "start": "0:01:25",
+            "end": "0:01:28",
+            "text": "a mobile app for yoga teachers and practitioners."
+        },
+        {
+            "start": "0:01:28",
+            "end": "0:01:31",
+            "text": "We pre-launched in May 2025 with a lifetime deal"
+        },
+        {
+            "start": "0:01:31",
+            "end": "0:01:36",
+            "text": "and we generated over $120,000 in just 24 hours."
+        },
+        {
+            "start": "0:01:36",
+            "end": "0:01:40",
+            "text": "And today, I'm going to break down exactly how we generated"
+        },
+        {
+            "start": "0:01:40",
+            "end": "0:01:43",
+            "text": "those $120,000 this fast."
+        },
+        {
+            "start": "0:01:43",
+            "end": "0:01:45",
+            "text": "We're going to talk all about launching your app."
+        },
+        {
+            "start": "0:01:45",
+            "end": "0:01:47",
+            "text": "That's what hopefully this video is going to be about."
+        },
+        {
+            "start": "0:01:47",
+            "end": "0:01:48",
+            "text": "Because you did this really well."
+        },
+        {
+            "start": "0:01:48",
+            "end": "0:01:51",
+            "text": "But before we do, I just want to understand what did you build?"
+        },
+        {
+            "start": "0:01:51",
+            "end": "0:01:53",
+            "text": "It's an app, it's a product."
+        },
+        {
+            "start": "0:01:53",
+            "end": "0:01:54",
+            "text": "Can you just show me what you built"
+        },
+        {
+            "start": "0:01:54",
+            "end": "0:01:56",
+            "text": "in some of the revenue dashboards behind it?"
+        },
+        {
+            "start": "0:01:56",
+            "end": "0:02:00",
+            "text": "So, Floga is an app for yoga teachers and practitioners."
+        },
+        {
+            "start": "0:02:00",
+            "end": "0:02:02",
+            "text": "And here, I can show you a revenue cut,"
+        },
+        {
+            "start": "0:02:02",
+            "end": "0:02:05",
+            "text": "what happened during the launch days."
+        },
+        {
+            "start": "0:02:05",
+            "end": "0:02:09",
+            "text": "As you can see, we launched on May 5th at 2pm."
+        },
+        {
+            "start": "0:02:09",
+            "end": "0:02:13",
+            "text": "So by the end of the day, we generated $117,000."
+        },
+        {
+            "start": "0:02:13",
+            "end": "0:02:15",
+            "text": "So now we have a recurring revenue business model."
+        },
+        {
+            "start": "0:02:15",
+            "end": "0:02:17",
+            "text": "We have a different tier."
+        },
+        {
+            "start": "0:02:17",
+            "end": "0:02:18",
+            "text": "We have a monthly quarterly"
+        },
+        {
+            "start": "0:02:18",
+            "end": "0:02:21",
+            "text": "that is available only on our website"
+        },
+        {
+            "start": "0:02:21",
+            "end": "0:02:22",
+            "text": "and then the yearly subscription."
+        },
+        {
+            "start": "0:02:22",
+            "end": "0:02:25",
+            "text": "So at the moment, we have about 4,000 active users"
+        },
+        {
+            "start": "0:02:26",
+            "end": "0:02:28",
+            "text": "between paid and free."
+        },
+        {
+            "start": "0:02:28",
+            "end": "0:02:31",
+            "text": "Approximately right now, we're doing between $9,000"
+        },
+        {
+            "start": "0:02:31",
+            "end": "0:02:32",
+            "text": "and $10,000 more."
+        },
+        {
+            "start": "0:02:32",
+            "end": "0:02:34",
+            "text": "Okay, cool. Thanks for sharing all that,"
+        },
+        {
+            "start": "0:02:34",
+            "end": "0:02:36",
+            "text": "Unbarato, this amazing that you built this"
+        },
+        {
+            "start": "0:02:36",
+            "end": "0:02:38",
+            "text": "and crushed it on the launch."
+        },
+        {
+            "start": "0:02:38",
+            "end": "0:02:40",
+            "text": "Let's go a little bit back to your background."
+        },
+        {
+            "start": "0:02:40",
+            "end": "0:02:42",
+            "text": "How do you come up with this idea?"
+        },
+        {
+            "start": "0:02:42",
+            "end": "0:02:44",
+            "text": "How do you build this cool yoga app"
+        },
+        {
+            "start": "0:02:44",
+            "end": "0:02:45",
+            "text": "that's crushing it right now?"
+        },
+        {
+            "start": "0:02:45",
+            "end": "0:02:46",
+            "text": "What's your background?"
+        },
+        {
+            "start": "0:02:46",
+            "end": "0:02:49",
+            "text": "So my path to building an app was not linear at all."
+        },
+        {
+            "start": "0:02:49",
+            "end": "0:02:52",
+            "text": "I'm not a developer, I study economics."
+        },
+        {
+            "start": "0:02:52",
+            "end": "0:02:54",
+            "text": "I had a brief experience in the corporate world"
+        },
+        {
+            "start": "0:02:54",
+            "end": "0:02:56",
+            "text": "then in 2012 I raised a seed funding"
+        },
+        {
+            "start": "0:02:56",
+            "end": "0:02:58",
+            "text": "for a startup that failed."
+        },
+        {
+            "start": "0:02:58",
+            "end": "0:03:01",
+            "text": "And after that, I stepped away from tech completely,"
+        },
+        {
+            "start": "0:03:01",
+            "end": "0:03:02",
+            "text": "I became skin instructor,"
+        },
+        {
+            "start": "0:03:02",
+            "end": "0:03:03",
+            "text": "worked as a fashion photographer."
+        },
+        {
+            "start": "0:03:03",
+            "end": "0:03:05",
+            "text": "So I did a bunch of things."
+        },
+        {
+            "start": "0:03:05",
+            "end": "0:03:09",
+            "text": "And then I came back into the startup world around 2016"
+        },
+        {
+            "start": "0:03:09",
+            "end": "0:03:12",
+            "text": "and at the time, I was working as an advertiser"
+        },
+        {
+            "start": "0:03:12",
+            "end": "0:03:13",
+            "text": "and growth strategist"
+        },
+        {
+            "start": "0:03:13",
+            "end": "0:03:16",
+            "text": "and I helped several companies scale"
+        },
+        {
+            "start": "0:03:16",
+            "end": "0:03:17",
+            "text": "and that's where I learned"
+        },
+        {
+            "start": "0:03:17",
+            "end": "0:03:20",
+            "text": "how to launch and position products."
+        },
+        {
+            "start": "0:03:20",
+            "end": "0:03:22",
+            "text": "Then in 2020, during COVID,"
+        },
+        {
+            "start": "0:03:22",
+            "end": "0:03:24",
+            "text": "my girlfriend and I created PlayPos B"
+        },
+        {
+            "start": "0:03:24",
+            "end": "0:03:25",
+            "text": "as a side geek."
+        },
+        {
+            "start": "0:03:25",
+            "end": "0:03:28",
+            "text": "It was a brand focus on yoga decks of cards."
+        },
+        {
+            "start": "0:03:28",
+            "end": "0:03:30",
+            "text": "They tell yoga teachers and practitioners"
+        },
+        {
+            "start": "0:03:30",
+            "end": "0:03:33",
+            "text": "build their sequences and practice them mindfully."
+        },
+        {
+            "start": "0:03:33",
+            "end": "0:03:35",
+            "text": "We launched our first product on Kickstarter"
+        },
+        {
+            "start": "0:03:35",
+            "end": "0:03:38",
+            "text": "and generated over $200,000 in the first month."
+        },
+        {
+            "start": "0:03:38",
+            "end": "0:03:41",
+            "text": "And actually, the whole brand was about"
+        },
+        {
+            "start": "0:03:41",
+            "end": "0:03:43",
+            "text": "mindful screen-free practice."
+        },
+        {
+            "start": "0:03:43",
+            "end": "0:03:47",
+            "text": "So from there to basically launching a mobile app"
+        },
+        {
+            "start": "0:03:47",
+            "end": "0:03:50",
+            "text": "was kind of a big plot twist even for me."
+        },
+        {
+            "start": "0:03:50",
+            "end": "0:03:52",
+            "text": "But what happened about a year and a half ago"
+        },
+        {
+            "start": "0:03:52",
+            "end": "0:03:55",
+            "text": "is that I started feeling that what we built"
+        },
+        {
+            "start": "0:03:55",
+            "end": "0:03:58",
+            "text": "till that moment could evolve in something beaker."
+        },
+        {
+            "start": "0:03:58",
+            "end": "0:04:01",
+            "text": "And the question was, what if I took everything we created"
+        },
+        {
+            "start": "0:04:01",
+            "end": "0:04:03",
+            "text": "from the physical business"
+        },
+        {
+            "start": "0:04:03",
+            "end": "0:04:05",
+            "text": "and transform it with technology, okay?"
+        },
+        {
+            "start": "0:04:05",
+            "end": "0:04:07",
+            "text": "So bring it further with technology"
+        },
+        {
+            "start": "0:04:07",
+            "end": "0:04:08",
+            "text": "without losing the mindful core."
+        },
+        {
+            "start": "0:04:08",
+            "end": "0:04:10",
+            "text": "And the one evening I literally sit down,"
+        },
+        {
+            "start": "0:04:10",
+            "end": "0:04:13",
+            "text": "I sketched the concept of an app"
+        },
+        {
+            "start": "0:04:13",
+            "end": "0:04:16",
+            "text": "and thought, okay, we can make it."
+        },
+        {
+            "start": "0:04:16",
+            "end": "0:04:18",
+            "text": "And a few months later, I found a good developer"
+        },
+        {
+            "start": "0:04:18",
+            "end": "0:04:20",
+            "text": "and then we snapped using sugar."
+        },
+        {
+            "start": "0:04:20",
+            "end": "0:04:21",
+            "text": "Okay, cool."
+        },
+        {
+            "start": "0:04:21",
+            "end": "0:04:24",
+            "text": "So you're kind of operating in this physical world."
+        },
+        {
+            "start": "0:04:24",
+            "end": "0:04:27",
+            "text": "You've done some physical product launches on Kickstarter."
+        },
+        {
+            "start": "0:04:27",
+            "end": "0:04:29",
+            "text": "Maybe you learned a little bit about how to launch a product"
+        },
+        {
+            "start": "0:04:29",
+            "end": "0:04:31",
+            "text": "which that's what this video is going to be about today"
+        },
+        {
+            "start": "0:04:31",
+            "end": "0:04:33",
+            "text": "because when we chatted earlier,"
+        },
+        {
+            "start": "0:04:33",
+            "end": "0:04:36",
+            "text": "you mentioned that from essentially scratch,"
+        },
+        {
+            "start": "0:04:36",
+            "end": "0:04:40",
+            "text": "you generated over $100,000 in the first 24 hours"
+        },
+        {
+            "start": "0:04:40",
+            "end": "0:04:44",
+            "text": "with this kind of launch playbook, this LTD playbook,"
+        },
+        {
+            "start": "0:04:44",
+            "end": "0:04:47",
+            "text": "which I think is like one of the most effective ways"
+        },
+        {
+            "start": "0:04:47",
+            "end": "0:04:48",
+            "text": "to just get off the ground running."
+        },
+        {
+            "start": "0:04:48",
+            "end": "0:04:49",
+            "text": "If you're launching an app,"
+        },
+        {
+            "start": "0:04:49",
+            "end": "0:04:51",
+            "text": "if you're launching a project, if you're launching anything,"
+        },
+        {
+            "start": "0:04:51",
+            "end": "0:04:53",
+            "text": "can you tell me a little bit more about that?"
+        },
+        {
+            "start": "0:04:53",
+            "end": "0:04:55",
+            "text": "How are you able to build something"
+        },
+        {
+            "start": "0:04:55",
+            "end": "0:04:57",
+            "text": "and then make $100,000 in essentially 24 hours?"
+        },
+        {
+            "start": "0:04:57",
+            "end": "0:04:58",
+            "text": "What happened?"
+        },
+        {
+            "start": "0:04:58",
+            "end": "0:05:01",
+            "text": "Okay, so a lifetime deal basically is a deal"
+        },
+        {
+            "start": "0:05:01",
+            "end": "0:05:05",
+            "text": "where a user pay for lifetime access to the app."
+        },
+        {
+            "start": "0:05:05",
+            "end": "0:05:07",
+            "text": "So the first thing I did was to figure out"
+        },
+        {
+            "start": "0:05:07",
+            "end": "0:05:08",
+            "text": "the long term vision of the app"
+        },
+        {
+            "start": "0:05:08",
+            "end": "0:05:12",
+            "text": "and decide when we would have been ready to start monetizing."
+        },
+        {
+            "start": "0:05:12",
+            "end": "0:05:16",
+            "text": "And my approach here is always to monetize as early as you can."
+        },
+        {
+            "start": "0:05:16",
+            "end": "0:05:18",
+            "text": "So I prefer to build the product"
+        },
+        {
+            "start": "0:05:18",
+            "end": "0:05:22",
+            "text": "and simultaneously building a revenue engine that sustains it."
+        },
+        {
+            "start": "0:05:22",
+            "end": "0:05:25",
+            "text": "We looked at what was the minimum set of features"
+        },
+        {
+            "start": "0:05:25",
+            "end": "0:05:27",
+            "text": "that we needed to basically produce people"
+        },
+        {
+            "start": "0:05:27",
+            "end": "0:05:28",
+            "text": "to get a laugh from deal."
+        },
+        {
+            "start": "0:05:28",
+            "end": "0:05:30",
+            "text": "Then I planned the whole launch sequence"
+        },
+        {
+            "start": "0:05:30",
+            "end": "0:05:32",
+            "text": "or email, any page, videos,"
+        },
+        {
+            "start": "0:05:32",
+            "end": "0:05:34",
+            "text": "art, creative, or the full machine."
+        },
+        {
+            "start": "0:05:34",
+            "end": "0:05:35",
+            "text": "At the same time,"
+        },
+        {
+            "start": "0:05:35",
+            "end": "0:05:37",
+            "text": "I also did some regeneration to reach people"
+        },
+        {
+            "start": "0:05:37",
+            "end": "0:05:39",
+            "text": "that never heard about us."
+        },
+        {
+            "start": "0:05:39",
+            "end": "0:05:42",
+            "text": "So there there was a totally different approach of course."
+        },
+        {
+            "start": "0:05:42",
+            "end": "0:05:45",
+            "text": "And basically after a few weeks of warming up the audience"
+        },
+        {
+            "start": "0:05:45",
+            "end": "0:05:48",
+            "text": "and showing off course, the app."
+        },
+        {
+            "start": "0:05:48",
+            "end": "0:05:50",
+            "text": "So basically what I did is to record a YouTube video"
+        },
+        {
+            "start": "0:05:50",
+            "end": "0:05:55",
+            "text": "where I went through exactly all the teacher pressing the app."
+        },
+        {
+            "start": "0:05:55",
+            "end": "0:05:57",
+            "text": "And I basically said, okay, that is gonna,"
+        },
+        {
+            "start": "0:05:57",
+            "end": "0:05:59",
+            "text": "it's worked like this right now."
+        },
+        {
+            "start": "0:05:59",
+            "end": "0:06:02",
+            "text": "We're gonna develop these other features."
+        },
+        {
+            "start": "0:06:02",
+            "end": "0:06:05",
+            "text": "If you want it, you can get it now lifetime"
+        },
+        {
+            "start": "0:06:05",
+            "end": "0:06:07",
+            "text": "but there is absolutely no refound."
+        },
+        {
+            "start": "0:06:07",
+            "end": "0:06:08",
+            "text": "If you want to try it,"
+        },
+        {
+            "start": "0:06:08",
+            "end": "0:06:11",
+            "text": "you're gonna wait for a couple of months"
+        },
+        {
+            "start": "0:06:11",
+            "end": "0:06:13",
+            "text": "till when we open the subscription plans."
+        },
+        {
+            "start": "0:06:13",
+            "end": "0:06:15",
+            "text": "So we got around,"
+        },
+        {
+            "start": "0:06:15",
+            "end": "0:06:19",
+            "text": "if I remember well, between 500 and 600 early customers."
+        },
+        {
+            "start": "0:06:19",
+            "end": "0:06:20",
+            "text": "And that was extremely valuable"
+        },
+        {
+            "start": "0:06:20",
+            "end": "0:06:25",
+            "text": "because if someone invested is going to be interested"
+        },
+        {
+            "start": "0:06:25",
+            "end": "0:06:26",
+            "text": "in making the app work"
+        },
+        {
+            "start": "0:06:26",
+            "end": "0:06:28",
+            "text": "so it's gonna give you some very good suggestion,"
+        },
+        {
+            "start": "0:06:28",
+            "end": "0:06:31",
+            "text": "it's gonna chill you up even."
+        },
+        {
+            "start": "0:06:31",
+            "end": "0:06:34",
+            "text": "So the value you get out of this is huge really"
+        },
+        {
+            "start": "0:06:34",
+            "end": "0:06:38",
+            "text": "because a lot of feature we introduced in the next months"
+        },
+        {
+            "start": "0:06:38",
+            "end": "0:06:41",
+            "text": "were based on the feedback we were receiving"
+        },
+        {
+            "start": "0:06:41",
+            "end": "0:06:42",
+            "text": "from this user user."
+        },
+        {
+            "start": "0:06:42",
+            "end": "0:06:44",
+            "text": "We could have not done it without that."
+        },
+        {
+            "start": "0:06:44",
+            "end": "0:06:48",
+            "text": "Personally, I love how Umberto is sharing everything"
+        },
+        {
+            "start": "0:06:48",
+            "end": "0:06:51",
+            "text": "about how he made $100,000 in a single day."
+        },
+        {
+            "start": "0:06:51",
+            "end": "0:06:53",
+            "text": "But we can sit here and learn"
+        },
+        {
+            "start": "0:06:53",
+            "end": "0:06:55",
+            "text": "from every launch strategy in the world"
+        },
+        {
+            "start": "0:06:55",
+            "end": "0:06:57",
+            "text": "but none of that matters if you never build anything."
+        },
+        {
+            "start": "0:06:57",
+            "end": "0:07:00",
+            "text": "And that is why we created the iOS playbook."
+        },
+        {
+            "start": "0:07:00",
+            "end": "0:07:03",
+            "text": "It's a nine day sprint where you will go from an idea"
+        },
+        {
+            "start": "0:07:03",
+            "end": "0:07:06",
+            "text": "to a real working app in the app store."
+        },
+        {
+            "start": "0:07:06",
+            "end": "0:07:08",
+            "text": "And you'll do all that without writing"
+        },
+        {
+            "start": "0:07:08",
+            "end": "0:07:10",
+            "text": "a single line of code yourself."
+        },
+        {
+            "start": "0:07:10",
+            "end": "0:07:11",
+            "text": "We'll walk you through everything,"
+        },
+        {
+            "start": "0:07:11",
+            "end": "0:07:15",
+            "text": "generating ideas with AI, building with AI,"
+        },
+        {
+            "start": "0:07:15",
+            "end": "0:07:16",
+            "text": "designing your app,"
+        },
+        {
+            "start": "0:07:16",
+            "end": "0:07:18",
+            "text": "and actually getting it live on the app store."
+        },
+        {
+            "start": "0:07:18",
+            "end": "0:07:20",
+            "text": "Once you build your app idea,"
+        },
+        {
+            "start": "0:07:20",
+            "end": "0:07:22",
+            "text": "then you can start putting Umberto's launch playbook"
+        },
+        {
+            "start": "0:07:22",
+            "end": "0:07:23",
+            "text": "into practice."
+        },
+        {
+            "start": "0:07:23",
+            "end": "0:07:26",
+            "text": "So if you're serious about building your first app,"
+        },
+        {
+            "start": "0:07:26",
+            "end": "0:07:28",
+            "text": "just hit that link in the description below"
+        },
+        {
+            "start": "0:07:28",
+            "end": "0:07:30",
+            "text": "to start your nine day journey for free."
+        },
+        {
+            "start": "0:07:30",
+            "end": "0:07:32",
+            "text": "All right, let's get back to the episode."
+        },
+        {
+            "start": "0:07:32",
+            "end": "0:07:34",
+            "text": "Okay, yeah, so this is the thing that when I talk"
+        },
+        {
+            "start": "0:07:34",
+            "end": "0:07:36",
+            "text": "to a lot of founders and they question"
+        },
+        {
+            "start": "0:07:36",
+            "end": "0:07:37",
+            "text": "doing a lifetime deal,"
+        },
+        {
+            "start": "0:07:37",
+            "end": "0:07:38",
+            "text": "like I'll never be able to get revenue"
+        },
+        {
+            "start": "0:07:38",
+            "end": "0:07:39",
+            "text": "from these users in the future."
+        },
+        {
+            "start": "0:07:39",
+            "end": "0:07:42",
+            "text": "But my feedback and what you mentioned there"
+        },
+        {
+            "start": "0:07:42",
+            "end": "0:07:45",
+            "text": "is that the most important thing is just to get people"
+        },
+        {
+            "start": "0:07:45",
+            "end": "0:07:46",
+            "text": "to care and commit to your app"
+        },
+        {
+            "start": "0:07:46",
+            "end": "0:07:48",
+            "text": "and get these early users."
+        },
+        {
+            "start": "0:07:48",
+            "end": "0:07:49",
+            "text": "Don't think about these users as users"
+        },
+        {
+            "start": "0:07:49",
+            "end": "0:07:51",
+            "text": "who won't be able to get revenue in the future"
+        },
+        {
+            "start": "0:07:51",
+            "end": "0:07:55",
+            "text": "from thinking these users as really, really valuable data"
+        },
+        {
+            "start": "0:07:55",
+            "end": "0:07:57",
+            "text": "and people that may spread the word about your app"
+        },
+        {
+            "start": "0:07:57",
+            "end": "0:07:59",
+            "text": "or show your app to other people."
+        },
+        {
+            "start": "0:07:59",
+            "end": "0:08:03",
+            "text": "And as long as you do the LTD over a short period of time,"
+        },
+        {
+            "start": "0:08:03",
+            "end": "0:08:05",
+            "text": "you get to pull forward all these committed users"
+        },
+        {
+            "start": "0:08:05",
+            "end": "0:08:09",
+            "text": "who may not actually use your app if there was a free trial"
+        },
+        {
+            "start": "0:08:09",
+            "end": "0:08:10",
+            "text": "or they weren't there."
+        },
+        {
+            "start": "0:08:10",
+            "end": "0:08:13",
+            "text": "So it's almost like building an early community."
+        },
+        {
+            "start": "0:08:13",
+            "end": "0:08:14",
+            "text": "I think it's one of the best ways"
+        },
+        {
+            "start": "0:08:14",
+            "end": "0:08:16",
+            "text": "to launch an app if you're bootstrapping."
+        },
+        {
+            "start": "0:08:16",
+            "end": "0:08:17",
+            "text": "Like you are, so that's super cool."
+        },
+        {
+            "start": "0:08:17",
+            "end": "0:08:21",
+            "text": "I want to dive in a little deeper to the actual launch sequence"
+        },
+        {
+            "start": "0:08:21",
+            "end": "0:08:23",
+            "text": "because you mentioned that you're able to basically send out"
+        },
+        {
+            "start": "0:08:23",
+            "end": "0:08:26",
+            "text": "some emails and then generate $100,000."
+        },
+        {
+            "start": "0:08:26",
+            "end": "0:08:30",
+            "text": "I'd love if you could dive in deeper to that launch sequence."
+        },
+        {
+            "start": "0:08:30",
+            "end": "0:08:31",
+            "text": "Like what did the emails look like?"
+        },
+        {
+            "start": "0:08:31",
+            "end": "0:08:32",
+            "text": "What was the strategy?"
+        },
+        {
+            "start": "0:08:32",
+            "end": "0:08:36",
+            "text": "How are you able to generate $100,000 in essentially 24 hours?"
+        },
+        {
+            "start": "0:08:36",
+            "end": "0:08:39",
+            "text": "So here we have some of the emails we send"
+        },
+        {
+            "start": "0:08:39",
+            "end": "0:08:41",
+            "text": "during the pre-launch sequence."
+        },
+        {
+            "start": "0:08:41",
+            "end": "0:08:44",
+            "text": "The pre-launch lasted for about a month and one week."
+        },
+        {
+            "start": "0:08:44",
+            "end": "0:08:46",
+            "text": "These emails, the most representative"
+        },
+        {
+            "start": "0:08:46",
+            "end": "0:08:49",
+            "text": "we transformed them in some blog posts."
+        },
+        {
+            "start": "0:08:49",
+            "end": "0:08:51",
+            "text": "And here there is a storytelling."
+        },
+        {
+            "start": "0:08:51",
+            "end": "0:08:54",
+            "text": "We don't reveal anything yet, but we create interest."
+        },
+        {
+            "start": "0:08:54",
+            "end": "0:08:56",
+            "text": "And we put the basis for people to understand"
+        },
+        {
+            "start": "0:08:56",
+            "end": "0:08:59",
+            "text": "what we're going to show them in the following weeks."
+        },
+        {
+            "start": "0:08:59",
+            "end": "0:09:03",
+            "text": "Then in the second email, there is still some storytelling going on,"
+        },
+        {
+            "start": "0:09:03",
+            "end": "0:09:04",
+            "text": "but we reveal a bit more."
+        },
+        {
+            "start": "0:09:04",
+            "end": "0:09:08",
+            "text": "Here we create a bit of confusion towards our users,"
+        },
+        {
+            "start": "0:09:08",
+            "end": "0:09:13",
+            "text": "our existing list, meaning that we put our physical product"
+        },
+        {
+            "start": "0:09:13",
+            "end": "0:09:15",
+            "text": "on the back and then something in front,"
+        },
+        {
+            "start": "0:09:15",
+            "end": "0:09:19",
+            "text": "which they can suspect is another physical product"
+        },
+        {
+            "start": "0:09:19",
+            "end": "0:09:21",
+            "text": "or something completely different."
+        },
+        {
+            "start": "0:09:21",
+            "end": "0:09:23",
+            "text": "So we create a lot of curiosity."
+        },
+        {
+            "start": "0:09:23",
+            "end": "0:09:25",
+            "text": "And then here there is another email."
+        },
+        {
+            "start": "0:09:25",
+            "end": "0:09:28",
+            "text": "I don't remember if we sent other emails."
+        },
+        {
+            "start": "0:09:28",
+            "end": "0:09:30",
+            "text": "These are just the most representative ones."
+        },
+        {
+            "start": "0:09:30",
+            "end": "0:09:35",
+            "text": "But here we unveiled basically what was behind the red curtain"
+        },
+        {
+            "start": "0:09:35",
+            "end": "0:09:36",
+            "text": "and we showed up."
+        },
+        {
+            "start": "0:09:36",
+            "end": "0:09:41",
+            "text": "And we explained pretty shortly why we did it"
+        },
+        {
+            "start": "0:09:41",
+            "end": "0:09:44",
+            "text": "and we linked to a video where we present,"
+        },
+        {
+            "start": "0:09:44",
+            "end": "0:09:48",
+            "text": "where I presented the app at that specific moment."
+        },
+        {
+            "start": "0:09:48",
+            "end": "0:09:51",
+            "text": "And then we build up towards the launch"
+        },
+        {
+            "start": "0:09:51",
+            "end": "0:09:57",
+            "text": "and towards the end of the pre-launch, as I like to call it,"
+        },
+        {
+            "start": "0:09:57",
+            "end": "0:10:00",
+            "text": "we explain how it's going to work with..."
+        },
+        {
+            "start": "0:10:02",
+            "end": "0:10:10",
+            "text": "which are always limited in a number and limited in timeframes. And this gives to Lever to basically"
+        },
+        {
+            "start": "0:10:10",
+            "end": "0:10:16",
+            "text": "reduce the procrastination that basically everyone has, and it works very, very effectively."
+        },
+        {
+            "start": "0:10:16",
+            "end": "0:10:22",
+            "text": "And another thing I never, ever show the price, the product before the day of launch,"
+        },
+        {
+            "start": "0:10:22",
+            "end": "0:10:28",
+            "text": "because otherwise, people are going to make the person this decision based on price."
+        },
+        {
+            "start": "0:10:28",
+            "end": "0:10:34",
+            "text": "During the format campaign, they need only to evaluate the purchase of the product based on"
+        },
+        {
+            "start": "0:10:34",
+            "end": "0:10:40",
+            "text": "the features and the long term vision. Okay, if you put the price, you kind of"
+        },
+        {
+            "start": "0:10:40",
+            "end": "0:10:43",
+            "text": "ruin the whole thing because there is going to be this other element that they cannot"
+        },
+        {
+            "start": "0:10:43",
+            "end": "0:10:47",
+            "text": "unsee anymore. And so, never show the flat price before the extra launch date."
+        },
+        {
+            "start": "0:10:47",
+            "end": "0:10:51",
+            "text": "Okay, I'm Barato. Thank you for showing this. I mean, this is amazing that you publish all this"
+        },
+        {
+            "start": "0:10:51",
+            "end": "0:10:56",
+            "text": "on your blog for anyone to read and be helpful for anyone who wants to watch a lifetime deal."
+        },
+        {
+            "start": "0:10:56",
+            "end": "0:11:01",
+            "text": "If you've made it this far into the video, I just want to say that this right here is amazing."
+        },
+        {
+            "start": "0:11:01",
+            "end": "0:11:06",
+            "text": "Like, this is so helpful for people who want to launch something and maximize that launch."
+        },
+        {
+            "start": "0:11:06",
+            "end": "0:11:10",
+            "text": "If you're watching this, we'll put a link in the description for you to be able to download all"
+        },
+        {
+            "start": "0:11:10",
+            "end": "0:11:14",
+            "text": "these. My recommendation, if you're launching anything, maybe take these, copy them,"
+        },
+        {
+            "start": "0:11:14",
+            "end": "0:11:19",
+            "text": "plug them into an LLM and see how you can kind of build this sequence for your product"
+        },
+        {
+            "start": "0:11:20",
+            "end": "0:11:25",
+            "text": "because the building of curiosity and the positioning that you had is really, really smart."
+        },
+        {
+            "start": "0:11:25",
+            "end": "0:11:30",
+            "text": "And I imagine you got, I imagine you learned a lot of this from your experience with physical"
+        },
+        {
+            "start": "0:11:30",
+            "end": "0:11:34",
+            "text": "products and Kickstarter. This is something that I see a lot of people successful with launches,"
+        },
+        {
+            "start": "0:11:34",
+            "end": "0:11:38",
+            "text": "do something similar to this. So thank you for sharing that. I want to talk a little bit more"
+        },
+        {
+            "start": "0:11:38",
+            "end": "0:11:43",
+            "text": "about coming up with a great product idea, a product idea that's going to sell well if you were"
+        },
+        {
+            "start": "0:11:43",
+            "end": "0:11:48",
+            "text": "to do a launch. What would be your playbook if you were starting over with all your experience in"
+        },
+        {
+            "start": "0:11:48",
+            "end": "0:11:53",
+            "text": "building digital products and having successful launches? We'll be your playbook if you had to start"
+        },
+        {
+            "start": "0:11:53",
+            "end": "0:11:57",
+            "text": "over right now for anyone watching this who wants to have a great launch. Well, step one,"
+        },
+        {
+            "start": "0:11:57",
+            "end": "0:12:03",
+            "text": "validate before you build, before you even write a line of code or start building the actual product,"
+        },
+        {
+            "start": "0:12:03",
+            "end": "0:12:09",
+            "text": "I would talk to five to ten people in your target market. Ask them about the problem you're trying"
+        },
+        {
+            "start": "0:12:09",
+            "end": "0:12:16",
+            "text": "to solve but never tell them why you're asking. So you want an unbiased honest reaction, okay? So in"
+        },
+        {
+            "start": "0:12:16",
+            "end": "0:12:21",
+            "text": "our case, we did this with some of our physical product customers and we got some really good feedback"
+        },
+        {
+            "start": "0:12:21",
+            "end": "0:12:25",
+            "text": "exactly because we didn't lead them. And there is a great book about how to do this properly. I"
+        },
+        {
+            "start": "0:12:25",
+            "end": "0:12:31",
+            "text": "suggest you to read it is called the month test. It's very simple and it gives some interesting"
+        },
+        {
+            "start": "0:12:31",
+            "end": "0:12:37",
+            "text": "insight about this. As a second step, I would put define your minimum launchable product. So once"
+        },
+        {
+            "start": "0:12:37",
+            "end": "0:12:42",
+            "text": "you have validated your idea, the next question is, what is the minimum development stage where the"
+        },
+        {
+            "start": "0:12:42",
+            "end": "0:12:47",
+            "text": "app can convey, the app of the product can convey enough value to get early adopters to pay for it."
+        },
+        {
+            "start": "0:12:47",
+            "end": "0:12:53",
+            "text": "Once you know what that looks like and also you have an estimate of how long it takes to build it,"
+        },
+        {
+            "start": "0:12:53",
+            "end": "0:13:00",
+            "text": "you can start planning everything else around that timeline. And then step three, build your content"
+        },
+        {
+            "start": "0:13:00",
+            "end": "0:13:06",
+            "text": "machine before you start promoting and that's extremely important. So before you start in"
+        },
+        {
+            "start": "0:13:06",
+            "end": "0:13:11",
+            "text": "lead generation or lead nurturing, you need a buffer of content ready to go. So email graphics,"
+        },
+        {
+            "start": "0:13:11",
+            "end": "0:13:17",
+            "text": "details, landing pages, all of it. And there is another important thing which is put yourself in"
+        },
+        {
+            "start": "0:13:17",
+            "end": "0:13:22",
+            "text": "the user's shoes because there are things that are obvious to you that are building the product,"
+        },
+        {
+            "start": "0:13:22",
+            "end": "0:13:28",
+            "text": "but needs to be explained simply and clearly to the end user. Okay? So for example, when we launched"
+        },
+        {
+            "start": "0:13:28",
+            "end": "0:13:34",
+            "text": "our physical products, nobody knew us. So we had to create trust and also educate them on the"
+        },
+        {
+            "start": "0:13:34",
+            "end": "0:13:39",
+            "text": "specific platform so that when they had to make the choice, they were ready to do it without"
+        },
+        {
+            "start": "0:13:39",
+            "end": "0:13:44",
+            "text": "stations or doubts. Step four, pricing, this part is crucial. Don't just throw a number,"
+        },
+        {
+            "start": "0:13:44",
+            "end": "0:13:49",
+            "text": "structure it, and I see a lot of founders that price it very low because they are scared that"
+        },
+        {
+            "start": "0:13:49",
+            "end": "0:13:54",
+            "text": "nobody will buy because the product is not ready and for other reasons. And I believe this is a mistake"
+        },
+        {
+            "start": "0:13:54",
+            "end": "0:13:59",
+            "text": "because you're leaving a serious money on the table. So what I did was create three tiers. The first"
+        },
+        {
+            "start": "0:13:59",
+            "end": "0:14:06",
+            "text": "tier gave you lifetime access to a limited set of features and the price was around $109. The second"
+        },
+        {
+            "start": "0:14:06",
+            "end": "0:14:13",
+            "text": "tier, in our case, we price it at around $199 and we included more features and then the third tier"
+        },
+        {
+            "start": "0:14:13",
+            "end": "0:14:19",
+            "text": "you give every new plan to build. So the food vision and in our case, we price it at $349. Also,"
+        },
+        {
+            "start": "0:14:19",
+            "end": "0:14:24",
+            "text": "the psychology here is that the first two tiers actually help to sell the most expensive one"
+        },
+        {
+            "start": "0:14:24",
+            "end": "0:14:30",
+            "text": "because they create a sort of reference and they also capture those skeptical users that are"
+        },
+        {
+            "start": "0:14:30",
+            "end": "0:14:37",
+            "text": "not really sure about the product. Then step six, launch mechanics, I recommend you to be completely"
+        },
+        {
+            "start": "0:14:37",
+            "end": "0:14:43",
+            "text": "transparent, show how gap is working, be clear about exactly what is there, what are the"
+        },
+        {
+            "start": "0:14:43",
+            "end": "0:14:48",
+            "text": "current limitations and how so new you plan to improve it, and then set a clear line, so door"
+        },
+        {
+            "start": "0:14:48",
+            "end": "0:14:53",
+            "text": "founds. Otherwise, your life time deal gets jeopardized. And if someone has some doubts or want to"
+        },
+        {
+            "start": "0:14:53",
+            "end": "0:14:58",
+            "text": "try it first, they can wait for the subscription model, which is going to come afterwards. Again,"
+        },
+        {
+            "start": "0:14:58",
+            "end": "0:15:04",
+            "text": "another thing, limited the time and limited the number of spots. So five to seven days maximum"
+        },
+        {
+            "start": "0:15:04",
+            "end": "0:15:09",
+            "text": "in my opinion, these forced people to make a decision instead of procrastinating. And this worked"
+        },
+        {
+            "start": "0:15:09",
+            "end": "0:15:13",
+            "text": "very well. Okay, cool. So I mean, that's an awesome playbook. I think a lot of people watching this,"
+        },
+        {
+            "start": "0:15:13",
+            "end": "0:15:17",
+            "text": "especially if they're building bootstrap, they're trying to have a great launch to really kick off"
+        },
+        {
+            "start": "0:15:17",
+            "end": "0:15:21",
+            "text": "their product and set it out for success. This is amazing. So thank you for sharing that."
+        },
+        {
+            "start": "0:15:21",
+            "end": "0:15:28",
+            "text": "I want to push back a little bit on the idea of lifetime deals. If you were to ask an investor"
+        },
+        {
+            "start": "0:15:28",
+            "end": "0:15:35",
+            "text": "or someone that's more raising money for their business, they might say something like"
+        },
+        {
+            "start": "0:15:35",
+            "end": "0:15:40",
+            "text": "lifetime deals are bad because you're foregoing, foregoing, all future revenue from a customer."
+        },
+        {
+            "start": "0:15:40",
+            "end": "0:15:46",
+            "text": "And on paper, if someone were to value your business, they might say, well, actually, it's not that"
+        },
+        {
+            "start": "0:15:46",
+            "end": "0:15:51",
+            "text": "valuable because you've gotten all the revenue upfront. And then there's now no more opportunities"
+        },
+        {
+            "start": "0:15:51",
+            "end": "0:15:56",
+            "text": "for revenue generation. So what do you think about this? Do you regret doing the lifetime deal"
+        },
+        {
+            "start": "0:15:56",
+            "end": "0:16:01",
+            "text": "at all? And what would be your response to this? So no, I don't regret doing a lifetime deal"
+        },
+        {
+            "start": "0:16:01",
+            "end": "0:16:06",
+            "text": "because I strongly believe that when you're early, you don't have data. You don't know your"
+        },
+        {
+            "start": "0:16:06",
+            "end": "0:16:12",
+            "text": "LTV. You don't know your turn. You basically have assumptions, right? And a lifetime deal converts"
+        },
+        {
+            "start": "0:16:12",
+            "end": "0:16:18",
+            "text": "those assumptions into real money in your bank account. There is another thing that people don't"
+        },
+        {
+            "start": "0:16:18",
+            "end": "0:16:23",
+            "text": "talk about that much. This is an incentive. Monthly subscribers have optionality. Okay,"
+        },
+        {
+            "start": "0:16:23",
+            "end": "0:16:29",
+            "text": "lifetime buyer has commitment and this change everything. So someone paying month to month,"
+        },
+        {
+            "start": "0:16:29",
+            "end": "0:16:35",
+            "text": "if something breaks or if there is a bug can just stop the subscription, give you maybe a bad"
+        },
+        {
+            "start": "0:16:35",
+            "end": "0:16:42",
+            "text": "review and the no feedback while somebody that purchased the app, okay, is interested in"
+        },
+        {
+            "start": "0:16:42",
+            "end": "0:16:47",
+            "text": "to making the app amazing. So they're going to report bugs, they're going to send detailed feedback."
+        },
+        {
+            "start": "0:16:47",
+            "end": "0:16:53",
+            "text": "In our case, we even created a telegram group with all these early adopters. And this has brought"
+        },
+        {
+            "start": "0:16:53",
+            "end": "0:16:59",
+            "text": "as enormous value. Last but not least, there is a lot of people that just hate subscriptions."
+        },
+        {
+            "start": "0:17:00",
+            "end": "0:17:06",
+            "text": "Among these people, the willingness to pay lifetime is easily three to five time more compared to"
+        },
+        {
+            "start": "0:17:06",
+            "end": "0:17:13",
+            "text": "a yearly plan. So if you do the math right, early stage, a lifetime deal is the smartest move you can"
+        },
+        {
+            "start": "0:17:13",
+            "end": "0:17:20",
+            "text": "make. You're basically raising capital from your customers without giving away equity, control,"
+        },
+        {
+            "start": "0:17:20",
+            "end": "0:17:26",
+            "text": "board seats and getting amazing feedback. So I don't think there is anything better than this."
+        },
+        {
+            "start": "0:17:26",
+            "end": "0:17:31",
+            "text": "Yeah, I mean, I agree. Sometimes I think about lifetime deals is just a pricing strategy. If you"
+        },
+        {
+            "start": "0:17:31",
+            "end": "0:17:36",
+            "text": "can understand, if someone's going to subscribe to your app for 24 months, what is the total amount"
+        },
+        {
+            "start": "0:17:36",
+            "end": "0:17:39",
+            "text": "of revenue you're going to get from that? Well, you can price your lifetime deal, collect, they"
+        },
+        {
+            "start": "0:17:39",
+            "end": "0:17:43",
+            "text": "cash up front. If you do that, you're really not missing out technically on revenue. So I think"
+        },
+        {
+            "start": "0:17:43",
+            "end": "0:17:47",
+            "text": "that's cool. I want to switch topics a little bit and understand what you built. Would you be able"
+        },
+        {
+            "start": "0:17:47",
+            "end": "0:17:53",
+            "text": "to give me a little demo of this yoga app that you built? I'd love to see. Yes, of course,"
+        },
+        {
+            "start": "0:17:53",
+            "end": "0:17:59",
+            "text": "this on the top is our first feature. It's called Sequence Builders. So you tap on yoga style and"
+        },
+        {
+            "start": "0:17:59",
+            "end": "0:18:03",
+            "text": "you have a bunch of poses. Okay, this is Zata Villanasa. It's very intuitive. You can swipe up,"
+        },
+        {
+            "start": "0:18:03",
+            "end": "0:18:10",
+            "text": "you select the pose, you can filter by category, chart class benefit. We even have an intelligent"
+        },
+        {
+            "start": "0:18:10",
+            "end": "0:18:17",
+            "text": "feature which suggests you poses that makes sense after the one you have selected, basically."
+        },
+        {
+            "start": "0:18:17",
+            "end": "0:18:23",
+            "text": "And if you tap on a pose, you also have detailed videos about how the pose is going to work."
+        },
+        {
+            "start": "0:18:23",
+            "end": "0:18:29",
+            "text": "There is a ton of useful information for teachers and practitioners. And then, tapping next,"
+        },
+        {
+            "start": "0:18:29",
+            "end": "0:18:35",
+            "text": "you can personalize further. You can move things around. You can personalize the time and each pose"
+        },
+        {
+            "start": "0:18:36",
+            "end": "0:18:41",
+            "text": "right off the left side. You can go on the detail again. And then you can start your practice and"
+        },
+        {
+            "start": "0:18:41",
+            "end": "0:18:47",
+            "text": "you're basically going to be guided on your personalized practice that you have built."
+        },
+        {
+            "start": "0:18:47",
+            "end": "0:18:51",
+            "text": "Cool. Okay. Well, let's on that note, I'd be curious. What's the tech stack behind this app that"
+        },
+        {
+            "start": "0:18:51",
+            "end": "0:18:58",
+            "text": "generated $100,000 in about 24 hours? So we use Platter for the development fire base,"
+        },
+        {
+            "start": "0:18:58",
+            "end": "0:19:05",
+            "text": "which costs us around $25 a month. Then revenue cut to handle subscription. And we host the video"
+        },
+        {
+            "start": "0:19:05",
+            "end": "0:19:10",
+            "text": "on Vimeo. We already have Vimeo for our other business. So the videos are there. And one"
+        },
+        {
+            "start": "0:19:10",
+            "end": "0:19:14",
+            "text": "signal for push notifications. Okay, well, thanks for sharing that. Last question that we ask"
+        },
+        {
+            "start": "0:19:14",
+            "end": "0:19:18",
+            "text": "all founders to come on starter story. If you could go back in time and give yourself advice"
+        },
+        {
+            "start": "0:19:18",
+            "end": "0:19:23",
+            "text": "before launching this digital product, or even before you got started in entrepreneurship,"
+        },
+        {
+            "start": "0:19:23",
+            "end": "0:19:28",
+            "text": "what would be your advice to young Amberto or anyone watching this who wants to do what you do?"
+        },
+        {
+            "start": "0:19:28",
+            "end": "0:19:33",
+            "text": "Well, stop waiting for perfect. Perfection is just fear these guys in"
+        },
+        {
+            "start": "0:19:33",
+            "end": "0:19:38",
+            "text": "preparation. The real breakthrough happens. The moment you put something which might be"
+        },
+        {
+            "start": "0:19:38",
+            "end": "0:19:43",
+            "text": "unfinished in front of real people. And then you get feedback. Feedback can be uncomfortable."
+        },
+        {
+            "start": "0:19:43",
+            "end": "0:19:47",
+            "text": "And so if I could speak to myself, to my old self, I'd say who's sooner,"
+        },
+        {
+            "start": "0:19:47",
+            "end": "0:19:52",
+            "text": "ship earlier and trust the process. And then you learn fast in public and you will ever"
+        },
+        {
+            "start": "0:19:52",
+            "end": "0:19:57",
+            "text": "go in private. Well, that's great advice. Thank you."
+        },
+        {
+            "start": "0:19:56",
+            "end": "0:19:59",
+            "text": "Sharing all this, being so open about the launch sequence."
+        },
+        {
+            "start": "0:19:59",
+            "end": "0:20:00",
+            "text": "I think it's gonna be really helpful"
+        },
+        {
+            "start": "0:20:00",
+            "end": "0:20:01",
+            "text": "for a lot of people watching."
+        },
+        {
+            "start": "0:20:01",
+            "end": "0:20:03",
+            "text": "Let us know in the comments what you thought"
+        },
+        {
+            "start": "0:20:03",
+            "end": "0:20:05",
+            "text": "about this launch strategy, lifetime deals."
+        },
+        {
+            "start": "0:20:05",
+            "end": "0:20:07",
+            "text": "I love it, thanks for coming on."
+        },
+        {
+            "start": "0:20:07",
+            "end": "0:20:08",
+            "text": "Thank you."
+        },
+        {
+            "start": "0:20:08",
+            "end": "0:20:10",
+            "text": "Producer Gus, what do you think about this one?"
+        },
+        {
+            "start": "0:20:10",
+            "end": "0:20:12",
+            "text": "I thought the coolest part was,"
+        },
+        {
+            "start": "0:20:12",
+            "end": "0:20:13",
+            "text": "yeah, I really like how you broke down"
+        },
+        {
+            "start": "0:20:13",
+            "end": "0:20:15",
+            "text": "like all the email sequences,"
+        },
+        {
+            "start": "0:20:15",
+            "end": "0:20:17",
+            "text": "like how he warmed up his audience."
+        },
+        {
+            "start": "0:20:17",
+            "end": "0:20:18",
+            "text": "It was really like tactical,"
+        },
+        {
+            "start": "0:20:18",
+            "end": "0:20:20",
+            "text": "and it's cool that he published all of them."
+        },
+        {
+            "start": "0:20:20",
+            "end": "0:20:22",
+            "text": "So yeah, that's kind of one of the first things"
+        },
+        {
+            "start": "0:20:22",
+            "end": "0:20:24",
+            "text": "I'm thinking about after this interview is,"
+        },
+        {
+            "start": "0:20:24",
+            "end": "0:20:26",
+            "text": "wow, like if I ever want to launch something,"
+        },
+        {
+            "start": "0:20:26",
+            "end": "0:20:27",
+            "text": "I'm just gonna go to his blog"
+        },
+        {
+            "start": "0:20:27",
+            "end": "0:20:29",
+            "text": "and kind of check out what he wrote"
+        },
+        {
+            "start": "0:20:29",
+            "end": "0:20:31",
+            "text": "and try to like implement that."
+        },
+        {
+            "start": "0:20:31",
+            "end": "0:20:32",
+            "text": "That's the first thing."
+        },
+        {
+            "start": "0:20:32",
+            "end": "0:20:33",
+            "text": "Yeah, what do you think?"
+        },
+        {
+            "start": "0:20:33",
+            "end": "0:20:35",
+            "text": "The moment he said that I had experience"
+        },
+        {
+            "start": "0:20:35",
+            "end": "0:20:37",
+            "text": "with Kickstarter launches,"
+        },
+        {
+            "start": "0:20:37",
+            "end": "0:20:38",
+            "text": "that everything clicked for me."
+        },
+        {
+            "start": "0:20:38",
+            "end": "0:20:40",
+            "text": "I was like, okay, I see."
+        },
+        {
+            "start": "0:20:40",
+            "end": "0:20:42",
+            "text": "This guy knows how to launch products."
+        },
+        {
+            "start": "0:20:42",
+            "end": "0:20:44",
+            "text": "And so hopefully a lot of people watching this"
+        },
+        {
+            "start": "0:20:44",
+            "end": "0:20:47",
+            "text": "realize that too and realizes a lot to learn from this."
+        },
+        {
+            "start": "0:20:47",
+            "end": "0:20:49",
+            "text": "He took his experience launching a physical product"
+        },
+        {
+            "start": "0:20:49",
+            "end": "0:20:51",
+            "text": "and collecting cash upfront,"
+        },
+        {
+            "start": "0:20:51",
+            "end": "0:20:53",
+            "text": "which is the whole concept of crowdfunding"
+        },
+        {
+            "start": "0:20:53",
+            "end": "0:20:56",
+            "text": "and he sort of transferred that over to digital products,"
+        },
+        {
+            "start": "0:20:56",
+            "end": "0:20:58",
+            "text": "which are I think the future"
+        },
+        {
+            "start": "0:20:58",
+            "end": "0:21:00",
+            "text": "and a great business to be building."
+        },
+        {
+            "start": "0:21:00",
+            "end": "0:21:02",
+            "text": "I think this is an underrated strategy."
+        },
+        {
+            "start": "0:21:02",
+            "end": "0:21:03",
+            "text": "I mean, we have lots of videos on the channel"
+        },
+        {
+            "start": "0:21:03",
+            "end": "0:21:05",
+            "text": "about lifetime deals."
+        },
+        {
+            "start": "0:21:05",
+            "end": "0:21:06",
+            "text": "It's very like, you know,"
+        },
+        {
+            "start": "0:21:06",
+            "end": "0:21:08",
+            "text": "it's not the most traditional way of doing things."
+        },
+        {
+            "start": "0:21:08",
+            "end": "0:21:10",
+            "text": "If you were to raise money as a VC,"
+        },
+        {
+            "start": "0:21:10",
+            "end": "0:21:12",
+            "text": "they would say hell no, never do this."
+        },
+        {
+            "start": "0:21:12",
+            "end": "0:21:13",
+            "text": "But as a bootstrap business"
+        },
+        {
+            "start": "0:21:13",
+            "end": "0:21:15",
+            "text": "to get off the ground running"
+        },
+        {
+            "start": "0:21:15",
+            "end": "0:21:17",
+            "text": "and be able to collect $100,000 of front,"
+        },
+        {
+            "start": "0:21:17",
+            "end": "0:21:19",
+            "text": "that's a huge boost to the business."
+        },
+        {
+            "start": "0:21:19",
+            "end": "0:21:21",
+            "text": "Not only are you collecting revenue"
+        },
+        {
+            "start": "0:21:21",
+            "end": "0:21:23",
+            "text": "to help invest in the business,"
+        },
+        {
+            "start": "0:21:23",
+            "end": "0:21:24",
+            "text": "you're getting motivation to keep going"
+        },
+        {
+            "start": "0:21:24",
+            "end": "0:21:25",
+            "text": "because you have all these customers"
+        },
+        {
+            "start": "0:21:25",
+            "end": "0:21:26",
+            "text": "that are excited about it."
+        },
+        {
+            "start": "0:21:26",
+            "end": "0:21:28",
+            "text": "And you have this roadmap you can build."
+        },
+        {
+            "start": "0:21:28",
+            "end": "0:21:31",
+            "text": "And a lot of people want to crap on this strategy."
+        },
+        {
+            "start": "0:21:31",
+            "end": "0:21:33",
+            "text": "But I actually think that, you know,"
+        },
+        {
+            "start": "0:21:33",
+            "end": "0:21:36",
+            "text": "just from what I see, I talked to a lot of founders."
+        },
+        {
+            "start": "0:21:36",
+            "end": "0:21:37",
+            "text": "A lot of really successful founders"
+        },
+        {
+            "start": "0:21:37",
+            "end": "0:21:39",
+            "text": "that now have lots of MRR"
+        },
+        {
+            "start": "0:21:39",
+            "end": "0:21:40",
+            "text": "and sell their business and all this stuff,"
+        },
+        {
+            "start": "0:21:40",
+            "end": "0:21:42",
+            "text": "they started with a lifetime deal"
+        },
+        {
+            "start": "0:21:42",
+            "end": "0:21:44",
+            "text": "because it's a great way to get started."
+        },
+        {
+            "start": "0:21:44",
+            "end": "0:21:45",
+            "text": "Yeah, I was thinking about this, you know,"
+        },
+        {
+            "start": "0:21:45",
+            "end": "0:21:46",
+            "text": "it started a story."
+        },
+        {
+            "start": "0:21:46",
+            "end": "0:21:49",
+            "text": "You know, we've done a lot of these like email sequences"
+        },
+        {
+            "start": "0:21:49",
+            "end": "0:21:51",
+            "text": "and like, you know, lifetime deal things."
+        },
+        {
+            "start": "0:21:51",
+            "end": "0:21:52",
+            "text": "And it's certain times of the year,"
+        },
+        {
+            "start": "0:21:52",
+            "end": "0:21:54",
+            "text": "we've seen that like, like Friday or interviewer"
+        },
+        {
+            "start": "0:21:54",
+            "end": "0:21:56",
+            "text": "or some other like, you know,"
+        },
+        {
+            "start": "0:21:56",
+            "end": "0:21:58",
+            "text": "so we've kind of done this a lot"
+        },
+        {
+            "start": "0:21:58",
+            "end": "0:22:00",
+            "text": "and I've been part of that, like writing the emails"
+        },
+        {
+            "start": "0:22:00",
+            "end": "0:22:01",
+            "text": "and getting that set up."
+        },
+        {
+            "start": "0:22:01",
+            "end": "0:22:02",
+            "text": "A lot of people crap on this idea,"
+        },
+        {
+            "start": "0:22:02",
+            "end": "0:22:04",
+            "text": "but you've, you know, used that we've done it a bunch."
+        },
+        {
+            "start": "0:22:04",
+            "end": "0:22:05",
+            "text": "So, what do you think?"
+        },
+        {
+            "start": "0:22:05",
+            "end": "0:22:09",
+            "text": "No, I mean, go sign up for most digital products."
+        },
+        {
+            "start": "0:22:09",
+            "end": "0:22:12",
+            "text": "Look at companies that are like really successful ones,"
+        },
+        {
+            "start": "0:22:12",
+            "end": "0:22:16",
+            "text": "like companies that are doing millions per year"
+        },
+        {
+            "start": "0:22:16",
+            "end": "0:22:18",
+            "text": "or sometimes even like billion dollar companies"
+        },
+        {
+            "start": "0:22:18",
+            "end": "0:22:20",
+            "text": "go sign up for their products"
+        },
+        {
+            "start": "0:22:20",
+            "end": "0:22:23",
+            "text": "or their emails like under the free email list."
+        },
+        {
+            "start": "0:22:23",
+            "end": "0:22:24",
+            "text": "And you'll notice that they send"
+        },
+        {
+            "start": "0:22:24",
+            "end": "0:22:28",
+            "text": "crazy amounts of emails, crazy amounts of deals."
+        },
+        {
+            "start": "0:22:28",
+            "end": "0:22:30",
+            "text": "Go sign up for any e-commerce product"
+        },
+        {
+            "start": "0:22:30",
+            "end": "0:22:33",
+            "text": "and look at what happens during, you know,"
+        },
+        {
+            "start": "0:22:33",
+            "end": "0:22:35",
+            "text": "a Black Friday or Memorial sale."
+        },
+        {
+            "start": "0:22:35",
+            "end": "0:22:36",
+            "text": "They're always running deals,"
+        },
+        {
+            "start": "0:22:36",
+            "end": "0:22:37",
+            "text": "they're always running discounts"
+        },
+        {
+            "start": "0:22:37",
+            "end": "0:22:40",
+            "text": "and they're sending lots and lots of messages"
+        },
+        {
+            "start": "0:22:40",
+            "end": "0:22:41",
+            "text": "over email and text."
+        },
+        {
+            "start": "0:22:41",
+            "end": "0:22:45",
+            "text": "This is marketing, it's sales, it's marketing, right?"
+        },
+        {
+            "start": "0:22:45",
+            "end": "0:22:47",
+            "text": "This is what big companies do."
+        },
+        {
+            "start": "0:22:47",
+            "end": "0:22:48",
+            "text": "I think a lot of people watching this are afraid."
+        },
+        {
+            "start": "0:22:48",
+            "end": "0:22:50",
+            "text": "I don't wanna bother people."
+        },
+        {
+            "start": "0:22:50",
+            "end": "0:22:53",
+            "text": "I don't wanna, you know, feel like I'm spamming them"
+        },
+        {
+            "start": "0:22:53",
+            "end": "0:22:55",
+            "text": "or whatever, but this is what you need to do"
+        },
+        {
+            "start": "0:22:55",
+            "end": "0:22:55",
+            "text": "if you're in marketing."
+        },
+        {
+            "start": "0:22:55",
+            "end": "0:22:58",
+            "text": "If you go and see these huge companies doing it,"
+        },
+        {
+            "start": "0:22:58",
+            "end": "0:23:00",
+            "text": "you don't have to do it as aggressively as them,"
+        },
+        {
+            "start": "0:23:00",
+            "end": "0:23:03",
+            "text": "but it is what is essential to build a business,"
+        },
+        {
+            "start": "0:23:03",
+            "end": "0:23:06",
+            "text": "you know, to stand out and see of all these other products."
+        },
+        {
+            "start": "0:23:06",
+            "end": "0:23:09",
+            "text": "So that would be my response to that"
+        },
+        {
+            "start": "0:23:09",
+            "end": "0:23:11",
+            "text": "is like, that's part of the game."
+        },
+        {
+            "start": "0:23:11",
+            "end": "0:23:12",
+            "text": "We did it because I saw a lot of other people"
+        },
+        {
+            "start": "0:23:12",
+            "end": "0:23:14",
+            "text": "who are very successful that were doing it as well."
+        },
+        {
+            "start": "0:23:14",
+            "end": "0:23:17",
+            "text": "And people can just unsubscribe if they don't want to see it."
+        },
+        {
+            "start": "0:23:17",
+            "end": "0:23:18",
+            "text": "So thank you guys for watching."
+        },
+        {
+            "start": "0:23:18",
+            "end": "0:23:21",
+            "text": "Let us know what you thought about this lifetime deal strategy."
+        },
+        {
+            "start": "0:23:21",
+            "end": "0:23:23",
+            "text": "I put a link in the description"
+        },
+        {
+            "start": "0:23:23",
+            "end": "0:23:27",
+            "text": "to get a little bit more about this strategy specifically"
+        },
+        {
+            "start": "0:23:27",
+            "end": "0:23:28",
+            "text": "and how to find an idea"
+        },
+        {
+            "start": "0:23:28",
+            "end": "0:23:31",
+            "text": "that can make hundreds of thousands of dollars in 24 hours."
+        },
+        {
+            "start": "0:23:31",
+            "end": "0:23:31",
+            "text": "I hope you enjoyed it."
+        },
+        {
+            "start": "0:23:31",
+            "end": "0:23:32",
+            "text": "We'll see you in the next one."
+        },
+        {
+            "start": "0:23:32",
+            "end": "0:23:33",
+            "text": "Peace."
+        }
+    ],
+    "plain_text": "[0:00:00] There's a well-known secret in the app space right now.\n[0:00:02] And it's arguably the fastest way to see whether your idea is good or not.\n[0:00:07] Well, I met a guy who executed this perfectly.\n[0:00:10] I had zero experience with Mumbai apps, so I wasn't as sure as good warriors.\n[0:00:14] Meet's Umberto.\n[0:00:15] He built a really simple mobile app, but instead of launching with a free trial,\n[0:00:20] he did something different.\n[0:00:21] And in 24 hours, he made over $100,000.\n[0:00:25] This is the best way to validate your idea.\n[0:00:27] Most people might tell you this strategy is a bad idea,\n[0:00:30] but Umberto had a playbook, and it worked.\n[0:00:33] So I asked him to come on the channel to break it all down for me.\n[0:00:37] And in this episode, we will dive into how a very simple strategy\n[0:00:41] generated over $100,000 in a single day.\n[0:00:44] The exact email sequence you can copy for your product.\n[0:00:47] And why this strategy might be the smartest move for early stage products.\n[0:00:52] If you're building something and planning on launching soon,\n[0:00:55] then this is one that you cannot miss.\n[0:00:57] All right, let's dive in.\n[0:00:58] I'm Pat Walsh, and this is Starter Story.\n[0:01:02] All right, guys, before we dive in,\n[0:01:03] if after watching this episode, you feel inspired to build?\n[0:01:07] Well, you're in luck.\n[0:01:08] We built a nine-day bootcamp that will take you from an idea\n[0:01:11] to a real working mobile app.\n[0:01:13] And I'm going to be talking a little bit more about that later.\n[0:01:15] But for now, let's dive into this awesome episode.\n[0:01:19] All right, Umberto, welcome to the channel.\n[0:01:20] Tell me who you are, what you built and what's your story.\n[0:01:23] Thank you. I'm Umberto, founder of Floga,\n[0:01:25] a mobile app for yoga teachers and practitioners.\n[0:01:28] We pre-launched in May 2025 with a lifetime deal\n[0:01:31] and we generated over $120,000 in just 24 hours.\n[0:01:36] And today, I'm going to break down exactly how we generated\n[0:01:40] those $120,000 this fast.\n[0:01:43] We're going to talk all about launching your app.\n[0:01:45] That's what hopefully this video is going to be about.\n[0:01:47] Because you did this really well.\n[0:01:48] But before we do, I just want to understand what did you build?\n[0:01:51] It's an app, it's a product.\n[0:01:53] Can you just show me what you built\n[0:01:54] in some of the revenue dashboards behind it?\n[0:01:56] So, Floga is an app for yoga teachers and practitioners.\n[0:02:00] And here, I can show you a revenue cut,\n[0:02:02] what happened during the launch days.\n[0:02:05] As you can see, we launched on May 5th at 2pm.\n[0:02:09] So by the end of the day, we generated $117,000.\n[0:02:13] So now we have a recurring revenue business model.\n[0:02:15] We have a different tier.\n[0:02:17] We have a monthly quarterly\n[0:02:18] that is available only on our website\n[0:02:21] and then the yearly subscription.\n[0:02:22] So at the moment, we have about 4,000 active users\n[0:02:26] between paid and free.\n[0:02:28] Approximately right now, we're doing between $9,000\n[0:02:31] and $10,000 more.\n[0:02:32] Okay, cool. Thanks for sharing all that,\n[0:02:34] Unbarato, this amazing that you built this\n[0:02:36] and crushed it on the launch.\n[0:02:38] Let's go a little bit back to your background.\n[0:02:40] How do you come up with this idea?\n[0:02:42] How do you build this cool yoga app\n[0:02:44] that's crushing it right now?\n[0:02:45] What's your background?\n[0:02:46] So my path to building an app was not linear at all.\n[0:02:49] I'm not a developer, I study economics.\n[0:02:52] I had a brief experience in the corporate world\n[0:02:54] then in 2012 I raised a seed funding\n[0:02:56] for a startup that failed.\n[0:02:58] And after that, I stepped away from tech completely,\n[0:03:01] I became skin instructor,\n[0:03:02] worked as a fashion photographer.\n[0:03:03] So I did a bunch of things.\n[0:03:05] And then I came back into the startup world around 2016\n[0:03:09] and at the time, I was working as an advertiser\n[0:03:12] and growth strategist\n[0:03:13] and I helped several companies scale\n[0:03:16] and that's where I learned\n[0:03:17] how to launch and position products.\n[0:03:20] Then in 2020, during COVID,\n[0:03:22] my girlfriend and I created PlayPos B\n[0:03:24] as a side geek.\n[0:03:25] It was a brand focus on yoga decks of cards.\n[0:03:28] They tell yoga teachers and practitioners\n[0:03:30] build their sequences and practice them mindfully.\n[0:03:33] We launched our first product on Kickstarter\n[0:03:35] and generated over $200,000 in the first month.\n[0:03:38] And actually, the whole brand was about\n[0:03:41] mindful screen-free practice.\n[0:03:43] So from there to basically launching a mobile app\n[0:03:47] was kind of a big plot twist even for me.\n[0:03:50] But what happened about a year and a half ago\n[0:03:52] is that I started feeling that what we built\n[0:03:55] till that moment could evolve in something beaker.\n[0:03:58] And the question was, what if I took everything we created\n[0:04:01] from the physical business\n[0:04:03] and transform it with technology, okay?\n[0:04:05] So bring it further with technology\n[0:04:07] without losing the mindful core.\n[0:04:08] And the one evening I literally sit down,\n[0:04:10] I sketched the concept of an app\n[0:04:13] and thought, okay, we can make it.\n[0:04:16] And a few months later, I found a good developer\n[0:04:18] and then we snapped using sugar.\n[0:04:20] Okay, cool.\n[0:04:21] So you're kind of operating in this physical world.\n[0:04:24] You've done some physical product launches on Kickstarter.\n[0:04:27] Maybe you learned a little bit about how to launch a product\n[0:04:29] which that's what this video is going to be about today\n[0:04:31] because when we chatted earlier,\n[0:04:33] you mentioned that from essentially scratch,\n[0:04:36] you generated over $100,000 in the first 24 hours\n[0:04:40] with this kind of launch playbook, this LTD playbook,\n[0:04:44] which I think is like one of the most effective ways\n[0:04:47] to just get off the ground running.\n[0:04:48] If you're launching an app,\n[0:04:49] if you're launching a project, if you're launching anything,\n[0:04:51] can you tell me a little bit more about that?\n[0:04:53] How are you able to build something\n[0:04:55] and then make $100,000 in essentially 24 hours?\n[0:04:57] What happened?\n[0:04:58] Okay, so a lifetime deal basically is a deal\n[0:05:01] where a user pay for lifetime access to the app.\n[0:05:05] So the first thing I did was to figure out\n[0:05:07] the long term vision of the app\n[0:05:08] and decide when we would have been ready to start monetizing.\n[0:05:12] And my approach here is always to monetize as early as you can.\n[0:05:16] So I prefer to build the product\n[0:05:18] and simultaneously building a revenue engine that sustains it.\n[0:05:22] We looked at what was the minimum set of features\n[0:05:25] that we needed to basically produce people\n[0:05:27] to get a laugh from deal.\n[0:05:28] Then I planned the whole launch sequence\n[0:05:30] or email, any page, videos,\n[0:05:32] art, creative, or the full machine.\n[0:05:34] At the same time,\n[0:05:35] I also did some regeneration to reach people\n[0:05:37] that never heard about us.\n[0:05:39] So there there was a totally different approach of course.\n[0:05:42] And basically after a few weeks of warming up the audience\n[0:05:45] and showing off course, the app.\n[0:05:48] So basically what I did is to record a YouTube video\n[0:05:50] where I went through exactly all the teacher pressing the app.\n[0:05:55] And I basically said, okay, that is gonna,\n[0:05:57] it's worked like this right now.\n[0:05:59] We're gonna develop these other features.\n[0:06:02] If you want it, you can get it now lifetime\n[0:06:05] but there is absolutely no refound.\n[0:06:07] If you want to try it,\n[0:06:08] you're gonna wait for a couple of months\n[0:06:11] till when we open the subscription plans.\n[0:06:13] So we got around,\n[0:06:15] if I remember well, between 500 and 600 early customers.\n[0:06:19] And that was extremely valuable\n[0:06:20] because if someone invested is going to be interested\n[0:06:25] in making the app work\n[0:06:26] so it's gonna give you some very good suggestion,\n[0:06:28] it's gonna chill you up even.\n[0:06:31] So the value you get out of this is huge really\n[0:06:34] because a lot of feature we introduced in the next months\n[0:06:38] were based on the feedback we were receiving\n[0:06:41] from this user user.\n[0:06:42] We could have not done it without that.\n[0:06:44] Personally, I love how Umberto is sharing everything\n[0:06:48] about how he made $100,000 in a single day.\n[0:06:51] But we can sit here and learn\n[0:06:53] from every launch strategy in the world\n[0:06:55] but none of that matters if you never build anything.\n[0:06:57] And that is why we created the iOS playbook.\n[0:07:00] It's a nine day sprint where you will go from an idea\n[0:07:03] to a real working app in the app store.\n[0:07:06] And you'll do all that without writing\n[0:07:08] a single line of code yourself.\n[0:07:10] We'll walk you through everything,\n[0:07:11] generating ideas with AI, building with AI,\n[0:07:15] designing your app,\n[0:07:16] and actually getting it live on the app store.\n[0:07:18] Once you build your app idea,\n[0:07:20] then you can start putting Umberto's launch playbook\n[0:07:22] into practice.\n[0:07:23] So if you're serious about building your first app,\n[0:07:26] just hit that link in the description below\n[0:07:28] to start your nine day journey for free.\n[0:07:30] All right, let's get back to the episode.\n[0:07:32] Okay, yeah, so this is the thing that when I talk\n[0:07:34] to a lot of founders and they question\n[0:07:36] doing a lifetime deal,\n[0:07:37] like I'll never be able to get revenue\n[0:07:38] from these users in the future.\n[0:07:39] But my feedback and what you mentioned there\n[0:07:42] is that the most important thing is just to get people\n[0:07:45] to care and commit to your app\n[0:07:46] and get these early users.\n[0:07:48] Don't think about these users as users\n[0:07:49] who won't be able to get revenue in the future\n[0:07:51] from thinking these users as really, really valuable data\n[0:07:55] and people that may spread the word about your app\n[0:07:57] or show your app to other people.\n[0:07:59] And as long as you do the LTD over a short period of time,\n[0:08:03] you get to pull forward all these committed users\n[0:08:05] who may not actually use your app if there was a free trial\n[0:08:09] or they weren't there.\n[0:08:10] So it's almost like building an early community.\n[0:08:13] I think it's one of the best ways\n[0:08:14] to launch an app if you're bootstrapping.\n[0:08:16] Like you are, so that's super cool.\n[0:08:17] I want to dive in a little deeper to the actual launch sequence\n[0:08:21] because you mentioned that you're able to basically send out\n[0:08:23] some emails and then generate $100,000.\n[0:08:26] I'd love if you could dive in deeper to that launch sequence.\n[0:08:30] Like what did the emails look like?\n[0:08:31] What was the strategy?\n[0:08:32] How are you able to generate $100,000 in essentially 24 hours?\n[0:08:36] So here we have some of the emails we send\n[0:08:39] during the pre-launch sequence.\n[0:08:41] The pre-launch lasted for about a month and one week.\n[0:08:44] These emails, the most representative\n[0:08:46] we transformed them in some blog posts.\n[0:08:49] And here there is a storytelling.\n[0:08:51] We don't reveal anything yet, but we create interest.\n[0:08:54] And we put the basis for people to understand\n[0:08:56] what we're going to show them in the following weeks.\n[0:08:59] Then in the second email, there is still some storytelling going on,\n[0:09:03] but we reveal a bit more.\n[0:09:04] Here we create a bit of confusion towards our users,\n[0:09:08] our existing list, meaning that we put our physical product\n[0:09:13] on the back and then something in front,\n[0:09:15] which they can suspect is another physical product\n[0:09:19] or something completely different.\n[0:09:21] So we create a lot of curiosity.\n[0:09:23] And then here there is another email.\n[0:09:25] I don't remember if we sent other emails.\n[0:09:28] These are just the most representative ones.\n[0:09:30] But here we unveiled basically what was behind the red curtain\n[0:09:35] and we showed up.\n[0:09:36] And we explained pretty shortly why we did it\n[0:09:41] and we linked to a video where we present,\n[0:09:44] where I presented the app at that specific moment.\n[0:09:48] And then we build up towards the launch\n[0:09:51] and towards the end of the pre-launch, as I like to call it,\n[0:09:57] we explain how it's going to work with...\n[0:10:02] which are always limited in a number and limited in timeframes. And this gives to Lever to basically\n[0:10:10] reduce the procrastination that basically everyone has, and it works very, very effectively.\n[0:10:16] And another thing I never, ever show the price, the product before the day of launch,\n[0:10:22] because otherwise, people are going to make the person this decision based on price.\n[0:10:28] During the format campaign, they need only to evaluate the purchase of the product based on\n[0:10:34] the features and the long term vision. Okay, if you put the price, you kind of\n[0:10:40] ruin the whole thing because there is going to be this other element that they cannot\n[0:10:43] unsee anymore. And so, never show the flat price before the extra launch date.\n[0:10:47] Okay, I'm Barato. Thank you for showing this. I mean, this is amazing that you publish all this\n[0:10:51] on your blog for anyone to read and be helpful for anyone who wants to watch a lifetime deal.\n[0:10:56] If you've made it this far into the video, I just want to say that this right here is amazing.\n[0:11:01] Like, this is so helpful for people who want to launch something and maximize that launch.\n[0:11:06] If you're watching this, we'll put a link in the description for you to be able to download all\n[0:11:10] these. My recommendation, if you're launching anything, maybe take these, copy them,\n[0:11:14] plug them into an LLM and see how you can kind of build this sequence for your product\n[0:11:20] because the building of curiosity and the positioning that you had is really, really smart.\n[0:11:25] And I imagine you got, I imagine you learned a lot of this from your experience with physical\n[0:11:30] products and Kickstarter. This is something that I see a lot of people successful with launches,\n[0:11:34] do something similar to this. So thank you for sharing that. I want to talk a little bit more\n[0:11:38] about coming up with a great product idea, a product idea that's going to sell well if you were\n[0:11:43] to do a launch. What would be your playbook if you were starting over with all your experience in\n[0:11:48] building digital products and having successful launches? We'll be your playbook if you had to start\n[0:11:53] over right now for anyone watching this who wants to have a great launch. Well, step one,\n[0:11:57] validate before you build, before you even write a line of code or start building the actual product,\n[0:12:03] I would talk to five to ten people in your target market. Ask them about the problem you're trying\n[0:12:09] to solve but never tell them why you're asking. So you want an unbiased honest reaction, okay? So in\n[0:12:16] our case, we did this with some of our physical product customers and we got some really good feedback\n[0:12:21] exactly because we didn't lead them. And there is a great book about how to do this properly. I\n[0:12:25] suggest you to read it is called the month test. It's very simple and it gives some interesting\n[0:12:31] insight about this. As a second step, I would put define your minimum launchable product. So once\n[0:12:37] you have validated your idea, the next question is, what is the minimum development stage where the\n[0:12:42] app can convey, the app of the product can convey enough value to get early adopters to pay for it.\n[0:12:47] Once you know what that looks like and also you have an estimate of how long it takes to build it,\n[0:12:53] you can start planning everything else around that timeline. And then step three, build your content\n[0:13:00] machine before you start promoting and that's extremely important. So before you start in\n[0:13:06] lead generation or lead nurturing, you need a buffer of content ready to go. So email graphics,\n[0:13:11] details, landing pages, all of it. And there is another important thing which is put yourself in\n[0:13:17] the user's shoes because there are things that are obvious to you that are building the product,\n[0:13:22] but needs to be explained simply and clearly to the end user. Okay? So for example, when we launched\n[0:13:28] our physical products, nobody knew us. So we had to create trust and also educate them on the\n[0:13:34] specific platform so that when they had to make the choice, they were ready to do it without\n[0:13:39] stations or doubts. Step four, pricing, this part is crucial. Don't just throw a number,\n[0:13:44] structure it, and I see a lot of founders that price it very low because they are scared that\n[0:13:49] nobody will buy because the product is not ready and for other reasons. And I believe this is a mistake\n[0:13:54] because you're leaving a serious money on the table. So what I did was create three tiers. The first\n[0:13:59] tier gave you lifetime access to a limited set of features and the price was around $109. The second\n[0:14:06] tier, in our case, we price it at around $199 and we included more features and then the third tier\n[0:14:13] you give every new plan to build. So the food vision and in our case, we price it at $349. Also,\n[0:14:19] the psychology here is that the first two tiers actually help to sell the most expensive one\n[0:14:24] because they create a sort of reference and they also capture those skeptical users that are\n[0:14:30] not really sure about the product. Then step six, launch mechanics, I recommend you to be completely\n[0:14:37] transparent, show how gap is working, be clear about exactly what is there, what are the\n[0:14:43] current limitations and how so new you plan to improve it, and then set a clear line, so door\n[0:14:48] founds. Otherwise, your life time deal gets jeopardized. And if someone has some doubts or want to\n[0:14:53] try it first, they can wait for the subscription model, which is going to come afterwards. Again,\n[0:14:58] another thing, limited the time and limited the number of spots. So five to seven days maximum\n[0:15:04] in my opinion, these forced people to make a decision instead of procrastinating. And this worked\n[0:15:09] very well. Okay, cool. So I mean, that's an awesome playbook. I think a lot of people watching this,\n[0:15:13] especially if they're building bootstrap, they're trying to have a great launch to really kick off\n[0:15:17] their product and set it out for success. This is amazing. So thank you for sharing that.\n[0:15:21] I want to push back a little bit on the idea of lifetime deals. If you were to ask an investor\n[0:15:28] or someone that's more raising money for their business, they might say something like\n[0:15:35] lifetime deals are bad because you're foregoing, foregoing, all future revenue from a customer.\n[0:15:40] And on paper, if someone were to value your business, they might say, well, actually, it's not that\n[0:15:46] valuable because you've gotten all the revenue upfront. And then there's now no more opportunities\n[0:15:51] for revenue generation. So what do you think about this? Do you regret doing the lifetime deal\n[0:15:56] at all? And what would be your response to this? So no, I don't regret doing a lifetime deal\n[0:16:01] because I strongly believe that when you're early, you don't have data. You don't know your\n[0:16:06] LTV. You don't know your turn. You basically have assumptions, right? And a lifetime deal converts\n[0:16:12] those assumptions into real money in your bank account. There is another thing that people don't\n[0:16:18] talk about that much. This is an incentive. Monthly subscribers have optionality. Okay,\n[0:16:23] lifetime buyer has commitment and this change everything. So someone paying month to month,\n[0:16:29] if something breaks or if there is a bug can just stop the subscription, give you maybe a bad\n[0:16:35] review and the no feedback while somebody that purchased the app, okay, is interested in\n[0:16:42] to making the app amazing. So they're going to report bugs, they're going to send detailed feedback.\n[0:16:47] In our case, we even created a telegram group with all these early adopters. And this has brought\n[0:16:53] as enormous value. Last but not least, there is a lot of people that just hate subscriptions.\n[0:17:00] Among these people, the willingness to pay lifetime is easily three to five time more compared to\n[0:17:06] a yearly plan. So if you do the math right, early stage, a lifetime deal is the smartest move you can\n[0:17:13] make. You're basically raising capital from your customers without giving away equity, control,\n[0:17:20] board seats and getting amazing feedback. So I don't think there is anything better than this.\n[0:17:26] Yeah, I mean, I agree. Sometimes I think about lifetime deals is just a pricing strategy. If you\n[0:17:31] can understand, if someone's going to subscribe to your app for 24 months, what is the total amount\n[0:17:36] of revenue you're going to get from that? Well, you can price your lifetime deal, collect, they\n[0:17:39] cash up front. If you do that, you're really not missing out technically on revenue. So I think\n[0:17:43] that's cool. I want to switch topics a little bit and understand what you built. Would you be able\n[0:17:47] to give me a little demo of this yoga app that you built? I'd love to see. Yes, of course,\n[0:17:53] this on the top is our first feature. It's called Sequence Builders. So you tap on yoga style and\n[0:17:59] you have a bunch of poses. Okay, this is Zata Villanasa. It's very intuitive. You can swipe up,\n[0:18:03] you select the pose, you can filter by category, chart class benefit. We even have an intelligent\n[0:18:10] feature which suggests you poses that makes sense after the one you have selected, basically.\n[0:18:17] And if you tap on a pose, you also have detailed videos about how the pose is going to work.\n[0:18:23] There is a ton of useful information for teachers and practitioners. And then, tapping next,\n[0:18:29] you can personalize further. You can move things around. You can personalize the time and each pose\n[0:18:36] right off the left side. You can go on the detail again. And then you can start your practice and\n[0:18:41] you're basically going to be guided on your personalized practice that you have built.\n[0:18:47] Cool. Okay. Well, let's on that note, I'd be curious. What's the tech stack behind this app that\n[0:18:51] generated $100,000 in about 24 hours? So we use Platter for the development fire base,\n[0:18:58] which costs us around $25 a month. Then revenue cut to handle subscription. And we host the video\n[0:19:05] on Vimeo. We already have Vimeo for our other business. So the videos are there. And one\n[0:19:10] signal for push notifications. Okay, well, thanks for sharing that. Last question that we ask\n[0:19:14] all founders to come on starter story. If you could go back in time and give yourself advice\n[0:19:18] before launching this digital product, or even before you got started in entrepreneurship,\n[0:19:23] what would be your advice to young Amberto or anyone watching this who wants to do what you do?\n[0:19:28] Well, stop waiting for perfect. Perfection is just fear these guys in\n[0:19:33] preparation. The real breakthrough happens. The moment you put something which might be\n[0:19:38] unfinished in front of real people. And then you get feedback. Feedback can be uncomfortable.\n[0:19:43] And so if I could speak to myself, to my old self, I'd say who's sooner,\n[0:19:47] ship earlier and trust the process. And then you learn fast in public and you will ever\n[0:19:52] go in private. Well, that's great advice. Thank you.\n[0:19:56] Sharing all this, being so open about the launch sequence.\n[0:19:59] I think it's gonna be really helpful\n[0:20:00] for a lot of people watching.\n[0:20:01] Let us know in the comments what you thought\n[0:20:03] about this launch strategy, lifetime deals.\n[0:20:05] I love it, thanks for coming on.\n[0:20:07] Thank you.\n[0:20:08] Producer Gus, what do you think about this one?\n[0:20:10] I thought the coolest part was,\n[0:20:12] yeah, I really like how you broke down\n[0:20:13] like all the email sequences,\n[0:20:15] like how he warmed up his audience.\n[0:20:17] It was really like tactical,\n[0:20:18] and it's cool that he published all of them.\n[0:20:20] So yeah, that's kind of one of the first things\n[0:20:22] I'm thinking about after this interview is,\n[0:20:24] wow, like if I ever want to launch something,\n[0:20:26] I'm just gonna go to his blog\n[0:20:27] and kind of check out what he wrote\n[0:20:29] and try to like implement that.\n[0:20:31] That's the first thing.\n[0:20:32] Yeah, what do you think?\n[0:20:33] The moment he said that I had experience\n[0:20:35] with Kickstarter launches,\n[0:20:37] that everything clicked for me.\n[0:20:38] I was like, okay, I see.\n[0:20:40] This guy knows how to launch products.\n[0:20:42] And so hopefully a lot of people watching this\n[0:20:44] realize that too and realizes a lot to learn from this.\n[0:20:47] He took his experience launching a physical product\n[0:20:49] and collecting cash upfront,\n[0:20:51] which is the whole concept of crowdfunding\n[0:20:53] and he sort of transferred that over to digital products,\n[0:20:56] which are I think the future\n[0:20:58] and a great business to be building.\n[0:21:00] I think this is an underrated strategy.\n[0:21:02] I mean, we have lots of videos on the channel\n[0:21:03] about lifetime deals.\n[0:21:05] It's very like, you know,\n[0:21:06] it's not the most traditional way of doing things.\n[0:21:08] If you were to raise money as a VC,\n[0:21:10] they would say hell no, never do this.\n[0:21:12] But as a bootstrap business\n[0:21:13] to get off the ground running\n[0:21:15] and be able to collect $100,000 of front,\n[0:21:17] that's a huge boost to the business.\n[0:21:19] Not only are you collecting revenue\n[0:21:21] to help invest in the business,\n[0:21:23] you're getting motivation to keep going\n[0:21:24] because you have all these customers\n[0:21:25] that are excited about it.\n[0:21:26] And you have this roadmap you can build.\n[0:21:28] And a lot of people want to crap on this strategy.\n[0:21:31] But I actually think that, you know,\n[0:21:33] just from what I see, I talked to a lot of founders.\n[0:21:36] A lot of really successful founders\n[0:21:37] that now have lots of MRR\n[0:21:39] and sell their business and all this stuff,\n[0:21:40] they started with a lifetime deal\n[0:21:42] because it's a great way to get started.\n[0:21:44] Yeah, I was thinking about this, you know,\n[0:21:45] it started a story.\n[0:21:46] You know, we've done a lot of these like email sequences\n[0:21:49] and like, you know, lifetime deal things.\n[0:21:51] And it's certain times of the year,\n[0:21:52] we've seen that like, like Friday or interviewer\n[0:21:54] or some other like, you know,\n[0:21:56] so we've kind of done this a lot\n[0:21:58] and I've been part of that, like writing the emails\n[0:22:00] and getting that set up.\n[0:22:01] A lot of people crap on this idea,\n[0:22:02] but you've, you know, used that we've done it a bunch.\n[0:22:04] So, what do you think?\n[0:22:05] No, I mean, go sign up for most digital products.\n[0:22:09] Look at companies that are like really successful ones,\n[0:22:12] like companies that are doing millions per year\n[0:22:16] or sometimes even like billion dollar companies\n[0:22:18] go sign up for their products\n[0:22:20] or their emails like under the free email list.\n[0:22:23] And you'll notice that they send\n[0:22:24] crazy amounts of emails, crazy amounts of deals.\n[0:22:28] Go sign up for any e-commerce product\n[0:22:30] and look at what happens during, you know,\n[0:22:33] a Black Friday or Memorial sale.\n[0:22:35] They're always running deals,\n[0:22:36] they're always running discounts\n[0:22:37] and they're sending lots and lots of messages\n[0:22:40] over email and text.\n[0:22:41] This is marketing, it's sales, it's marketing, right?\n[0:22:45] This is what big companies do.\n[0:22:47] I think a lot of people watching this are afraid.\n[0:22:48] I don't wanna bother people.\n[0:22:50] I don't wanna, you know, feel like I'm spamming them\n[0:22:53] or whatever, but this is what you need to do\n[0:22:55] if you're in marketing.\n[0:22:55] If you go and see these huge companies doing it,\n[0:22:58] you don't have to do it as aggressively as them,\n[0:23:00] but it is what is essential to build a business,\n[0:23:03] you know, to stand out and see of all these other products.\n[0:23:06] So that would be my response to that\n[0:23:09] is like, that's part of the game.\n[0:23:11] We did it because I saw a lot of other people\n[0:23:12] who are very successful that were doing it as well.\n[0:23:14] And people can just unsubscribe if they don't want to see it.\n[0:23:17] So thank you guys for watching.\n[0:23:18] Let us know what you thought about this lifetime deal strategy.\n[0:23:21] I put a link in the description\n[0:23:23] to get a little bit more about this strategy specifically\n[0:23:27] and how to find an idea\n[0:23:28] that can make hundreds of thousands of dollars in 24 hours.\n[0:23:31] I hope you enjoyed it.\n[0:23:31] We'll see you in the next one.\n[0:23:32] Peace."
+}

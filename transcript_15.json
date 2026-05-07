@@ -1,0 +1,1663 @@
+{
+    "video_url": "https://www.youtube.com/watch?v=qIlX7cQ2UdU",
+    "video_id": "qIlX7cQ2UdU",
+    "audio_file": "qIlX7cQ2UdU.mp3",
+    "model_used": "base",
+    "language": "en",
+    "duration": "0:16:19",
+    "number_of_chunks": 2,
+    "status": "success",
+    "quality": {
+        "score": 100,
+        "issues": [],
+        "needs_manual_review": false
+    },
+    "transcript": [
+        {
+            "start": "0:00:00",
+            "end": "0:00:03",
+            "text": "There was two years where it just sat there and really did nothing while it was just made me money."
+        },
+        {
+            "start": "0:00:04",
+            "end": "0:00:09",
+            "text": "This is Maddox, a college student who built a simple website that made $15,000 a month,"
+        },
+        {
+            "start": "0:00:09",
+            "end": "0:00:16",
+            "text": "but it didn't start that way. For years, nobody even knew about it until one day, something changed."
+        },
+        {
+            "start": "0:00:16",
+            "end": "0:00:19",
+            "text": "And from there, I randomly made $204 in a day that I didn't even expect."
+        },
+        {
+            "start": "0:00:19",
+            "end": "0:00:24",
+            "text": "He took his site from hundreds of users, to hundreds of thousands of users, and then a few months later,"
+        },
+        {
+            "start": "0:00:24",
+            "end": "0:00:28",
+            "text": "he sold the business for over six figures. I asked Maddox to come out of the channel to"
+        },
+        {
+            "start": "0:00:28",
+            "end": "0:00:33",
+            "text": "break down everything. And in this video, we'll dive into the business that he built, the TikTok"
+        },
+        {
+            "start": "0:00:33",
+            "end": "0:00:38",
+            "text": "strategy that got him millions of views, and how he sold it for six figures while still in college."
+        },
+        {
+            "start": "0:00:38",
+            "end": "0:00:42",
+            "text": "All right, let's get into it. I'm Pat Walls, and this is StarterStory."
+        },
+        {
+            "start": "0:00:43",
+            "end": "0:00:47",
+            "text": "All right, Maddox. Welcome to the channel. It's great to have you on. Tell me about who you are,"
+        },
+        {
+            "start": "0:00:47",
+            "end": "0:00:51",
+            "text": "what you built, and what's your story. My name is Maddox Schmittlkoffer, and I built an"
+        },
+        {
+            "start": "0:00:51",
+            "end": "0:00:56",
+            "text": "Unbought Games website that makes $15,000 per month. I launched it four years ago, but then last"
+        },
+        {
+            "start": "0:00:56",
+            "end": "0:01:02",
+            "text": "four months, we went from five to 150,000 daily active users and from about a thousand a month to"
+        },
+        {
+            "start": "0:01:02",
+            "end": "0:01:07",
+            "text": "15,000 a month. And today, I'm excited to share more about how I virally marketed this simple website."
+        },
+        {
+            "start": "0:01:07",
+            "end": "0:01:13",
+            "text": "Okay, 150,000 users with a gaming website. I'm super curious about what did you actually build?"
+        },
+        {
+            "start": "0:01:13",
+            "end": "0:01:17",
+            "text": "What kind of business was this? Would you be able to pull up your website and some of your"
+        },
+        {
+            "start": "0:01:17",
+            "end": "0:01:21",
+            "text": "analytics to show how much money this business is making? Just to quickly mention though, I did"
+        },
+        {
+            "start": "0:01:21",
+            "end": "0:01:26",
+            "text": "actually sell this business just a few weeks ago for 120,000. So the owner did change how"
+        },
+        {
+            "start": "0:01:26",
+            "end": "0:01:30",
+            "text": "the site looks a little bit, but it basically looks the exact same as it did. This website is"
+        },
+        {
+            "start": "0:01:30",
+            "end": "0:01:34",
+            "text": "duckmath.org. It's an unbought games website. The biggest thing people want to be able to do is they"
+        },
+        {
+            "start": "0:01:34",
+            "end": "0:01:39",
+            "text": "want to go on the site and play whatever game they're looking at. So for example, let's go"
+        },
+        {
+            "start": "0:01:39",
+            "end": "0:01:43",
+            "text": "plans versus zombies. You get on the site, you click a game, and then you can play the game."
+        },
+        {
+            "start": "0:01:43",
+            "end": "0:01:48",
+            "text": "It's super simple. So I funnel people in from all of my social media platforms, and I get people"
+        },
+        {
+            "start": "0:01:48",
+            "end": "0:01:53",
+            "text": "to spend as much time as possible on the site, because that's how Google pays me. I have this platform"
+        },
+        {
+            "start": "0:01:53",
+            "end": "0:01:58",
+            "text": "called Google AdSense, where basically every view on an ad that someone views, I get money from it."
+        },
+        {
+            "start": "0:01:58",
+            "end": "0:02:04",
+            "text": "So I have about 1.5 million users a month, and off each of those users, I get around one cent."
+        },
+        {
+            "start": "0:02:04",
+            "end": "0:02:09",
+            "text": "First, also the good stuff, which is the money. So here is AdSense. Here is the all-time dashboard,"
+        },
+        {
+            "start": "0:02:09",
+            "end": "0:02:13",
+            "text": "so you can see I'm making like nothing. And then we have the jump when I started really trying"
+        },
+        {
+            "start": "0:02:13",
+            "end": "0:02:18",
+            "text": "hard at marketing. Probably a normal day was around six to seven hundred something like that."
+        },
+        {
+            "start": "0:02:18",
+            "end": "0:02:23",
+            "text": "So just for my main account, I've gotten 4.6 million views. I'd iterate every single video,"
+        },
+        {
+            "start": "0:02:23",
+            "end": "0:02:27",
+            "text": "so the day before I would post, I would check how it did, I would check the engagement rates,"
+        },
+        {
+            "start": "0:02:27",
+            "end": "0:02:31",
+            "text": "make sure that that video was good, is there anything I could do better? If there was, I'd always"
+        },
+        {
+            "start": "0:02:31",
+            "end": "0:02:35",
+            "text": "try to change something because I'm always trying to make my videos better. All right, well,"
+        },
+        {
+            "start": "0:02:35",
+            "end": "0:02:39",
+            "text": "thanks for showing me all that, and congratulations on selling your business. I mean, that's amazing."
+        },
+        {
+            "start": "0:02:39",
+            "end": "0:02:42",
+            "text": "You did this basically from your dorm room. That's insane. And that's part of the reason I wanted"
+        },
+        {
+            "start": "0:02:42",
+            "end": "0:02:46",
+            "text": "to bring you on. You're doing this already while you're in college, but I am curious what your"
+        },
+        {
+            "start": "0:02:46",
+            "end": "0:02:50",
+            "text": "background is. How do you even get into this? How do you get to this point where you build and sell"
+        },
+        {
+            "start": "0:02:50",
+            "end": "0:02:54",
+            "text": "this business? I was scrolling through TikTok one day, and I saw a kid younger than me saying that"
+        },
+        {
+            "start": "0:02:54",
+            "end": "0:02:58",
+            "text": "he made an unblocked game site, and he was just telling everyone to go use it. And I was just like,"
+        },
+        {
+            "start": "0:02:58",
+            "end": "0:03:03",
+            "text": "how does this kid younger than me making something look super easy? I was just like, I can do that."
+        },
+        {
+            "start": "0:03:03",
+            "end": "0:03:08",
+            "text": "It was relatively easy. It took me about a week or two, and it was really crappy at the start, and"
+        },
+        {
+            "start": "0:03:08",
+            "end": "0:03:12",
+            "text": "obviously I saw this kid marketing on TikTok. I was just like, all right, I gotta do the same."
+        },
+        {
+            "start": "0:03:12",
+            "end": "0:03:16",
+            "text": "So I started marketing at daily on TikTok five days a week, some days only post one time,"
+        },
+        {
+            "start": "0:03:16",
+            "end": "0:03:23",
+            "text": "and it never turned out too much. Fast forward like two years, and I had made $240 in a day passively"
+        },
+        {
+            "start": "0:03:23",
+            "end": "0:03:27",
+            "text": "from DuckMath. That day just happened to be the best day that was purely just luck, and I was just"
+        },
+        {
+            "start": "0:03:27",
+            "end": "0:03:31",
+            "text": "like, DuckMath sitting here, and it's been getting all this money. I've been doing nothing to it,"
+        },
+        {
+            "start": "0:03:31",
+            "end": "0:03:35",
+            "text": "so why not start actually marketing it? So I looked at what my competitors are doing, try to make the"
+        },
+        {
+            "start": "0:03:35",
+            "end": "0:03:40",
+            "text": "best videos possible, and pull the crazy marketing stunt, which was just pure volume of videos."
+        },
+        {
+            "start": "0:03:40",
+            "end": "0:03:45",
+            "text": "I love that because it's this concept of like follow the money, and I see a lot of people kind of"
+        },
+        {
+            "start": "0:03:45",
+            "end": "0:03:49",
+            "text": "fall for this trap. Sometimes they have something that's like making money. It's sort of passive,"
+        },
+        {
+            "start": "0:03:49",
+            "end": "0:03:53",
+            "text": "and then they go, okay, this is too silly. This can't be an actual business. This isn't something that"
+        },
+        {
+            "start": "0:03:53",
+            "end": "0:03:57",
+            "text": "I can sell for six figures. I'm going to go start these B2B things because it seems more serious,"
+        },
+        {
+            "start": "0:03:57",
+            "end": "0:04:02",
+            "text": "but once you went all in on this, and you just tried a little harder on it, that's when it started"
+        },
+        {
+            "start": "0:04:02",
+            "end": "0:04:07",
+            "text": "to really, really working. I want to jump back a little bit and just learn about how you built this."
+        },
+        {
+            "start": "0:04:07",
+            "end": "0:04:12",
+            "text": "The design, the tools, the stack, coding languages. How did you actually build this site?"
+        },
+        {
+            "start": "0:04:12",
+            "end": "0:04:16",
+            "text": "It was definitely an incremental project. The first site was actually on Google's sites,"
+        },
+        {
+            "start": "0:04:16",
+            "end": "0:04:21",
+            "text": "which is just this dragon drop, and I would just embed the games from online, wherever they were,"
+        },
+        {
+            "start": "0:04:21",
+            "end": "0:04:26",
+            "text": "frame it in the thing. It looked terrible, but it did work after I got a few thousand people. I also"
+        },
+        {
+            "start": "0:04:26",
+            "end": "0:04:31",
+            "text": "had done my internship where I had learned to react. I was just like, hey, react is pretty cool."
+        },
+        {
+            "start": "0:04:31",
+            "end": "0:04:36",
+            "text": "I'm going to switch my entire site to react, so this was around the time when AI first started"
+        },
+        {
+            "start": "0:04:36",
+            "end": "0:04:40",
+            "text": "to come out, and especially when vibe coding got big, I've really never touched the coding part"
+        },
+        {
+            "start": "0:04:40",
+            "end": "0:04:44",
+            "text": "anymore. It made it a lot easier to just focus on the marketing part. For the design, I have never"
+        },
+        {
+            "start": "0:04:44",
+            "end": "0:04:49",
+            "text": "been a good designer. I just kind of copied what people were doing. The design is super simple."
+        },
+        {
+            "start": "0:04:49",
+            "end": "0:04:54",
+            "text": "Later in time, I got into AB testing to make sure people stayed the most amount of time on the site,"
+        },
+        {
+            "start": "0:04:54",
+            "end": "0:04:59",
+            "text": "but also making sure that they clicked as many pages as possible because another thing about ads"
+        },
+        {
+            "start": "0:04:59",
+            "end": "0:05:03",
+            "text": "is the more pages that they look at, the more ads that they see, and the more money that I make."
+        },
+        {
+            "start": "0:05:03",
+            "end": "0:05:06",
+            "text": "Thank you for sharing how you built it. Super cool. Cool to see you kind of come from a little"
+        },
+        {
+            "start": "0:05:06",
+            "end": "0:05:11",
+            "text": "bit of a developer background, but also using a lot of AI tools to simplify and keep the team lean."
+        },
+        {
+            "start": "0:05:11",
+            "end": "0:05:16",
+            "text": "What I want to talk more about is growth, though. You showed me earlier that graph of ad sense"
+        },
+        {
+            "start": "0:05:16",
+            "end": "0:05:22",
+            "text": "revenue over time, and it was pretty low, and then all of a sudden it spiked really high for"
+        },
+        {
+            "start": "0:05:22",
+            "end": "0:05:25",
+            "text": "a short amount of time, and then you sold it. I want to hear how you did that."
+        },
+        {
+            "start": "0:05:25",
+            "end": "0:05:30",
+            "text": "The main thing was this volume for me. I made three TikTok accounts. I was posting three times"
+        },
+        {
+            "start": "0:05:30",
+            "end": "0:05:36",
+            "text": "a day, five days a week, and that was cross posted to Instagram Reels, YouTube shorts, and Snapchat."
+        },
+        {
+            "start": "0:05:36",
+            "end": "0:05:41",
+            "text": "Most people don't look at Snapchat, but we consistently hit 20,000 views and above from Snapchat,"
+        },
+        {
+            "start": "0:05:41",
+            "end": "0:05:44",
+            "text": "so I definitely would not sleep on Snapchat. I would look over the videos and be like,"
+        },
+        {
+            "start": "0:05:44",
+            "end": "0:05:49",
+            "text": "all right, we just posted these yesterday. How do they do? What's the engagement like? How can I make"
+        },
+        {
+            "start": "0:05:49",
+            "end": "0:05:53",
+            "text": "them better? Instantly after that, I would go and make three new videos. Now we've learned every"
+        },
+        {
+            "start": "0:05:53",
+            "end": "0:05:58",
+            "text": "single time, and I would always try and get better. The type of videos our posting were relatively simple,"
+        },
+        {
+            "start": "0:05:58",
+            "end": "0:06:03",
+            "text": "just kind of like little dopamine hiss. And so I think a really important thing is that I research"
+        },
+        {
+            "start": "0:06:03",
+            "end": "0:06:08",
+            "text": "and initially copied the best of my competitors videos for TikTok and just worked two times harder"
+        },
+        {
+            "start": "0:06:08",
+            "end": "0:06:12",
+            "text": "than they did. I would see that they would post once a day, maybe once a week, so I make sure"
+        },
+        {
+            "start": "0:06:12",
+            "end": "0:06:17",
+            "text": "I get more volume, and I do the same quality. One of the big things I did was get someone else"
+        },
+        {
+            "start": "0:06:17",
+            "end": "0:06:21",
+            "text": "who I mentored to actually do the videos, so I could save more time doing other things while"
+        },
+        {
+            "start": "0:06:21",
+            "end": "0:06:26",
+            "text": "the person I mentored actually could pump out really quality videos following my format."
+        },
+        {
+            "start": "0:06:26",
+            "end": "0:06:29",
+            "text": "Okay, this is super cool. I think a lot of people watching this might be wondering,"
+        },
+        {
+            "start": "0:06:29",
+            "end": "0:06:33",
+            "text": "what is a successful piece of content that grows as business looks like? Would you be able to pull"
+        },
+        {
+            "start": "0:06:33",
+            "end": "0:06:37",
+            "text": "up one of your highest performing videos? I got like millions of views and show me like why it worked"
+        },
+        {
+            "start": "0:06:37",
+            "end": "0:06:42",
+            "text": "and like what kind of impact it had on your business. So here's most popular video on the Duck"
+        },
+        {
+            "start": "0:06:42",
+            "end": "0:06:47",
+            "text": "Math main account. It got 2.1 million views on TikTok. This is not the normal type of content that you"
+        },
+        {
+            "start": "0:06:47",
+            "end": "0:06:51",
+            "text": "would think gets a business money. This video is talking about 30 minutes to make. Honestly,"
+        },
+        {
+            "start": "0:06:51",
+            "end": "0:06:55",
+            "text": "pretty crappy content. I'm just filming things with my phone. The quality isn't great. I'm just"
+        },
+        {
+            "start": "0:06:55",
+            "end": "0:07:00",
+            "text": "filming my laptop me playing something. It's basically just a really nice visual hook. After the"
+        },
+        {
+            "start": "0:07:00",
+            "end": "0:07:07",
+            "text": "hook, I show them, hey, go to this exact link. So here's it on Instagram, 3.2 million views,"
+        },
+        {
+            "start": "0:07:07",
+            "end": "0:07:12",
+            "text": "so actually more than TikTok. Same exact video I just had an automation platform literally"
+        },
+        {
+            "start": "0:07:12",
+            "end": "0:07:16",
+            "text": "upload this for me, so I didn't have to do anymore work. 5 million views in total, which is crazy."
+        },
+        {
+            "start": "0:07:16",
+            "end": "0:07:21",
+            "text": "So I found a working format and I kept pumping it out. So this might have been part 30 of this series,"
+        },
+        {
+            "start": "0:07:21",
+            "end": "0:07:26",
+            "text": "and I just kept trying different hooks. So while I don't have the exact number, my guess would be"
+        },
+        {
+            "start": "0:07:26",
+            "end": "0:07:33",
+            "text": "I got $1,000 from the single video. Maddox's story is not about building, guys. It is all about"
+        },
+        {
+            "start": "0:07:33",
+            "end": "0:07:38",
+            "text": "growth. He went from a few hundred users to thousands in just a couple weeks, but here's the thing."
+        },
+        {
+            "start": "0:07:38",
+            "end": "0:07:43",
+            "text": "Maddox didn't get lucky. He had a system for finding viral formats coming up with hooks and"
+        },
+        {
+            "start": "0:07:43",
+            "end": "0:07:48",
+            "text": "creating content that got a ton of attention on his website. And this is exactly what we break down"
+        },
+        {
+            "start": "0:07:48",
+            "end": "0:07:53",
+            "text": "in the starter story build organic short form playbook. This is a free resource that you can"
+        },
+        {
+            "start": "0:07:53",
+            "end": "0:07:58",
+            "text": "download right now packed with real founder case studies in the actual strategies that are working"
+        },
+        {
+            "start": "0:07:58",
+            "end": "0:08:03",
+            "text": "right now on TikTok, Instagram, and YouTube shorts. All of these strategies and playbooks are"
+        },
+        {
+            "start": "0:08:03",
+            "end": "0:08:08",
+            "text": "backed by real data from founders just like Maddox and who we talk to on this channel that are"
+        },
+        {
+            "start": "0:08:08",
+            "end": "0:08:14",
+            "text": "actually doing this and seeing real results in building real businesses. So if you're ready to crack"
+        },
+        {
+            "start": "0:08:14",
+            "end": "0:08:19",
+            "text": "distribution, marketing, and short form content to grow your business, just head to the first link"
+        },
+        {
+            "start": "0:08:19",
+            "end": "0:08:23",
+            "text": "in the description to download the playbook for free right now. All right, let's get back to the"
+        },
+        {
+            "start": "0:08:23",
+            "end": "0:08:27",
+            "text": "video. Okay cool organic short form. That seems to be something that's working for a lot of people."
+        },
+        {
+            "start": "0:08:27",
+            "end": "0:08:31",
+            "text": "I know people that watch this channel. I've seen that coming up over and over again. I want to"
+        },
+        {
+            "start": "0:08:31",
+            "end": "0:08:36",
+            "text": "switch topics a little bit to the sale. I know you sold this business. Walk me through how that"
+        },
+        {
+            "start": "0:08:36",
+            "end": "0:08:41",
+            "text": "sale happened, why you decided to sell and what you're working on now. So I've seen about a year"
+        },
+        {
+            "start": "0:08:41",
+            "end": "0:08:46",
+            "text": "before I decided to sell that a bigger company had bought a smaller game site exactly like mine."
+        },
+        {
+            "start": "0:08:46",
+            "end": "0:08:52",
+            "text": "So I contacted them and I told them all my stats and then I got lowball at $100,000. So I came back"
+        },
+        {
+            "start": "0:08:52",
+            "end": "0:08:57",
+            "text": "to the counter offer. We both agreed and then we used escrow as a middleman to transfer the money."
+        },
+        {
+            "start": "0:08:57",
+            "end": "0:09:01",
+            "text": "So I think for selling, I slightly regret it now because I don't have anything currently working"
+        },
+        {
+            "start": "0:09:01",
+            "end": "0:09:05",
+            "text": "that a how I like it to be. But in reality, if I really thought about it for like 10 minutes,"
+        },
+        {
+            "start": "0:09:05",
+            "end": "0:09:10",
+            "text": "I'd be like yeah, selling was still the correct move. Okay, what I also love about this is it has"
+        },
+        {
+            "start": "0:09:10",
+            "end": "0:09:15",
+            "text": "this kind of amazing three-par component, which is you built the app. You built something that"
+        },
+        {
+            "start": "0:09:15",
+            "end": "0:09:19",
+            "text": "anybody could really build. You finally figure out and cracked marketing and found a way that"
+        },
+        {
+            "start": "0:09:19",
+            "end": "0:09:23",
+            "text": "to truly get this in front of millions of people. And then you sold it. So if you were starting over"
+        },
+        {
+            "start": "0:09:23",
+            "end": "0:09:27",
+            "text": "in 2026, which kind of sounds like you are, you're starting another company. How are you going to"
+        },
+        {
+            "start": "0:09:27",
+            "end": "0:09:31",
+            "text": "approach things so that you can grow even faster this time and maybe not make some of the mistakes"
+        },
+        {
+            "start": "0:09:31",
+            "end": "0:09:36",
+            "text": "that you made before? What's your playbook for 2026? Pretty simple. Pick a niche that you know how to"
+        },
+        {
+            "start": "0:09:36",
+            "end": "0:09:41",
+            "text": "market in. If I knew how to market to college students, I'd maybe make an AI college studying tool."
+        },
+        {
+            "start": "0:09:41",
+            "end": "0:09:46",
+            "text": "If I knew how to market to games general, I might do a game server hosting platform. So pick a niche"
+        },
+        {
+            "start": "0:09:46",
+            "end": "0:09:51",
+            "text": "that you know to market and then build a super quick MVP in my two to three days with the help of AI"
+        },
+        {
+            "start": "0:09:51",
+            "end": "0:09:54",
+            "text": "or how's where you're going to build it quickly. And then you might want to do these things kind of"
+        },
+        {
+            "start": "0:09:54",
+            "end": "0:09:59",
+            "text": "in the same time. But you're going to research 10 to 20 of your competitors best videos that perform the"
+        },
+        {
+            "start": "0:09:59",
+            "end": "0:10:01",
+            "text": "that perform the best, that got the best conversions."
+        },
+        {
+            "start": "0:10:01",
+            "end": "0:10:03",
+            "text": "Find what's all similar about them,"
+        },
+        {
+            "start": "0:10:03",
+            "end": "0:10:04",
+            "text": "what was the hook like, what was it called,"
+        },
+        {
+            "start": "0:10:04",
+            "end": "0:10:07",
+            "text": "the action like, understand why they went viral,"
+        },
+        {
+            "start": "0:10:07",
+            "end": "0:10:09",
+            "text": "and basically write down how you can copy them"
+        },
+        {
+            "start": "0:10:09",
+            "end": "0:10:11",
+            "text": "or basically use their format"
+        },
+        {
+            "start": "0:10:11",
+            "end": "0:10:12",
+            "text": "to get the same outcome that they did."
+        },
+        {
+            "start": "0:10:12",
+            "end": "0:10:15",
+            "text": "And you're gonna start posting daily on TikTok,"
+        },
+        {
+            "start": "0:10:15",
+            "end": "0:10:18",
+            "text": "make sure to make mistakes, but always keep getting better."
+        },
+        {
+            "start": "0:10:18",
+            "end": "0:10:19",
+            "text": "You know, your first videos aren't gonna be great,"
+        },
+        {
+            "start": "0:10:19",
+            "end": "0:10:21",
+            "text": "but you're 100 sure as hell will be."
+        },
+        {
+            "start": "0:10:21",
+            "end": "0:10:22",
+            "text": "See if people like it, iterate,"
+        },
+        {
+            "start": "0:10:22",
+            "end": "0:10:24",
+            "text": "and if it starts to get big,"
+        },
+        {
+            "start": "0:10:24",
+            "end": "0:10:27",
+            "text": "you see something changing, maybe your life's changing,"
+        },
+        {
+            "start": "0:10:27",
+            "end": "0:10:28",
+            "text": "maybe you wanna go out and on this,"
+        },
+        {
+            "start": "0:10:28",
+            "end": "0:10:31",
+            "text": "just go all in most likely, it will become big."
+        },
+        {
+            "start": "0:10:31",
+            "end": "0:10:33",
+            "text": "Well, I'm excited to see what you build in 2026"
+        },
+        {
+            "start": "0:10:33",
+            "end": "0:10:34",
+            "text": "and what you build next."
+        },
+        {
+            "start": "0:10:34",
+            "end": "0:10:37",
+            "text": "Another question I have for you is around tech stack"
+        },
+        {
+            "start": "0:10:37",
+            "end": "0:10:38",
+            "text": "and how you build."
+        },
+        {
+            "start": "0:10:38",
+            "end": "0:10:39",
+            "text": "Obviously you started this a couple of years ago,"
+        },
+        {
+            "start": "0:10:39",
+            "end": "0:10:41",
+            "text": "all the tools were changing."
+        },
+        {
+            "start": "0:10:41",
+            "end": "0:10:43",
+            "text": "I know you're probably using a lot of AI to code stuff now."
+        },
+        {
+            "start": "0:10:43",
+            "end": "0:10:45",
+            "text": "What stack are you using"
+        },
+        {
+            "start": "0:10:45",
+            "end": "0:10:46",
+            "text": "and what tools are really working for you?"
+        },
+        {
+            "start": "0:10:46",
+            "end": "0:10:48",
+            "text": "What's been really great for me is CloudFlare."
+        },
+        {
+            "start": "0:10:48",
+            "end": "0:10:50",
+            "text": "They do all of my site hosting,"
+        },
+        {
+            "start": "0:10:50",
+            "end": "0:10:52",
+            "text": "I have all of my domains on CloudFlare."
+        },
+        {
+            "start": "0:10:52",
+            "end": "0:10:55",
+            "text": "I also have a database where I can store static data."
+        },
+        {
+            "start": "0:10:55",
+            "end": "0:10:58",
+            "text": "CloudFlare is completely free other than the domains,"
+        },
+        {
+            "start": "0:10:58",
+            "end": "0:10:59",
+            "text": "but those are like 200 amounts, something like that."
+        },
+        {
+            "start": "0:10:59",
+            "end": "0:11:02",
+            "text": "And then I have SuperBase for the back end"
+        },
+        {
+            "start": "0:11:02",
+            "end": "0:11:04",
+            "text": "and for off and that lets me do authentication,"
+        },
+        {
+            "start": "0:11:04",
+            "end": "0:11:07",
+            "text": "leaderboards, coins, basically saving all user data"
+        },
+        {
+            "start": "0:11:07",
+            "end": "0:11:09",
+            "text": "and that's $20."
+        },
+        {
+            "start": "0:11:09",
+            "end": "0:11:11",
+            "text": "And then for analytics, I used to have Google Analytics,"
+        },
+        {
+            "start": "0:11:11",
+            "end": "0:11:12",
+            "text": "but I switched to PostHog"
+        },
+        {
+            "start": "0:11:12",
+            "end": "0:11:14",
+            "text": "and I got into their startup program"
+        },
+        {
+            "start": "0:11:14",
+            "end": "0:11:16",
+            "text": "where they gave me $50,000 in credits for free,"
+        },
+        {
+            "start": "0:11:16",
+            "end": "0:11:19",
+            "text": "which helped me AB test, which was super important."
+        },
+        {
+            "start": "0:11:19",
+            "end": "0:11:21",
+            "text": "If you have so many users coming in,"
+        },
+        {
+            "start": "0:11:21",
+            "end": "0:11:23",
+            "text": "you have so much data and you always need to keep"
+        },
+        {
+            "start": "0:11:23",
+            "end": "0:11:25",
+            "text": "getting better sessions with AB test labs for us to do."
+        },
+        {
+            "start": "0:11:25",
+            "end": "0:11:27",
+            "text": "And then Google AdSense, they pay me"
+        },
+        {
+            "start": "0:11:27",
+            "end": "0:11:29",
+            "text": "and just auto put ads on the site."
+        },
+        {
+            "start": "0:11:29",
+            "end": "0:11:31",
+            "text": "I really don't have to do any work for them."
+        },
+        {
+            "start": "0:11:31",
+            "end": "0:11:32",
+            "text": "I don't have to do any code."
+        },
+        {
+            "start": "0:11:32",
+            "end": "0:11:34",
+            "text": "I just put in a little snippet of code"
+        },
+        {
+            "start": "0:11:34",
+            "end": "0:11:35",
+            "text": "and they just do the rest."
+        },
+        {
+            "start": "0:11:35",
+            "end": "0:11:38",
+            "text": "They're really nice because unlike most ad platforms,"
+        },
+        {
+            "start": "0:11:38",
+            "end": "0:11:39",
+            "text": "I don't have to talk to anyone."
+        },
+        {
+            "start": "0:11:39",
+            "end": "0:11:41",
+            "text": "I just add my site and they put ads on it,"
+        },
+        {
+            "start": "0:11:41",
+            "end": "0:11:42",
+            "text": "which is super nice."
+        },
+        {
+            "start": "0:11:42",
+            "end": "0:11:45",
+            "text": "Then I have this platform called repurpose.io."
+        },
+        {
+            "start": "0:11:45",
+            "end": "0:11:47",
+            "text": "It takes my TikTok videos that I post"
+        },
+        {
+            "start": "0:11:47",
+            "end": "0:11:49",
+            "text": "and then crosspost them to all the other platforms"
+        },
+        {
+            "start": "0:11:49",
+            "end": "0:11:51",
+            "text": "that I was crossposting on, which was, again,"
+        },
+        {
+            "start": "0:11:51",
+            "end": "0:11:53",
+            "text": "YouTube videos, Instagram videos, Snapchat videos,"
+        },
+        {
+            "start": "0:11:53",
+            "end": "0:11:56",
+            "text": "which made it super easy, I don't have to do any work there."
+        },
+        {
+            "start": "0:11:56",
+            "end": "0:11:59",
+            "text": "And we also had a Discord, I think up to 7,000 members now."
+        },
+        {
+            "start": "0:11:59",
+            "end": "0:12:01",
+            "text": "We used it for a community to hype up new features,"
+        },
+        {
+            "start": "0:12:01",
+            "end": "0:12:02",
+            "text": "stuff like that."
+        },
+        {
+            "start": "0:12:02",
+            "end": "0:12:04",
+            "text": "And then I was also paying my girlfriend"
+        },
+        {
+            "start": "0:12:04",
+            "end": "0:12:07",
+            "text": "to post like maybe five videos for 200 a week"
+        },
+        {
+            "start": "0:12:07",
+            "end": "0:12:09",
+            "text": "or one video for 200 a week, something like that."
+        },
+        {
+            "start": "0:12:09",
+            "end": "0:12:10",
+            "text": "So she was also very helpful."
+        },
+        {
+            "start": "0:12:10",
+            "end": "0:12:13",
+            "text": "Okay, so last question that we ask all founders"
+        },
+        {
+            "start": "0:12:13",
+            "end": "0:12:14",
+            "text": "who come onto the channel is,"
+        },
+        {
+            "start": "0:12:14",
+            "end": "0:12:17",
+            "text": "if you could go back in time before TikTok took off,"
+        },
+        {
+            "start": "0:12:17",
+            "end": "0:12:20",
+            "text": "before you decided to go all in on your site"
+        },
+        {
+            "start": "0:12:20",
+            "end": "0:12:23",
+            "text": "and skip the B2B tools, what would be your advice"
+        },
+        {
+            "start": "0:12:23",
+            "end": "0:12:24",
+            "text": "to young Maddox?"
+        },
+        {
+            "start": "0:12:24",
+            "end": "0:12:25",
+            "text": "And really what would be your advice"
+        },
+        {
+            "start": "0:12:25",
+            "end": "0:12:26",
+            "text": "to anyone who's watching this right now"
+        },
+        {
+            "start": "0:12:26",
+            "end": "0:12:28",
+            "text": "is made to this point in the video."
+        },
+        {
+            "start": "0:12:28",
+            "end": "0:12:29",
+            "text": "What's your advice?"
+        },
+        {
+            "start": "0:12:29",
+            "end": "0:12:31",
+            "text": "I definitely learned a ton, but the biggest thing"
+        },
+        {
+            "start": "0:12:31",
+            "end": "0:12:32",
+            "text": "was staying consistent."
+        },
+        {
+            "start": "0:12:32",
+            "end": "0:12:33",
+            "text": "This would have never came to be for me"
+        },
+        {
+            "start": "0:12:33",
+            "end": "0:12:36",
+            "text": "if I'd stopped any of those four years"
+        },
+        {
+            "start": "0:12:36",
+            "end": "0:12:38",
+            "text": "that I had the site posting a daily on TikTok."
+        },
+        {
+            "start": "0:12:38",
+            "end": "0:12:40",
+            "text": "I never forgot about it, I make site changes."
+        },
+        {
+            "start": "0:12:40",
+            "end": "0:12:43",
+            "text": "But the biggest thing was I just stayed consistent with it."
+        },
+        {
+            "start": "0:12:43",
+            "end": "0:12:44",
+            "text": "I never forgot about it."
+        },
+        {
+            "start": "0:12:44",
+            "end": "0:12:46",
+            "text": "And I kept incrementally working on it."
+        },
+        {
+            "start": "0:12:46",
+            "end": "0:12:47",
+            "text": "I kept posting TikToks."
+        },
+        {
+            "start": "0:12:47",
+            "end": "0:12:50",
+            "text": "And from there, I randomly made $240 in a day"
+        },
+        {
+            "start": "0:12:50",
+            "end": "0:12:52",
+            "text": "that I didn't even expect just because I kept staying"
+        },
+        {
+            "start": "0:12:52",
+            "end": "0:12:53",
+            "text": "consistent with it."
+        },
+        {
+            "start": "0:12:53",
+            "end": "0:12:55",
+            "text": "So if all those fails, just stay consistent"
+        },
+        {
+            "start": "0:12:55",
+            "end": "0:12:55",
+            "text": "with your project."
+        },
+        {
+            "start": "0:12:55",
+            "end": "0:12:57",
+            "text": "But make sure you know when to drop it."
+        },
+        {
+            "start": "0:12:57",
+            "end": "0:12:58",
+            "text": "All right, well, thanks for sharing that."
+        },
+        {
+            "start": "0:12:58",
+            "end": "0:13:00",
+            "text": "That's a great advice."
+        },
+        {
+            "start": "0:13:00",
+            "end": "0:13:02",
+            "text": "I'm curious, one last question is,"
+        },
+        {
+            "start": "0:13:02",
+            "end": "0:13:03",
+            "text": "I know you sold your business."
+        },
+        {
+            "start": "0:13:03",
+            "end": "0:13:04",
+            "text": "What's next?"
+        },
+        {
+            "start": "0:13:04",
+            "end": "0:13:06",
+            "text": "I thought I wanted to go out of the gaming niche,"
+        },
+        {
+            "start": "0:13:06",
+            "end": "0:13:07",
+            "text": "but I find myself back in here,"
+        },
+        {
+            "start": "0:13:07",
+            "end": "0:13:10",
+            "text": "making a cloud gaming platform called MaddoxCloud.com."
+        },
+        {
+            "start": "0:13:10",
+            "end": "0:13:12",
+            "text": "It's cloud gaming, but for phone games instead,"
+        },
+        {
+            "start": "0:13:12",
+            "end": "0:13:15",
+            "text": "so you can hop on there and play like whatever suits"
+        },
+        {
+            "start": "0:13:15",
+            "end": "0:13:15",
+            "text": "your needs."
+        },
+        {
+            "start": "0:13:15",
+            "end": "0:13:16",
+            "text": "Well, good luck with it."
+        },
+        {
+            "start": "0:13:16",
+            "end": "0:13:18",
+            "text": "Thank you for coming on and sharing all this,"
+        },
+        {
+            "start": "0:13:18",
+            "end": "0:13:20",
+            "text": "being so transparent, sharing how much you sold for"
+        },
+        {
+            "start": "0:13:20",
+            "end": "0:13:21",
+            "text": "and everything."
+        },
+        {
+            "start": "0:13:21",
+            "end": "0:13:22",
+            "text": "Super helpful for a lot of people watching."
+        },
+        {
+            "start": "0:13:22",
+            "end": "0:13:24",
+            "text": "So thanks for coming on and hope to have you back soon."
+        },
+        {
+            "start": "0:13:24",
+            "end": "0:13:25",
+            "text": "Yeah, thank you, Pat."
+        },
+        {
+            "start": "0:13:25",
+            "end": "0:13:27",
+            "text": "Cool, so what do you think?"
+        },
+        {
+            "start": "0:13:27",
+            "end": "0:13:29",
+            "text": "So I think it's super cool what he built."
+        },
+        {
+            "start": "0:13:29",
+            "end": "0:13:30",
+            "text": "I think of it like it's just his hobby"
+        },
+        {
+            "start": "0:13:30",
+            "end": "0:13:32",
+            "text": "and he built sort of a website around"
+        },
+        {
+            "start": "0:13:32",
+            "end": "0:13:34",
+            "text": "something he's just really curious about."
+        },
+        {
+            "start": "0:13:34",
+            "end": "0:13:36",
+            "text": "And I like what you were asking about, like,"
+        },
+        {
+            "start": "0:13:36",
+            "end": "0:13:39",
+            "text": "for the people who say, is this a real business"
+        },
+        {
+            "start": "0:13:39",
+            "end": "0:13:40",
+            "text": "or a serious thing?"
+        },
+        {
+            "start": "0:13:40",
+            "end": "0:13:42",
+            "text": "It's almost like, of course it is serious."
+        },
+        {
+            "start": "0:13:42",
+            "end": "0:13:44",
+            "text": "Serious business doesn't mean it has to be"
+        },
+        {
+            "start": "0:13:44",
+            "end": "0:13:46",
+            "text": "like a serious topic."
+        },
+        {
+            "start": "0:13:46",
+            "end": "0:13:47",
+            "text": "It's really cool to see a kid who's like,"
+        },
+        {
+            "start": "0:13:47",
+            "end": "0:13:48",
+            "text": "I just like doing this stuff."
+        },
+        {
+            "start": "0:13:48",
+            "end": "0:13:51",
+            "text": "I just kind of started sharing it about it online."
+        },
+        {
+            "start": "0:13:51",
+            "end": "0:13:52",
+            "text": "It was probably not that hard for him to share"
+        },
+        {
+            "start": "0:13:52",
+            "end": "0:13:54",
+            "text": "just because he was like really interested in all this stuff."
+        },
+        {
+            "start": "0:13:54",
+            "end": "0:13:57",
+            "text": "I like that he built a business around just like his interest"
+        },
+        {
+            "start": "0:13:57",
+            "end": "0:13:59",
+            "text": "and that can also be a serious business."
+        },
+        {
+            "start": "0:13:59",
+            "end": "0:14:00",
+            "text": "Yeah, one way that I think is something"
+        },
+        {
+            "start": "0:14:00",
+            "end": "0:14:02",
+            "text": "that I went through as well."
+        },
+        {
+            "start": "0:14:02",
+            "end": "0:14:04",
+            "text": "And I think a lot of people watching this,"
+        },
+        {
+            "start": "0:14:04",
+            "end": "0:14:06",
+            "text": "it's a really important thing,"
+        },
+        {
+            "start": "0:14:06",
+            "end": "0:14:08",
+            "text": "especially as you get a few years into building stuff"
+        },
+        {
+            "start": "0:14:08",
+            "end": "0:14:10",
+            "text": "and trying to find something that actually works."
+        },
+        {
+            "start": "0:14:10",
+            "end": "0:14:12",
+            "text": "There's two different types of businesses"
+        },
+        {
+            "start": "0:14:12",
+            "end": "0:14:12",
+            "text": "when you're starting out."
+        },
+        {
+            "start": "0:14:12",
+            "end": "0:14:15",
+            "text": "There's the ego business and then there's the business"
+        },
+        {
+            "start": "0:14:15",
+            "end": "0:14:16",
+            "text": "you're actually meant to build."
+        },
+        {
+            "start": "0:14:16",
+            "end": "0:14:21",
+            "text": "The ego business is what people will congratulate you for"
+        },
+        {
+            "start": "0:14:21",
+            "end": "0:14:23",
+            "text": "because it is a real business quote unquote."
+        },
+        {
+            "start": "0:14:23",
+            "end": "0:14:25",
+            "text": "Or it's like, you watch a lot of YouTube videos,"
+        },
+        {
+            "start": "0:14:25",
+            "end": "0:14:27",
+            "text": "you hear about Sass, you hear about these B2B."
+        },
+        {
+            "start": "0:14:27",
+            "end": "0:14:29",
+            "text": "You had mentioned that he had tried the B2B thing"
+        },
+        {
+            "start": "0:14:29",
+            "end": "0:14:31",
+            "text": "because that was the ego business."
+        },
+        {
+            "start": "0:14:31",
+            "end": "0:14:32",
+            "text": "The business I was supposed to build,"
+        },
+        {
+            "start": "0:14:32",
+            "end": "0:14:34",
+            "text": "what real entrepreneur is built."
+        },
+        {
+            "start": "0:14:34",
+            "end": "0:14:36",
+            "text": "But really, the real business that you kind of mentioned"
+        },
+        {
+            "start": "0:14:36",
+            "end": "0:14:39",
+            "text": "a little bit is like, it's not serious, but it makes money."
+        },
+        {
+            "start": "0:14:39",
+            "end": "0:14:41",
+            "text": "And if it's making money, that's the direction"
+        },
+        {
+            "start": "0:14:41",
+            "end": "0:14:43",
+            "text": "that you should be going in as an entrepreneur."
+        },
+        {
+            "start": "0:14:43",
+            "end": "0:14:47",
+            "text": "Sometimes it's not in the most mature of industries,"
+        },
+        {
+            "start": "0:14:47",
+            "end": "0:14:50",
+            "text": "whether it's gaming or whatever, websites and games."
+        },
+        {
+            "start": "0:14:50",
+            "end": "0:14:52",
+            "text": "There's some of the biggest businesses in the world actually."
+        },
+        {
+            "start": "0:14:52",
+            "end": "0:14:53",
+            "text": "So as an entrepreneur,"
+        },
+        {
+            "start": "0:14:53",
+            "end": "0:14:54",
+            "text": "I think you have to make a decision of,"
+        },
+        {
+            "start": "0:14:54",
+            "end": "0:14:56",
+            "text": "am I building for customers?"
+        },
+        {
+            "start": "0:14:56",
+            "end": "0:14:58",
+            "text": "Or am I building for what other people"
+        },
+        {
+            "start": "0:14:58",
+            "end": "0:15:00",
+            "text": "who are not my customers will think about me"
+        },
+        {
+            "start": "0:15:00",
+            "end": "0:15:01",
+            "text": "and how serious it is?"
+        },
+        {
+            "start": "0:15:01",
+            "end": "0:15:03",
+            "text": "It's more of a deep nuance topic,"
+        },
+        {
+            "start": "0:15:03",
+            "end": "0:15:05",
+            "text": "but it's secretly very important thing"
+        },
+        {
+            "start": "0:15:05",
+            "end": "0:15:07",
+            "text": "that I think I personally had to go through as well"
+        },
+        {
+            "start": "0:15:07",
+            "end": "0:15:10",
+            "text": "because I had started some other B2B businesses"
+        },
+        {
+            "start": "0:15:10",
+            "end": "0:15:11",
+            "text": "while starting this business starter story."
+        },
+        {
+            "start": "0:15:11",
+            "end": "0:15:13",
+            "text": "But this was the real business I was meant to build."
+        },
+        {
+            "start": "0:15:13",
+            "end": "0:15:15",
+            "text": "And then yeah, I think the other thing I'm thinking about"
+        },
+        {
+            "start": "0:15:15",
+            "end": "0:15:18",
+            "text": "is just how crazy it is that TikTok and short form"
+        },
+        {
+            "start": "0:15:18",
+            "end": "0:15:20",
+            "text": "like just works, man."
+        },
+        {
+            "start": "0:15:20",
+            "end": "0:15:22",
+            "text": "How many people have we talked to that basically say,"
+        },
+        {
+            "start": "0:15:22",
+            "end": "0:15:24",
+            "text": "like I just started sharing on TikTok and boom,"
+        },
+        {
+            "start": "0:15:24",
+            "end": "0:15:27",
+            "text": "it blew up, that still blows my mind."
+        },
+        {
+            "start": "0:15:27",
+            "end": "0:15:29",
+            "text": "At starter story as you guys watched this channel,"
+        },
+        {
+            "start": "0:15:29",
+            "end": "0:15:32",
+            "text": "we like to find people that just blew up in the last year"
+        },
+        {
+            "start": "0:15:32",
+            "end": "0:15:33",
+            "text": "because we want to find the fresh stuff"
+        },
+        {
+            "start": "0:15:33",
+            "end": "0:15:34",
+            "text": "that's actually working."
+        },
+        {
+            "start": "0:15:34",
+            "end": "0:15:36",
+            "text": "We don't want to share something from 10 years ago."
+        },
+        {
+            "start": "0:15:36",
+            "end": "0:15:38",
+            "text": "This is what is usually the case,"
+        },
+        {
+            "start": "0:15:38",
+            "end": "0:15:40",
+            "text": "is that there's some sort of tactic"
+        },
+        {
+            "start": "0:15:40",
+            "end": "0:15:42",
+            "text": "or marketing channel that shot it up like crazy."
+        },
+        {
+            "start": "0:15:42",
+            "end": "0:15:44",
+            "text": "And that usually ends up being the case."
+        },
+        {
+            "start": "0:15:44",
+            "end": "0:15:47",
+            "text": "So if you are still watching this at this point"
+        },
+        {
+            "start": "0:15:47",
+            "end": "0:15:50",
+            "text": "and you realize that it is the time to build,"
+        },
+        {
+            "start": "0:15:50",
+            "end": "0:15:52",
+            "text": "it is 2026 as he shared in the video,"
+        },
+        {
+            "start": "0:15:52",
+            "end": "0:15:54",
+            "text": "using AI tools, you could put something together"
+        },
+        {
+            "start": "0:15:54",
+            "end": "0:15:55",
+            "text": "in three days."
+        },
+        {
+            "start": "0:15:55",
+            "end": "0:15:57",
+            "text": "You should definitely check out starter story build."
+        },
+        {
+            "start": "0:15:57",
+            "end": "0:15:59",
+            "text": "It is our platform where in just a couple of weeks,"
+        },
+        {
+            "start": "0:15:59",
+            "end": "0:16:00",
+            "text": "you'll come up with an idea."
+        },
+        {
+            "start": "0:16:00",
+            "end": "0:16:01",
+            "text": "You'll build it with AI tools"
+        },
+        {
+            "start": "0:16:01",
+            "end": "0:16:03",
+            "text": "and you launch it and get it in the hands"
+        },
+        {
+            "start": "0:16:03",
+            "end": "0:16:05",
+            "text": "of actual real users."
+        },
+        {
+            "start": "0:16:05",
+            "end": "0:16:07",
+            "text": "If you're ready to build, if you got an idea"
+        },
+        {
+            "start": "0:16:07",
+            "end": "0:16:09",
+            "text": "or if you want to just help finding an idea"
+        },
+        {
+            "start": "0:16:09",
+            "end": "0:16:11",
+            "text": "and building something alongside lots of other people"
+        },
+        {
+            "start": "0:16:11",
+            "end": "0:16:12",
+            "text": "within starter story build,"
+        },
+        {
+            "start": "0:16:12",
+            "end": "0:16:13",
+            "text": "check the link in the description."
+        },
+        {
+            "start": "0:16:13",
+            "end": "0:16:15",
+            "text": "You can sign up, you can get started right now."
+        },
+        {
+            "start": "0:16:15",
+            "end": "0:16:17",
+            "text": "Thank you guys for watching this episode."
+        },
+        {
+            "start": "0:16:17",
+            "end": "0:16:18",
+            "text": "We'll see you in the next one."
+        },
+        {
+            "start": "0:16:18",
+            "end": "0:16:19",
+            "text": "Peace."
+        }
+    ],
+    "plain_text": "[0:00:00] There was two years where it just sat there and really did nothing while it was just made me money.\n[0:00:04] This is Maddox, a college student who built a simple website that made $15,000 a month,\n[0:00:09] but it didn't start that way. For years, nobody even knew about it until one day, something changed.\n[0:00:16] And from there, I randomly made $204 in a day that I didn't even expect.\n[0:00:19] He took his site from hundreds of users, to hundreds of thousands of users, and then a few months later,\n[0:00:24] he sold the business for over six figures. I asked Maddox to come out of the channel to\n[0:00:28] break down everything. And in this video, we'll dive into the business that he built, the TikTok\n[0:00:33] strategy that got him millions of views, and how he sold it for six figures while still in college.\n[0:00:38] All right, let's get into it. I'm Pat Walls, and this is StarterStory.\n[0:00:43] All right, Maddox. Welcome to the channel. It's great to have you on. Tell me about who you are,\n[0:00:47] what you built, and what's your story. My name is Maddox Schmittlkoffer, and I built an\n[0:00:51] Unbought Games website that makes $15,000 per month. I launched it four years ago, but then last\n[0:00:56] four months, we went from five to 150,000 daily active users and from about a thousand a month to\n[0:01:02] 15,000 a month. And today, I'm excited to share more about how I virally marketed this simple website.\n[0:01:07] Okay, 150,000 users with a gaming website. I'm super curious about what did you actually build?\n[0:01:13] What kind of business was this? Would you be able to pull up your website and some of your\n[0:01:17] analytics to show how much money this business is making? Just to quickly mention though, I did\n[0:01:21] actually sell this business just a few weeks ago for 120,000. So the owner did change how\n[0:01:26] the site looks a little bit, but it basically looks the exact same as it did. This website is\n[0:01:30] duckmath.org. It's an unbought games website. The biggest thing people want to be able to do is they\n[0:01:34] want to go on the site and play whatever game they're looking at. So for example, let's go\n[0:01:39] plans versus zombies. You get on the site, you click a game, and then you can play the game.\n[0:01:43] It's super simple. So I funnel people in from all of my social media platforms, and I get people\n[0:01:48] to spend as much time as possible on the site, because that's how Google pays me. I have this platform\n[0:01:53] called Google AdSense, where basically every view on an ad that someone views, I get money from it.\n[0:01:58] So I have about 1.5 million users a month, and off each of those users, I get around one cent.\n[0:02:04] First, also the good stuff, which is the money. So here is AdSense. Here is the all-time dashboard,\n[0:02:09] so you can see I'm making like nothing. And then we have the jump when I started really trying\n[0:02:13] hard at marketing. Probably a normal day was around six to seven hundred something like that.\n[0:02:18] So just for my main account, I've gotten 4.6 million views. I'd iterate every single video,\n[0:02:23] so the day before I would post, I would check how it did, I would check the engagement rates,\n[0:02:27] make sure that that video was good, is there anything I could do better? If there was, I'd always\n[0:02:31] try to change something because I'm always trying to make my videos better. All right, well,\n[0:02:35] thanks for showing me all that, and congratulations on selling your business. I mean, that's amazing.\n[0:02:39] You did this basically from your dorm room. That's insane. And that's part of the reason I wanted\n[0:02:42] to bring you on. You're doing this already while you're in college, but I am curious what your\n[0:02:46] background is. How do you even get into this? How do you get to this point where you build and sell\n[0:02:50] this business? I was scrolling through TikTok one day, and I saw a kid younger than me saying that\n[0:02:54] he made an unblocked game site, and he was just telling everyone to go use it. And I was just like,\n[0:02:58] how does this kid younger than me making something look super easy? I was just like, I can do that.\n[0:03:03] It was relatively easy. It took me about a week or two, and it was really crappy at the start, and\n[0:03:08] obviously I saw this kid marketing on TikTok. I was just like, all right, I gotta do the same.\n[0:03:12] So I started marketing at daily on TikTok five days a week, some days only post one time,\n[0:03:16] and it never turned out too much. Fast forward like two years, and I had made $240 in a day passively\n[0:03:23] from DuckMath. That day just happened to be the best day that was purely just luck, and I was just\n[0:03:27] like, DuckMath sitting here, and it's been getting all this money. I've been doing nothing to it,\n[0:03:31] so why not start actually marketing it? So I looked at what my competitors are doing, try to make the\n[0:03:35] best videos possible, and pull the crazy marketing stunt, which was just pure volume of videos.\n[0:03:40] I love that because it's this concept of like follow the money, and I see a lot of people kind of\n[0:03:45] fall for this trap. Sometimes they have something that's like making money. It's sort of passive,\n[0:03:49] and then they go, okay, this is too silly. This can't be an actual business. This isn't something that\n[0:03:53] I can sell for six figures. I'm going to go start these B2B things because it seems more serious,\n[0:03:57] but once you went all in on this, and you just tried a little harder on it, that's when it started\n[0:04:02] to really, really working. I want to jump back a little bit and just learn about how you built this.\n[0:04:07] The design, the tools, the stack, coding languages. How did you actually build this site?\n[0:04:12] It was definitely an incremental project. The first site was actually on Google's sites,\n[0:04:16] which is just this dragon drop, and I would just embed the games from online, wherever they were,\n[0:04:21] frame it in the thing. It looked terrible, but it did work after I got a few thousand people. I also\n[0:04:26] had done my internship where I had learned to react. I was just like, hey, react is pretty cool.\n[0:04:31] I'm going to switch my entire site to react, so this was around the time when AI first started\n[0:04:36] to come out, and especially when vibe coding got big, I've really never touched the coding part\n[0:04:40] anymore. It made it a lot easier to just focus on the marketing part. For the design, I have never\n[0:04:44] been a good designer. I just kind of copied what people were doing. The design is super simple.\n[0:04:49] Later in time, I got into AB testing to make sure people stayed the most amount of time on the site,\n[0:04:54] but also making sure that they clicked as many pages as possible because another thing about ads\n[0:04:59] is the more pages that they look at, the more ads that they see, and the more money that I make.\n[0:05:03] Thank you for sharing how you built it. Super cool. Cool to see you kind of come from a little\n[0:05:06] bit of a developer background, but also using a lot of AI tools to simplify and keep the team lean.\n[0:05:11] What I want to talk more about is growth, though. You showed me earlier that graph of ad sense\n[0:05:16] revenue over time, and it was pretty low, and then all of a sudden it spiked really high for\n[0:05:22] a short amount of time, and then you sold it. I want to hear how you did that.\n[0:05:25] The main thing was this volume for me. I made three TikTok accounts. I was posting three times\n[0:05:30] a day, five days a week, and that was cross posted to Instagram Reels, YouTube shorts, and Snapchat.\n[0:05:36] Most people don't look at Snapchat, but we consistently hit 20,000 views and above from Snapchat,\n[0:05:41] so I definitely would not sleep on Snapchat. I would look over the videos and be like,\n[0:05:44] all right, we just posted these yesterday. How do they do? What's the engagement like? How can I make\n[0:05:49] them better? Instantly after that, I would go and make three new videos. Now we've learned every\n[0:05:53] single time, and I would always try and get better. The type of videos our posting were relatively simple,\n[0:05:58] just kind of like little dopamine hiss. And so I think a really important thing is that I research\n[0:06:03] and initially copied the best of my competitors videos for TikTok and just worked two times harder\n[0:06:08] than they did. I would see that they would post once a day, maybe once a week, so I make sure\n[0:06:12] I get more volume, and I do the same quality. One of the big things I did was get someone else\n[0:06:17] who I mentored to actually do the videos, so I could save more time doing other things while\n[0:06:21] the person I mentored actually could pump out really quality videos following my format.\n[0:06:26] Okay, this is super cool. I think a lot of people watching this might be wondering,\n[0:06:29] what is a successful piece of content that grows as business looks like? Would you be able to pull\n[0:06:33] up one of your highest performing videos? I got like millions of views and show me like why it worked\n[0:06:37] and like what kind of impact it had on your business. So here's most popular video on the Duck\n[0:06:42] Math main account. It got 2.1 million views on TikTok. This is not the normal type of content that you\n[0:06:47] would think gets a business money. This video is talking about 30 minutes to make. Honestly,\n[0:06:51] pretty crappy content. I'm just filming things with my phone. The quality isn't great. I'm just\n[0:06:55] filming my laptop me playing something. It's basically just a really nice visual hook. After the\n[0:07:00] hook, I show them, hey, go to this exact link. So here's it on Instagram, 3.2 million views,\n[0:07:07] so actually more than TikTok. Same exact video I just had an automation platform literally\n[0:07:12] upload this for me, so I didn't have to do anymore work. 5 million views in total, which is crazy.\n[0:07:16] So I found a working format and I kept pumping it out. So this might have been part 30 of this series,\n[0:07:21] and I just kept trying different hooks. So while I don't have the exact number, my guess would be\n[0:07:26] I got $1,000 from the single video. Maddox's story is not about building, guys. It is all about\n[0:07:33] growth. He went from a few hundred users to thousands in just a couple weeks, but here's the thing.\n[0:07:38] Maddox didn't get lucky. He had a system for finding viral formats coming up with hooks and\n[0:07:43] creating content that got a ton of attention on his website. And this is exactly what we break down\n[0:07:48] in the starter story build organic short form playbook. This is a free resource that you can\n[0:07:53] download right now packed with real founder case studies in the actual strategies that are working\n[0:07:58] right now on TikTok, Instagram, and YouTube shorts. All of these strategies and playbooks are\n[0:08:03] backed by real data from founders just like Maddox and who we talk to on this channel that are\n[0:08:08] actually doing this and seeing real results in building real businesses. So if you're ready to crack\n[0:08:14] distribution, marketing, and short form content to grow your business, just head to the first link\n[0:08:19] in the description to download the playbook for free right now. All right, let's get back to the\n[0:08:23] video. Okay cool organic short form. That seems to be something that's working for a lot of people.\n[0:08:27] I know people that watch this channel. I've seen that coming up over and over again. I want to\n[0:08:31] switch topics a little bit to the sale. I know you sold this business. Walk me through how that\n[0:08:36] sale happened, why you decided to sell and what you're working on now. So I've seen about a year\n[0:08:41] before I decided to sell that a bigger company had bought a smaller game site exactly like mine.\n[0:08:46] So I contacted them and I told them all my stats and then I got lowball at $100,000. So I came back\n[0:08:52] to the counter offer. We both agreed and then we used escrow as a middleman to transfer the money.\n[0:08:57] So I think for selling, I slightly regret it now because I don't have anything currently working\n[0:09:01] that a how I like it to be. But in reality, if I really thought about it for like 10 minutes,\n[0:09:05] I'd be like yeah, selling was still the correct move. Okay, what I also love about this is it has\n[0:09:10] this kind of amazing three-par component, which is you built the app. You built something that\n[0:09:15] anybody could really build. You finally figure out and cracked marketing and found a way that\n[0:09:19] to truly get this in front of millions of people. And then you sold it. So if you were starting over\n[0:09:23] in 2026, which kind of sounds like you are, you're starting another company. How are you going to\n[0:09:27] approach things so that you can grow even faster this time and maybe not make some of the mistakes\n[0:09:31] that you made before? What's your playbook for 2026? Pretty simple. Pick a niche that you know how to\n[0:09:36] market in. If I knew how to market to college students, I'd maybe make an AI college studying tool.\n[0:09:41] If I knew how to market to games general, I might do a game server hosting platform. So pick a niche\n[0:09:46] that you know to market and then build a super quick MVP in my two to three days with the help of AI\n[0:09:51] or how's where you're going to build it quickly. And then you might want to do these things kind of\n[0:09:54] in the same time. But you're going to research 10 to 20 of your competitors best videos that perform the\n[0:09:59] that perform the best, that got the best conversions.\n[0:10:01] Find what's all similar about them,\n[0:10:03] what was the hook like, what was it called,\n[0:10:04] the action like, understand why they went viral,\n[0:10:07] and basically write down how you can copy them\n[0:10:09] or basically use their format\n[0:10:11] to get the same outcome that they did.\n[0:10:12] And you're gonna start posting daily on TikTok,\n[0:10:15] make sure to make mistakes, but always keep getting better.\n[0:10:18] You know, your first videos aren't gonna be great,\n[0:10:19] but you're 100 sure as hell will be.\n[0:10:21] See if people like it, iterate,\n[0:10:22] and if it starts to get big,\n[0:10:24] you see something changing, maybe your life's changing,\n[0:10:27] maybe you wanna go out and on this,\n[0:10:28] just go all in most likely, it will become big.\n[0:10:31] Well, I'm excited to see what you build in 2026\n[0:10:33] and what you build next.\n[0:10:34] Another question I have for you is around tech stack\n[0:10:37] and how you build.\n[0:10:38] Obviously you started this a couple of years ago,\n[0:10:39] all the tools were changing.\n[0:10:41] I know you're probably using a lot of AI to code stuff now.\n[0:10:43] What stack are you using\n[0:10:45] and what tools are really working for you?\n[0:10:46] What's been really great for me is CloudFlare.\n[0:10:48] They do all of my site hosting,\n[0:10:50] I have all of my domains on CloudFlare.\n[0:10:52] I also have a database where I can store static data.\n[0:10:55] CloudFlare is completely free other than the domains,\n[0:10:58] but those are like 200 amounts, something like that.\n[0:10:59] And then I have SuperBase for the back end\n[0:11:02] and for off and that lets me do authentication,\n[0:11:04] leaderboards, coins, basically saving all user data\n[0:11:07] and that's $20.\n[0:11:09] And then for analytics, I used to have Google Analytics,\n[0:11:11] but I switched to PostHog\n[0:11:12] and I got into their startup program\n[0:11:14] where they gave me $50,000 in credits for free,\n[0:11:16] which helped me AB test, which was super important.\n[0:11:19] If you have so many users coming in,\n[0:11:21] you have so much data and you always need to keep\n[0:11:23] getting better sessions with AB test labs for us to do.\n[0:11:25] And then Google AdSense, they pay me\n[0:11:27] and just auto put ads on the site.\n[0:11:29] I really don't have to do any work for them.\n[0:11:31] I don't have to do any code.\n[0:11:32] I just put in a little snippet of code\n[0:11:34] and they just do the rest.\n[0:11:35] They're really nice because unlike most ad platforms,\n[0:11:38] I don't have to talk to anyone.\n[0:11:39] I just add my site and they put ads on it,\n[0:11:41] which is super nice.\n[0:11:42] Then I have this platform called repurpose.io.\n[0:11:45] It takes my TikTok videos that I post\n[0:11:47] and then crosspost them to all the other platforms\n[0:11:49] that I was crossposting on, which was, again,\n[0:11:51] YouTube videos, Instagram videos, Snapchat videos,\n[0:11:53] which made it super easy, I don't have to do any work there.\n[0:11:56] And we also had a Discord, I think up to 7,000 members now.\n[0:11:59] We used it for a community to hype up new features,\n[0:12:01] stuff like that.\n[0:12:02] And then I was also paying my girlfriend\n[0:12:04] to post like maybe five videos for 200 a week\n[0:12:07] or one video for 200 a week, something like that.\n[0:12:09] So she was also very helpful.\n[0:12:10] Okay, so last question that we ask all founders\n[0:12:13] who come onto the channel is,\n[0:12:14] if you could go back in time before TikTok took off,\n[0:12:17] before you decided to go all in on your site\n[0:12:20] and skip the B2B tools, what would be your advice\n[0:12:23] to young Maddox?\n[0:12:24] And really what would be your advice\n[0:12:25] to anyone who's watching this right now\n[0:12:26] is made to this point in the video.\n[0:12:28] What's your advice?\n[0:12:29] I definitely learned a ton, but the biggest thing\n[0:12:31] was staying consistent.\n[0:12:32] This would have never came to be for me\n[0:12:33] if I'd stopped any of those four years\n[0:12:36] that I had the site posting a daily on TikTok.\n[0:12:38] I never forgot about it, I make site changes.\n[0:12:40] But the biggest thing was I just stayed consistent with it.\n[0:12:43] I never forgot about it.\n[0:12:44] And I kept incrementally working on it.\n[0:12:46] I kept posting TikToks.\n[0:12:47] And from there, I randomly made $240 in a day\n[0:12:50] that I didn't even expect just because I kept staying\n[0:12:52] consistent with it.\n[0:12:53] So if all those fails, just stay consistent\n[0:12:55] with your project.\n[0:12:55] But make sure you know when to drop it.\n[0:12:57] All right, well, thanks for sharing that.\n[0:12:58] That's a great advice.\n[0:13:00] I'm curious, one last question is,\n[0:13:02] I know you sold your business.\n[0:13:03] What's next?\n[0:13:04] I thought I wanted to go out of the gaming niche,\n[0:13:06] but I find myself back in here,\n[0:13:07] making a cloud gaming platform called MaddoxCloud.com.\n[0:13:10] It's cloud gaming, but for phone games instead,\n[0:13:12] so you can hop on there and play like whatever suits\n[0:13:15] your needs.\n[0:13:15] Well, good luck with it.\n[0:13:16] Thank you for coming on and sharing all this,\n[0:13:18] being so transparent, sharing how much you sold for\n[0:13:20] and everything.\n[0:13:21] Super helpful for a lot of people watching.\n[0:13:22] So thanks for coming on and hope to have you back soon.\n[0:13:24] Yeah, thank you, Pat.\n[0:13:25] Cool, so what do you think?\n[0:13:27] So I think it's super cool what he built.\n[0:13:29] I think of it like it's just his hobby\n[0:13:30] and he built sort of a website around\n[0:13:32] something he's just really curious about.\n[0:13:34] And I like what you were asking about, like,\n[0:13:36] for the people who say, is this a real business\n[0:13:39] or a serious thing?\n[0:13:40] It's almost like, of course it is serious.\n[0:13:42] Serious business doesn't mean it has to be\n[0:13:44] like a serious topic.\n[0:13:46] It's really cool to see a kid who's like,\n[0:13:47] I just like doing this stuff.\n[0:13:48] I just kind of started sharing it about it online.\n[0:13:51] It was probably not that hard for him to share\n[0:13:52] just because he was like really interested in all this stuff.\n[0:13:54] I like that he built a business around just like his interest\n[0:13:57] and that can also be a serious business.\n[0:13:59] Yeah, one way that I think is something\n[0:14:00] that I went through as well.\n[0:14:02] And I think a lot of people watching this,\n[0:14:04] it's a really important thing,\n[0:14:06] especially as you get a few years into building stuff\n[0:14:08] and trying to find something that actually works.\n[0:14:10] There's two different types of businesses\n[0:14:12] when you're starting out.\n[0:14:12] There's the ego business and then there's the business\n[0:14:15] you're actually meant to build.\n[0:14:16] The ego business is what people will congratulate you for\n[0:14:21] because it is a real business quote unquote.\n[0:14:23] Or it's like, you watch a lot of YouTube videos,\n[0:14:25] you hear about Sass, you hear about these B2B.\n[0:14:27] You had mentioned that he had tried the B2B thing\n[0:14:29] because that was the ego business.\n[0:14:31] The business I was supposed to build,\n[0:14:32] what real entrepreneur is built.\n[0:14:34] But really, the real business that you kind of mentioned\n[0:14:36] a little bit is like, it's not serious, but it makes money.\n[0:14:39] And if it's making money, that's the direction\n[0:14:41] that you should be going in as an entrepreneur.\n[0:14:43] Sometimes it's not in the most mature of industries,\n[0:14:47] whether it's gaming or whatever, websites and games.\n[0:14:50] There's some of the biggest businesses in the world actually.\n[0:14:52] So as an entrepreneur,\n[0:14:53] I think you have to make a decision of,\n[0:14:54] am I building for customers?\n[0:14:56] Or am I building for what other people\n[0:14:58] who are not my customers will think about me\n[0:15:00] and how serious it is?\n[0:15:01] It's more of a deep nuance topic,\n[0:15:03] but it's secretly very important thing\n[0:15:05] that I think I personally had to go through as well\n[0:15:07] because I had started some other B2B businesses\n[0:15:10] while starting this business starter story.\n[0:15:11] But this was the real business I was meant to build.\n[0:15:13] And then yeah, I think the other thing I'm thinking about\n[0:15:15] is just how crazy it is that TikTok and short form\n[0:15:18] like just works, man.\n[0:15:20] How many people have we talked to that basically say,\n[0:15:22] like I just started sharing on TikTok and boom,\n[0:15:24] it blew up, that still blows my mind.\n[0:15:27] At starter story as you guys watched this channel,\n[0:15:29] we like to find people that just blew up in the last year\n[0:15:32] because we want to find the fresh stuff\n[0:15:33] that's actually working.\n[0:15:34] We don't want to share something from 10 years ago.\n[0:15:36] This is what is usually the case,\n[0:15:38] is that there's some sort of tactic\n[0:15:40] or marketing channel that shot it up like crazy.\n[0:15:42] And that usually ends up being the case.\n[0:15:44] So if you are still watching this at this point\n[0:15:47] and you realize that it is the time to build,\n[0:15:50] it is 2026 as he shared in the video,\n[0:15:52] using AI tools, you could put something together\n[0:15:54] in three days.\n[0:15:55] You should definitely check out starter story build.\n[0:15:57] It is our platform where in just a couple of weeks,\n[0:15:59] you'll come up with an idea.\n[0:16:00] You'll build it with AI tools\n[0:16:01] and you launch it and get it in the hands\n[0:16:03] of actual real users.\n[0:16:05] If you're ready to build, if you got an idea\n[0:16:07] or if you want to just help finding an idea\n[0:16:09] and building something alongside lots of other people\n[0:16:11] within starter story build,\n[0:16:12] check the link in the description.\n[0:16:13] You can sign up, you can get started right now.\n[0:16:15] Thank you guys for watching this episode.\n[0:16:17] We'll see you in the next one.\n[0:16:18] Peace."
+}

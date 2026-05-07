@@ -1,0 +1,358 @@
+[0:00:00] 95% of you do not realize that this is an industry.
+[0:00:03] This is Jordan and he's made over $1.5 million
+[0:00:07] from a single app, but I can guarantee you've never heard of it.
+[0:00:11] My product doesn't have a user interface,
+[0:00:13] there's no mobile app, you cannot download it on your phone.
+[0:00:15] Here's the thing, Jordan didn't just build
+[0:00:17] another trending idea.
+[0:00:18] He found a customer that almost nobody is building for.
+[0:00:22] Then he went all in and it worked.
+[0:00:24] I built my MVP, I released it and then I had 200 paying users
+[0:00:28] and I was profitable from within the first month.
+[0:00:30] So I brought Jordan on the channel to tell the whole story.
+[0:00:33] In this episode, we'll dive into how he found this hidden market
+[0:00:37] that nobody's building for, the secret
+[0:00:39] to how he got his first 200 paying users
+[0:00:42] and the business idea you've never heard of
+[0:00:44] and it's absolutely crushing it.
+[0:00:46] I'm not going to spoil it, you just have to watch.
+[0:00:49] Let's dive in.
+[0:00:49] I'm Pat Walls and this is Starter Story.
+[0:00:53] Jordan, welcome to the channel,
+[0:00:54] telling about who you are, what you built,
+[0:00:56] and what's your story.
+[0:00:57] Okay, my name's Jordan and I have solo bootstrapped two businesses
+[0:01:01] but I've each made over a million in total revenue.
+[0:01:04] The first one is pretty boring mainstream normal.
+[0:01:06] You know, working on self-driving cars,
+[0:01:09] drones for famous companies.
+[0:01:10] But you probably wouldn't guess the second one.
+[0:01:11] It's in the category 95% of people don't even think of
+[0:01:15] as an industry, that's what I'm happy to talk about.
+[0:01:18] Okay, well, I'm excited to get into it.
+[0:01:19] When you told me about what your app does,
+[0:01:21] I got super excited because I think it's really, really cool.
+[0:01:24] We're gonna talk all about it, but before we do,
+[0:01:26] let's talk about how you get into building apps.
+[0:01:29] What's your background?
+[0:01:29] So when I was a kid, I wanted to be a scientist or an engineer
+[0:01:33] or an astronaut and I went to grad school.
+[0:01:35] I got a Master's of Science.
+[0:01:37] I worked on Moon Rover and some of our robotics stuff
+[0:01:39] in grad school.
+[0:01:40] Then I graduated, I got a corporate job as a researcher,
+[0:01:43] a big American company, a Fortune 100.
+[0:01:45] And I thought the corporate world was a little boring,
+[0:01:47] so I taught myself how to code
+[0:01:49] and when I went to San Francisco and from there,
+[0:01:51] I got more into entrepreneurship.
+[0:01:53] Okay, cool.
+[0:01:54] So you get into corporate America.
+[0:01:55] You realize it's not exactly for you, right?
+[0:01:57] Reminds me a little bit of my story.
+[0:01:58] I went to college, went to the corporate world
+[0:02:00] and realized I want to build stuff.
+[0:02:01] I want to learn how to code.
+[0:02:02] So let's talk about that.
+[0:02:03] This app that we're talking about today,
+[0:02:05] how did you learn to build it?
+[0:02:06] By the time I started this project,
+[0:02:08] I already had probably about a decade of experience
+[0:02:11] writing software, so I wasn't completely clueless.
+[0:02:13] And so it took me a month to build the prototype,
+[0:02:15] which is what I used to validate the idea
+[0:02:17] and then another month to build the payment system.
+[0:02:20] So from the second month, it was profitable.
+[0:02:22] So it took about one month to get the first 200 users
+[0:02:26] on the platform and it's just kind of grown.
+[0:02:28] What I love about Jordan's story
+[0:02:29] is that he found this hyper niche problem
+[0:02:32] that nobody was paying attention to.
+[0:02:34] And then he turned this hidden idea
+[0:02:35] into a $300,000 per year SaaS business.
+[0:02:39] I think the best business ideas,
+[0:02:40] ones like these,
+[0:02:41] solve a real problem for a very niche type of customer.
+[0:02:45] But how do you actually go about finding these ideas?
+[0:02:48] Well, in partnership with HubSpot,
+[0:02:50] we built a free database of over 190 proven
+[0:02:53] micro SaaS ideas that are already making money right now.
+[0:02:56] This database includes real revenue numbers,
+[0:02:59] traffic, cost to start, pricing models,
+[0:03:02] growth tactics, all of this.
+[0:03:03] So if you want to find your next idea,
+[0:03:05] just head to the first link in the description
+[0:03:07] to grab the database for free.
+[0:03:09] All right, let's get back to the episode.
+[0:03:10] Okay, cool.
+[0:03:11] Well, you got 200 users.
+[0:03:12] It wasn't a million users, but 200.
+[0:03:14] That's when you know you had something.
+[0:03:15] Let's talk about the tech stack.
+[0:03:17] Can you walk me through that?
+[0:03:18] Sure, I built it in TypeScript
+[0:03:20] because I build almost everything in TypeScript.
+[0:03:22] I mean, nowadays you do everything in AI.
+[0:03:24] So again, this was made in the Stone Age
+[0:03:27] back when we would write code manually.
+[0:03:28] But at this point,
+[0:03:29] I haven't opened my code editor in three to six months.
+[0:03:32] I have the AI system writing all the code for me.
+[0:03:34] AI is the new tech stack is my point.
+[0:03:36] But specifically on my project,
+[0:03:38] what I used is TypeScript, like I said,
+[0:03:40] React for the front end, Postgres as the database,
+[0:03:44] Redis as the in-memory database,
+[0:03:46] which I used with the queuing system off zero
+[0:03:48] because no one wants to write their own login system.
+[0:03:50] So you use something that someone else wrote.
+[0:03:53] Brisma, which is a helps it makes it easier
+[0:03:55] to make calls to your database.
+[0:03:56] Although nowadays, I guess technically the AI does it for you.
+[0:03:58] So perhaps these things aren't as useful.
+[0:04:00] And Zod, which is a way to make sure
+[0:04:04] that information coming in from external servers
+[0:04:07] can be validated to a certain schema.
+[0:04:09] And also a lot of Docker containers.
+[0:04:10] One question I get a lot is,
+[0:04:12] I got a brilliant business idea.
+[0:04:13] What language should I use?
+[0:04:14] And the answer is it doesn't really matter.
+[0:04:16] Do what you think works.
+[0:04:17] Do what you think is interesting.
+[0:04:18] The tech stack is not that important as sheer speed.
+[0:04:21] Love that. There's one more skill
+[0:04:23] that I think is still very, very valuable
+[0:04:25] is to have good ideas.
+[0:04:26] Let's talk about that.
+[0:04:27] How'd you come up with the idea for this eventual app
+[0:04:29] that makes over $300,000 a year?
+[0:04:31] So I had been working in San Francisco
+[0:04:34] as a freelance software engineer
+[0:04:35] and I had a guy I was working with
+[0:04:37] I was producing a mobile app for him
+[0:04:39] and we were having a meeting to finish up the project.
+[0:04:41] It was near completion.
+[0:04:43] And I go on to the Zoom call
+[0:04:44] and I get there and his girlfriend who I wasn't expecting
+[0:04:47] was there and she was really upset
+[0:04:49] and she just told me he got sent to prison.
+[0:04:51] And that kind of just sort of shocked me a lot.
+[0:04:53] One day he's here and you're talking
+[0:04:55] and you're working with him and the next day he's gone.
+[0:04:57] So I kept in touch with him for a couple of years,
+[0:05:00] paper letters, very high tech.
+[0:05:01] Eventually he told me how a lot of the services in prison
+[0:05:06] are just a massive scam.
+[0:05:07] It offers not very good quality services
+[0:05:10] at a very high price.
+[0:05:11] So I figured I could do something better
+[0:05:13] and lots of people who use my product agree.
+[0:05:16] Okay, I mean, that's a crazy story.
+[0:05:17] Usually people just find ideas from some AI thing
+[0:05:20] that they want to help do
+[0:05:22] but you build something in the prison industry
+[0:05:24] which is just wild.
+[0:05:25] So you come up with this idea
+[0:05:27] to improve the lives of people that are in prison.
+[0:05:29] How did you validate this idea?
+[0:05:31] In this situation it's a bit different.
+[0:05:33] Prison is a closed ecosystem
+[0:05:35] and so you can't easily send them a link
+[0:05:37] to your web page and they can check out your idea
+[0:05:40] and you collect email addresses.
+[0:05:41] It's not gonna work.
+[0:05:42] In this step, validating the idea
+[0:05:44] and building the MVP were the same thing.
+[0:05:46] I had to build the MVP
+[0:05:47] get it in front of them in order to validate it.
+[0:05:49] So I talked to my contacts in the prison.
+[0:05:52] I said, hey, here's this tool I want to build.
+[0:05:54] I've heard you guys are currently using older technology.
+[0:05:57] Doesn't work very well.
+[0:05:58] It's overpriced.
+[0:05:59] So here's what I envision
+[0:06:00] could be a better product for you.
+[0:06:01] And so you get a lot of feedback.
+[0:06:02] People are super responsive for this.
+[0:06:04] People were telling other people about it
+[0:06:06] and like I said within a month, I had 200 users
+[0:06:09] and that was enough for me to validate it.
+[0:06:10] Okay, cool.
+[0:06:11] You kind of mentioned a little bit earlier
+[0:06:13] that you're the type of person
+[0:06:14] that has lots and lots of business ideas.
+[0:06:16] I think a lot of people watching this channel
+[0:06:17] also feel the same.
+[0:06:18] They want to build lots and lots of things.
+[0:06:20] So what would be your advice for someone watching this
+[0:06:23] who wants to build something
+[0:06:25] and make sure it's validated?
+[0:06:26] The specifics about how to validate
+[0:06:29] aren't as important as the fact that you must validate.
+[0:06:31] And what I mean by that is a lot of entrepreneurs
+[0:06:33] they fall in love with their idea.
+[0:06:34] You've probably heard lots of people,
+[0:06:35] they say, oh, I've got this idea for an app
+[0:06:37] and they spend 12 months creating the perfect mobile app.
+[0:06:40] They haven't shown it to anyone.
+[0:06:42] They have no feedback from actual customers.
+[0:06:44] Validation is not necessarily a specific strategy
+[0:06:47] is do you want to validate?
+[0:06:48] Because as soon as you validate,
+[0:06:50] your idea goes from a little thing in your head
+[0:06:52] that you love and is so protected to the world
+[0:06:55] and the world is probably going to spit on it
+[0:06:56] and they're going to hate it
+[0:06:57] and they're going to think it's boring.
+[0:06:58] You can look up in five minutes on the internet
+[0:07:00] how to validate any specific thing.
+[0:07:02] The point is, most people don't want to validate.
+[0:07:04] Because if you validate, it means you might invalidate your idea.
+[0:07:08] And most people, it's an emotional thing.
+[0:07:10] They don't want to, they're too emotionally invested
+[0:07:12] in the idea of being an entrepreneur.
+[0:07:14] Except that you must validate
+[0:07:16] and you must be willing to let your idea die.
+[0:07:18] That's a great piece of advice or insight
+[0:07:21] is that validation isn't a specific framework is ready.
+[0:07:23] So if you're coming on here watching this thinking,
+[0:07:25] okay, I'll follow this and I'll validate.
+[0:07:27] Like you said, just do it.
+[0:07:28] So validate fast, validate often validate early.
+[0:07:31] That's what I see from the hundreds of people
+[0:07:33] that we've brought onto this YouTube channel.
+[0:07:34] Let's talk about growth.
+[0:07:35] How'd you get people to use your thing
+[0:07:37] and eventually turn it into a 300 k per year app?
+[0:07:39] So prison is a closed ecosystem.
+[0:07:42] It is very difficult if you're on the outside
+[0:07:44] to communicate and vice versa.
+[0:07:46] So I had a few people on the inside
+[0:07:47] who I was talking about with my project
+[0:07:50] and they just showed it to other people.
+[0:07:51] And then those people showed it to other people
+[0:07:53] because if you create a good product
+[0:07:55] and it resonates with people,
+[0:07:57] people will be your zealous, right?
+[0:08:00] They'll be your cultists.
+[0:08:01] Like I heard this expression apple doesn't have customers.
+[0:08:03] They have cult members
+[0:08:05] and that's kind of an exaggeration
+[0:08:07] but it's true.
+[0:08:07] Lots of people who like these products
+[0:08:09] want to talk about it.
+[0:08:10] So it's all word of mouth.
+[0:08:11] Honestly, and people want like a cooler answer
+[0:08:14] but no, it's just all word of mouth.
+[0:08:16] I did build an internal recruitment system
+[0:08:18] where if one of our customers
+[0:08:20] would recruit another customer
+[0:08:21] and the other person signed up
+[0:08:23] and start paying for the product,
+[0:08:24] the first person would get like a month or so
+[0:08:26] of free credits.
+[0:08:27] So that helped.
+[0:08:27] The way you want to think about growth
+[0:08:29] and entrepreneurship is as a scientist.
+[0:08:32] So just be willing to experiment,
+[0:08:33] be willing to fail,
+[0:08:34] come up with a strategy.
+[0:08:35] It's probably terrible
+[0:08:36] but you will get data back
+[0:08:38] and then you will be able to reiterate on that.
+[0:08:40] Yeah, I 100% agree with that.
+[0:08:42] I want to change topics
+[0:08:43] and actually talk about this app.
+[0:08:44] Can you explain what is the actual app
+[0:08:46] that you built that makes $300,000 a year?
+[0:08:48] Parakeet Chat is an AI learning communication app
+[0:08:51] for incarcerated people.
+[0:08:52] It helps them talk to chat GPT
+[0:08:54] and other AI services
+[0:08:55] so they can learn whatever they want.
+[0:08:57] Mostly they use it to learn
+[0:08:58] about their own legal rights
+[0:09:00] and also there's a communication aspect
+[0:09:02] where people can use it to talk to their family.
+[0:09:04] We've had a lot of messages from our users saying,
+[0:09:06] oh thank you, thanks for your system.
+[0:09:08] I was able to talk to my daughter.
+[0:09:09] I haven't been able to talk to her in years
+[0:09:11] and she sent me a hello message
+[0:09:13] and it means the world for me.
+[0:09:14] From the perspective of the users,
+[0:09:16] it's the internal prison email system.
+[0:09:18] They just email a specific email address
+[0:09:20] and our bot processes that information
+[0:09:22] and then sends them a reply.
+[0:09:24] And so our app is actually a chat bot
+[0:09:27] that people on the inside can use to talk to
+[0:09:29] and it will look up things on chat GPT.
+[0:09:31] It'll look up sports statistics.
+[0:09:33] That is if there is no app in the sense
+[0:09:35] that you can go on the Play Store and download it.
+[0:09:37] This is so cool.
+[0:09:38] I don't know that much about the email system
+[0:09:39] that they use but you built around these limitations.
+[0:09:42] I'm curious on what a lot of people will be wondering is like,
+[0:09:44] how does an app like this make money
+[0:09:46] or how to prisoners even pay for this
+[0:09:48] since I'm assuming that's a little bit more complicated?
+[0:09:50] That's a good question.
+[0:09:51] In most businesses, customers and the users
+[0:09:54] of the same people, in this it's different.
+[0:09:56] So the users are the incarcerated people on the inside.
+[0:10:00] are their families on the outside and it's just a monthly SaaS. The customers just pay for it.
+[0:10:05] It's 15 or 20 bucks a month depending on the plan you want. It's a discount if you get yearly.
+[0:10:10] Last year, 2025, Parakeet Chat made a little over 300K in revenue and in total over the lifetime
+[0:10:18] it has made 1.5 million American dollars and in the last month you can check that live if you
+[0:10:25] want to trust MRR if you don't trust me. Total amount of people who've ever tried it is around
+[0:10:31] 30,000 people and that's 20% of the entire federal prison population in the United States. So if you
+[0:10:37] know someone who's in federal prison or has bitten is a pretty good chance that they've used it.
+[0:10:42] That means someone on the inside talking to their family. So almost 100,000 family connections
+[0:10:48] that wouldn't exist if this product didn't happen and we've sent out like 9 million messages
+[0:10:53] since then. When people use Parakeet Chat, most of them it's studying case law and legal research.
+[0:10:59] I would assume it's probably about their own legal case understanding their rights. They have very
+[0:11:03] limited resources. So that's the biggest use case. We actually get a lot of entrepreneurial questions
+[0:11:08] through the platform and a lot of them I would say are probably smarter than the average ones I get
+[0:11:13] on the outside. That's awesome. I mean I think that's awesome that there's a lot of entrepreneurial
+[0:11:17] questions because I know that when you get out of prison it can't be tough to get back into the
+[0:11:21] workforce. So starting a business may be a great option for people who have been recently incarcerated.
+[0:11:27] Last question that we ask all founders who come onto Starter Story. If you could go back in time
+[0:11:31] and stand on Jordan's shoulders before you got started, even maybe before you started building
+[0:11:36] stuff in Silicon Valley and learn to code and all that. What would be your advice for anyone
+[0:11:40] watching this who wants to build stuff like you did? If I to go back in time and give young Jordan
+[0:11:46] advice, I would tell him everything you think about business is wrong. This is not just an entrepreneur
+[0:11:50] thing. This is in general. Most people's most ideas about most things are not grounded in anything.
+[0:11:56] If you've not done business or any specific subject, everything you believe is probably wrong. I didn't
+[0:12:01] do everything perfectly with parakeet. You always make mistakes but on the whole I had previously made
+[0:12:06] enough mistakes that I didn't make them later on. And the reason things worked out pretty well in
+[0:12:11] this project is not because I'm a brilliant and I'm a genius because I've made these mistakes
+[0:12:15] 10 years ago. So it took me 10 years to get to this point. People say an overnight success
+[0:12:20] no such thing. It doesn't exist. Reality is if you want to be a successful entrepreneur,
+[0:12:24] you need to start fucking up right now. You need to go and couple the stupid idea, an idiotic idea,
+[0:12:30] but everyone tells you will not work and just do it right now. Even if you know it's going to fail,
+[0:12:34] good, even better if you know if it's going to fail because then you have no illusions that it
+[0:12:37] will succeed. Just do it. In a way, if it doesn't completely cripple you and lose all your money
+[0:12:41] and get you arrested, right? But do it in a controlled way and you will learn more from that mess
+[0:12:46] up than you will from reading 20 books. That's the best advice I've heard all week. Love that.
+[0:12:51] Thanks for coming on the show, Jordan. Awesome business. Awesome story. Awesome insights. Thanks for
+[0:12:55] coming on. I'm glad. Thanks for having me Pat. All right, Gus, producer of Starter Story. What
+[0:13:00] do you think? First thought is super unique business. I had never heard of that. That's one of the
+[0:13:04] reasons I was like interested in having them on the channel and that stood out to me. It's like, wow,
+[0:13:08] there it's really a business everywhere. I personally love the business. incarcerated people
+[0:13:15] or prisoners are getting access to AI tools that can help them with things like case law and stuff
+[0:13:21] like that. So you're sitting there, prison wanting to learn, wanting to better your situation,
+[0:13:25] wanting to help you fight your case. And like we talked about in the last video, we just found
+[0:13:29] building niche apps for small communities is maybe the future of AI and building businesses.
+[0:13:35] A lot of the times we'll interview people that are young, 22 years old, 23 years old,
+[0:13:39] they have this successful app and then you kind of feel bad when you see that because you're older
+[0:13:43] than them and maybe it feels like they just started out and then figured out right away.
+[0:13:47] But every time you look at those stories, you realize that they're still like six, seven,
+[0:13:51] ten years behind. They just got started earlier and they made all those mistakes. And as he mentioned,
+[0:13:56] there is no such thing as an overnight success. So if you're watching this and thinking, I want to
+[0:14:00] get started, I want to invalidate some ideas. Check out that link I put down there in the description
+[0:14:05] where you can find microsass ideas. Some that might be similar to this that serve niche communities
+[0:14:10] that do one thing, they do one thing. Well, I'll put that link in the description. It's free,
+[0:14:14] you can download it. Hope you enjoyed this episode. We'll see you in the next one. Peace.

@@ -1,0 +1,355 @@
+[0:00:00] I built a mobile app that makes me $20,000 per month.
+[0:00:04] This is Ethan.
+[0:00:05] He's 19 years old.
+[0:00:06] In a year ago, he dropped out of college.
+[0:00:08] It started building apps because my product
+[0:00:10] solved a very specific pain points
+[0:00:13] that no other apps solved.
+[0:00:14] It converted very well.
+[0:00:16] But here's what's awesome.
+[0:00:18] The app he built is not designed for everyone.
+[0:00:21] In fact, it solves a very tiny problem
+[0:00:24] for a very niche community.
+[0:00:26] And that might be the secret hiding in plain sight.
+[0:00:30] In the middle of wrestling season,
+[0:00:31] there was a big demand for our app.
+[0:00:34] And now, less than a year later,
+[0:00:36] this niche app has been downloaded thousands of times
+[0:00:39] and made over $20,000 in a single month.
+[0:00:42] So I asked Ethan to come out of the channel
+[0:00:44] to break down exactly how he did it.
+[0:00:46] And in this episode, we'll dive into the crazy,
+[0:00:49] simple niche app that he built,
+[0:00:51] why he didn't go viral and still got thousands of users,
+[0:00:55] and why everyone should be building apps
+[0:00:57] that solve niche, tiny problems.
+[0:01:00] This one, you cannot miss.
+[0:01:02] Let's dive in.
+[0:01:03] I'm Pat Walls.
+[0:01:04] This is Starter Story.
+[0:01:07] All right, Ethan, welcome to the channel.
+[0:01:08] Tell me about who you are, what you built,
+[0:01:10] and what's your story.
+[0:01:11] Yeah, my name's Ethan,
+[0:01:12] and I built a mobile app that makes me $20,000 per month.
+[0:01:17] I launched it September and over the last six months,
+[0:01:19] we've gone from $0 to over $60,000 in total revenue
+[0:01:24] and around $38,000 download.
+[0:01:26] Today, I'm excited to share more about the story
+[0:01:28] of how I dropped out of college,
+[0:01:29] discovered cursor and scaled my mobile app to over five figures.
+[0:01:33] Okay, amazing, dropped out of college to build an app.
+[0:01:36] This is the future before we jump all into it.
+[0:01:39] Can you show me what you built?
+[0:01:40] Pull up some of your revenue dashboards.
+[0:01:41] This is my app, Cut Coach.
+[0:01:43] It helps combat sport athletes
+[0:01:45] cut weight for their competition or fight coming out.
+[0:01:49] And the way it does it is by creating a sign space protocol.
+[0:01:53] Here's our revenue for when we launch the app
+[0:01:56] until the end of January.
+[0:01:57] Right, when we launch the app,
+[0:01:58] wrestling season just started.
+[0:02:00] Our revenue was climbing up as we started
+[0:02:02] to figure out marketing.
+[0:02:03] By that time, we were in the middle of wrestling season.
+[0:02:06] There was a big demand for our app
+[0:02:09] since a lot of the combat sport athletes
+[0:02:11] needed to cut weights in our app's lifetime.
+[0:02:14] We have actually around 39,000 downloads now.
+[0:02:17] It's just crazy how you can build
+[0:02:18] like a pretty amazing business of such a niche idea.
+[0:02:21] Like I think about these bigger apps
+[0:02:23] like Cal AI.
+[0:02:24] This is like a very, very tiny version of this
+[0:02:26] for this specific combat sport wrestling super cool.
+[0:02:29] We're gonna talk all about niche app.
+[0:02:31] But before we do, let's go into your background.
+[0:02:33] How do you even get into building apps?
+[0:02:34] Yeah, so I started building my first app
+[0:02:37] in the summer of 2024
+[0:02:39] right before going to university
+[0:02:41] to study computer engineering.
+[0:02:42] My first app took about six months to build
+[0:02:45] and was designed to automate parts
+[0:02:47] of my mom's workflow at her job.
+[0:02:49] While I was there, I built another app
+[0:02:51] using only AI tools.
+[0:02:53] That experience made me realize how quickly AI
+[0:02:56] was changing software development.
+[0:02:57] So I decided to leave university
+[0:02:59] and learn development my own first few months of 2025.
+[0:03:03] I built several apps, but didn't market any of them
+[0:03:06] and realized that this was a mistake.
+[0:03:07] Around that time, I discovered cursor
+[0:03:09] which made it much easier and faster to build apps.
+[0:03:12] And this allowed me to shift my focus
+[0:03:14] toward learning sales and marketing
+[0:03:16] instead of only development.
+[0:03:18] Okay, cool. So this is pretty crazy.
+[0:03:19] I mean, even at 19 years old,
+[0:03:20] you've already covered a lot of the board
+[0:03:22] of what it takes to build successful apps,
+[0:03:24] which is super cool.
+[0:03:25] Obviously you had some previous apps that you built before.
+[0:03:27] Those didn't work out.
+[0:03:28] How did you find the idea for this app
+[0:03:30] that eventually made $20,000 a month?
+[0:03:31] Ever since I was growing up,
+[0:03:33] I've always competed at a high level in combat sports.
+[0:03:36] I was a provincial judo champion
+[0:03:37] and also a national wrestling champion.
+[0:03:39] And whenever I had to compete in combat sports,
+[0:03:42] I would always have to cut a significant amount of weight
+[0:03:45] in a short period of time.
+[0:03:47] I never knew how to do this properly
+[0:03:48] until one of my coaches gave me a proper
+[0:03:51] combat sport weight-cutting plan.
+[0:03:53] Fast forward two years after my short time at college,
+[0:03:55] I was sitting in my room thinking of an app idea
+[0:03:58] that I could relate my passion of wrestling
+[0:04:00] with my hobby of creating apps.
+[0:04:02] And eventually I came up with the idea for cut coach.
+[0:04:05] So the reason my other apps didn't make any money
+[0:04:08] was just because I didn't market them.
+[0:04:10] For this app, I just decided to learn marketing
+[0:04:13] right after I finished it
+[0:04:14] and ship this one out as fast as possible
+[0:04:16] so that I can iterate on what you just actually wanted.
+[0:04:20] Okay, so you dropped out of school
+[0:04:21] and you kind of had your back against the wall
+[0:04:23] a little bit of saying, okay, everyone can build apps.
+[0:04:25] I can build this stuff with cursor in like 10 minutes.
+[0:04:27] So that's the thing I gotta learn is marketing.
+[0:04:29] We're gonna talk all about marketing.
+[0:04:31] But before we do, let's talk about the build.
+[0:04:32] You're working on a computer science degree.
+[0:04:34] That doesn't teach you how to build good apps
+[0:04:35] that you've built.
+[0:04:36] So how'd you learn?
+[0:04:37] How'd you build it?
+[0:04:38] Yeah, I started building the cut coach app
+[0:04:40] in June of last year using cursor and chat GPT.
+[0:04:44] It took me around a month to build the MVP
+[0:04:46] and I gave it to my wrestling club to beta test
+[0:04:49] after I finished building it.
+[0:04:50] The first version of the app was basically an app
+[0:04:52] where the coach was supposed to give the wake up plans
+[0:04:55] to the athletes.
+[0:04:56] However, I realized that there was a lot of friction
+[0:04:58] using this concept and my wrestling club didn't use the app.
+[0:05:01] So during July and August,
+[0:05:02] I changed the whole concept of the app
+[0:05:04] to make it so that the app would give the wake up plans
+[0:05:07] to the athletes instead of the coach.
+[0:05:09] I tested the app's wake cuts on myself
+[0:05:11] and did a whole redesign
+[0:05:13] which I eventually released in September.
+[0:05:15] Here's what's awesome about Ethan's story.
+[0:05:17] He did not spend years learning how to code.
+[0:05:20] He picked up cursor, found a very niche problem,
+[0:05:23] and then built an app that made $20,000 in a single month.
+[0:05:26] Ethan is proof that anyone can learn how to do this
+[0:05:29] and I want to help you do the same.
+[0:05:31] To do this, we just launched the iOS bootcamp for free.
+[0:05:34] Inside, we will walk you step-by-step
+[0:05:37] through how to come up with an idea
+[0:05:38] and turn it into a real app ready to ship to the world.
+[0:05:42] The best part is you don't need any experience
+[0:05:44] to get started because Ethan's journey
+[0:05:46] all started with one decision.
+[0:05:48] Stop thinking and just start building.
+[0:05:51] This iOS bootcamp will help you get started right now.
+[0:05:54] And if you're interested,
+[0:05:55] just head to the link in the description
+[0:05:57] to start building your first app for free.
+[0:06:00] All right, let's get back to the episode.
+[0:06:01] Okay, I think this is super cool.
+[0:06:03] A lot of people watching this are probably wondering,
+[0:06:05] I have a niche problem in my life.
+[0:06:06] How do I actually go about building an app
+[0:06:08] and actually getting paid users?
+[0:06:10] So what would be like your step-by-step process
+[0:06:12] if you had to start over today?
+[0:06:13] The step one would be to solve a problem within your hobby.
+[0:06:16] So solving a problem within your hobby
+[0:06:18] is a very effective strategy
+[0:06:20] because you already understand and enjoy the activity.
+[0:06:23] And this makes it much easier to solve problems
+[0:06:26] other people will most likely experience too.
+[0:06:29] And I basically just asked chat to PT,
+[0:06:31] what are some good app ideas that I can build
+[0:06:34] within a specific niche that I choose?
+[0:06:36] This is a very straightforward method
+[0:06:38] and this AI brainstorm can help you come up
+[0:06:40] with ideas you never even thought.
+[0:06:42] And once you have the app idea,
+[0:06:44] I usually just open Figma and start designing the app right away.
+[0:06:48] And once I figure out the wireframes for the app,
+[0:06:51] I usually go to a popular app
+[0:06:54] and a similar app within the same niche.
+[0:06:56] And I look out the layout of their app
+[0:06:59] and I take the elements from it and adapt it to my app.
+[0:07:02] So I don't copy it the exact same
+[0:07:04] because I'd like to be creative.
+[0:07:06] Try not to reinvent the wheel,
+[0:07:08] just take what's working from their app,
+[0:07:11] adapt it a little and change it up.
+[0:07:12] I think that's a great strategy.
+[0:07:13] Especially if it's a bigger app,
+[0:07:14] let's say you are building a language app
+[0:07:16] and you're copying something that Duo Lingo did.
+[0:07:19] You know that they've run tons and tons of tests.
+[0:07:21] They have a huge team.
+[0:07:22] And the reason that they have the onboarding this way
+[0:07:25] or the logo this way
+[0:07:26] is probably something that they've tested over many years.
+[0:07:29] You get to stand on the shoulders of giants
+[0:07:31] and just essentially copy that
+[0:07:33] and then put your later twist on it.
+[0:07:35] So that's great advice.
+[0:07:36] What's the next step?
+[0:07:37] After I create the design in Figma,
+[0:07:39] I code the app straight away.
+[0:07:41] So since cursor can code your app very fast,
+[0:07:45] I usually just tell cursor to create the front end first
+[0:07:48] and make sure the code that I created matches
+[0:07:52] the front end design that I created in Figma.
+[0:07:55] And then I start creating the backend.
+[0:07:57] So I use cursor and chat to BT for the development.
+[0:08:00] And then I integrate super base for the database
+[0:08:03] to store all the data.
+[0:08:05] And I use Versel to host the landing page
+[0:08:08] and drop a script files.
+[0:08:09] I use open AI API for the AI functionality within my app.
+[0:08:13] I integrate revenue cat,
+[0:08:15] mix panel, super wall for paywalls and analytics.
+[0:08:18] And then if I need to,
+[0:08:20] I'll use cron job for scheduled automations.
+[0:08:23] So you build the app.
+[0:08:24] What about the marketing?
+[0:08:25] What's the next step to building a niche app in 26?
+[0:08:28] Yeah, so for marketing,
+[0:08:29] I would say to start off with organic posts.
+[0:08:31] I got the ideas from social media pages
+[0:08:34] that were in the same niche as mine,
+[0:08:36] which I then adapted to my app.
+[0:08:38] An example of the first video that I posted organically
+[0:08:42] was a video where I showed what a UFC fighter
+[0:08:45] looked like on a wait cut
+[0:08:46] and what they looked like after their wait cut.
+[0:08:48] I also added a call to action at the end of the video
+[0:08:50] to give users an incentive to download my app.
+[0:08:54] I noticed that the videos didn't get that many views,
+[0:08:56] but I also noticed that the people that were viewing my posts
+[0:09:00] were very high in 10 viewers.
+[0:09:02] As I noticed around 10 to 15 downloads per day
+[0:09:04] from posts that got anywhere from 200 to 500 views.
+[0:09:08] And I think the reason was because my product was so unique
+[0:09:12] and it solved a very specific pain points
+[0:09:15] that no other apps solved,
+[0:09:17] it converted very well on my organic post
+[0:09:20] even though they didn't get that many views.
+[0:09:22] I think there's a huge opportunity in niche apps like this.
+[0:09:26] You don't need to get millions of views
+[0:09:29] like you think you might need to do
+[0:09:31] if you can get five to 10% conversion ratio on views,
+[0:09:34] which is really, really high.
+[0:09:35] Let's dive a little bit more into that
+[0:09:36] because yeah, you can get 10 to 15 installs
+[0:09:39] but that's not thousands of paying customers.
+[0:09:40] Once you sort of figured out what videos work,
+[0:09:42] what was like the more scalable growth strategy?
+[0:09:45] Yeah, after posting organically,
+[0:09:46] I switched over to influencer marketing.
+[0:09:49] Since my app was in a very niche category,
+[0:09:51] there were not a lot of big influencers to partner with.
+[0:09:55] So I decided that I would ask small creators
+[0:09:57] to partner with me instead to start off.
+[0:10:00] So to find influencers, I would basically just scroll on my for you page on TikTok or
+[0:10:05] reels on Instagram and I would DM creators asking them to partner.
+[0:10:09] I found that most of the creators that I DM'd said yes to the partnerships.
+[0:10:13] You know, I started off with influencers that got around 1000 to 10,000 views per video
+[0:10:18] then switched later to influencers that got 20,000 plus views per video.
+[0:10:23] I saw that the influencer marketing strategy was working not only because I had a very
+[0:10:28] high intent audience, but also because I had a very unique product later.
+[0:10:32] I decided to put those influencer videos into paid ads just to see what would happen.
+[0:10:37] And to my surprise, it added a lot of extra revenue and helped us scale much faster and
+[0:10:42] much more efficiently.
+[0:10:43] Okay.
+[0:10:44] Well, thanks for sharing that.
+[0:10:45] I want to change the topic a little bit and I want to actually see this app that you
+[0:10:48] built.
+[0:10:49] Could you actually give me a quick demo of what is the niche app that you built that made
+[0:10:52] over $20,000 in a single month?
+[0:10:54] Yeah.
+[0:10:55] So here's the app.
+[0:10:56] And when you open it, it just has the nutrition values that you have to stay within.
+[0:11:03] And each day you can just log your meals here.
+[0:11:06] So here I'm going to put that eight some chicken.
+[0:11:09] And as you see, the app is extracting the nutritional values from the chicken and putting
+[0:11:14] it in your daily nutrition goal.
+[0:11:16] And all you have to do to cut the weights for your competition is to simply stay within
+[0:11:21] the limits in the app and make sure you don't go over.
+[0:11:24] And each day you can also put in your weight so you can track your progress of your weight
+[0:11:30] going down.
+[0:11:31] And in this green, you can see the recommended meals for each day.
+[0:11:36] These meals help you stay within your limits.
+[0:11:39] So you don't go over and miss weights on competition day.
+[0:11:42] Okay.
+[0:11:43] Last question that we've asked all founders to come on starter story is if you could go
+[0:11:46] back in time to young Ethan before you were building apps as hobbies or your in-call
+[0:11:51] college, what would be that one piece of advice that you give yourself or anyone watching
+[0:11:55] this who wants to build a niche mobile app like you?
+[0:11:57] Yeah, one piece of advice I'd give myself would be to follow my own advice.
+[0:12:02] You know, when I was still in high school, I noticed how I would make decisions based
+[0:12:05] on other people's opinions or advice, even though I already knew deep down what the
+[0:12:10] right decision was to make.
+[0:12:11] Because of this, I found myself living the lives that other people wanted rather than living
+[0:12:16] my own life.
+[0:12:17] Now, while I still seek advice from others, I make sure to adapt it to my life rather
+[0:12:21] than letting it control my life and doing this has helped me feel much more fulfilled
+[0:12:25] and also given me a much stronger sense of purpose in my life.
+[0:12:28] That's awesome, man.
+[0:12:29] Thank you, Ethan, for coming on.
+[0:12:30] Dude, super cool app.
+[0:12:31] Over $20,000 a month with a niche wrestling app.
+[0:12:35] I'm excited to see what you build in the future too.
+[0:12:37] Thanks for coming on and sharing all this so openly.
+[0:12:40] Yeah, thanks for having.
+[0:12:41] I wonder how many apps there are.
+[0:12:42] Like the fact that there's two in wrestling, everyone who are wrestlers are super passionate
+[0:12:47] about wrestling.
+[0:12:48] Right.
+[0:12:49] I wonder if that's maybe just something there, you know, a hundred percent.
+[0:12:52] That's why it wouldn't make money if it was pickleball.
+[0:12:55] For example, pickleball, it could be old, it could be young.
+[0:12:57] I feel like wrestlers is like really just like high school college.
+[0:13:00] I would say there's definitely an opportunity in high school and college sports where it's
+[0:13:06] like a small community, but everyone's sort of like competing, you know, your parents
+[0:13:10] are probably going to pay for that app or you're going to pay for that app so you can
+[0:13:13] make weight for your wrestling competition.
+[0:13:16] You're willing to pay $30 to make weight because if you don't make weight, the cost is
+[0:13:20] way higher.
+[0:13:21] People would be very disappointed in you or whatever it is.
+[0:13:23] So it's actually a really painful problem for a really niche community.
+[0:13:26] And I think that's one of the reasons why it's successful.
+[0:13:28] Man, that was cool.
+[0:13:29] I just think he said this.
+[0:13:30] Like if you're just kind of excited about this hobby or something, there's probably
+[0:13:34] a lot of people also excited about that.
+[0:13:36] You can go kind of build this niche app and I don't know if this is right, but like no
+[0:13:39] niche is like too small, you know, like weight cutting for wrestlers, like that feels like
+[0:13:44] so narrow.
+[0:13:45] But yeah, that's kind of my last takeaway, I think.
+[0:13:48] Yeah.
+[0:13:49] So if you're watching this and you thought this was cool, check the link in the description.
+[0:13:52] We have a link for our iOS playbook where you'll come up with an idea, build it and ship
+[0:13:56] it within a couple days.
+[0:13:57] We'll walk you through how to do that with AI tools.
+[0:13:59] I'll put that link down there.
+[0:14:01] You can click it and get started today.
+[0:14:02] All right.
+[0:14:03] Thanks for watching.
+[0:14:04] We'll see you in the next one.
+[0:14:05] Peace.
