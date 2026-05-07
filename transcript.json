@@ -1,0 +1,608 @@
+{
+    "video_url": "https://www.youtube.com/watch?v=0v3OeszyaxE",
+    "video_id": "0v3OeszyaxE",
+    "audio_file": "0v3OeszyaxE.mp3",
+    "model_used": "small",
+    "language": "en",
+    "duration": "0:10:10",
+    "number_of_chunks": 2,
+    "status": "success",
+    "quality": {
+        "score": 100,
+        "issues": [],
+        "needs_manual_review": false
+    },
+    "transcript": [
+        {
+            "start": "0:00:00",
+            "end": "0:00:26",
+            "text": "Music"
+        },
+        {
+            "start": "0:00:30",
+            "end": "0:00:39",
+            "text": "Hey, she told you my name is Mike Wolf, and a little of my background, I've been in the"
+        },
+        {
+            "start": "0:00:39",
+            "end": "0:00:45",
+            "text": "radio and television business in Washington, D.C., Denver, Colorado."
+        },
+        {
+            "start": "0:00:45",
+            "end": "0:00:53",
+            "text": "So I've traveled a bit and got tired of the big cities and came to Central Oregon."
+        },
+        {
+            "start": "0:00:53",
+            "end": "0:00:57",
+            "text": "What I see is very simply that you have some things to say that a lot of people"
+        },
+        {
+            "start": "0:00:57",
+            "end": "0:01:01",
+            "text": "at this point don't buy, which you may not care about."
+        },
+        {
+            "start": "0:01:01",
+            "end": "0:01:04",
+            "text": "Why don't you care about it?"
+        },
+        {
+            "start": "0:01:04",
+            "end": "0:01:07",
+            "text": "Why should I care?"
+        },
+        {
+            "start": "0:01:07",
+            "end": "0:01:12",
+            "text": "But why shouldn't you care, and we can play Monopoly with this all the way through?"
+        },
+        {
+            "start": "0:01:12",
+            "end": "0:01:13",
+            "text": "No."
+        },
+        {
+            "start": "0:01:13",
+            "end": "0:01:18",
+            "text": "You state that your interest is in the individual."
+        },
+        {
+            "start": "0:01:18",
+            "end": "0:01:21",
+            "text": "Is that the individual only who is here?"
+        },
+        {
+            "start": "0:01:21",
+            "end": "0:01:22",
+            "text": "No."
+        },
+        {
+            "start": "0:01:22",
+            "end": "0:01:30",
+            "text": "The individual is everywhere, whether he is here or not, because only the individual exists."
+        },
+        {
+            "start": "0:01:30",
+            "end": "0:01:35",
+            "text": "Societies are just names, collectivities are all names."
+        },
+        {
+            "start": "0:01:35",
+            "end": "0:01:46",
+            "text": "The reality is only of the individual, and I'm trying my best, sitting in my room."
+        },
+        {
+            "start": "0:01:46",
+            "end": "0:01:56",
+            "text": "That's why you can see, on all the papers, in the radios, in the television, a man who"
+        },
+        {
+            "start": "0:01:56",
+            "end": "0:02:08",
+            "text": "does not go out of this small valley, these and I will go on hammering all over the world"
+        },
+        {
+            "start": "0:02:08",
+            "end": "0:02:09",
+            "text": "from here."
+        },
+        {
+            "start": "0:02:09",
+            "end": "0:02:10",
+            "text": "What is the point?"
+        },
+        {
+            "start": "0:02:10",
+            "end": "0:02:15",
+            "text": "Well, let me ask you this, you do not go out of the valley, but is it not correct"
+        },
+        {
+            "start": "0:02:15",
+            "end": "0:02:20",
+            "text": "that you spent three nights in Bend at the Riverhouse Motel a couple of weeks ago?"
+        },
+        {
+            "start": "0:02:20",
+            "end": "0:02:21",
+            "text": "No."
+        },
+        {
+            "start": "0:02:21",
+            "end": "0:02:32",
+            "text": "Well, then someone is paying you the highest compliment because they are impersonating you."
+        },
+        {
+            "start": "0:02:32",
+            "end": "0:02:38",
+            "text": "And I wonder if it's possible for what you are saying, getting back to it somewhat seriously,"
+        },
+        {
+            "start": "0:02:38",
+            "end": "0:02:42",
+            "text": "to be projected to those people who just don't understand?"
+        },
+        {
+            "start": "0:02:43",
+            "end": "0:02:46",
+            "text": "First, the non-serious part."
+        },
+        {
+            "start": "0:02:48",
+            "end": "0:02:51",
+            "text": "Don't try to get a better laugh than I did."
+        },
+        {
+            "start": "0:02:51",
+            "end": "0:02:57",
+            "text": "I was not in the hotel, but I can be."
+        },
+        {
+            "start": "0:02:57",
+            "end": "0:03:00",
+            "text": "Well, you probably could buy the hotel if you wanted to."
+        },
+        {
+            "start": "0:03:00",
+            "end": "0:03:02",
+            "text": "In fact, I have."
+        },
+        {
+            "start": "0:03:02",
+            "end": "0:03:10",
+            "text": "And I have everything that any hotel in America can have."
+        },
+        {
+            "start": "0:03:10",
+            "end": "0:03:15",
+            "text": "Just to see my bathroom."
+        },
+        {
+            "start": "0:03:15",
+            "end": "0:03:18",
+            "text": "Perhaps it is the best in the whole world."
+        },
+        {
+            "start": "0:03:18",
+            "end": "0:03:19",
+            "text": "Your bathroom."
+        },
+        {
+            "start": "0:03:19",
+            "end": "0:03:22",
+            "text": "My bathroom."
+        },
+        {
+            "start": "0:03:22",
+            "end": "0:03:24",
+            "text": "Is that an invitation?"
+        },
+        {
+            "start": "0:03:24",
+            "end": "0:03:25",
+            "text": "Yes."
+        },
+        {
+            "start": "0:03:25",
+            "end": "0:03:30",
+            "text": "I have never been invited to the bathroom."
+        },
+        {
+            "start": "0:03:30",
+            "end": "0:03:36",
+            "text": "I have been told I belonged in the bathroom before, but never invited."
+        },
+        {
+            "start": "0:03:36",
+            "end": "0:03:43",
+            "text": "I am a rare and unique person in every way."
+        },
+        {
+            "start": "0:03:43",
+            "end": "0:03:46",
+            "text": "I invite you in my bathroom."
+        },
+        {
+            "start": "0:03:46",
+            "end": "0:03:48",
+            "text": "That is unique."
+        },
+        {
+            "start": "0:03:48",
+            "end": "0:03:51",
+            "text": "But where do we go from there?"
+        },
+        {
+            "start": "0:03:51",
+            "end": "0:03:54",
+            "text": "There is nowhere to go."
+        },
+        {
+            "start": "0:03:54",
+            "end": "0:03:58",
+            "text": "Enjoy the jacuzzi there."
+        },
+        {
+            "start": "0:03:58",
+            "end": "0:04:03",
+            "text": "Enjoy the sour there."
+        },
+        {
+            "start": "0:04:03",
+            "end": "0:04:08",
+            "text": "Enjoy the hot sour."
+        },
+        {
+            "start": "0:04:08",
+            "end": "0:04:11",
+            "text": "Enjoy the ice cold sour."
+        },
+        {
+            "start": "0:04:11",
+            "end": "0:04:12",
+            "text": "And then get out."
+        },
+        {
+            "start": "0:04:12",
+            "end": "0:04:15",
+            "text": "I understand."
+        },
+        {
+            "start": "0:04:15",
+            "end": "0:04:19",
+            "text": "I need to know this for my own edification."
+        },
+        {
+            "start": "0:04:19",
+            "end": "0:04:22",
+            "text": "Have you ever invited a member of the press to your bathroom before?"
+        },
+        {
+            "start": "0:04:22",
+            "end": "0:04:23",
+            "text": "No."
+        },
+        {
+            "start": "0:04:23",
+            "end": "0:04:24",
+            "text": "Thank you."
+        },
+        {
+            "start": "0:04:24",
+            "end": "0:04:25",
+            "text": "I think that's important."
+        },
+        {
+            "start": "0:04:25",
+            "end": "0:04:30",
+            "text": "Because I never liked any man the way I like you."
+        },
+        {
+            "start": "0:04:46",
+            "end": "0:04:48",
+            "text": "I wonder if this could be love."
+        },
+        {
+            "start": "0:04:48",
+            "end": "0:04:52",
+            "text": "This is."
+        },
+        {
+            "start": "0:04:52",
+            "end": "0:04:53",
+            "text": "Invited to the bathroom."
+        },
+        {
+            "start": "0:04:53",
+            "end": "0:04:57",
+            "text": "I am sure the listeners of this program are thinking you and I are going to start a nightclub"
+        },
+        {
+            "start": "0:04:57",
+            "end": "0:04:59",
+            "text": "act."
+        },
+        {
+            "start": "0:04:59",
+            "end": "0:05:06",
+            "text": "What is the potential, since you were talking about this a moment ago, of uniting the western"
+        },
+        {
+            "start": "0:05:06",
+            "end": "0:05:12",
+            "text": "philosophy, which is somewhat materialistic, and the eastern philosophy, which traditionally"
+        },
+        {
+            "start": "0:05:12",
+            "end": "0:05:21",
+            "text": "is not materialistic, but is more an inner, what would you call it, an inner recognition"
+        },
+        {
+            "start": "0:05:21",
+            "end": "0:05:22",
+            "text": "of oneself."
+        },
+        {
+            "start": "0:05:22",
+            "end": "0:05:25",
+            "text": "Now you have done a magnificent job in many respects."
+        },
+        {
+            "start": "0:05:25",
+            "end": "0:05:30",
+            "text": "That diamond wrist watch, of course, is certainly not an eastern philosophy."
+        },
+        {
+            "start": "0:05:30",
+            "end": "0:05:35",
+            "text": "And yet the rest of your presentation is somewhat eastern."
+        },
+        {
+            "start": "0:05:35",
+            "end": "0:05:38",
+            "text": "Is it possible for those two cultures to unite?"
+        },
+        {
+            "start": "0:05:38",
+            "end": "0:05:40",
+            "text": "That's what I have been doing."
+        },
+        {
+            "start": "0:05:40",
+            "end": "0:05:49",
+            "text": "And that's why both the sides of the culture are angry at me."
+        },
+        {
+            "start": "0:05:49",
+            "end": "0:05:54",
+            "text": "The easterns are angry with me because they think I am a materialist."
+        },
+        {
+            "start": "0:05:54",
+            "end": "0:05:56",
+            "text": "And are they right?"
+        },
+        {
+            "start": "0:05:56",
+            "end": "0:05:57",
+            "text": "No."
+        },
+        {
+            "start": "0:05:57",
+            "end": "0:05:59",
+            "text": "You're not materialistic?"
+        },
+        {
+            "start": "0:05:59",
+            "end": "0:06:02",
+            "text": "No, not in their sense."
+        },
+        {
+            "start": "0:06:02",
+            "end": "0:06:11",
+            "text": "And the western people, particularly the materialists, the communists, they are angry with me"
+        },
+        {
+            "start": "0:06:11",
+            "end": "0:06:18",
+            "text": "because I am bringing spiritualism."
+        },
+        {
+            "start": "0:06:18",
+            "end": "0:06:27",
+            "text": "My approach is that man is both together."
+        },
+        {
+            "start": "0:06:27",
+            "end": "0:06:34",
+            "text": "This existence is not split into matter and spirit."
+        },
+        {
+            "start": "0:06:34",
+            "end": "0:06:39",
+            "text": "This existence is one organic unity."
+        },
+        {
+            "start": "0:06:39",
+            "end": "0:06:46",
+            "text": "Just as your soul and your body is an organic unity,"
+        },
+        {
+            "start": "0:06:46",
+            "end": "0:06:50",
+            "text": "your soul cannot exist without your body"
+        },
+        {
+            "start": "0:06:50",
+            "end": "0:06:56",
+            "text": "and your body cannot be alive without the soul."
+        },
+        {
+            "start": "0:06:56",
+            "end": "0:07:01",
+            "text": "I am destroying the whole idea of the separation"
+        },
+        {
+            "start": "0:07:01",
+            "end": "0:07:09",
+            "text": "of a split between matter and mind, body and soul,"
+        },
+        {
+            "start": "0:07:09",
+            "end": "0:07:13",
+            "text": "materialism and spiritualism."
+        },
+        {
+            "start": "0:07:13",
+            "end": "0:07:19",
+            "text": "I call myself Zorba di Buddha."
+        },
+        {
+            "start": "0:07:19",
+            "end": "0:07:31",
+            "text": "My restaurants, my discos are all named after me Zorba di Buddha."
+        },
+        {
+            "start": "0:07:31",
+            "end": "0:07:35",
+            "text": "Now Buddhists are angry."
+        },
+        {
+            "start": "0:07:35",
+            "end": "0:07:41",
+            "text": "The ambassador of Ceylon in America wrote me a letter"
+        },
+        {
+            "start": "0:07:41",
+            "end": "0:07:50",
+            "text": "saying that in my country people will be angry about it."
+        },
+        {
+            "start": "0:07:50",
+            "end": "0:07:57",
+            "text": "Please don't use Buddha's name with Zorba."
+        },
+        {
+            "start": "0:07:57",
+            "end": "0:08:02",
+            "text": "I replied to him that we don't mean your Buddha."
+        },
+        {
+            "start": "0:08:02",
+            "end": "0:08:07",
+            "text": "Your Buddha's name was Gautam Siddhartha."
+        },
+        {
+            "start": "0:08:07",
+            "end": "0:08:11",
+            "text": "Buddha is not anybody's name."
+        },
+        {
+            "start": "0:08:11",
+            "end": "0:08:15",
+            "text": "It is a quality, it means the awakened one."
+        },
+        {
+            "start": "0:08:15",
+            "end": "0:08:20",
+            "text": "It can be used for anybody who is awakened."
+        },
+        {
+            "start": "0:08:20",
+            "end": "0:08:24",
+            "text": "So don't get upset about it."
+        },
+        {
+            "start": "0:08:24",
+            "end": "0:08:32",
+            "text": "My effort is that Zorba and Buddha have to be bridged."
+        },
+        {
+            "start": "0:08:32",
+            "end": "0:08:39",
+            "text": "Zorba represents the materialist life in all its luxury."
+        },
+        {
+            "start": "0:08:39",
+            "end": "0:08:43",
+            "text": "Hence this diamond wrist watch."
+        },
+        {
+            "start": "0:08:43",
+            "end": "0:08:46",
+            "text": "Hence all my are all slices."
+        },
+        {
+            "start": "0:08:46",
+            "end": "0:08:52",
+            "text": "I live the most luxurious life than any man had ever lived"
+        },
+        {
+            "start": "0:08:52",
+            "end": "0:08:56",
+            "text": "with no worry."
+        },
+        {
+            "start": "0:08:56",
+            "end": "0:09:03",
+            "text": "People have much more money, I don't have a single cent."
+        },
+        {
+            "start": "0:09:03",
+            "end": "0:09:08",
+            "text": "But they cannot live such a luxurious life as I'm living"
+        },
+        {
+            "start": "0:09:08",
+            "end": "0:09:15",
+            "text": "with no worry, no bank account, no income tax,"
+        },
+        {
+            "start": "0:09:15",
+            "end": "0:09:20",
+            "text": "and having everything that anybody can have."
+        },
+        {
+            "start": "0:09:20",
+            "end": "0:09:24",
+            "text": "What is your secret?"
+        },
+        {
+            "start": "0:09:24",
+            "end": "0:09:28",
+            "text": "I really think you're in the wrong business."
+        },
+        {
+            "start": "0:09:28",
+            "end": "0:09:30",
+            "text": "There are those."
+        },
+        {
+            "start": "0:09:30",
+            "end": "0:09:32",
+            "text": "Because of what you've just documented,"
+        },
+        {
+            "start": "0:09:32",
+            "end": "0:09:38",
+            "text": "you must be one of the world's great con men, it would say."
+        },
+        {
+            "start": "0:09:38",
+            "end": "0:09:41",
+            "text": "And it takes a great man to admit that."
+        },
+        {
+            "start": "0:09:41",
+            "end": "0:09:45",
+            "text": "Certainly."
+        },
+        {
+            "start": "0:09:54",
+            "end": "0:09:59",
+            "text": "Copyright \u00a9 2020 Mooji Media Ltd. All rights reserved"
+        }
+    ],
+    "plain_text": "[0:00:00] Music\n[0:00:30] Hey, she told you my name is Mike Wolf, and a little of my background, I've been in the\n[0:00:39] radio and television business in Washington, D.C., Denver, Colorado.\n[0:00:45] So I've traveled a bit and got tired of the big cities and came to Central Oregon.\n[0:00:53] What I see is very simply that you have some things to say that a lot of people\n[0:00:57] at this point don't buy, which you may not care about.\n[0:01:01] Why don't you care about it?\n[0:01:04] Why should I care?\n[0:01:07] But why shouldn't you care, and we can play Monopoly with this all the way through?\n[0:01:12] No.\n[0:01:13] You state that your interest is in the individual.\n[0:01:18] Is that the individual only who is here?\n[0:01:21] No.\n[0:01:22] The individual is everywhere, whether he is here or not, because only the individual exists.\n[0:01:30] Societies are just names, collectivities are all names.\n[0:01:35] The reality is only of the individual, and I'm trying my best, sitting in my room.\n[0:01:46] That's why you can see, on all the papers, in the radios, in the television, a man who\n[0:01:56] does not go out of this small valley, these and I will go on hammering all over the world\n[0:02:08] from here.\n[0:02:09] What is the point?\n[0:02:10] Well, let me ask you this, you do not go out of the valley, but is it not correct\n[0:02:15] that you spent three nights in Bend at the Riverhouse Motel a couple of weeks ago?\n[0:02:20] No.\n[0:02:21] Well, then someone is paying you the highest compliment because they are impersonating you.\n[0:02:32] And I wonder if it's possible for what you are saying, getting back to it somewhat seriously,\n[0:02:38] to be projected to those people who just don't understand?\n[0:02:43] First, the non-serious part.\n[0:02:48] Don't try to get a better laugh than I did.\n[0:02:51] I was not in the hotel, but I can be.\n[0:02:57] Well, you probably could buy the hotel if you wanted to.\n[0:03:00] In fact, I have.\n[0:03:02] And I have everything that any hotel in America can have.\n[0:03:10] Just to see my bathroom.\n[0:03:15] Perhaps it is the best in the whole world.\n[0:03:18] Your bathroom.\n[0:03:19] My bathroom.\n[0:03:22] Is that an invitation?\n[0:03:24] Yes.\n[0:03:25] I have never been invited to the bathroom.\n[0:03:30] I have been told I belonged in the bathroom before, but never invited.\n[0:03:36] I am a rare and unique person in every way.\n[0:03:43] I invite you in my bathroom.\n[0:03:46] That is unique.\n[0:03:48] But where do we go from there?\n[0:03:51] There is nowhere to go.\n[0:03:54] Enjoy the jacuzzi there.\n[0:03:58] Enjoy the sour there.\n[0:04:03] Enjoy the hot sour.\n[0:04:08] Enjoy the ice cold sour.\n[0:04:11] And then get out.\n[0:04:12] I understand.\n[0:04:15] I need to know this for my own edification.\n[0:04:19] Have you ever invited a member of the press to your bathroom before?\n[0:04:22] No.\n[0:04:23] Thank you.\n[0:04:24] I think that's important.\n[0:04:25] Because I never liked any man the way I like you.\n[0:04:46] I wonder if this could be love.\n[0:04:48] This is.\n[0:04:52] Invited to the bathroom.\n[0:04:53] I am sure the listeners of this program are thinking you and I are going to start a nightclub\n[0:04:57] act.\n[0:04:59] What is the potential, since you were talking about this a moment ago, of uniting the western\n[0:05:06] philosophy, which is somewhat materialistic, and the eastern philosophy, which traditionally\n[0:05:12] is not materialistic, but is more an inner, what would you call it, an inner recognition\n[0:05:21] of oneself.\n[0:05:22] Now you have done a magnificent job in many respects.\n[0:05:25] That diamond wrist watch, of course, is certainly not an eastern philosophy.\n[0:05:30] And yet the rest of your presentation is somewhat eastern.\n[0:05:35] Is it possible for those two cultures to unite?\n[0:05:38] That's what I have been doing.\n[0:05:40] And that's why both the sides of the culture are angry at me.\n[0:05:49] The easterns are angry with me because they think I am a materialist.\n[0:05:54] And are they right?\n[0:05:56] No.\n[0:05:57] You're not materialistic?\n[0:05:59] No, not in their sense.\n[0:06:02] And the western people, particularly the materialists, the communists, they are angry with me\n[0:06:11] because I am bringing spiritualism.\n[0:06:18] My approach is that man is both together.\n[0:06:27] This existence is not split into matter and spirit.\n[0:06:34] This existence is one organic unity.\n[0:06:39] Just as your soul and your body is an organic unity,\n[0:06:46] your soul cannot exist without your body\n[0:06:50] and your body cannot be alive without the soul.\n[0:06:56] I am destroying the whole idea of the separation\n[0:07:01] of a split between matter and mind, body and soul,\n[0:07:09] materialism and spiritualism.\n[0:07:13] I call myself Zorba di Buddha.\n[0:07:19] My restaurants, my discos are all named after me Zorba di Buddha.\n[0:07:31] Now Buddhists are angry.\n[0:07:35] The ambassador of Ceylon in America wrote me a letter\n[0:07:41] saying that in my country people will be angry about it.\n[0:07:50] Please don't use Buddha's name with Zorba.\n[0:07:57] I replied to him that we don't mean your Buddha.\n[0:08:02] Your Buddha's name was Gautam Siddhartha.\n[0:08:07] Buddha is not anybody's name.\n[0:08:11] It is a quality, it means the awakened one.\n[0:08:15] It can be used for anybody who is awakened.\n[0:08:20] So don't get upset about it.\n[0:08:24] My effort is that Zorba and Buddha have to be bridged.\n[0:08:32] Zorba represents the materialist life in all its luxury.\n[0:08:39] Hence this diamond wrist watch.\n[0:08:43] Hence all my are all slices.\n[0:08:46] I live the most luxurious life than any man had ever lived\n[0:08:52] with no worry.\n[0:08:56] People have much more money, I don't have a single cent.\n[0:09:03] But they cannot live such a luxurious life as I'm living\n[0:09:08] with no worry, no bank account, no income tax,\n[0:09:15] and having everything that anybody can have.\n[0:09:20] What is your secret?\n[0:09:24] I really think you're in the wrong business.\n[0:09:28] There are those.\n[0:09:30] Because of what you've just documented,\n[0:09:32] you must be one of the world's great con men, it would say.\n[0:09:38] And it takes a great man to admit that.\n[0:09:41] Certainly.\n[0:09:54] Copyright \u00a9 2020 Mooji Media Ltd. All rights reserved"
+}

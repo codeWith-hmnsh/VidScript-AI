@@ -1,0 +1,16 @@
+{
+    "timestamp": "2026-05-06T22:49:07.340448",
+    "status": "completed",
+    "quality_metrics": {
+        "duration_seconds": 351,
+        "model_used": "small",
+        "number_of_chunks": 1,
+        "has_timestamps": true,
+        "segments_processed": 106,
+        "needs_manual_review": false
+    },
+    "output_files": [
+        "transcript.json",
+        "transcript.txt"
+    ]
+}
