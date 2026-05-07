@@ -1,210 +1,339 @@
-[0:00:00] My name is Evan and I scaled an app called locked to $14,000 per month in only a few months.
-[0:00:06] Meet Evan.
-[0:00:07] He just launched a mobile app and four months later, it's doing $14,000 a month.
-[0:00:12] But here's what makes the story different.
-[0:00:15] He didn't launch with a huge audience or run paid ads.
-[0:00:18] He only had one strategy and it worked from day one.
-[0:00:22] The big advantage here is that it feels way more authentic.
-[0:00:25] Most founders spend months trying to figure out how to get their first user.
-[0:00:29] But Evan figured it out fast.
-[0:00:31] This would be my playbook if I wanted to nail starting out on a new app.
-[0:00:36] So I brought him out of the channel to walk through his entire playbook.
-[0:00:40] And in this episode, we'll dive into the one growth channel that helped him grow very, very fast.
-[0:00:46] How he got thousands of users from a single piece of content.
-[0:00:50] And the step-by-step strategy he'd use if he had to start over tomorrow with a brand new app.
-[0:00:55] If you're thinking about building an app in 2026, this is the episode that you must watch.
-[0:01:01] Alright, let's dive in.
-[0:01:02] I'm Pat Walls.
-[0:01:03] And this is Starter Story.
-[0:01:05] Alright, real quick, before we dive in, Evan is about to break down his exact distribution strategy that took his app to $14,000 a month.
-[0:01:13] And this is actually something that we have studied a lot here at Starter Story.
-[0:01:17] So I put together a full playbook on how the best founders grow and market their apps.
-[0:01:22] The link is right down there in the description, but I'll be talking a little bit more about that later.
-[0:01:26] For now, let's get into the episode.
-[0:01:28] Evan, welcome my man to the channel.
-[0:01:31] Tell me about who you are, what you built, and what's your story.
-[0:01:34] Hey, my name is Evan, and I scaled an app called Locked to $14,000 per month in only a few months.
-[0:01:40] Today, I'm excited to talk about the strategies in place that I'm using to scale off.
-[0:01:44] Well, I'm excited to talk about how you grew this app to $14,000 a month and growing.
-[0:01:49] It's amazing.
-[0:01:50] Before we do, what is this app?
-[0:01:52] What's the business model?
-[0:01:53] And if you could walk through some of your dashboards and metrics to show that the thing is legit, would you be able to do that?
-[0:01:58] Sure.
-[0:01:59] Locked is a gamified health fitness app.
-[0:02:02] And the whole point of it is to help our users stay on task while gamifying the whole experience.
-[0:02:08] From the start of the onboarding, you have to choose your character to get started.
-[0:02:12] There are leaderboards, motivational features, and even badges and levels to keep people on task and stay motivated.
-[0:02:18] For our paywall, we charge $40 a year, or $7 a week, and the yearly option includes a three-day free trial.
-[0:02:26] On top of that, if they X out of this paywall or escape, it will take them to a transaction abandoned paywall, which is basically just a discounted offer for only $20 a year.
-[0:02:38] All right. Well, thank you for sharing that. Thanks for sharing all the numbers.
-[0:02:40] How do you get to this point where you have an app that's doing over $14,000 a month? What's your background?
-[0:02:45] Sure. So I've been obsessed with entrepreneurship ever since I was a kid.
-[0:02:49] At nine years old, my friends would all play Roblox, but instead I decided to develop the Roblox games.
-[0:02:55] I didn't make money from those games, but that marked the start of my journey.
-[0:02:59] After that, I tested a bunch of business models, dropped shipping, reselling, clipping, betting machines.
-[0:03:05] They all failed. Until eventually, my older brother Zach suggested I get into the app space.
-[0:03:10] My first app was Problem-Pal. It peaked at about $2,000 per month, and I recently sold that.
-[0:03:16] Next, I built a clear AI in a few weeks, but it didn't really go anywhere.
-[0:03:20] Then a friend told me about how he was struggling to stay on task and motivate it. So that sparked an idea.
-[0:03:26] I didn't want another boring habit tracker, so I gamified the whole experience with leaderboards, XP, badges, and even characters.
-[0:03:35] So let's dive into that a little bit. Can you just walk me through?
-[0:03:38] How did you build it? How long did it take?
-[0:03:40] Our designs took us about two weeks. We went in a figment file, did everything from scratch, and once that was done, we began transferring it over to Xcode.
-[0:03:49] To do this, we use YouTube tutorials, some of our own knowledge, and also, of course, we use Clawed Code to help us.
-[0:03:55] From start to finish, idea to live in the app store, it took about a month and a half.
-[0:03:59] A month and a half to build an app is amazing. That's, I guess, how things are going these days.
-[0:04:04] Why I wanted to bring you on is to talk about growth. You grew it to over 14,000 per month in revenue.
-[0:04:09] How did you do that? What was the growth strategy or tactic? And how did you get all these users?
-[0:04:14] Yeah, sure. I partnered with influencers to promote my app.
-[0:04:19] Going into this channel, I realized my RPM was around $2 to $3.
-[0:04:24] So I knew I had to close creators at a CPM lower than that. Typically, it would be between the dollar and $1.50 range.
-[0:04:31] The big advantage here is that most influencers already have trust with their audience.
-[0:04:36] And when they recommend an app, it feels way more authentic than a traditional ad, which usually leads to much stronger results.
-[0:04:42] Would you be able to like show me one of the influencers you worked with and the type of content that was created and share how much revenue and installs this content led to?
-[0:04:50] So here, if we click on Jeremiah's video, which was basically explaining how to stay locked in and on task.
-[0:04:58] Right here, he shows app was in the first 15 seconds. That's always something that you should require influencers to do.
-[0:05:04] This piece of content worked for multiple reasons.
-[0:05:07] Number one, Jeremiah Jones has great engagement and his videos are filled with high quality comments.
-[0:05:13] That's how I know he has an amazing audience, which is arguably the most important factor.
-[0:05:17] Number two, his content focuses on staying locked in and on task, which perfectly aligns with locked.
-[0:05:24] Number three, it was a seamless integration with the app. It made sense to add it and it fit in perfectly.
-[0:05:29] Could you share like any of the numbers? Like just give a sense of how many views did this piece of content get?
-[0:05:35] And like how many installs did it lead to or revenue impact? I think the audience would be curious about how this actually leads to installs and revenue.
-[0:05:44] You can see that he posted the video right around February 6, which is when we had a huge spike.
-[0:05:48] As you can see, we were doing about $300 a day and then just spiked up $728, $600, $700, $600, $678, $600, even almost $1,000.
-[0:05:59] So I would say across this video, probably generated around $3,000 and about 1,800 downloads at approximately $1,000,000 views across all platforms.
-[0:06:11] We pay them something like $800 with a $600,000 minimum view clause.
-[0:06:15] And if they hit the minimum view clause, all of some they're done.
-[0:06:18] And we can move on to an even bigger deal considering that it converted.
-[0:06:21] But if not, they have the option to post a few more videos, hit that NBC and so get paid out.
-[0:06:26] What Evan is showing us right now is that distribution is everything.
-[0:06:30] He figured out how to work with influencers. And this is one of the strategies I'm seeing work over and over and over.
-[0:06:36] Organic short form on TikTok, Instagram, and YouTube shorts.
-[0:06:40] If you watch this channel, you'll notice that many of the founders we bring on have talked at length about this exact strategy.
-[0:06:46] That's why we put together the organic short form playbook inside Starter Story Build.
-[0:06:51] It is a step-by-step system for finding viral ideas, reverse engineering, what's working on short form, and getting millions of views on your app.
-[0:07:00] We break down the exact content formats that make money and we give you real world examples you can try for free with your app.
-[0:07:07] If you want to get this resource right now, just head to the first link in the description to grab it.
-[0:07:12] It is 100% free. I'm excited to see you all put this into action.
-[0:07:16] Alright, let's get back to the episode.
-[0:07:18] Okay, cool. I mean, thanks for showing that example.
-[0:07:20] If you were to start over with a new app right now, how would you get started right now in 2026?
-[0:07:24] What would be your step-by-step to find influencers, book them, and make sure that they lead to actual sales and revenue for your app?
-[0:07:31] For the first step, you have to find creators in your niche.
-[0:07:34] You look up something related to your niche on Instagram or TikTok.
-[0:07:38] Then you scroll through the videos, click on their accounts, and send each creator the same message every time.
-[0:07:43] Which would always start with paid promo question mark.
-[0:07:46] The second step is getting them on a call.
-[0:07:48] Step three, you want to close them on a profitable deal.
-[0:07:51] But once you have them on a call, keep in mind that you need to close them on a profitable deal.
-[0:07:55] This is achieved by closing them on a CPM lower than your RPM.
-[0:07:59] Step number four is structuring the deal.
-[0:08:02] Now that you have them on a call, you should offer them one of four deals.
-[0:08:05] The first deal is a flat rate where you pay them $500 for a real or $1,200 for four deals.
-[0:08:12] You should only use this deal when working with creators that consistently get a lot of use in your confident that they'll be able to match your target CPM
-[0:08:19] without a minimum view clause or something of that nature.
-[0:08:23] The second deal is a CPM deal where you offer a dollar per every thousand views or $2 for every thousand views.
-[0:08:30] And you should always have a cap.
-[0:08:32] For example, if the creator were to get 10 million views but your cap was $500, then you only have to pay them $500.
-[0:08:39] The third deal is a minimum view clause deal where you offer something like $500 with a $500,000 minimum view clause.
-[0:08:46] This is the deal I almost always go with and it helps keep the CPM under your RPM.
-[0:08:50] The fourth and final deal is a bonus deal where you say, look, we'll pay you $500 for a video.
-[0:08:56] And if it gets a million views and we'll pay you an additional $500.
-[0:09:00] And then the fifth and final step is of course launching the partnership.
-[0:09:04] Next you want to send them the video requirements and a contract and give them a one week deadline to get the first video out.
-[0:09:10] They perform well and generate a lot of revenue and keep working with them.
-[0:09:14] Okay, cool influencer playbook. That was amazing. Thank you for sharing all that.
-[0:09:17] Would you be able to give me a demo of this app? How does it work? What does it do?
-[0:09:21] Yeah, when you enter the app, you are on the main screen. Of course, you have your level, your XP.
-[0:09:26] And you can scroll through add custom tasks. We also give users some basic tasks to start.
-[0:09:32] Check one off. You get 100 XP. Then you have all the different levels along with your progress on one tab.
-[0:09:39] We have every single user on here all time ranking last seven days and today's rankings and of course your profile.
-[0:09:46] And finally, a motivational screen where you're basically just getting yelled at by Jeremiah.
-[0:09:59] Thank you.
-[0:10:01] Let's talk about tech stack.
-[0:10:02] What is this app built on?
-[0:10:04] How do you do development?
-[0:10:06] What comprises this app that's doing $14,000 a month?
-[0:10:09] Sure, so of course, first, for designing,
-[0:10:12] we use Figma, Second, we use Cloud Code to help us out with development.
-[0:10:17] We use the $200 among subscription.
-[0:10:19] Then there is Superwall, which helps you
-[0:10:21] A.B. tester paywalls that takes 1% of your earnings.
-[0:10:26] And finally, there is Superbase for our database, which is again free.
-[0:10:31] Thanks for sharing.
-[0:10:32] Last question that we ask all founders who come on Star Story.
-[0:10:34] We'll be your advice to younger Evan,
-[0:10:37] or to anyone watching this who are inspired by what you do.
-[0:10:40] Sure, I would tell myself to worry less about school
-[0:10:43] and put more time into building my business.
-[0:10:46] From a young age, you are siopped into thinking there's only one path.
-[0:10:50] Go to school, get good grades, go to a good college,
-[0:10:53] then get a stable job, and you'll be happy.
-[0:10:56] Most people are very high-minded,
-[0:10:58] and follow that path without even questioning it.
-[0:11:01] If you can see through that early,
-[0:11:02] you gain a huge advantage.
-[0:11:04] Well, thanks.
-[0:11:04] That's great advice, Evan.
-[0:11:06] Congratulations to what you built, especially as such a young age,
-[0:11:09] and still in school, crushing it.
-[0:11:12] I can't imagine where it's going to be even a couple of months
-[0:11:15] or a couple of years.
-[0:11:15] So thanks for coming on, sharing all this.
-[0:11:18] And I will hope to have you back on the channel
-[0:11:20] when you're at 100K a month.
-[0:11:22] Yeah, thank you so much.
-[0:11:23] Producer Gus, what did you think about this one?
-[0:11:25] What I thought was cool was how simple the app is.
-[0:11:28] Gamify, XP, totally matches probably a demographic
-[0:11:33] that I just don't know.
-[0:11:35] He's this young kid who knows what he likes
-[0:11:37] or what his friends like.
-[0:11:38] So simple, stupidly simple.
-[0:11:41] Yeah, it's funny, because we had a few habit trackers
-[0:11:44] on the channel that are actually crushing it.
-[0:11:47] I sometimes am skeptical of doing that as a business idea
-[0:11:50] because it's, you know, there's so many of them.
-[0:11:53] What I think is a little secret on habit trackers is iOS,
-[0:11:58] like a cool app that will do well on social media
-[0:12:00] or habit tracker, like subashions
-[0:12:03] that we had chatted with a few months ago,
-[0:12:05] that ranks well in ASO.
-[0:12:07] So in iOS app store optimization.
-[0:12:11] Yeah, and then the other thing obviously is,
-[0:12:13] when he's at the end, he's like, we're, we're siopped
-[0:12:17] into just going to school and stuff.
-[0:12:20] I thought that was awesome.
-[0:12:21] And I just love that, that's this point of view.
-[0:12:24] Yeah, I think some people may watch this and, you know,
-[0:12:26] sometimes when you see someone who's young and doing so well,
-[0:12:29] they can be like a little bit formed of like,
-[0:12:31] oh, like, I'm not far enough along.
-[0:12:33] When we were kids, we didn't have access.
-[0:12:36] There wasn't even a way to build a business like this before.
-[0:12:39] This is just how the world has changed.
-[0:12:41] Now you don't need, you don't need permission
-[0:12:43] to build anything anymore.
-[0:12:44] You can open up a vibe coding tool
-[0:12:46] and you can build a business.
-[0:12:47] You can put it out on the worldwide web
-[0:12:48] and anyone can subscribe to it.
-[0:12:51] So, you know, we had chatted with him.
-[0:12:53] Yeah, he is young, but he let us know
-[0:12:55] that he had been starting businesses for years, right?
-[0:12:57] He's years into the game and it may feel like,
-[0:13:00] oh, he's so young.
-[0:13:00] But actually, he told us about all the different business ideas
-[0:13:03] that he tried that failed.
-[0:13:05] Thank you guys for watching this episode.
-[0:13:07] I hope you enjoyed it.
-[0:13:08] If you want to start an iPhone app or an iOS app like Evan did,
-[0:13:12] I'll put a link in the description
-[0:13:13] where you can learn how to do that,
-[0:13:14] how to go from an idea to a shipped app
-[0:13:17] that will be right down there in the description,
-[0:13:19] get started, solve free.
-[0:13:20] All right, guys, thank you guys for watching.
-[0:13:22] We'll see you in the next one.
-[0:13:23] Peace.
+This is how every indie hacker should grow their apps.
+This is Mickey, a guy from Spain who launched his app just seven months ago,
+and today he's already making over $40,000 a month.
+This app was profitable from day one, but here's what he did different.
+It didn't chase TikTok trends or spend years building a personal brand.
+He did it all through a single channel, Google.
+Google still works today if you take this approach.
+So I brought Mickey on to the channel to break it all down for us.
+And in this episode, we'll dive into what every builder gets wrong about distribution,
+the right combination of organic and paid Google search,
+and the exact five-step playbook he used to hit $40,000 M&R in less than a year.
+This one is going to be fun. Let's dive in.
+I'm Pat Walls, and this is Starter Story.
+All right, real quick before we dive in.
+Mickey is about to break down how he broke $40k a month using Google search.
+But if you're watching this and thinking, I want to build something,
+but I don't have an idea yet, well, I've got a free template that will help you find one.
+Link is right down there in the description, but more on that later.
+All right, Mickey, welcome to the channel.
+Tell me about who you are, what you built, and what's your story.
+Hey, Pat, I'm Mickey. I'm the founder of Late Social Media API.
+It's health brands,
+Skettle and Arlemate Content across multiple platforms,
+who went from zero to 30k M&R into seven months by focusing on Google search ads.
+All right, cool. Well, I'm really excited to talk about it.
+We're going to talk a lot about Google today, which I love, and I'm very excited about.
+But first before we do that, I want to understand what did you build?
+What's your product? What's the pricing model? How does it work?
+So late is the social media API.
+What we do is wrap around the official APIs, Facebook, Instagram, Twitter, LinkedIn.
+We go through all the platform permissions.
+We basically pay for the highest plans.
+So that you have access to all the features available.
+And we hand it to you in a single API that basically has access to everything
+and without limits.
+We charge our users for connected accounts.
+Basically, we have three plans.
+We have to build so the users can just start building their integrations.
+We go through Accelerate for more accounts.
+Then our limited plan allows you to connect as many accounts as you would.
+So currently, we just cross 4K MRR.
+We started around seven months ago.
+So we have been growing pretty fast.
+And well, the first clients started landing around August last year.
+And today, we just cross 4K MRR.
+So our total signings are 50K since launch.
+We have more than 700 paying users for now.
+And our turn rate is less than 10%.
+That is pretty amazing.
+You were able to do 40K MRR in really less than a year.
+That's really, really impressive.
+I'm excited to talk all about Google and how you did that.
+But before we do, I want to understand how you get here.
+What were you doing before?
+Why did you decide to build a SaaS business?
+How do you get here?
+Yeah.
+Before late, I spent over five years experimenting with startups.
+I started an online tech company called Academy here in Spain.
+We raised venture capital and today has more than 100 employees.
+So around a year ago, I got deeper into building SaaS products
+and recognized a gap in the market.
+There was no simple affordable API for social media automation.
+And well, most tools were either too expensive
+to complicate it or lack good documentation,
+which is essential for developers.
+So while this led to the idea of building late,
+an API first platform designed to be a developer family,
+I started spending my time on proven channels like SEO
+and paid ads, which is basically what has allowed us
+to eat 4K MRR in seven months.
+OK, cool.
+So we're not even going to talk today much
+about how you built or anything like that,
+because I don't think it's all that important.
+You have a really cool approach here
+where you basically said, I can build this.
+All I want to do is focus on distribution,
+focus on how this thing can grow in a dip.
+It got to 4K MRR in less than a year.
+What was the high level strategy that you had
+when you went into this and you decided to build this?
+What was your plan to grow it quickly?
+So basically, we saw that social media is no easy
+to exaggerate it, and well, our gun breach
+is dead for most businesses, and it's very, very difficult
+to work on it.
+There are people that are actively searching
+for social media, scavenging API,
+or Twitter automation tool.
+They have a 10x higher intent to buy.
+So we are actually here capturing the intent
+that already exists, rather than trying to create it
+through viral content.
+We focus 100% on high intent channels,
+like SEO, go search as, because they have
+predictable computer economics, and don't depend on luck or threats.
+And we use data from both channels
+to optimize landing pages, messaging,
+and we free-mess all our revenue into scaling what forks.
+Mickey's story is just insane.
+Zero to $40,000 a month in just seven months
+is crazy impressive.
+But here's what happens when you get to this sort of level.
+Once you start having to close bigger customers,
+things start to get tricky.
+It's not just about whether your app works or not.
+These customers want to know if you're socked to
+or ISO 27001 compliant.
+And if you can't say yes, the deal is probably dead.
+This is why we partnered with Vanta on this video.
+Vanta automates the painful parts of compliance
+so you can keep scaling instead of drowning in paperwork.
+It hooks right into your stack, runs continuous checks,
+and keeps all the evidence clean for the auditors.
+Vanta handles it so you can stay in growth mode.
+Over 14,000 companies like RAMP
+and writer already use Vanta to prove security in real time.
+And right now, Vanta is offering $1,000 off
+for starter story viewers.
+So if you're scaling fast,
+want to land customers without the compliance headache,
+check out Vanta at the first link in the description.
+Huge thank you to Vanta for this partnership.
+Let's get back to the episode.
+Okay, yeah, and that's a really, really good insight
+is a lot of people think when they get started,
+I need to figure out 10 different channels.
+I can have to do Reddit.
+I gotta do organic social.
+I gotta do a waiting list.
+I gotta do all these things.
+I think smart founders like you pick one channel.
+They may be pick a couple ideas of what could work,
+but then if something sort of starts working,
+they go all in on one channel,
+they get it to 40K, MRR.
+And then like you said, you get it to a million ARR.
+That I think is the right way of thinking about channels.
+So let's talk about the channel that truly worked for you,
+which was Google.
+I know there was a little bit of organic,
+but then also you're running paid ads as well.
+Let's do a deep dive into this one channel that worked for you.
+So for Google, basically we create content on a website
+that is useful for our users or our target users.
+And some of this gets on Google and ranks organically
+and some of it it doesn't rank so we run ads for it.
+So basically it's the same content
+that is useful for both purposes.
+Obviously we prefer it if the page is so up
+for the organic searches, but sometimes it's not possible.
+That's when we run ads on it.
+Okay, I like that.
+So really, you're just writing one article
+or lots of articles that can organically rank
+and then you can run paid against.
+You only really have to do one sort of action.
+Let's dive into the organic stuff.
+Can you break down what works on the organic side?
+Basically for the organic side,
+we just focus on very bottom of the final keywords.
+We use tools like Atrefs to find keywords
+with 300, 800 monthly searches to have low competition,
+but that they are very, very high in them.
+It just starts with terms like social media API,
+scheduling API for Twitter and things like that.
+Then we create content.
+We write in dev slides that answer the user's intent.
+For example, how to scale on Instagram posts automatically.
+And we also try and maintain a clean site structure
+fast low times and mobile divization, proper metadata.
+We also do link building.
+We've built bug links through tools
+and also by reaching out manually to other people,
+and paying them and we track everything,
+all our rankings with Atrefs and Google Search Console
+and basically constantly optimize our CTR based on the results.
+This has already produced more than 8K MRR
+in organic revenue.
+Okay, so you write these articles.
+They essentially rank for free through Google's organic search.
+So this generates around 8,000 in new customers per month.
+What about the rest of the revenue?
+How's that happening?
+So they happen through Google search ads
+which are our guaranteed revenue engine.
+So while SEO compounds over time,
+page search gives us immediate results and feedback.
+So here's a strategy.
+We beat on high intent commercial keywords.
+The same that we are trying to rank organically for.
+We create landing pages for which one of them.
+So each ad group has its custom landing page
+tailored to the keyword and the intent.
+For example, Instagram API has a specific page for Instagram.
+We automate everything through Google ads.
+We use automated bidding, which sets a target CPA at $120,
+which is our average guide threshold.
+Google's algorithm optimizes bits to hit this target.
+And on the ad copy, we basically focus on value.
+For example, scale 30 days of social media in one hour
+or rates under K-Folver's fast with our API.
+On the testing site, we do continuous
+A-B testing of headlines, descriptions, and landing pages.
+Everything tracked through Bosco.
+Currently, we spend around $8,000 per month.
+We get $2.5 in revenue for every dollar spent.
+Modern revenue from page search is around 15 gamer hour.
+I love what Mickey is showing us right now.
+He just found one channel that works, and he's going all in.
+But here's the thing.
+Before you get into growth, you still need to build something.
+And if you're watching this and still feeling stuck
+on that step, well, I have something for you.
+I put together our free business idea template
+and it walks you through seven proven methods
+to find painful problems that people actually want solved.
+In under one hour, you will map out 21 problems
+worth solving and then pick the one that you should go build.
+Sometimes, the best ideas are hiding in plain sight.
+In this template, it gives you a simple system to spot them.
+So head to the first link in the description.
+description, grab the template for free, and potentially find your next idea. All right, let's get
+back into the episode. Okay, well, I mean, I like that. It's cool. Like you could just do the organic
+thing and do this 8K and you'd have 8K MRR, but you're sort of, again, treating it like a math
+problem. You're pouring a little bit of gasoline on the fire. And when you see certain keywords
+working in paid, then you're channeling maybe more articles or more keywords around organic,
+and then those feed them back. So what I think our audience will love to hear from you. Could you
+break down this strategy step by step? Imagine you have a brand new SaaS. It's ready to go. You have
+an MVP ready to go. It's a decent product. Maybe you got a few customers. What would be your step-by-step
+process to get started on this Google strategy in 2026? So for step one, you just basically find your
+core keywords that are high in 10 and are very, very close to your follow-up proposition. You can
+use adrefs. You can use assembrish. I mean, there are some very, very core keywords that you
+don't have to search for. You already know that they are very related to your product. For example,
+for us, it's social media APIs. It's very, very obvious. So, you know that these keywords are
+being searched and you basically create spreadsheets with them. The monthly search volume that they have
+the difficulty and you focus on these keywords and nothing else and basically try and work towards
+ranking for them within three to six months. For step two, just focus on creating content for
+the keywords that you've found. Make sure that it's high quality content. It can be a blog, a
+landing page, just a free tool and, well, just add a big CTA to your sign-in page so that you
+get sign-ups for this traffic. And basically, then you can just add internal linking,
+link to other pieces of content on your site. And you try new that through the first week.
+So you try and push 10 to 15 high quality articles in the first week to build momentum. It's
+also important that you don't create too much content and also Google doesn't like that, so
+it's better to have quality content. For step three, you just start launching your ads with
+three data on the content that you already have. So basically, set up Google ads account,
+create some ad groups based on these keywords that you are also targeting with your
+organic content. You create three to five variations of the copy. Just focus on value prepositions
+more than just saving the features. And so forth, just optimize and scale based on the data that you
+have. You identify what's working. You identify the keywords that are bringing new customers,
+and you try and optimize for this. You just can't forget about the rest because the ones that
+are converting are the ones that really matter to you. You can post their performing keywords and
+just double down on the high ROI keywords, and then you can just start testing. They the headlines,
+they the copy, and add CTAs based on what converts best. Then just try and increase the budget
+multiple months as long as the return on this ad spend is working. In step five, just track and
+try and improve your cost of acquisition. So now you can just set dashboard either in Google
+Sheets, Data Studio, or any tool that you like. You can start tracking cost of acquisition,
+return on ads, and the revenue under traffic return. Then you can just start benchmarking against
+what's working. GoodCAC is 24% of the lifetime value, and your goal is basically to keep
+CAC under 30% of the 30 revenue. Every month, you can just AB testing keywords, add copy,
+landing pages based on what worked last month. So that would be my five-slip playbook if I would
+be starting over again. Okay, well, thank you for sharing that great playbook. I love Google.
+This is awesome. Thanks for breaking it all down for us. Let's switch topics a little bit and
+talk about the product that you built. Could you give us a demo? I just want to see what this thing
+looks like, how it works, and yeah, could you show it? Sure. So our app is nothing fancy really.
+On the UI, we just have social media scheduler. Basically everything that you can do through the API,
+you can also do through our UI. So it's very, very simple. You can just from here create new
+posts, and yeah, basically just select the accounts that you want this content to go to. We also have
+here the option to connect all your accounts and handle all your accounts from the UI. Here you can
+also create new API keys. So as a developer, you can just basically handle all your APIs from here.
+We also have here an inbox feature that basically allows you to handle all your VMs and comments
+through the UI. The rest of the platforms, you can set up webhooks, do you get notifications when
+the post fails or when post succeeds. We're going to account and get disconnected, close to check
+all the logs from your publishing activity to see what you have errors or you view everything
+is working correctly. And then from here, you just can access the API docs, which are well,
+very important because you'll be building an integration. And this is what we try and spend
+most time on so that, well, it's very, very straightforward for you to learn and start using.
+Okay, cool. And on a similar note, how did you build this? What tech stack did you use? What runs
+the business? How did you build it? So most important thing that you use is cloud code. So we can
+code much faster. We also use data fast. It helps us track what's ringing revenue and what's not.
+We also use Google ads, spend up to $8,000 per month. We also use eight reps, which is around
+$200 per month. And this is essential for us for insights, monitoring on the organic site.
+Okay, cool. Well, thanks for sharing that. Last question that we ask all founders to come on to
+start a story, to build cool stuff like you. What would be your advice to young Mickey before you
+got started? Or for anyone watching that wants to get started and build cool sats like this and
+learn Google, what would be your advice? My advice would be to just stop trying to be
+everything to everyone. When I realized that basically picking one growth channel and getting
+really good at it, in our case, it's paid search. It was a hundred times better than being mediocre
+at 10 channels. So my advice would be just pick your single best level for growth, get
+obsessed with it and measure it relentlessly. And that's great advice, as I kind of mentioned
+before. You can win with just one channel, right? You can build a million dollar business, you can
+build a ten million dollar business, maybe even a hundred million dollar business with just one
+channel. So if anyone's watching this and you take one thing away from that, here's proof of that.
+Thank you, Mickey, for coming on and sharing awesome business. Hope to see you grow.
+Thank you for having me. Okay, producer Gus, what do you think about that one?
+I thought it was really cool. I think we talked to someone else recently, that was very similar,
+but like it's very systematized, right? He has like a super solid system, I think, for
+know whatever, finding the keywords, ranking them, and then running paid search on them.
+So I thought that was really awesome just to hear kind of that system. And I feel like so many of
+the great founders we talked to have something like that where they have this methodical approach.
+Like we don't get lucky. It's all math. And I mean, that's awesome.
+Yeah, that's what I like about Google. I think a lot of people are talking about Organa,
+TikTok, and these sorts of things, or AI, and all this. But at the end of the day, Google is like
+a very, very tried and true acquisition channel for a lot of businesses. At the end of the day,
+this is a great distribution strategy or marketing strategy for people that don't want to go on
+camera and want to maybe they're a little bit more of a finance type and enjoy putting together
+spreadsheets of keywords and seeing intent and looking at the numbers. Not everyone is meant to be
+on camera and create viral content. This is a real solid plan that he put together. And his
+playbook was especially good. I think you can really do this with pretty much any SaaS,
+specifically B2B SaaS more so, but I really think that this could work and is a great first channel.
+Yeah, and then the other thing I was thinking about was like on Twitter, you'll see how many people
+are talking about how like Google search is dead or like Google SEO is dead kind of thing.
+I think we've even done like some videos on the build channel on that topic, but I don't know,
+I guess what do you think about that? Like is this kind of showing that maybe it's not this
+as true or what do you, we're like, what do you think? Here's the truth. Google search is not dead,
+but informational queries are dead. So if you search not dead, but essentially dead. If you search
+Google for how to create a great social media post that you're probably not going to rank it's
+going to be harder to rank for that. And those people are coming for information on how to create a
+good social media post that they're just going to use chat GPT for that, right? To get a more
+customized way better answer. But if they're searching for things like social media scheduler,
+they may put that into more so into AI, but at the end of the day, it's still the same. Like,
+they're going to put that into Google. They're going to put that into the AI. They're going to click
+in through to your software and buy it. Yeah, there's an argument that one day you'll be able to
+put into AI and it'll write all the code and create the whole app for you. But right now,
+still people need tools and intent base. There's informational queries. And then maybe you call it
+intent base queries. People are still searching things for like, I need insurance. I need a social media
+scheduling tool. I need some clothing or something like that. So the SEO is dead is more around informational
+base queries. Yeah, I mean, I find myself using my chat GPT a lot more over first search. But
+sometimes when I even when I'm still looking for like a tool or something to buy, I almost still go
+to Google instead of chat because I don't know, I feel like Google has something it'll really show
+me versus chat will just like list out whatever the answer without not always with like a link.
+Anyway, so yeah, I thought that was interesting to see that that still works if you do it kind of in
+this mathematical way. Okay, cool. Well, SEO and Google still works, but you need to build something.
+So I will shamelessly plug starter story build right here. If you want to find that idea that you
+can eventually put into the Google playbook, check out starter story build. I'll put a link in the
+description for that. We'll help you come up with your idea, build it with just AI tools. You
+don't even need to know how to code and get it in the hands of real customers. I'll put that link
+down there. Thank you guys for watching. We'll see you in the next one. Peace.

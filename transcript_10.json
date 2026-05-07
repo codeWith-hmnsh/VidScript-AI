@@ -1,10 +1,10 @@
 {
-    "video_url": "https://www.youtube.com/watch?v=dWeoSKLt_fc",
-    "video_id": "dWeoSKLt_fc",
-    "audio_file": "dWeoSKLt_fc.mp3",
+    "video_url": " https://youtu.be/E_rX4JJrYkY?si=VYpDrPVOpRQ1az2G",
+    "video_id": "E_rX4JJrYkY",
+    "audio_file": "E_rX4JJrYkY.mp3",
     "model_used": "base",
     "language": "en",
-    "duration": "0:13:28",
+    "duration": "0:19:46",
     "number_of_chunks": 2,
     "status": "success",
     "quality": {
@@ -15,1054 +15,1699 @@
     "transcript": [
         {
             "start": "0:00:00",
-            "end": "0:00:06",
-            "text": "My name is Evan and I scaled an app called locked to $14,000 per month in only a few months."
+            "end": "0:00:03",
+            "text": "This is how every indie hacker should grow their apps."
         },
         {
-            "start": "0:00:06",
+            "start": "0:00:03",
             "end": "0:00:07",
-            "text": "Meet Evan."
+            "text": "This is Mickey, a guy from Spain who launched his app just seven months ago,"
         },
         {
             "start": "0:00:07",
-            "end": "0:00:12",
-            "text": "He just launched a mobile app and four months later, it's doing $14,000 a month."
+            "end": "0:00:11",
+            "text": "and today he's already making over $40,000 a month."
         },
         {
-            "start": "0:00:12",
+            "start": "0:00:11",
             "end": "0:00:15",
-            "text": "But here's what makes the story different."
+            "text": "This app was profitable from day one, but here's what he did different."
         },
         {
             "start": "0:00:15",
-            "end": "0:00:18",
-            "text": "He didn't launch with a huge audience or run paid ads."
+            "end": "0:00:19",
+            "text": "It didn't chase TikTok trends or spend years building a personal brand."
         },
         {
-            "start": "0:00:18",
+            "start": "0:00:19",
             "end": "0:00:22",
-            "text": "He only had one strategy and it worked from day one."
+            "text": "He did it all through a single channel, Google."
         },
         {
             "start": "0:00:22",
             "end": "0:00:25",
-            "text": "The big advantage here is that it feels way more authentic."
+            "text": "Google still works today if you take this approach."
         },
         {
             "start": "0:00:25",
             "end": "0:00:29",
-            "text": "Most founders spend months trying to figure out how to get their first user."
+            "text": "So I brought Mickey on to the channel to break it all down for us."
         },
         {
             "start": "0:00:29",
-            "end": "0:00:31",
-            "text": "But Evan figured it out fast."
+            "end": "0:00:33",
+            "text": "And in this episode, we'll dive into what every builder gets wrong about distribution,"
         },
         {
-            "start": "0:00:31",
-            "end": "0:00:36",
-            "text": "This would be my playbook if I wanted to nail starting out on a new app."
+            "start": "0:00:33",
+            "end": "0:00:37",
+            "text": "the right combination of organic and paid Google search,"
         },
         {
-            "start": "0:00:36",
-            "end": "0:00:40",
-            "text": "So I brought him out of the channel to walk through his entire playbook."
+            "start": "0:00:37",
+            "end": "0:00:42",
+            "text": "and the exact five-step playbook he used to hit $40,000 M&R in less than a year."
         },
         {
-            "start": "0:00:40",
-            "end": "0:00:46",
-            "text": "And in this episode, we'll dive into the one growth channel that helped him grow very, very fast."
+            "start": "0:00:42",
+            "end": "0:00:45",
+            "text": "This one is going to be fun. Let's dive in."
         },
         {
-            "start": "0:00:46",
-            "end": "0:00:50",
-            "text": "How he got thousands of users from a single piece of content."
+            "start": "0:00:45",
+            "end": "0:00:47",
+            "text": "I'm Pat Walls, and this is Starter Story."
         },
         {
             "start": "0:00:50",
-            "end": "0:00:55",
-            "text": "And the step-by-step strategy he'd use if he had to start over tomorrow with a brand new app."
+            "end": "0:00:52",
+            "text": "All right, real quick before we dive in."
         },
         {
-            "start": "0:00:55",
-            "end": "0:01:01",
-            "text": "If you're thinking about building an app in 2026, this is the episode that you must watch."
+            "start": "0:00:52",
+            "end": "0:00:56",
+            "text": "Mickey is about to break down how he broke $40k a month using Google search."
         },
         {
-            "start": "0:01:01",
-            "end": "0:01:02",
-            "text": "Alright, let's dive in."
+            "start": "0:00:56",
+            "end": "0:01:00",
+            "text": "But if you're watching this and thinking, I want to build something,"
         },
         {
-            "start": "0:01:02",
-            "end": "0:01:03",
-            "text": "I'm Pat Walls."
+            "start": "0:01:00",
+            "end": "0:01:04",
+            "text": "but I don't have an idea yet, well, I've got a free template that will help you find one."
         },
         {
-            "start": "0:01:03",
-            "end": "0:01:05",
-            "text": "And this is Starter Story."
+            "start": "0:01:04",
+            "end": "0:01:08",
+            "text": "Link is right down there in the description, but more on that later."
         },
         {
-            "start": "0:01:05",
-            "end": "0:01:13",
-            "text": "Alright, real quick, before we dive in, Evan is about to break down his exact distribution strategy that took his app to $14,000 a month."
+            "start": "0:01:08",
+            "end": "0:01:09",
+            "text": "All right, Mickey, welcome to the channel."
         },
         {
-            "start": "0:01:13",
-            "end": "0:01:17",
-            "text": "And this is actually something that we have studied a lot here at Starter Story."
-        },
-        {
-            "start": "0:01:17",
-            "end": "0:01:22",
-            "text": "So I put together a full playbook on how the best founders grow and market their apps."
-        },
-        {
-            "start": "0:01:22",
-            "end": "0:01:26",
-            "text": "The link is right down there in the description, but I'll be talking a little bit more about that later."
-        },
-        {
-            "start": "0:01:26",
-            "end": "0:01:28",
-            "text": "For now, let's get into the episode."
-        },
-        {
-            "start": "0:01:28",
-            "end": "0:01:31",
-            "text": "Evan, welcome my man to the channel."
-        },
-        {
-            "start": "0:01:31",
-            "end": "0:01:34",
+            "start": "0:01:09",
+            "end": "0:01:12",
             "text": "Tell me about who you are, what you built, and what's your story."
         },
         {
-            "start": "0:01:34",
-            "end": "0:01:40",
-            "text": "Hey, my name is Evan, and I scaled an app called Locked to $14,000 per month in only a few months."
+            "start": "0:01:12",
+            "end": "0:01:15",
+            "text": "Hey, Pat, I'm Mickey. I'm the founder of Late Social Media API."
         },
         {
-            "start": "0:01:40",
+            "start": "0:01:15",
+            "end": "0:01:17",
+            "text": "It's health brands,"
+        },
+        {
+            "start": "0:01:17",
+            "end": "0:01:20",
+            "text": "Skettle and Arlemate Content across multiple platforms,"
+        },
+        {
+            "start": "0:01:20",
+            "end": "0:01:25",
+            "text": "who went from zero to 30k M&R into seven months by focusing on Google search ads."
+        },
+        {
+            "start": "0:01:25",
+            "end": "0:01:27",
+            "text": "All right, cool. Well, I'm really excited to talk about it."
+        },
+        {
+            "start": "0:01:27",
+            "end": "0:01:30",
+            "text": "We're going to talk a lot about Google today, which I love, and I'm very excited about."
+        },
+        {
+            "start": "0:01:30",
+            "end": "0:01:33",
+            "text": "But first before we do that, I want to understand what did you build?"
+        },
+        {
+            "start": "0:01:33",
+            "end": "0:01:36",
+            "text": "What's your product? What's the pricing model? How does it work?"
+        },
+        {
+            "start": "0:01:36",
+            "end": "0:01:38",
+            "text": "So late is the social media API."
+        },
+        {
+            "start": "0:01:38",
             "end": "0:01:44",
-            "text": "Today, I'm excited to talk about the strategies in place that I'm using to scale off."
+            "text": "What we do is wrap around the official APIs, Facebook, Instagram, Twitter, LinkedIn."
         },
         {
             "start": "0:01:44",
-            "end": "0:01:49",
-            "text": "Well, I'm excited to talk about how you grew this app to $14,000 a month and growing."
+            "end": "0:01:47",
+            "text": "We go through all the platform permissions."
         },
         {
-            "start": "0:01:49",
+            "start": "0:01:47",
             "end": "0:01:50",
-            "text": "It's amazing."
+            "text": "We basically pay for the highest plans."
         },
         {
             "start": "0:01:50",
-            "end": "0:01:52",
-            "text": "Before we do, what is this app?"
-        },
-        {
-            "start": "0:01:52",
             "end": "0:01:53",
-            "text": "What's the business model?"
+            "text": "So that you have access to all the features available."
         },
         {
             "start": "0:01:53",
-            "end": "0:01:58",
-            "text": "And if you could walk through some of your dashboards and metrics to show that the thing is legit, would you be able to do that?"
-        },
-        {
-            "start": "0:01:58",
             "end": "0:01:59",
-            "text": "Sure."
+            "text": "And we hand it to you in a single API that basically has access to everything"
         },
         {
             "start": "0:01:59",
-            "end": "0:02:02",
-            "text": "Locked is a gamified health fitness app."
+            "end": "0:02:01",
+            "text": "and without limits."
         },
         {
-            "start": "0:02:02",
-            "end": "0:02:08",
-            "text": "And the whole point of it is to help our users stay on task while gamifying the whole experience."
+            "start": "0:02:01",
+            "end": "0:02:03",
+            "text": "We charge our users for connected accounts."
         },
         {
-            "start": "0:02:08",
-            "end": "0:02:12",
-            "text": "From the start of the onboarding, you have to choose your character to get started."
+            "start": "0:02:03",
+            "end": "0:02:05",
+            "text": "Basically, we have three plans."
         },
         {
-            "start": "0:02:12",
-            "end": "0:02:18",
-            "text": "There are leaderboards, motivational features, and even badges and levels to keep people on task and stay motivated."
+            "start": "0:02:05",
+            "end": "0:02:09",
+            "text": "We have to build so the users can just start building their integrations."
         },
         {
-            "start": "0:02:18",
-            "end": "0:02:26",
-            "text": "For our paywall, we charge $40 a year, or $7 a week, and the yearly option includes a three-day free trial."
+            "start": "0:02:09",
+            "end": "0:02:11",
+            "text": "We go through Accelerate for more accounts."
         },
         {
-            "start": "0:02:26",
-            "end": "0:02:38",
-            "text": "On top of that, if they X out of this paywall or escape, it will take them to a transaction abandoned paywall, which is basically just a discounted offer for only $20 a year."
+            "start": "0:02:11",
+            "end": "0:02:16",
+            "text": "Then our limited plan allows you to connect as many accounts as you would."
         },
         {
-            "start": "0:02:38",
+            "start": "0:02:16",
+            "end": "0:02:19",
+            "text": "So currently, we just cross 4K MRR."
+        },
+        {
+            "start": "0:02:19",
+            "end": "0:02:21",
+            "text": "We started around seven months ago."
+        },
+        {
+            "start": "0:02:21",
+            "end": "0:02:24",
+            "text": "So we have been growing pretty fast."
+        },
+        {
+            "start": "0:02:24",
+            "end": "0:02:28",
+            "text": "And well, the first clients started landing around August last year."
+        },
+        {
+            "start": "0:02:28",
+            "end": "0:02:30",
+            "text": "And today, we just cross 4K MRR."
+        },
+        {
+            "start": "0:02:30",
+            "end": "0:02:34",
+            "text": "So our total signings are 50K since launch."
+        },
+        {
+            "start": "0:02:34",
+            "end": "0:02:37",
+            "text": "We have more than 700 paying users for now."
+        },
+        {
+            "start": "0:02:37",
             "end": "0:02:40",
-            "text": "All right. Well, thank you for sharing that. Thanks for sharing all the numbers."
+            "text": "And our turn rate is less than 10%."
         },
         {
             "start": "0:02:40",
+            "end": "0:02:42",
+            "text": "That is pretty amazing."
+        },
+        {
+            "start": "0:02:42",
             "end": "0:02:45",
-            "text": "How do you get to this point where you have an app that's doing over $14,000 a month? What's your background?"
+            "text": "You were able to do 40K MRR in really less than a year."
         },
         {
             "start": "0:02:45",
+            "end": "0:02:46",
+            "text": "That's really, really impressive."
+        },
+        {
+            "start": "0:02:46",
             "end": "0:02:49",
-            "text": "Sure. So I've been obsessed with entrepreneurship ever since I was a kid."
+            "text": "I'm excited to talk all about Google and how you did that."
         },
         {
             "start": "0:02:49",
+            "end": "0:02:52",
+            "text": "But before we do, I want to understand how you get here."
+        },
+        {
+            "start": "0:02:52",
+            "end": "0:02:53",
+            "text": "What were you doing before?"
+        },
+        {
+            "start": "0:02:53",
             "end": "0:02:55",
-            "text": "At nine years old, my friends would all play Roblox, but instead I decided to develop the Roblox games."
+            "text": "Why did you decide to build a SaaS business?"
         },
         {
             "start": "0:02:55",
-            "end": "0:02:59",
-            "text": "I didn't make money from those games, but that marked the start of my journey."
+            "end": "0:02:55",
+            "text": "How do you get here?"
         },
         {
-            "start": "0:02:59",
-            "end": "0:03:05",
-            "text": "After that, I tested a bunch of business models, dropped shipping, reselling, clipping, betting machines."
+            "start": "0:02:55",
+            "end": "0:02:56",
+            "text": "Yeah."
         },
         {
-            "start": "0:03:05",
-            "end": "0:03:10",
-            "text": "They all failed. Until eventually, my older brother Zach suggested I get into the app space."
+            "start": "0:02:56",
+            "end": "0:03:00",
+            "text": "Before late, I spent over five years experimenting with startups."
         },
         {
-            "start": "0:03:10",
-            "end": "0:03:16",
-            "text": "My first app was Problem-Pal. It peaked at about $2,000 per month, and I recently sold that."
+            "start": "0:03:00",
+            "end": "0:03:04",
+            "text": "I started an online tech company called Academy here in Spain."
         },
         {
-            "start": "0:03:16",
+            "start": "0:03:04",
+            "end": "0:03:08",
+            "text": "We raised venture capital and today has more than 100 employees."
+        },
+        {
+            "start": "0:03:08",
+            "end": "0:03:12",
+            "text": "So around a year ago, I got deeper into building SaaS products"
+        },
+        {
+            "start": "0:03:12",
+            "end": "0:03:14",
+            "text": "and recognized a gap in the market."
+        },
+        {
+            "start": "0:03:14",
+            "end": "0:03:18",
+            "text": "There was no simple affordable API for social media automation."
+        },
+        {
+            "start": "0:03:18",
             "end": "0:03:20",
-            "text": "Next, I built a clear AI in a few weeks, but it didn't really go anywhere."
+            "text": "And well, most tools were either too expensive"
         },
         {
             "start": "0:03:20",
-            "end": "0:03:26",
-            "text": "Then a friend told me about how he was struggling to stay on task and motivate it. So that sparked an idea."
+            "end": "0:03:22",
+            "text": "to complicate it or lack good documentation,"
         },
         {
-            "start": "0:03:26",
-            "end": "0:03:35",
-            "text": "I didn't want another boring habit tracker, so I gamified the whole experience with leaderboards, XP, badges, and even characters."
+            "start": "0:03:22",
+            "end": "0:03:24",
+            "text": "which is essential for developers."
         },
         {
-            "start": "0:03:35",
-            "end": "0:03:38",
-            "text": "So let's dive into that a little bit. Can you just walk me through?"
+            "start": "0:03:24",
+            "end": "0:03:27",
+            "text": "So while this led to the idea of building late,"
         },
         {
-            "start": "0:03:38",
-            "end": "0:03:40",
-            "text": "How did you build it? How long did it take?"
+            "start": "0:03:27",
+            "end": "0:03:30",
+            "text": "an API first platform designed to be a developer family,"
         },
         {
-            "start": "0:03:40",
+            "start": "0:03:30",
+            "end": "0:03:34",
+            "text": "I started spending my time on proven channels like SEO"
+        },
+        {
+            "start": "0:03:34",
+            "end": "0:03:36",
+            "text": "and paid ads, which is basically what has allowed us"
+        },
+        {
+            "start": "0:03:36",
+            "end": "0:03:39",
+            "text": "to eat 4K MRR in seven months."
+        },
+        {
+            "start": "0:03:39",
+            "end": "0:03:39",
+            "text": "OK, cool."
+        },
+        {
+            "start": "0:03:39",
+            "end": "0:03:41",
+            "text": "So we're not even going to talk today much"
+        },
+        {
+            "start": "0:03:41",
+            "end": "0:03:43",
+            "text": "about how you built or anything like that,"
+        },
+        {
+            "start": "0:03:43",
+            "end": "0:03:44",
+            "text": "because I don't think it's all that important."
+        },
+        {
+            "start": "0:03:44",
+            "end": "0:03:45",
+            "text": "You have a really cool approach here"
+        },
+        {
+            "start": "0:03:45",
+            "end": "0:03:47",
+            "text": "where you basically said, I can build this."
+        },
+        {
+            "start": "0:03:47",
             "end": "0:03:49",
-            "text": "Our designs took us about two weeks. We went in a figment file, did everything from scratch, and once that was done, we began transferring it over to Xcode."
+            "text": "All I want to do is focus on distribution,"
         },
         {
             "start": "0:03:49",
-            "end": "0:03:55",
-            "text": "To do this, we use YouTube tutorials, some of our own knowledge, and also, of course, we use Clawed Code to help us."
+            "end": "0:03:51",
+            "text": "focus on how this thing can grow in a dip."
         },
         {
-            "start": "0:03:55",
-            "end": "0:03:59",
-            "text": "From start to finish, idea to live in the app store, it took about a month and a half."
+            "start": "0:03:51",
+            "end": "0:03:54",
+            "text": "It got to 4K MRR in less than a year."
         },
         {
-            "start": "0:03:59",
-            "end": "0:04:04",
-            "text": "A month and a half to build an app is amazing. That's, I guess, how things are going these days."
+            "start": "0:03:54",
+            "end": "0:03:56",
+            "text": "What was the high level strategy that you had"
         },
         {
-            "start": "0:04:04",
+            "start": "0:03:56",
+            "end": "0:03:58",
+            "text": "when you went into this and you decided to build this?"
+        },
+        {
+            "start": "0:03:58",
+            "end": "0:04:00",
+            "text": "What was your plan to grow it quickly?"
+        },
+        {
+            "start": "0:04:00",
+            "end": "0:04:03",
+            "text": "So basically, we saw that social media is no easy"
+        },
+        {
+            "start": "0:04:03",
+            "end": "0:04:06",
+            "text": "to exaggerate it, and well, our gun breach"
+        },
+        {
+            "start": "0:04:06",
             "end": "0:04:09",
-            "text": "Why I wanted to bring you on is to talk about growth. You grew it to over 14,000 per month in revenue."
+            "text": "is dead for most businesses, and it's very, very difficult"
         },
         {
             "start": "0:04:09",
+            "end": "0:04:10",
+            "text": "to work on it."
+        },
+        {
+            "start": "0:04:10",
+            "end": "0:04:12",
+            "text": "There are people that are actively searching"
+        },
+        {
+            "start": "0:04:12",
             "end": "0:04:14",
-            "text": "How did you do that? What was the growth strategy or tactic? And how did you get all these users?"
+            "text": "for social media, scavenging API,"
         },
         {
             "start": "0:04:14",
+            "end": "0:04:16",
+            "text": "or Twitter automation tool."
+        },
+        {
+            "start": "0:04:16",
             "end": "0:04:19",
-            "text": "Yeah, sure. I partnered with influencers to promote my app."
+            "text": "They have a 10x higher intent to buy."
         },
         {
             "start": "0:04:19",
+            "end": "0:04:22",
+            "text": "So we are actually here capturing the intent"
+        },
+        {
+            "start": "0:04:22",
             "end": "0:04:24",
-            "text": "Going into this channel, I realized my RPM was around $2 to $3."
+            "text": "that already exists, rather than trying to create it"
         },
         {
             "start": "0:04:24",
+            "end": "0:04:26",
+            "text": "through viral content."
+        },
+        {
+            "start": "0:04:26",
+            "end": "0:04:28",
+            "text": "We focus 100% on high intent channels,"
+        },
+        {
+            "start": "0:04:28",
             "end": "0:04:31",
-            "text": "So I knew I had to close creators at a CPM lower than that. Typically, it would be between the dollar and $1.50 range."
+            "text": "like SEO, go search as, because they have"
         },
         {
             "start": "0:04:31",
-            "end": "0:04:36",
-            "text": "The big advantage here is that most influencers already have trust with their audience."
+            "end": "0:04:35",
+            "text": "predictable computer economics, and don't depend on luck or threats."
         },
         {
-            "start": "0:04:36",
-            "end": "0:04:42",
-            "text": "And when they recommend an app, it feels way more authentic than a traditional ad, which usually leads to much stronger results."
+            "start": "0:04:35",
+            "end": "0:04:37",
+            "text": "And we use data from both channels"
         },
         {
-            "start": "0:04:42",
+            "start": "0:04:37",
+            "end": "0:04:40",
+            "text": "to optimize landing pages, messaging,"
+        },
+        {
+            "start": "0:04:40",
+            "end": "0:04:44",
+            "text": "and we free-mess all our revenue into scaling what forks."
+        },
+        {
+            "start": "0:04:44",
+            "end": "0:04:46",
+            "text": "Mickey's story is just insane."
+        },
+        {
+            "start": "0:04:46",
+            "end": "0:04:49",
+            "text": "Zero to $40,000 a month in just seven months"
+        },
+        {
+            "start": "0:04:49",
             "end": "0:04:50",
-            "text": "Would you be able to like show me one of the influencers you worked with and the type of content that was created and share how much revenue and installs this content led to?"
+            "text": "is crazy impressive."
         },
         {
             "start": "0:04:50",
+            "end": "0:04:53",
+            "text": "But here's what happens when you get to this sort of level."
+        },
+        {
+            "start": "0:04:53",
+            "end": "0:04:55",
+            "text": "Once you start having to close bigger customers,"
+        },
+        {
+            "start": "0:04:55",
+            "end": "0:04:56",
+            "text": "things start to get tricky."
+        },
+        {
+            "start": "0:04:56",
             "end": "0:04:58",
-            "text": "So here, if we click on Jeremiah's video, which was basically explaining how to stay locked in and on task."
+            "text": "It's not just about whether your app works or not."
         },
         {
             "start": "0:04:58",
-            "end": "0:05:04",
-            "text": "Right here, he shows app was in the first 15 seconds. That's always something that you should require influencers to do."
+            "end": "0:05:00",
+            "text": "These customers want to know if you're socked to"
         },
         {
-            "start": "0:05:04",
-            "end": "0:05:07",
-            "text": "This piece of content worked for multiple reasons."
+            "start": "0:05:00",
+            "end": "0:05:02",
+            "text": "or ISO 27001 compliant."
         },
         {
-            "start": "0:05:07",
-            "end": "0:05:13",
-            "text": "Number one, Jeremiah Jones has great engagement and his videos are filled with high quality comments."
+            "start": "0:05:02",
+            "end": "0:05:06",
+            "text": "And if you can't say yes, the deal is probably dead."
         },
         {
-            "start": "0:05:13",
+            "start": "0:05:06",
+            "end": "0:05:09",
+            "text": "This is why we partnered with Vanta on this video."
+        },
+        {
+            "start": "0:05:09",
+            "end": "0:05:11",
+            "text": "Vanta automates the painful parts of compliance"
+        },
+        {
+            "start": "0:05:11",
+            "end": "0:05:14",
+            "text": "so you can keep scaling instead of drowning in paperwork."
+        },
+        {
+            "start": "0:05:14",
             "end": "0:05:17",
-            "text": "That's how I know he has an amazing audience, which is arguably the most important factor."
+            "text": "It hooks right into your stack, runs continuous checks,"
         },
         {
             "start": "0:05:17",
-            "end": "0:05:24",
-            "text": "Number two, his content focuses on staying locked in and on task, which perfectly aligns with locked."
+            "end": "0:05:20",
+            "text": "and keeps all the evidence clean for the auditors."
         },
         {
-            "start": "0:05:24",
+            "start": "0:05:20",
+            "end": "0:05:23",
+            "text": "Vanta handles it so you can stay in growth mode."
+        },
+        {
+            "start": "0:05:23",
+            "end": "0:05:25",
+            "text": "Over 14,000 companies like RAMP"
+        },
+        {
+            "start": "0:05:25",
             "end": "0:05:29",
-            "text": "Number three, it was a seamless integration with the app. It made sense to add it and it fit in perfectly."
+            "text": "and writer already use Vanta to prove security in real time."
         },
         {
             "start": "0:05:29",
+            "end": "0:05:32",
+            "text": "And right now, Vanta is offering $1,000 off"
+        },
+        {
+            "start": "0:05:32",
+            "end": "0:05:33",
+            "text": "for starter story viewers."
+        },
+        {
+            "start": "0:05:33",
             "end": "0:05:35",
-            "text": "Could you share like any of the numbers? Like just give a sense of how many views did this piece of content get?"
+            "text": "So if you're scaling fast,"
         },
         {
             "start": "0:05:35",
+            "end": "0:05:37",
+            "text": "want to land customers without the compliance headache,"
+        },
+        {
+            "start": "0:05:37",
+            "end": "0:05:40",
+            "text": "check out Vanta at the first link in the description."
+        },
+        {
+            "start": "0:05:40",
+            "end": "0:05:42",
+            "text": "Huge thank you to Vanta for this partnership."
+        },
+        {
+            "start": "0:05:42",
             "end": "0:05:44",
-            "text": "And like how many installs did it lead to or revenue impact? I think the audience would be curious about how this actually leads to installs and revenue."
+            "text": "Let's get back to the episode."
         },
         {
             "start": "0:05:44",
-            "end": "0:05:48",
-            "text": "You can see that he posted the video right around February 6, which is when we had a huge spike."
+            "end": "0:05:46",
+            "text": "Okay, yeah, and that's a really, really good insight"
         },
         {
-            "start": "0:05:48",
+            "start": "0:05:46",
+            "end": "0:05:49",
+            "text": "is a lot of people think when they get started,"
+        },
+        {
+            "start": "0:05:49",
+            "end": "0:05:50",
+            "text": "I need to figure out 10 different channels."
+        },
+        {
+            "start": "0:05:50",
+            "end": "0:05:51",
+            "text": "I can have to do Reddit."
+        },
+        {
+            "start": "0:05:51",
+            "end": "0:05:53",
+            "text": "I gotta do organic social."
+        },
+        {
+            "start": "0:05:53",
+            "end": "0:05:54",
+            "text": "I gotta do a waiting list."
+        },
+        {
+            "start": "0:05:54",
+            "end": "0:05:55",
+            "text": "I gotta do all these things."
+        },
+        {
+            "start": "0:05:55",
+            "end": "0:05:57",
+            "text": "I think smart founders like you pick one channel."
+        },
+        {
+            "start": "0:05:57",
             "end": "0:05:59",
-            "text": "As you can see, we were doing about $300 a day and then just spiked up $728, $600, $700, $600, $678, $600, even almost $1,000."
+            "text": "They may be pick a couple ideas of what could work,"
         },
         {
             "start": "0:05:59",
-            "end": "0:06:10",
-            "text": "So I would say across this video, probably generated around $3,000 and about 1,800 downloads at approximately $1,000,000 views across all platforms."
+            "end": "0:06:01",
+            "text": "but then if something sort of starts working,"
         },
         {
-            "start": "0:06:11",
+            "start": "0:06:01",
+            "end": "0:06:02",
+            "text": "they go all in on one channel,"
+        },
+        {
+            "start": "0:06:02",
+            "end": "0:06:04",
+            "text": "they get it to 40K, MRR."
+        },
+        {
+            "start": "0:06:04",
+            "end": "0:06:07",
+            "text": "And then like you said, you get it to a million ARR."
+        },
+        {
+            "start": "0:06:07",
+            "end": "0:06:10",
+            "text": "That I think is the right way of thinking about channels."
+        },
+        {
+            "start": "0:06:10",
+            "end": "0:06:12",
+            "text": "So let's talk about the channel that truly worked for you,"
+        },
+        {
+            "start": "0:06:12",
+            "end": "0:06:13",
+            "text": "which was Google."
+        },
+        {
+            "start": "0:06:13",
             "end": "0:06:15",
-            "text": "We pay them something like $800 with a $600,000 minimum view clause."
+            "text": "I know there was a little bit of organic,"
         },
         {
             "start": "0:06:15",
-            "end": "0:06:18",
-            "text": "And if they hit the minimum view clause, all of some they're done."
+            "end": "0:06:17",
+            "text": "but then also you're running paid ads as well."
         },
         {
-            "start": "0:06:18",
+            "start": "0:06:17",
             "end": "0:06:21",
-            "text": "And we can move on to an even bigger deal considering that it converted."
+            "text": "Let's do a deep dive into this one channel that worked for you."
         },
         {
             "start": "0:06:21",
-            "end": "0:06:26",
-            "text": "But if not, they have the option to post a few more videos, hit that NBC and so get paid out."
+            "end": "0:06:25",
+            "text": "So for Google, basically we create content on a website"
         },
         {
-            "start": "0:06:26",
-            "end": "0:06:30",
-            "text": "What Evan is showing us right now is that distribution is everything."
+            "start": "0:06:25",
+            "end": "0:06:29",
+            "text": "that is useful for our users or our target users."
         },
         {
-            "start": "0:06:30",
+            "start": "0:06:29",
+            "end": "0:06:33",
+            "text": "And some of this gets on Google and ranks organically"
+        },
+        {
+            "start": "0:06:33",
             "end": "0:06:36",
-            "text": "He figured out how to work with influencers. And this is one of the strategies I'm seeing work over and over and over."
+            "text": "and some of it it doesn't rank so we run ads for it."
         },
         {
             "start": "0:06:36",
+            "end": "0:06:38",
+            "text": "So basically it's the same content"
+        },
+        {
+            "start": "0:06:38",
             "end": "0:06:40",
-            "text": "Organic short form on TikTok, Instagram, and YouTube shorts."
+            "text": "that is useful for both purposes."
         },
         {
             "start": "0:06:40",
-            "end": "0:06:46",
-            "text": "If you watch this channel, you'll notice that many of the founders we bring on have talked at length about this exact strategy."
+            "end": "0:06:43",
+            "text": "Obviously we prefer it if the page is so up"
         },
         {
-            "start": "0:06:46",
-            "end": "0:06:51",
-            "text": "That's why we put together the organic short form playbook inside Starter Story Build."
+            "start": "0:06:43",
+            "end": "0:06:47",
+            "text": "for the organic searches, but sometimes it's not possible."
         },
         {
-            "start": "0:06:51",
-            "end": "0:06:59",
-            "text": "It is a step-by-step system for finding viral ideas, reverse engineering, what's working on short form, and getting millions of views on your app."
+            "start": "0:06:47",
+            "end": "0:06:49",
+            "text": "That's when we run ads on it."
         },
         {
-            "start": "0:07:00",
-            "end": "0:07:07",
-            "text": "We break down the exact content formats that make money and we give you real world examples you can try for free with your app."
+            "start": "0:06:49",
+            "end": "0:06:50",
+            "text": "Okay, I like that."
         },
         {
-            "start": "0:07:07",
+            "start": "0:06:50",
+            "end": "0:06:52",
+            "text": "So really, you're just writing one article"
+        },
+        {
+            "start": "0:06:52",
+            "end": "0:06:54",
+            "text": "or lots of articles that can organically rank"
+        },
+        {
+            "start": "0:06:54",
+            "end": "0:06:56",
+            "text": "and then you can run paid against."
+        },
+        {
+            "start": "0:06:56",
+            "end": "0:06:58",
+            "text": "You only really have to do one sort of action."
+        },
+        {
+            "start": "0:06:58",
+            "end": "0:07:01",
+            "text": "Let's dive into the organic stuff."
+        },
+        {
+            "start": "0:07:01",
+            "end": "0:07:04",
+            "text": "Can you break down what works on the organic side?"
+        },
+        {
+            "start": "0:07:04",
+            "end": "0:07:06",
+            "text": "Basically for the organic side,"
+        },
+        {
+            "start": "0:07:06",
+            "end": "0:07:09",
+            "text": "we just focus on very bottom of the final keywords."
+        },
+        {
+            "start": "0:07:09",
             "end": "0:07:12",
-            "text": "If you want to get this resource right now, just head to the first link in the description to grab it."
+            "text": "We use tools like Atrefs to find keywords"
         },
         {
             "start": "0:07:12",
             "end": "0:07:16",
-            "text": "It is 100% free. I'm excited to see you all put this into action."
+            "text": "with 300, 800 monthly searches to have low competition,"
         },
         {
             "start": "0:07:16",
             "end": "0:07:18",
-            "text": "Alright, let's get back to the episode."
+            "text": "but that they are very, very high in them."
         },
         {
             "start": "0:07:18",
-            "end": "0:07:20",
-            "text": "Okay, cool. I mean, thanks for showing that example."
+            "end": "0:07:21",
+            "text": "It just starts with terms like social media API,"
         },
         {
-            "start": "0:07:20",
+            "start": "0:07:21",
+            "end": "0:07:23",
+            "text": "scheduling API for Twitter and things like that."
+        },
+        {
+            "start": "0:07:23",
             "end": "0:07:24",
-            "text": "If you were to start over with a new app right now, how would you get started right now in 2026?"
+            "text": "Then we create content."
         },
         {
             "start": "0:07:24",
+            "end": "0:07:28",
+            "text": "We write in dev slides that answer the user's intent."
+        },
+        {
+            "start": "0:07:28",
             "end": "0:07:31",
-            "text": "What would be your step-by-step to find influencers, book them, and make sure that they lead to actual sales and revenue for your app?"
+            "text": "For example, how to scale on Instagram posts automatically."
         },
         {
             "start": "0:07:31",
             "end": "0:07:34",
-            "text": "For the first step, you have to find creators in your niche."
+            "text": "And we also try and maintain a clean site structure"
         },
         {
             "start": "0:07:34",
             "end": "0:07:38",
-            "text": "You look up something related to your niche on Instagram or TikTok."
+            "text": "fast low times and mobile divization, proper metadata."
         },
         {
             "start": "0:07:38",
-            "end": "0:07:43",
-            "text": "Then you scroll through the videos, click on their accounts, and send each creator the same message every time."
+            "end": "0:07:40",
+            "text": "We also do link building."
         },
         {
-            "start": "0:07:43",
-            "end": "0:07:46",
-            "text": "Which would always start with paid promo question mark."
+            "start": "0:07:40",
+            "end": "0:07:42",
+            "text": "We've built bug links through tools"
         },
         {
-            "start": "0:07:46",
+            "start": "0:07:42",
+            "end": "0:07:45",
+            "text": "and also by reaching out manually to other people,"
+        },
+        {
+            "start": "0:07:45",
             "end": "0:07:48",
-            "text": "The second step is getting them on a call."
+            "text": "and paying them and we track everything,"
         },
         {
             "start": "0:07:48",
             "end": "0:07:51",
-            "text": "Step three, you want to close them on a profitable deal."
+            "text": "all our rankings with Atrefs and Google Search Console"
         },
         {
             "start": "0:07:51",
-            "end": "0:07:55",
-            "text": "But once you have them on a call, keep in mind that you need to close them on a profitable deal."
+            "end": "0:07:56",
+            "text": "and basically constantly optimize our CTR based on the results."
         },
         {
-            "start": "0:07:55",
-            "end": "0:07:59",
-            "text": "This is achieved by closing them on a CPM lower than your RPM."
+            "start": "0:07:56",
+            "end": "0:07:58",
+            "text": "This has already produced more than 8K MRR"
         },
         {
-            "start": "0:07:59",
+            "start": "0:07:58",
+            "end": "0:08:00",
+            "text": "in organic revenue."
+        },
+        {
+            "start": "0:08:00",
             "end": "0:08:02",
-            "text": "Step number four is structuring the deal."
+            "text": "Okay, so you write these articles."
         },
         {
             "start": "0:08:02",
             "end": "0:08:05",
-            "text": "Now that you have them on a call, you should offer them one of four deals."
+            "text": "They essentially rank for free through Google's organic search."
         },
         {
             "start": "0:08:05",
+            "end": "0:08:08",
+            "text": "So this generates around 8,000 in new customers per month."
+        },
+        {
+            "start": "0:08:08",
+            "end": "0:08:09",
+            "text": "What about the rest of the revenue?"
+        },
+        {
+            "start": "0:08:09",
+            "end": "0:08:10",
+            "text": "How's that happening?"
+        },
+        {
+            "start": "0:08:10",
             "end": "0:08:12",
-            "text": "The first deal is a flat rate where you pay them $500 for a real or $1,200 for four deals."
+            "text": "So they happen through Google search ads"
         },
         {
             "start": "0:08:12",
-            "end": "0:08:19",
-            "text": "You should only use this deal when working with creators that consistently get a lot of use in your confident that they'll be able to match your target CPM"
+            "end": "0:08:15",
+            "text": "which are our guaranteed revenue engine."
         },
         {
-            "start": "0:08:19",
+            "start": "0:08:15",
+            "end": "0:08:17",
+            "text": "So while SEO compounds over time,"
+        },
+        {
+            "start": "0:08:17",
+            "end": "0:08:20",
+            "text": "page search gives us immediate results and feedback."
+        },
+        {
+            "start": "0:08:20",
+            "end": "0:08:21",
+            "text": "So here's a strategy."
+        },
+        {
+            "start": "0:08:21",
             "end": "0:08:23",
-            "text": "without a minimum view clause or something of that nature."
+            "text": "We beat on high intent commercial keywords."
         },
         {
             "start": "0:08:23",
-            "end": "0:08:30",
-            "text": "The second deal is a CPM deal where you offer a dollar per every thousand views or $2 for every thousand views."
+            "end": "0:08:26",
+            "text": "The same that we are trying to rank organically for."
         },
         {
-            "start": "0:08:30",
+            "start": "0:08:26",
+            "end": "0:08:29",
+            "text": "We create landing pages for which one of them."
+        },
+        {
+            "start": "0:08:29",
             "end": "0:08:32",
-            "text": "And you should always have a cap."
+            "text": "So each ad group has its custom landing page"
         },
         {
             "start": "0:08:32",
+            "end": "0:08:34",
+            "text": "tailored to the keyword and the intent."
+        },
+        {
+            "start": "0:08:34",
             "end": "0:08:39",
-            "text": "For example, if the creator were to get 10 million views but your cap was $500, then you only have to pay them $500."
+            "text": "For example, Instagram API has a specific page for Instagram."
         },
         {
             "start": "0:08:39",
-            "end": "0:08:46",
-            "text": "The third deal is a minimum view clause deal where you offer something like $500 with a $500,000 minimum view clause."
+            "end": "0:08:41",
+            "text": "We automate everything through Google ads."
         },
         {
-            "start": "0:08:46",
+            "start": "0:08:41",
+            "end": "0:08:47",
+            "text": "We use automated bidding, which sets a target CPA at $120,"
+        },
+        {
+            "start": "0:08:47",
             "end": "0:08:50",
-            "text": "This is the deal I almost always go with and it helps keep the CPM under your RPM."
+            "text": "which is our average guide threshold."
         },
         {
             "start": "0:08:50",
-            "end": "0:08:56",
-            "text": "The fourth and final deal is a bonus deal where you say, look, we'll pay you $500 for a video."
+            "end": "0:08:53",
+            "text": "Google's algorithm optimizes bits to hit this target."
         },
         {
-            "start": "0:08:56",
-            "end": "0:09:00",
-            "text": "And if it gets a million views and we'll pay you an additional $500."
+            "start": "0:08:53",
+            "end": "0:08:55",
+            "text": "And on the ad copy, we basically focus on value."
         },
         {
-            "start": "0:09:00",
-            "end": "0:09:04",
-            "text": "And then the fifth and final step is of course launching the partnership."
+            "start": "0:08:55",
+            "end": "0:08:59",
+            "text": "For example, scale 30 days of social media in one hour"
         },
         {
-            "start": "0:09:04",
+            "start": "0:08:59",
+            "end": "0:09:03",
+            "text": "or rates under K-Folver's fast with our API."
+        },
+        {
+            "start": "0:09:03",
+            "end": "0:09:05",
+            "text": "On the testing site, we do continuous"
+        },
+        {
+            "start": "0:09:05",
+            "end": "0:09:08",
+            "text": "A-B testing of headlines, descriptions, and landing pages."
+        },
+        {
+            "start": "0:09:08",
             "end": "0:09:10",
-            "text": "Next you want to send them the video requirements and a contract and give them a one week deadline to get the first video out."
+            "text": "Everything tracked through Bosco."
         },
         {
             "start": "0:09:10",
-            "end": "0:09:14",
-            "text": "They perform well and generate a lot of revenue and keep working with them."
+            "end": "0:09:13",
+            "text": "Currently, we spend around $8,000 per month."
         },
         {
-            "start": "0:09:14",
-            "end": "0:09:17",
-            "text": "Okay, cool influencer playbook. That was amazing. Thank you for sharing all that."
+            "start": "0:09:13",
+            "end": "0:09:16",
+            "text": "We get $2.5 in revenue for every dollar spent."
         },
         {
-            "start": "0:09:17",
-            "end": "0:09:21",
-            "text": "Would you be able to give me a demo of this app? How does it work? What does it do?"
+            "start": "0:09:16",
+            "end": "0:09:20",
+            "text": "Modern revenue from page search is around 15 gamer hour."
         },
         {
-            "start": "0:09:21",
+            "start": "0:09:20",
+            "end": "0:09:23",
+            "text": "I love what Mickey is showing us right now."
+        },
+        {
+            "start": "0:09:23",
             "end": "0:09:26",
-            "text": "Yeah, when you enter the app, you are on the main screen. Of course, you have your level, your XP."
+            "text": "He just found one channel that works, and he's going all in."
         },
         {
             "start": "0:09:26",
-            "end": "0:09:32",
-            "text": "And you can scroll through add custom tasks. We also give users some basic tasks to start."
+            "end": "0:09:28",
+            "text": "But here's the thing."
         },
         {
-            "start": "0:09:32",
-            "end": "0:09:39",
-            "text": "Check one off. You get 100 XP. Then you have all the different levels along with your progress on one tab."
+            "start": "0:09:28",
+            "end": "0:09:31",
+            "text": "Before you get into growth, you still need to build something."
         },
         {
-            "start": "0:09:39",
-            "end": "0:09:46",
-            "text": "We have every single user on here all time ranking last seven days and today's rankings and of course your profile."
+            "start": "0:09:31",
+            "end": "0:09:33",
+            "text": "And if you're watching this and still feeling stuck"
         },
         {
-            "start": "0:09:46",
-            "end": "0:09:59",
-            "text": "And finally, a motivational screen where you're basically just getting yelled at by Jeremiah."
+            "start": "0:09:33",
+            "end": "0:09:35",
+            "text": "on that step, well, I have something for you."
+        },
+        {
+            "start": "0:09:35",
+            "end": "0:09:38",
+            "text": "I put together our free business idea template"
+        },
+        {
+            "start": "0:09:38",
+            "end": "0:09:41",
+            "text": "and it walks you through seven proven methods"
+        },
+        {
+            "start": "0:09:41",
+            "end": "0:09:45",
+            "text": "to find painful problems that people actually want solved."
+        },
+        {
+            "start": "0:09:45",
+            "end": "0:09:48",
+            "text": "In under one hour, you will map out 21 problems"
+        },
+        {
+            "start": "0:09:48",
+            "end": "0:09:52",
+            "text": "worth solving and then pick the one that you should go build."
+        },
+        {
+            "start": "0:09:52",
+            "end": "0:09:55",
+            "text": "Sometimes, the best ideas are hiding in plain sight."
+        },
+        {
+            "start": "0:09:55",
+            "end": "0:09:58",
+            "text": "In this template, it gives you a simple system to spot them."
+        },
+        {
+            "start": "0:09:58",
+            "end": "0:10:00",
+            "text": "So head to the first link in the description."
         },
         {
             "start": "0:09:59",
-            "end": "0:10:00",
-            "text": "Thank you."
-        },
-        {
-            "start": "0:10:01",
-            "end": "0:10:02",
-            "text": "Let's talk about tech stack."
-        },
-        {
-            "start": "0:10:02",
             "end": "0:10:04",
-            "text": "What is this app built on?"
+            "text": "description, grab the template for free, and potentially find your next idea. All right, let's get"
         },
         {
             "start": "0:10:04",
-            "end": "0:10:06",
-            "text": "How do you do development?"
-        },
-        {
-            "start": "0:10:06",
             "end": "0:10:09",
-            "text": "What comprises this app that's doing $14,000 a month?"
+            "text": "back into the episode. Okay, well, I mean, I like that. It's cool. Like you could just do the organic"
         },
         {
             "start": "0:10:09",
-            "end": "0:10:12",
-            "text": "Sure, so of course, first, for designing,"
+            "end": "0:10:14",
+            "text": "thing and do this 8K and you'd have 8K MRR, but you're sort of, again, treating it like a math"
         },
         {
-            "start": "0:10:12",
-            "end": "0:10:17",
-            "text": "we use Figma, Second, we use Cloud Code to help us out with development."
-        },
-        {
-            "start": "0:10:17",
+            "start": "0:10:14",
             "end": "0:10:19",
-            "text": "We use the $200 among subscription."
+            "text": "problem. You're pouring a little bit of gasoline on the fire. And when you see certain keywords"
         },
         {
             "start": "0:10:19",
-            "end": "0:10:21",
-            "text": "Then there is Superwall, which helps you"
+            "end": "0:10:23",
+            "text": "working in paid, then you're channeling maybe more articles or more keywords around organic,"
         },
         {
-            "start": "0:10:21",
-            "end": "0:10:26",
-            "text": "A.B. tester paywalls that takes 1% of your earnings."
+            "start": "0:10:23",
+            "end": "0:10:27",
+            "text": "and then those feed them back. So what I think our audience will love to hear from you. Could you"
         },
         {
-            "start": "0:10:26",
-            "end": "0:10:31",
-            "text": "And finally, there is Superbase for our database, which is again free."
-        },
-        {
-            "start": "0:10:31",
+            "start": "0:10:27",
             "end": "0:10:32",
-            "text": "Thanks for sharing."
+            "text": "break down this strategy step by step? Imagine you have a brand new SaaS. It's ready to go. You have"
         },
         {
             "start": "0:10:32",
-            "end": "0:10:34",
-            "text": "Last question that we ask all founders who come on Star Story."
-        },
-        {
-            "start": "0:10:34",
             "end": "0:10:37",
-            "text": "We'll be your advice to younger Evan,"
+            "text": "an MVP ready to go. It's a decent product. Maybe you got a few customers. What would be your step-by-step"
         },
         {
             "start": "0:10:37",
-            "end": "0:10:40",
-            "text": "or to anyone watching this who are inspired by what you do."
+            "end": "0:10:44",
+            "text": "process to get started on this Google strategy in 2026? So for step one, you just basically find your"
         },
         {
-            "start": "0:10:40",
-            "end": "0:10:43",
-            "text": "Sure, I would tell myself to worry less about school"
+            "start": "0:10:44",
+            "end": "0:10:48",
+            "text": "core keywords that are high in 10 and are very, very close to your follow-up proposition. You can"
         },
         {
-            "start": "0:10:43",
-            "end": "0:10:46",
-            "text": "and put more time into building my business."
-        },
-        {
-            "start": "0:10:46",
-            "end": "0:10:50",
-            "text": "From a young age, you are siopped into thinking there's only one path."
-        },
-        {
-            "start": "0:10:50",
+            "start": "0:10:48",
             "end": "0:10:53",
-            "text": "Go to school, get good grades, go to a good college,"
+            "text": "use adrefs. You can use assembrish. I mean, there are some very, very core keywords that you"
         },
         {
             "start": "0:10:53",
-            "end": "0:10:56",
-            "text": "then get a stable job, and you'll be happy."
-        },
-        {
-            "start": "0:10:56",
             "end": "0:10:58",
-            "text": "Most people are very high-minded,"
+            "text": "don't have to search for. You already know that they are very related to your product. For example,"
         },
         {
             "start": "0:10:58",
-            "end": "0:11:01",
-            "text": "and follow that path without even questioning it."
+            "end": "0:11:03",
+            "text": "for us, it's social media APIs. It's very, very obvious. So, you know that these keywords are"
         },
         {
-            "start": "0:11:01",
-            "end": "0:11:02",
-            "text": "If you can see through that early,"
+            "start": "0:11:03",
+            "end": "0:11:08",
+            "text": "being searched and you basically create spreadsheets with them. The monthly search volume that they have"
         },
         {
-            "start": "0:11:02",
-            "end": "0:11:04",
-            "text": "you gain a huge advantage."
-        },
-        {
-            "start": "0:11:04",
-            "end": "0:11:04",
-            "text": "Well, thanks."
-        },
-        {
-            "start": "0:11:04",
-            "end": "0:11:06",
-            "text": "That's great advice, Evan."
-        },
-        {
-            "start": "0:11:06",
-            "end": "0:11:09",
-            "text": "Congratulations to what you built, especially as such a young age,"
-        },
-        {
-            "start": "0:11:09",
-            "end": "0:11:12",
-            "text": "and still in school, crushing it."
-        },
-        {
-            "start": "0:11:12",
+            "start": "0:11:08",
             "end": "0:11:15",
-            "text": "I can't imagine where it's going to be even a couple of months"
+            "text": "the difficulty and you focus on these keywords and nothing else and basically try and work towards"
         },
         {
             "start": "0:11:15",
-            "end": "0:11:15",
-            "text": "or a couple of years."
-        },
-        {
-            "start": "0:11:15",
-            "end": "0:11:18",
-            "text": "So thanks for coming on, sharing all this."
-        },
-        {
-            "start": "0:11:18",
             "end": "0:11:20",
-            "text": "And I will hope to have you back on the channel"
+            "text": "ranking for them within three to six months. For step two, just focus on creating content for"
         },
         {
             "start": "0:11:20",
-            "end": "0:11:22",
-            "text": "when you're at 100K a month."
+            "end": "0:11:24",
+            "text": "the keywords that you've found. Make sure that it's high quality content. It can be a blog, a"
         },
         {
-            "start": "0:11:22",
-            "end": "0:11:23",
-            "text": "Yeah, thank you so much."
+            "start": "0:11:24",
+            "end": "0:11:30",
+            "text": "landing page, just a free tool and, well, just add a big CTA to your sign-in page so that you"
         },
         {
-            "start": "0:11:23",
-            "end": "0:11:25",
-            "text": "Producer Gus, what did you think about this one?"
-        },
-        {
-            "start": "0:11:25",
-            "end": "0:11:28",
-            "text": "What I thought was cool was how simple the app is."
-        },
-        {
-            "start": "0:11:28",
-            "end": "0:11:33",
-            "text": "Gamify, XP, totally matches probably a demographic"
-        },
-        {
-            "start": "0:11:33",
+            "start": "0:11:30",
             "end": "0:11:35",
-            "text": "that I just don't know."
+            "text": "get sign-ups for this traffic. And basically, then you can just add internal linking,"
         },
         {
             "start": "0:11:35",
-            "end": "0:11:37",
-            "text": "He's this young kid who knows what he likes"
+            "end": "0:11:40",
+            "text": "link to other pieces of content on your site. And you try new that through the first week."
         },
         {
-            "start": "0:11:37",
-            "end": "0:11:38",
-            "text": "or what his friends like."
+            "start": "0:11:40",
+            "end": "0:11:46",
+            "text": "So you try and push 10 to 15 high quality articles in the first week to build momentum. It's"
         },
         {
-            "start": "0:11:38",
-            "end": "0:11:41",
-            "text": "So simple, stupidly simple."
+            "start": "0:11:46",
+            "end": "0:11:51",
+            "text": "also important that you don't create too much content and also Google doesn't like that, so"
         },
         {
-            "start": "0:11:41",
-            "end": "0:11:44",
-            "text": "Yeah, it's funny, because we had a few habit trackers"
+            "start": "0:11:51",
+            "end": "0:11:57",
+            "text": "it's better to have quality content. For step three, you just start launching your ads with"
         },
         {
-            "start": "0:11:44",
-            "end": "0:11:47",
-            "text": "on the channel that are actually crushing it."
+            "start": "0:11:57",
+            "end": "0:12:02",
+            "text": "three data on the content that you already have. So basically, set up Google ads account,"
         },
         {
-            "start": "0:11:47",
-            "end": "0:11:50",
-            "text": "I sometimes am skeptical of doing that as a business idea"
-        },
-        {
-            "start": "0:11:50",
-            "end": "0:11:53",
-            "text": "because it's, you know, there's so many of them."
-        },
-        {
-            "start": "0:11:53",
-            "end": "0:11:58",
-            "text": "What I think is a little secret on habit trackers is iOS,"
-        },
-        {
-            "start": "0:11:58",
-            "end": "0:12:00",
-            "text": "like a cool app that will do well on social media"
-        },
-        {
-            "start": "0:12:00",
-            "end": "0:12:03",
-            "text": "or habit tracker, like subashions"
-        },
-        {
-            "start": "0:12:03",
-            "end": "0:12:05",
-            "text": "that we had chatted with a few months ago,"
-        },
-        {
-            "start": "0:12:05",
+            "start": "0:12:02",
             "end": "0:12:07",
-            "text": "that ranks well in ASO."
+            "text": "create some ad groups based on these keywords that you are also targeting with your"
         },
         {
             "start": "0:12:07",
-            "end": "0:12:11",
-            "text": "So in iOS app store optimization."
-        },
-        {
-            "start": "0:12:11",
             "end": "0:12:13",
-            "text": "Yeah, and then the other thing obviously is,"
+            "text": "organic content. You create three to five variations of the copy. Just focus on value prepositions"
         },
         {
             "start": "0:12:13",
-            "end": "0:12:17",
-            "text": "when he's at the end, he's like, we're, we're siopped"
+            "end": "0:12:18",
+            "text": "more than just saving the features. And so forth, just optimize and scale based on the data that you"
         },
         {
-            "start": "0:12:17",
-            "end": "0:12:20",
-            "text": "into just going to school and stuff."
+            "start": "0:12:18",
+            "end": "0:12:23",
+            "text": "have. You identify what's working. You identify the keywords that are bringing new customers,"
         },
         {
-            "start": "0:12:20",
-            "end": "0:12:21",
-            "text": "I thought that was awesome."
+            "start": "0:12:23",
+            "end": "0:12:28",
+            "text": "and you try and optimize for this. You just can't forget about the rest because the ones that"
         },
         {
-            "start": "0:12:21",
-            "end": "0:12:24",
-            "text": "And I just love that, that's this point of view."
+            "start": "0:12:28",
+            "end": "0:12:32",
+            "text": "are converting are the ones that really matter to you. You can post their performing keywords and"
         },
         {
-            "start": "0:12:24",
-            "end": "0:12:26",
-            "text": "Yeah, I think some people may watch this and, you know,"
-        },
-        {
-            "start": "0:12:26",
-            "end": "0:12:29",
-            "text": "sometimes when you see someone who's young and doing so well,"
-        },
-        {
-            "start": "0:12:29",
-            "end": "0:12:31",
-            "text": "they can be like a little bit formed of like,"
-        },
-        {
-            "start": "0:12:31",
-            "end": "0:12:33",
-            "text": "oh, like, I'm not far enough along."
-        },
-        {
-            "start": "0:12:33",
-            "end": "0:12:36",
-            "text": "When we were kids, we didn't have access."
-        },
-        {
-            "start": "0:12:36",
+            "start": "0:12:32",
             "end": "0:12:39",
-            "text": "There wasn't even a way to build a business like this before."
+            "text": "just double down on the high ROI keywords, and then you can just start testing. They the headlines,"
         },
         {
             "start": "0:12:39",
-            "end": "0:12:41",
-            "text": "This is just how the world has changed."
+            "end": "0:12:45",
+            "text": "they the copy, and add CTAs based on what converts best. Then just try and increase the budget"
         },
         {
-            "start": "0:12:41",
-            "end": "0:12:43",
-            "text": "Now you don't need, you don't need permission"
-        },
-        {
-            "start": "0:12:43",
-            "end": "0:12:44",
-            "text": "to build anything anymore."
-        },
-        {
-            "start": "0:12:44",
-            "end": "0:12:46",
-            "text": "You can open up a vibe coding tool"
-        },
-        {
-            "start": "0:12:46",
-            "end": "0:12:47",
-            "text": "and you can build a business."
-        },
-        {
-            "start": "0:12:47",
-            "end": "0:12:48",
-            "text": "You can put it out on the worldwide web"
-        },
-        {
-            "start": "0:12:48",
+            "start": "0:12:45",
             "end": "0:12:51",
-            "text": "and anyone can subscribe to it."
+            "text": "multiple months as long as the return on this ad spend is working. In step five, just track and"
         },
         {
             "start": "0:12:51",
-            "end": "0:12:53",
-            "text": "So, you know, we had chatted with him."
-        },
-        {
-            "start": "0:12:53",
-            "end": "0:12:55",
-            "text": "Yeah, he is young, but he let us know"
-        },
-        {
-            "start": "0:12:55",
             "end": "0:12:57",
-            "text": "that he had been starting businesses for years, right?"
+            "text": "try and improve your cost of acquisition. So now you can just set dashboard either in Google"
         },
         {
             "start": "0:12:57",
-            "end": "0:13:00",
-            "text": "He's years into the game and it may feel like,"
-        },
-        {
-            "start": "0:13:00",
-            "end": "0:13:00",
-            "text": "oh, he's so young."
-        },
-        {
-            "start": "0:13:00",
             "end": "0:13:03",
-            "text": "But actually, he told us about all the different business ideas"
+            "text": "Sheets, Data Studio, or any tool that you like. You can start tracking cost of acquisition,"
         },
         {
             "start": "0:13:03",
-            "end": "0:13:05",
-            "text": "that he tried that failed."
-        },
-        {
-            "start": "0:13:05",
-            "end": "0:13:07",
-            "text": "Thank you guys for watching this episode."
-        },
-        {
-            "start": "0:13:07",
             "end": "0:13:08",
-            "text": "I hope you enjoyed it."
+            "text": "return on ads, and the revenue under traffic return. Then you can just start benchmarking against"
         },
         {
             "start": "0:13:08",
-            "end": "0:13:12",
-            "text": "If you want to start an iPhone app or an iOS app like Evan did,"
+            "end": "0:13:15",
+            "text": "what's working. GoodCAC is 24% of the lifetime value, and your goal is basically to keep"
         },
         {
-            "start": "0:13:12",
-            "end": "0:13:13",
-            "text": "I'll put a link in the description"
+            "start": "0:13:15",
+            "end": "0:13:21",
+            "text": "CAC under 30% of the 30 revenue. Every month, you can just AB testing keywords, add copy,"
         },
         {
-            "start": "0:13:13",
-            "end": "0:13:14",
-            "text": "where you can learn how to do that,"
+            "start": "0:13:21",
+            "end": "0:13:27",
+            "text": "landing pages based on what worked last month. So that would be my five-slip playbook if I would"
         },
         {
-            "start": "0:13:14",
-            "end": "0:13:17",
-            "text": "how to go from an idea to a shipped app"
+            "start": "0:13:27",
+            "end": "0:13:31",
+            "text": "be starting over again. Okay, well, thank you for sharing that great playbook. I love Google."
         },
         {
-            "start": "0:13:17",
-            "end": "0:13:19",
-            "text": "that will be right down there in the description,"
+            "start": "0:13:31",
+            "end": "0:13:35",
+            "text": "This is awesome. Thanks for breaking it all down for us. Let's switch topics a little bit and"
         },
         {
-            "start": "0:13:19",
-            "end": "0:13:20",
-            "text": "get started, solve free."
+            "start": "0:13:35",
+            "end": "0:13:38",
+            "text": "talk about the product that you built. Could you give us a demo? I just want to see what this thing"
         },
         {
-            "start": "0:13:20",
-            "end": "0:13:22",
-            "text": "All right, guys, thank you guys for watching."
+            "start": "0:13:38",
+            "end": "0:13:44",
+            "text": "looks like, how it works, and yeah, could you show it? Sure. So our app is nothing fancy really."
         },
         {
-            "start": "0:13:22",
-            "end": "0:13:23",
-            "text": "We'll see you in the next one."
+            "start": "0:13:44",
+            "end": "0:13:50",
+            "text": "On the UI, we just have social media scheduler. Basically everything that you can do through the API,"
         },
         {
-            "start": "0:13:23",
-            "end": "0:13:23",
-            "text": "Peace."
+            "start": "0:13:50",
+            "end": "0:13:57",
+            "text": "you can also do through our UI. So it's very, very simple. You can just from here create new"
+        },
+        {
+            "start": "0:13:57",
+            "end": "0:14:03",
+            "text": "posts, and yeah, basically just select the accounts that you want this content to go to. We also have"
+        },
+        {
+            "start": "0:14:03",
+            "end": "0:14:08",
+            "text": "here the option to connect all your accounts and handle all your accounts from the UI. Here you can"
+        },
+        {
+            "start": "0:14:08",
+            "end": "0:14:14",
+            "text": "also create new API keys. So as a developer, you can just basically handle all your APIs from here."
+        },
+        {
+            "start": "0:14:14",
+            "end": "0:14:20",
+            "text": "We also have here an inbox feature that basically allows you to handle all your VMs and comments"
+        },
+        {
+            "start": "0:14:20",
+            "end": "0:14:25",
+            "text": "through the UI. The rest of the platforms, you can set up webhooks, do you get notifications when"
+        },
+        {
+            "start": "0:14:25",
+            "end": "0:14:30",
+            "text": "the post fails or when post succeeds. We're going to account and get disconnected, close to check"
+        },
+        {
+            "start": "0:14:30",
+            "end": "0:14:37",
+            "text": "all the logs from your publishing activity to see what you have errors or you view everything"
+        },
+        {
+            "start": "0:14:37",
+            "end": "0:14:42",
+            "text": "is working correctly. And then from here, you just can access the API docs, which are well,"
+        },
+        {
+            "start": "0:14:42",
+            "end": "0:14:49",
+            "text": "very important because you'll be building an integration. And this is what we try and spend"
+        },
+        {
+            "start": "0:14:49",
+            "end": "0:14:54",
+            "text": "most time on so that, well, it's very, very straightforward for you to learn and start using."
+        },
+        {
+            "start": "0:14:54",
+            "end": "0:14:59",
+            "text": "Okay, cool. And on a similar note, how did you build this? What tech stack did you use? What runs"
+        },
+        {
+            "start": "0:14:59",
+            "end": "0:15:03",
+            "text": "the business? How did you build it? So most important thing that you use is cloud code. So we can"
+        },
+        {
+            "start": "0:15:03",
+            "end": "0:15:08",
+            "text": "code much faster. We also use data fast. It helps us track what's ringing revenue and what's not."
+        },
+        {
+            "start": "0:15:08",
+            "end": "0:15:15",
+            "text": "We also use Google ads, spend up to $8,000 per month. We also use eight reps, which is around"
+        },
+        {
+            "start": "0:15:15",
+            "end": "0:15:21",
+            "text": "$200 per month. And this is essential for us for insights, monitoring on the organic site."
+        },
+        {
+            "start": "0:15:21",
+            "end": "0:15:25",
+            "text": "Okay, cool. Well, thanks for sharing that. Last question that we ask all founders to come on to"
+        },
+        {
+            "start": "0:15:25",
+            "end": "0:15:29",
+            "text": "start a story, to build cool stuff like you. What would be your advice to young Mickey before you"
+        },
+        {
+            "start": "0:15:29",
+            "end": "0:15:33",
+            "text": "got started? Or for anyone watching that wants to get started and build cool sats like this and"
+        },
+        {
+            "start": "0:15:33",
+            "end": "0:15:38",
+            "text": "learn Google, what would be your advice? My advice would be to just stop trying to be"
+        },
+        {
+            "start": "0:15:38",
+            "end": "0:15:42",
+            "text": "everything to everyone. When I realized that basically picking one growth channel and getting"
+        },
+        {
+            "start": "0:15:42",
+            "end": "0:15:48",
+            "text": "really good at it, in our case, it's paid search. It was a hundred times better than being mediocre"
+        },
+        {
+            "start": "0:15:48",
+            "end": "0:15:53",
+            "text": "at 10 channels. So my advice would be just pick your single best level for growth, get"
+        },
+        {
+            "start": "0:15:53",
+            "end": "0:15:58",
+            "text": "obsessed with it and measure it relentlessly. And that's great advice, as I kind of mentioned"
+        },
+        {
+            "start": "0:15:58",
+            "end": "0:16:03",
+            "text": "before. You can win with just one channel, right? You can build a million dollar business, you can"
+        },
+        {
+            "start": "0:16:03",
+            "end": "0:16:06",
+            "text": "build a ten million dollar business, maybe even a hundred million dollar business with just one"
+        },
+        {
+            "start": "0:16:06",
+            "end": "0:16:10",
+            "text": "channel. So if anyone's watching this and you take one thing away from that, here's proof of that."
+        },
+        {
+            "start": "0:16:10",
+            "end": "0:16:15",
+            "text": "Thank you, Mickey, for coming on and sharing awesome business. Hope to see you grow."
+        },
+        {
+            "start": "0:16:15",
+            "end": "0:16:18",
+            "text": "Thank you for having me. Okay, producer Gus, what do you think about that one?"
+        },
+        {
+            "start": "0:16:18",
+            "end": "0:16:23",
+            "text": "I thought it was really cool. I think we talked to someone else recently, that was very similar,"
+        },
+        {
+            "start": "0:16:23",
+            "end": "0:16:28",
+            "text": "but like it's very systematized, right? He has like a super solid system, I think, for"
+        },
+        {
+            "start": "0:16:28",
+            "end": "0:16:33",
+            "text": "know whatever, finding the keywords, ranking them, and then running paid search on them."
+        },
+        {
+            "start": "0:16:33",
+            "end": "0:16:37",
+            "text": "So I thought that was really awesome just to hear kind of that system. And I feel like so many of"
+        },
+        {
+            "start": "0:16:37",
+            "end": "0:16:43",
+            "text": "the great founders we talked to have something like that where they have this methodical approach."
+        },
+        {
+            "start": "0:16:43",
+            "end": "0:16:47",
+            "text": "Like we don't get lucky. It's all math. And I mean, that's awesome."
+        },
+        {
+            "start": "0:16:47",
+            "end": "0:16:52",
+            "text": "Yeah, that's what I like about Google. I think a lot of people are talking about Organa,"
+        },
+        {
+            "start": "0:16:52",
+            "end": "0:16:57",
+            "text": "TikTok, and these sorts of things, or AI, and all this. But at the end of the day, Google is like"
+        },
+        {
+            "start": "0:16:57",
+            "end": "0:17:02",
+            "text": "a very, very tried and true acquisition channel for a lot of businesses. At the end of the day,"
+        },
+        {
+            "start": "0:17:02",
+            "end": "0:17:06",
+            "text": "this is a great distribution strategy or marketing strategy for people that don't want to go on"
+        },
+        {
+            "start": "0:17:06",
+            "end": "0:17:10",
+            "text": "camera and want to maybe they're a little bit more of a finance type and enjoy putting together"
+        },
+        {
+            "start": "0:17:10",
+            "end": "0:17:14",
+            "text": "spreadsheets of keywords and seeing intent and looking at the numbers. Not everyone is meant to be"
+        },
+        {
+            "start": "0:17:14",
+            "end": "0:17:20",
+            "text": "on camera and create viral content. This is a real solid plan that he put together. And his"
+        },
+        {
+            "start": "0:17:20",
+            "end": "0:17:25",
+            "text": "playbook was especially good. I think you can really do this with pretty much any SaaS,"
+        },
+        {
+            "start": "0:17:25",
+            "end": "0:17:29",
+            "text": "specifically B2B SaaS more so, but I really think that this could work and is a great first channel."
+        },
+        {
+            "start": "0:17:29",
+            "end": "0:17:33",
+            "text": "Yeah, and then the other thing I was thinking about was like on Twitter, you'll see how many people"
+        },
+        {
+            "start": "0:17:33",
+            "end": "0:17:39",
+            "text": "are talking about how like Google search is dead or like Google SEO is dead kind of thing."
+        },
+        {
+            "start": "0:17:39",
+            "end": "0:17:43",
+            "text": "I think we've even done like some videos on the build channel on that topic, but I don't know,"
+        },
+        {
+            "start": "0:17:43",
+            "end": "0:17:48",
+            "text": "I guess what do you think about that? Like is this kind of showing that maybe it's not this"
+        },
+        {
+            "start": "0:17:48",
+            "end": "0:17:52",
+            "text": "as true or what do you, we're like, what do you think? Here's the truth. Google search is not dead,"
+        },
+        {
+            "start": "0:17:52",
+            "end": "0:17:58",
+            "text": "but informational queries are dead. So if you search not dead, but essentially dead. If you search"
+        },
+        {
+            "start": "0:17:58",
+            "end": "0:18:06",
+            "text": "Google for how to create a great social media post that you're probably not going to rank it's"
+        },
+        {
+            "start": "0:18:06",
+            "end": "0:18:12",
+            "text": "going to be harder to rank for that. And those people are coming for information on how to create a"
+        },
+        {
+            "start": "0:18:12",
+            "end": "0:18:15",
+            "text": "good social media post that they're just going to use chat GPT for that, right? To get a more"
+        },
+        {
+            "start": "0:18:15",
+            "end": "0:18:20",
+            "text": "customized way better answer. But if they're searching for things like social media scheduler,"
+        },
+        {
+            "start": "0:18:20",
+            "end": "0:18:24",
+            "text": "they may put that into more so into AI, but at the end of the day, it's still the same. Like,"
+        },
+        {
+            "start": "0:18:24",
+            "end": "0:18:28",
+            "text": "they're going to put that into Google. They're going to put that into the AI. They're going to click"
+        },
+        {
+            "start": "0:18:28",
+            "end": "0:18:33",
+            "text": "in through to your software and buy it. Yeah, there's an argument that one day you'll be able to"
+        },
+        {
+            "start": "0:18:33",
+            "end": "0:18:36",
+            "text": "put into AI and it'll write all the code and create the whole app for you. But right now,"
+        },
+        {
+            "start": "0:18:36",
+            "end": "0:18:42",
+            "text": "still people need tools and intent base. There's informational queries. And then maybe you call it"
+        },
+        {
+            "start": "0:18:42",
+            "end": "0:18:47",
+            "text": "intent base queries. People are still searching things for like, I need insurance. I need a social media"
+        },
+        {
+            "start": "0:18:47",
+            "end": "0:18:54",
+            "text": "scheduling tool. I need some clothing or something like that. So the SEO is dead is more around informational"
+        },
+        {
+            "start": "0:18:54",
+            "end": "0:18:59",
+            "text": "base queries. Yeah, I mean, I find myself using my chat GPT a lot more over first search. But"
+        },
+        {
+            "start": "0:18:59",
+            "end": "0:19:04",
+            "text": "sometimes when I even when I'm still looking for like a tool or something to buy, I almost still go"
+        },
+        {
+            "start": "0:19:04",
+            "end": "0:19:08",
+            "text": "to Google instead of chat because I don't know, I feel like Google has something it'll really show"
+        },
+        {
+            "start": "0:19:08",
+            "end": "0:19:13",
+            "text": "me versus chat will just like list out whatever the answer without not always with like a link."
+        },
+        {
+            "start": "0:19:13",
+            "end": "0:19:17",
+            "text": "Anyway, so yeah, I thought that was interesting to see that that still works if you do it kind of in"
+        },
+        {
+            "start": "0:19:17",
+            "end": "0:19:23",
+            "text": "this mathematical way. Okay, cool. Well, SEO and Google still works, but you need to build something."
+        },
+        {
+            "start": "0:19:23",
+            "end": "0:19:27",
+            "text": "So I will shamelessly plug starter story build right here. If you want to find that idea that you"
+        },
+        {
+            "start": "0:19:27",
+            "end": "0:19:32",
+            "text": "can eventually put into the Google playbook, check out starter story build. I'll put a link in the"
+        },
+        {
+            "start": "0:19:32",
+            "end": "0:19:36",
+            "text": "description for that. We'll help you come up with your idea, build it with just AI tools. You"
+        },
+        {
+            "start": "0:19:36",
+            "end": "0:19:40",
+            "text": "don't even need to know how to code and get it in the hands of real customers. I'll put that link"
+        },
+        {
+            "start": "0:19:40",
+            "end": "0:19:50",
+            "text": "down there. Thank you guys for watching. We'll see you in the next one. Peace."
         }
     ],
-    "plain_text": "[0:00:00] My name is Evan and I scaled an app called locked to $14,000 per month in only a few months.\n[0:00:06] Meet Evan.\n[0:00:07] He just launched a mobile app and four months later, it's doing $14,000 a month.\n[0:00:12] But here's what makes the story different.\n[0:00:15] He didn't launch with a huge audience or run paid ads.\n[0:00:18] He only had one strategy and it worked from day one.\n[0:00:22] The big advantage here is that it feels way more authentic.\n[0:00:25] Most founders spend months trying to figure out how to get their first user.\n[0:00:29] But Evan figured it out fast.\n[0:00:31] This would be my playbook if I wanted to nail starting out on a new app.\n[0:00:36] So I brought him out of the channel to walk through his entire playbook.\n[0:00:40] And in this episode, we'll dive into the one growth channel that helped him grow very, very fast.\n[0:00:46] How he got thousands of users from a single piece of content.\n[0:00:50] And the step-by-step strategy he'd use if he had to start over tomorrow with a brand new app.\n[0:00:55] If you're thinking about building an app in 2026, this is the episode that you must watch.\n[0:01:01] Alright, let's dive in.\n[0:01:02] I'm Pat Walls.\n[0:01:03] And this is Starter Story.\n[0:01:05] Alright, real quick, before we dive in, Evan is about to break down his exact distribution strategy that took his app to $14,000 a month.\n[0:01:13] And this is actually something that we have studied a lot here at Starter Story.\n[0:01:17] So I put together a full playbook on how the best founders grow and market their apps.\n[0:01:22] The link is right down there in the description, but I'll be talking a little bit more about that later.\n[0:01:26] For now, let's get into the episode.\n[0:01:28] Evan, welcome my man to the channel.\n[0:01:31] Tell me about who you are, what you built, and what's your story.\n[0:01:34] Hey, my name is Evan, and I scaled an app called Locked to $14,000 per month in only a few months.\n[0:01:40] Today, I'm excited to talk about the strategies in place that I'm using to scale off.\n[0:01:44] Well, I'm excited to talk about how you grew this app to $14,000 a month and growing.\n[0:01:49] It's amazing.\n[0:01:50] Before we do, what is this app?\n[0:01:52] What's the business model?\n[0:01:53] And if you could walk through some of your dashboards and metrics to show that the thing is legit, would you be able to do that?\n[0:01:58] Sure.\n[0:01:59] Locked is a gamified health fitness app.\n[0:02:02] And the whole point of it is to help our users stay on task while gamifying the whole experience.\n[0:02:08] From the start of the onboarding, you have to choose your character to get started.\n[0:02:12] There are leaderboards, motivational features, and even badges and levels to keep people on task and stay motivated.\n[0:02:18] For our paywall, we charge $40 a year, or $7 a week, and the yearly option includes a three-day free trial.\n[0:02:26] On top of that, if they X out of this paywall or escape, it will take them to a transaction abandoned paywall, which is basically just a discounted offer for only $20 a year.\n[0:02:38] All right. Well, thank you for sharing that. Thanks for sharing all the numbers.\n[0:02:40] How do you get to this point where you have an app that's doing over $14,000 a month? What's your background?\n[0:02:45] Sure. So I've been obsessed with entrepreneurship ever since I was a kid.\n[0:02:49] At nine years old, my friends would all play Roblox, but instead I decided to develop the Roblox games.\n[0:02:55] I didn't make money from those games, but that marked the start of my journey.\n[0:02:59] After that, I tested a bunch of business models, dropped shipping, reselling, clipping, betting machines.\n[0:03:05] They all failed. Until eventually, my older brother Zach suggested I get into the app space.\n[0:03:10] My first app was Problem-Pal. It peaked at about $2,000 per month, and I recently sold that.\n[0:03:16] Next, I built a clear AI in a few weeks, but it didn't really go anywhere.\n[0:03:20] Then a friend told me about how he was struggling to stay on task and motivate it. So that sparked an idea.\n[0:03:26] I didn't want another boring habit tracker, so I gamified the whole experience with leaderboards, XP, badges, and even characters.\n[0:03:35] So let's dive into that a little bit. Can you just walk me through?\n[0:03:38] How did you build it? How long did it take?\n[0:03:40] Our designs took us about two weeks. We went in a figment file, did everything from scratch, and once that was done, we began transferring it over to Xcode.\n[0:03:49] To do this, we use YouTube tutorials, some of our own knowledge, and also, of course, we use Clawed Code to help us.\n[0:03:55] From start to finish, idea to live in the app store, it took about a month and a half.\n[0:03:59] A month and a half to build an app is amazing. That's, I guess, how things are going these days.\n[0:04:04] Why I wanted to bring you on is to talk about growth. You grew it to over 14,000 per month in revenue.\n[0:04:09] How did you do that? What was the growth strategy or tactic? And how did you get all these users?\n[0:04:14] Yeah, sure. I partnered with influencers to promote my app.\n[0:04:19] Going into this channel, I realized my RPM was around $2 to $3.\n[0:04:24] So I knew I had to close creators at a CPM lower than that. Typically, it would be between the dollar and $1.50 range.\n[0:04:31] The big advantage here is that most influencers already have trust with their audience.\n[0:04:36] And when they recommend an app, it feels way more authentic than a traditional ad, which usually leads to much stronger results.\n[0:04:42] Would you be able to like show me one of the influencers you worked with and the type of content that was created and share how much revenue and installs this content led to?\n[0:04:50] So here, if we click on Jeremiah's video, which was basically explaining how to stay locked in and on task.\n[0:04:58] Right here, he shows app was in the first 15 seconds. That's always something that you should require influencers to do.\n[0:05:04] This piece of content worked for multiple reasons.\n[0:05:07] Number one, Jeremiah Jones has great engagement and his videos are filled with high quality comments.\n[0:05:13] That's how I know he has an amazing audience, which is arguably the most important factor.\n[0:05:17] Number two, his content focuses on staying locked in and on task, which perfectly aligns with locked.\n[0:05:24] Number three, it was a seamless integration with the app. It made sense to add it and it fit in perfectly.\n[0:05:29] Could you share like any of the numbers? Like just give a sense of how many views did this piece of content get?\n[0:05:35] And like how many installs did it lead to or revenue impact? I think the audience would be curious about how this actually leads to installs and revenue.\n[0:05:44] You can see that he posted the video right around February 6, which is when we had a huge spike.\n[0:05:48] As you can see, we were doing about $300 a day and then just spiked up $728, $600, $700, $600, $678, $600, even almost $1,000.\n[0:05:59] So I would say across this video, probably generated around $3,000 and about 1,800 downloads at approximately $1,000,000 views across all platforms.\n[0:06:11] We pay them something like $800 with a $600,000 minimum view clause.\n[0:06:15] And if they hit the minimum view clause, all of some they're done.\n[0:06:18] And we can move on to an even bigger deal considering that it converted.\n[0:06:21] But if not, they have the option to post a few more videos, hit that NBC and so get paid out.\n[0:06:26] What Evan is showing us right now is that distribution is everything.\n[0:06:30] He figured out how to work with influencers. And this is one of the strategies I'm seeing work over and over and over.\n[0:06:36] Organic short form on TikTok, Instagram, and YouTube shorts.\n[0:06:40] If you watch this channel, you'll notice that many of the founders we bring on have talked at length about this exact strategy.\n[0:06:46] That's why we put together the organic short form playbook inside Starter Story Build.\n[0:06:51] It is a step-by-step system for finding viral ideas, reverse engineering, what's working on short form, and getting millions of views on your app.\n[0:07:00] We break down the exact content formats that make money and we give you real world examples you can try for free with your app.\n[0:07:07] If you want to get this resource right now, just head to the first link in the description to grab it.\n[0:07:12] It is 100% free. I'm excited to see you all put this into action.\n[0:07:16] Alright, let's get back to the episode.\n[0:07:18] Okay, cool. I mean, thanks for showing that example.\n[0:07:20] If you were to start over with a new app right now, how would you get started right now in 2026?\n[0:07:24] What would be your step-by-step to find influencers, book them, and make sure that they lead to actual sales and revenue for your app?\n[0:07:31] For the first step, you have to find creators in your niche.\n[0:07:34] You look up something related to your niche on Instagram or TikTok.\n[0:07:38] Then you scroll through the videos, click on their accounts, and send each creator the same message every time.\n[0:07:43] Which would always start with paid promo question mark.\n[0:07:46] The second step is getting them on a call.\n[0:07:48] Step three, you want to close them on a profitable deal.\n[0:07:51] But once you have them on a call, keep in mind that you need to close them on a profitable deal.\n[0:07:55] This is achieved by closing them on a CPM lower than your RPM.\n[0:07:59] Step number four is structuring the deal.\n[0:08:02] Now that you have them on a call, you should offer them one of four deals.\n[0:08:05] The first deal is a flat rate where you pay them $500 for a real or $1,200 for four deals.\n[0:08:12] You should only use this deal when working with creators that consistently get a lot of use in your confident that they'll be able to match your target CPM\n[0:08:19] without a minimum view clause or something of that nature.\n[0:08:23] The second deal is a CPM deal where you offer a dollar per every thousand views or $2 for every thousand views.\n[0:08:30] And you should always have a cap.\n[0:08:32] For example, if the creator were to get 10 million views but your cap was $500, then you only have to pay them $500.\n[0:08:39] The third deal is a minimum view clause deal where you offer something like $500 with a $500,000 minimum view clause.\n[0:08:46] This is the deal I almost always go with and it helps keep the CPM under your RPM.\n[0:08:50] The fourth and final deal is a bonus deal where you say, look, we'll pay you $500 for a video.\n[0:08:56] And if it gets a million views and we'll pay you an additional $500.\n[0:09:00] And then the fifth and final step is of course launching the partnership.\n[0:09:04] Next you want to send them the video requirements and a contract and give them a one week deadline to get the first video out.\n[0:09:10] They perform well and generate a lot of revenue and keep working with them.\n[0:09:14] Okay, cool influencer playbook. That was amazing. Thank you for sharing all that.\n[0:09:17] Would you be able to give me a demo of this app? How does it work? What does it do?\n[0:09:21] Yeah, when you enter the app, you are on the main screen. Of course, you have your level, your XP.\n[0:09:26] And you can scroll through add custom tasks. We also give users some basic tasks to start.\n[0:09:32] Check one off. You get 100 XP. Then you have all the different levels along with your progress on one tab.\n[0:09:39] We have every single user on here all time ranking last seven days and today's rankings and of course your profile.\n[0:09:46] And finally, a motivational screen where you're basically just getting yelled at by Jeremiah.\n[0:09:59] Thank you.\n[0:10:01] Let's talk about tech stack.\n[0:10:02] What is this app built on?\n[0:10:04] How do you do development?\n[0:10:06] What comprises this app that's doing $14,000 a month?\n[0:10:09] Sure, so of course, first, for designing,\n[0:10:12] we use Figma, Second, we use Cloud Code to help us out with development.\n[0:10:17] We use the $200 among subscription.\n[0:10:19] Then there is Superwall, which helps you\n[0:10:21] A.B. tester paywalls that takes 1% of your earnings.\n[0:10:26] And finally, there is Superbase for our database, which is again free.\n[0:10:31] Thanks for sharing.\n[0:10:32] Last question that we ask all founders who come on Star Story.\n[0:10:34] We'll be your advice to younger Evan,\n[0:10:37] or to anyone watching this who are inspired by what you do.\n[0:10:40] Sure, I would tell myself to worry less about school\n[0:10:43] and put more time into building my business.\n[0:10:46] From a young age, you are siopped into thinking there's only one path.\n[0:10:50] Go to school, get good grades, go to a good college,\n[0:10:53] then get a stable job, and you'll be happy.\n[0:10:56] Most people are very high-minded,\n[0:10:58] and follow that path without even questioning it.\n[0:11:01] If you can see through that early,\n[0:11:02] you gain a huge advantage.\n[0:11:04] Well, thanks.\n[0:11:04] That's great advice, Evan.\n[0:11:06] Congratulations to what you built, especially as such a young age,\n[0:11:09] and still in school, crushing it.\n[0:11:12] I can't imagine where it's going to be even a couple of months\n[0:11:15] or a couple of years.\n[0:11:15] So thanks for coming on, sharing all this.\n[0:11:18] And I will hope to have you back on the channel\n[0:11:20] when you're at 100K a month.\n[0:11:22] Yeah, thank you so much.\n[0:11:23] Producer Gus, what did you think about this one?\n[0:11:25] What I thought was cool was how simple the app is.\n[0:11:28] Gamify, XP, totally matches probably a demographic\n[0:11:33] that I just don't know.\n[0:11:35] He's this young kid who knows what he likes\n[0:11:37] or what his friends like.\n[0:11:38] So simple, stupidly simple.\n[0:11:41] Yeah, it's funny, because we had a few habit trackers\n[0:11:44] on the channel that are actually crushing it.\n[0:11:47] I sometimes am skeptical of doing that as a business idea\n[0:11:50] because it's, you know, there's so many of them.\n[0:11:53] What I think is a little secret on habit trackers is iOS,\n[0:11:58] like a cool app that will do well on social media\n[0:12:00] or habit tracker, like subashions\n[0:12:03] that we had chatted with a few months ago,\n[0:12:05] that ranks well in ASO.\n[0:12:07] So in iOS app store optimization.\n[0:12:11] Yeah, and then the other thing obviously is,\n[0:12:13] when he's at the end, he's like, we're, we're siopped\n[0:12:17] into just going to school and stuff.\n[0:12:20] I thought that was awesome.\n[0:12:21] And I just love that, that's this point of view.\n[0:12:24] Yeah, I think some people may watch this and, you know,\n[0:12:26] sometimes when you see someone who's young and doing so well,\n[0:12:29] they can be like a little bit formed of like,\n[0:12:31] oh, like, I'm not far enough along.\n[0:12:33] When we were kids, we didn't have access.\n[0:12:36] There wasn't even a way to build a business like this before.\n[0:12:39] This is just how the world has changed.\n[0:12:41] Now you don't need, you don't need permission\n[0:12:43] to build anything anymore.\n[0:12:44] You can open up a vibe coding tool\n[0:12:46] and you can build a business.\n[0:12:47] You can put it out on the worldwide web\n[0:12:48] and anyone can subscribe to it.\n[0:12:51] So, you know, we had chatted with him.\n[0:12:53] Yeah, he is young, but he let us know\n[0:12:55] that he had been starting businesses for years, right?\n[0:12:57] He's years into the game and it may feel like,\n[0:13:00] oh, he's so young.\n[0:13:00] But actually, he told us about all the different business ideas\n[0:13:03] that he tried that failed.\n[0:13:05] Thank you guys for watching this episode.\n[0:13:07] I hope you enjoyed it.\n[0:13:08] If you want to start an iPhone app or an iOS app like Evan did,\n[0:13:12] I'll put a link in the description\n[0:13:13] where you can learn how to do that,\n[0:13:14] how to go from an idea to a shipped app\n[0:13:17] that will be right down there in the description,\n[0:13:19] get started, solve free.\n[0:13:20] All right, guys, thank you guys for watching.\n[0:13:22] We'll see you in the next one.\n[0:13:23] Peace."
+    "plain_text": "This is how every indie hacker should grow their apps.\nThis is Mickey, a guy from Spain who launched his app just seven months ago,\nand today he's already making over $40,000 a month.\nThis app was profitable from day one, but here's what he did different.\nIt didn't chase TikTok trends or spend years building a personal brand.\nHe did it all through a single channel, Google.\nGoogle still works today if you take this approach.\nSo I brought Mickey on to the channel to break it all down for us.\nAnd in this episode, we'll dive into what every builder gets wrong about distribution,\nthe right combination of organic and paid Google search,\nand the exact five-step playbook he used to hit $40,000 M&R in less than a year.\nThis one is going to be fun. Let's dive in.\nI'm Pat Walls, and this is Starter Story.\nAll right, real quick before we dive in.\nMickey is about to break down how he broke $40k a month using Google search.\nBut if you're watching this and thinking, I want to build something,\nbut I don't have an idea yet, well, I've got a free template that will help you find one.\nLink is right down there in the description, but more on that later.\nAll right, Mickey, welcome to the channel.\nTell me about who you are, what you built, and what's your story.\nHey, Pat, I'm Mickey. I'm the founder of Late Social Media API.\nIt's health brands,\nSkettle and Arlemate Content across multiple platforms,\nwho went from zero to 30k M&R into seven months by focusing on Google search ads.\nAll right, cool. Well, I'm really excited to talk about it.\nWe're going to talk a lot about Google today, which I love, and I'm very excited about.\nBut first before we do that, I want to understand what did you build?\nWhat's your product? What's the pricing model? How does it work?\nSo late is the social media API.\nWhat we do is wrap around the official APIs, Facebook, Instagram, Twitter, LinkedIn.\nWe go through all the platform permissions.\nWe basically pay for the highest plans.\nSo that you have access to all the features available.\nAnd we hand it to you in a single API that basically has access to everything\nand without limits.\nWe charge our users for connected accounts.\nBasically, we have three plans.\nWe have to build so the users can just start building their integrations.\nWe go through Accelerate for more accounts.\nThen our limited plan allows you to connect as many accounts as you would.\nSo currently, we just cross 4K MRR.\nWe started around seven months ago.\nSo we have been growing pretty fast.\nAnd well, the first clients started landing around August last year.\nAnd today, we just cross 4K MRR.\nSo our total signings are 50K since launch.\nWe have more than 700 paying users for now.\nAnd our turn rate is less than 10%.\nThat is pretty amazing.\nYou were able to do 40K MRR in really less than a year.\nThat's really, really impressive.\nI'm excited to talk all about Google and how you did that.\nBut before we do, I want to understand how you get here.\nWhat were you doing before?\nWhy did you decide to build a SaaS business?\nHow do you get here?\nYeah.\nBefore late, I spent over five years experimenting with startups.\nI started an online tech company called Academy here in Spain.\nWe raised venture capital and today has more than 100 employees.\nSo around a year ago, I got deeper into building SaaS products\nand recognized a gap in the market.\nThere was no simple affordable API for social media automation.\nAnd well, most tools were either too expensive\nto complicate it or lack good documentation,\nwhich is essential for developers.\nSo while this led to the idea of building late,\nan API first platform designed to be a developer family,\nI started spending my time on proven channels like SEO\nand paid ads, which is basically what has allowed us\nto eat 4K MRR in seven months.\nOK, cool.\nSo we're not even going to talk today much\nabout how you built or anything like that,\nbecause I don't think it's all that important.\nYou have a really cool approach here\nwhere you basically said, I can build this.\nAll I want to do is focus on distribution,\nfocus on how this thing can grow in a dip.\nIt got to 4K MRR in less than a year.\nWhat was the high level strategy that you had\nwhen you went into this and you decided to build this?\nWhat was your plan to grow it quickly?\nSo basically, we saw that social media is no easy\nto exaggerate it, and well, our gun breach\nis dead for most businesses, and it's very, very difficult\nto work on it.\nThere are people that are actively searching\nfor social media, scavenging API,\nor Twitter automation tool.\nThey have a 10x higher intent to buy.\nSo we are actually here capturing the intent\nthat already exists, rather than trying to create it\nthrough viral content.\nWe focus 100% on high intent channels,\nlike SEO, go search as, because they have\npredictable computer economics, and don't depend on luck or threats.\nAnd we use data from both channels\nto optimize landing pages, messaging,\nand we free-mess all our revenue into scaling what forks.\nMickey's story is just insane.\nZero to $40,000 a month in just seven months\nis crazy impressive.\nBut here's what happens when you get to this sort of level.\nOnce you start having to close bigger customers,\nthings start to get tricky.\nIt's not just about whether your app works or not.\nThese customers want to know if you're socked to\nor ISO 27001 compliant.\nAnd if you can't say yes, the deal is probably dead.\nThis is why we partnered with Vanta on this video.\nVanta automates the painful parts of compliance\nso you can keep scaling instead of drowning in paperwork.\nIt hooks right into your stack, runs continuous checks,\nand keeps all the evidence clean for the auditors.\nVanta handles it so you can stay in growth mode.\nOver 14,000 companies like RAMP\nand writer already use Vanta to prove security in real time.\nAnd right now, Vanta is offering $1,000 off\nfor starter story viewers.\nSo if you're scaling fast,\nwant to land customers without the compliance headache,\ncheck out Vanta at the first link in the description.\nHuge thank you to Vanta for this partnership.\nLet's get back to the episode.\nOkay, yeah, and that's a really, really good insight\nis a lot of people think when they get started,\nI need to figure out 10 different channels.\nI can have to do Reddit.\nI gotta do organic social.\nI gotta do a waiting list.\nI gotta do all these things.\nI think smart founders like you pick one channel.\nThey may be pick a couple ideas of what could work,\nbut then if something sort of starts working,\nthey go all in on one channel,\nthey get it to 40K, MRR.\nAnd then like you said, you get it to a million ARR.\nThat I think is the right way of thinking about channels.\nSo let's talk about the channel that truly worked for you,\nwhich was Google.\nI know there was a little bit of organic,\nbut then also you're running paid ads as well.\nLet's do a deep dive into this one channel that worked for you.\nSo for Google, basically we create content on a website\nthat is useful for our users or our target users.\nAnd some of this gets on Google and ranks organically\nand some of it it doesn't rank so we run ads for it.\nSo basically it's the same content\nthat is useful for both purposes.\nObviously we prefer it if the page is so up\nfor the organic searches, but sometimes it's not possible.\nThat's when we run ads on it.\nOkay, I like that.\nSo really, you're just writing one article\nor lots of articles that can organically rank\nand then you can run paid against.\nYou only really have to do one sort of action.\nLet's dive into the organic stuff.\nCan you break down what works on the organic side?\nBasically for the organic side,\nwe just focus on very bottom of the final keywords.\nWe use tools like Atrefs to find keywords\nwith 300, 800 monthly searches to have low competition,\nbut that they are very, very high in them.\nIt just starts with terms like social media API,\nscheduling API for Twitter and things like that.\nThen we create content.\nWe write in dev slides that answer the user's intent.\nFor example, how to scale on Instagram posts automatically.\nAnd we also try and maintain a clean site structure\nfast low times and mobile divization, proper metadata.\nWe also do link building.\nWe've built bug links through tools\nand also by reaching out manually to other people,\nand paying them and we track everything,\nall our rankings with Atrefs and Google Search Console\nand basically constantly optimize our CTR based on the results.\nThis has already produced more than 8K MRR\nin organic revenue.\nOkay, so you write these articles.\nThey essentially rank for free through Google's organic search.\nSo this generates around 8,000 in new customers per month.\nWhat about the rest of the revenue?\nHow's that happening?\nSo they happen through Google search ads\nwhich are our guaranteed revenue engine.\nSo while SEO compounds over time,\npage search gives us immediate results and feedback.\nSo here's a strategy.\nWe beat on high intent commercial keywords.\nThe same that we are trying to rank organically for.\nWe create landing pages for which one of them.\nSo each ad group has its custom landing page\ntailored to the keyword and the intent.\nFor example, Instagram API has a specific page for Instagram.\nWe automate everything through Google ads.\nWe use automated bidding, which sets a target CPA at $120,\nwhich is our average guide threshold.\nGoogle's algorithm optimizes bits to hit this target.\nAnd on the ad copy, we basically focus on value.\nFor example, scale 30 days of social media in one hour\nor rates under K-Folver's fast with our API.\nOn the testing site, we do continuous\nA-B testing of headlines, descriptions, and landing pages.\nEverything tracked through Bosco.\nCurrently, we spend around $8,000 per month.\nWe get $2.5 in revenue for every dollar spent.\nModern revenue from page search is around 15 gamer hour.\nI love what Mickey is showing us right now.\nHe just found one channel that works, and he's going all in.\nBut here's the thing.\nBefore you get into growth, you still need to build something.\nAnd if you're watching this and still feeling stuck\non that step, well, I have something for you.\nI put together our free business idea template\nand it walks you through seven proven methods\nto find painful problems that people actually want solved.\nIn under one hour, you will map out 21 problems\nworth solving and then pick the one that you should go build.\nSometimes, the best ideas are hiding in plain sight.\nIn this template, it gives you a simple system to spot them.\nSo head to the first link in the description.\ndescription, grab the template for free, and potentially find your next idea. All right, let's get\nback into the episode. Okay, well, I mean, I like that. It's cool. Like you could just do the organic\nthing and do this 8K and you'd have 8K MRR, but you're sort of, again, treating it like a math\nproblem. You're pouring a little bit of gasoline on the fire. And when you see certain keywords\nworking in paid, then you're channeling maybe more articles or more keywords around organic,\nand then those feed them back. So what I think our audience will love to hear from you. Could you\nbreak down this strategy step by step? Imagine you have a brand new SaaS. It's ready to go. You have\nan MVP ready to go. It's a decent product. Maybe you got a few customers. What would be your step-by-step\nprocess to get started on this Google strategy in 2026? So for step one, you just basically find your\ncore keywords that are high in 10 and are very, very close to your follow-up proposition. You can\nuse adrefs. You can use assembrish. I mean, there are some very, very core keywords that you\ndon't have to search for. You already know that they are very related to your product. For example,\nfor us, it's social media APIs. It's very, very obvious. So, you know that these keywords are\nbeing searched and you basically create spreadsheets with them. The monthly search volume that they have\nthe difficulty and you focus on these keywords and nothing else and basically try and work towards\nranking for them within three to six months. For step two, just focus on creating content for\nthe keywords that you've found. Make sure that it's high quality content. It can be a blog, a\nlanding page, just a free tool and, well, just add a big CTA to your sign-in page so that you\nget sign-ups for this traffic. And basically, then you can just add internal linking,\nlink to other pieces of content on your site. And you try new that through the first week.\nSo you try and push 10 to 15 high quality articles in the first week to build momentum. It's\nalso important that you don't create too much content and also Google doesn't like that, so\nit's better to have quality content. For step three, you just start launching your ads with\nthree data on the content that you already have. So basically, set up Google ads account,\ncreate some ad groups based on these keywords that you are also targeting with your\norganic content. You create three to five variations of the copy. Just focus on value prepositions\nmore than just saving the features. And so forth, just optimize and scale based on the data that you\nhave. You identify what's working. You identify the keywords that are bringing new customers,\nand you try and optimize for this. You just can't forget about the rest because the ones that\nare converting are the ones that really matter to you. You can post their performing keywords and\njust double down on the high ROI keywords, and then you can just start testing. They the headlines,\nthey the copy, and add CTAs based on what converts best. Then just try and increase the budget\nmultiple months as long as the return on this ad spend is working. In step five, just track and\ntry and improve your cost of acquisition. So now you can just set dashboard either in Google\nSheets, Data Studio, or any tool that you like. You can start tracking cost of acquisition,\nreturn on ads, and the revenue under traffic return. Then you can just start benchmarking against\nwhat's working. GoodCAC is 24% of the lifetime value, and your goal is basically to keep\nCAC under 30% of the 30 revenue. Every month, you can just AB testing keywords, add copy,\nlanding pages based on what worked last month. So that would be my five-slip playbook if I would\nbe starting over again. Okay, well, thank you for sharing that great playbook. I love Google.\nThis is awesome. Thanks for breaking it all down for us. Let's switch topics a little bit and\ntalk about the product that you built. Could you give us a demo? I just want to see what this thing\nlooks like, how it works, and yeah, could you show it? Sure. So our app is nothing fancy really.\nOn the UI, we just have social media scheduler. Basically everything that you can do through the API,\nyou can also do through our UI. So it's very, very simple. You can just from here create new\nposts, and yeah, basically just select the accounts that you want this content to go to. We also have\nhere the option to connect all your accounts and handle all your accounts from the UI. Here you can\nalso create new API keys. So as a developer, you can just basically handle all your APIs from here.\nWe also have here an inbox feature that basically allows you to handle all your VMs and comments\nthrough the UI. The rest of the platforms, you can set up webhooks, do you get notifications when\nthe post fails or when post succeeds. We're going to account and get disconnected, close to check\nall the logs from your publishing activity to see what you have errors or you view everything\nis working correctly. And then from here, you just can access the API docs, which are well,\nvery important because you'll be building an integration. And this is what we try and spend\nmost time on so that, well, it's very, very straightforward for you to learn and start using.\nOkay, cool. And on a similar note, how did you build this? What tech stack did you use? What runs\nthe business? How did you build it? So most important thing that you use is cloud code. So we can\ncode much faster. We also use data fast. It helps us track what's ringing revenue and what's not.\nWe also use Google ads, spend up to $8,000 per month. We also use eight reps, which is around\n$200 per month. And this is essential for us for insights, monitoring on the organic site.\nOkay, cool. Well, thanks for sharing that. Last question that we ask all founders to come on to\nstart a story, to build cool stuff like you. What would be your advice to young Mickey before you\ngot started? Or for anyone watching that wants to get started and build cool sats like this and\nlearn Google, what would be your advice? My advice would be to just stop trying to be\neverything to everyone. When I realized that basically picking one growth channel and getting\nreally good at it, in our case, it's paid search. It was a hundred times better than being mediocre\nat 10 channels. So my advice would be just pick your single best level for growth, get\nobsessed with it and measure it relentlessly. And that's great advice, as I kind of mentioned\nbefore. You can win with just one channel, right? You can build a million dollar business, you can\nbuild a ten million dollar business, maybe even a hundred million dollar business with just one\nchannel. So if anyone's watching this and you take one thing away from that, here's proof of that.\nThank you, Mickey, for coming on and sharing awesome business. Hope to see you grow.\nThank you for having me. Okay, producer Gus, what do you think about that one?\nI thought it was really cool. I think we talked to someone else recently, that was very similar,\nbut like it's very systematized, right? He has like a super solid system, I think, for\nknow whatever, finding the keywords, ranking them, and then running paid search on them.\nSo I thought that was really awesome just to hear kind of that system. And I feel like so many of\nthe great founders we talked to have something like that where they have this methodical approach.\nLike we don't get lucky. It's all math. And I mean, that's awesome.\nYeah, that's what I like about Google. I think a lot of people are talking about Organa,\nTikTok, and these sorts of things, or AI, and all this. But at the end of the day, Google is like\na very, very tried and true acquisition channel for a lot of businesses. At the end of the day,\nthis is a great distribution strategy or marketing strategy for people that don't want to go on\ncamera and want to maybe they're a little bit more of a finance type and enjoy putting together\nspreadsheets of keywords and seeing intent and looking at the numbers. Not everyone is meant to be\non camera and create viral content. This is a real solid plan that he put together. And his\nplaybook was especially good. I think you can really do this with pretty much any SaaS,\nspecifically B2B SaaS more so, but I really think that this could work and is a great first channel.\nYeah, and then the other thing I was thinking about was like on Twitter, you'll see how many people\nare talking about how like Google search is dead or like Google SEO is dead kind of thing.\nI think we've even done like some videos on the build channel on that topic, but I don't know,\nI guess what do you think about that? Like is this kind of showing that maybe it's not this\nas true or what do you, we're like, what do you think? Here's the truth. Google search is not dead,\nbut informational queries are dead. So if you search not dead, but essentially dead. If you search\nGoogle for how to create a great social media post that you're probably not going to rank it's\ngoing to be harder to rank for that. And those people are coming for information on how to create a\ngood social media post that they're just going to use chat GPT for that, right? To get a more\ncustomized way better answer. But if they're searching for things like social media scheduler,\nthey may put that into more so into AI, but at the end of the day, it's still the same. Like,\nthey're going to put that into Google. They're going to put that into the AI. They're going to click\nin through to your software and buy it. Yeah, there's an argument that one day you'll be able to\nput into AI and it'll write all the code and create the whole app for you. But right now,\nstill people need tools and intent base. There's informational queries. And then maybe you call it\nintent base queries. People are still searching things for like, I need insurance. I need a social media\nscheduling tool. I need some clothing or something like that. So the SEO is dead is more around informational\nbase queries. Yeah, I mean, I find myself using my chat GPT a lot more over first search. But\nsometimes when I even when I'm still looking for like a tool or something to buy, I almost still go\nto Google instead of chat because I don't know, I feel like Google has something it'll really show\nme versus chat will just like list out whatever the answer without not always with like a link.\nAnyway, so yeah, I thought that was interesting to see that that still works if you do it kind of in\nthis mathematical way. Okay, cool. Well, SEO and Google still works, but you need to build something.\nSo I will shamelessly plug starter story build right here. If you want to find that idea that you\ncan eventually put into the Google playbook, check out starter story build. I'll put a link in the\ndescription for that. We'll help you come up with your idea, build it with just AI tools. You\ndon't even need to know how to code and get it in the hands of real customers. I'll put that link\ndown there. Thank you guys for watching. We'll see you in the next one. Peace."
 }

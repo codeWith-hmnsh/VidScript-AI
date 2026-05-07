@@ -1,24 +1,274 @@
-[0:00:00] you ask me what do I want? I should ask you rather than you asking me, because it depends
-[0:00:25] where you are. If you are identified with the body, then your wants will be different,
-[0:00:34] then food and sex will be your only wants, only desires. Those two are animal desires, the lowest.
-[0:00:48] I am not condemning them by calling them lowest. I am not evaluating them. Remember, I am just
-[0:01:01] stating a fact, the lowest rung of the ladders. But if you are identified with the mind,
-[0:01:13] your desires will be different, music, dance, poetry. And then there are thousands of things.
-[0:01:26] The body is very limited. It has a simple polarity, food and sex. It moves like a pendulum between
-[0:01:38] these two, food and sex. It has nothing more to it. But if you are identified with the mind, then
-[0:01:48] mind has many dimensions. You can be interested in philosophy, you can be interested in science,
-[0:02:01] you can be interested in religion, you can be interested in as many things as you can image. If you
-[0:02:13] are identified with the heart, then your desires will be still of a higher nature, higher than the mind.
-[0:02:22] You will become more aesthetic, more sensitive, more alert, more loving. The mind is aggressive,
-[0:02:44] the heart is receptive, the mind is male, the heart is female, the mind is logic, the heart is love.
-[0:02:54] So it depends where you are stuck at the body, at the mind, at the heart. These are the three most
-[0:03:11] important places from where one can function. But there is also the fourth in you, in the east called the
-[0:03:22] Turya. Turya simply means the fourth, the transcendental. If you are aware of your transcendentalness,
-[0:03:34] then all desires disappear. Then one simply is with no desire at all, with nothing to be asked to be
-[0:03:52] fulfilled. There is no future and no past, then one lives just in the moment, utterly contented,
-[0:04:01] rich, fulfilled. In the fourth, your 1,000-petered lotus opens up, you become divine. You are asking
-[0:04:20] me, Krishna, what do I want? That simply shows you don't know even where you are, where you are stuck. You will have to
-[0:04:32] enquire with the new yourself. And it is not very difficult. If it is food and sex, that takes your
-[0:04:42] measure part, then that is where you are identified. If it is something concerned with thinking, then it is the
-[0:04:52] mind. If it is concerned with feeling, then it is the heart. And of course, Krishna, it cannot be the fourth, otherwise the
-[0:05:02] question would not have a rise in it all. So rather than answering you, I would like to ask you where you are
+Right now it's easier than ever to build apps, but distribution is harder than it's ever been.
+TikTok, paid ads, read it, what do you do? Well, today I think I found a solution.
+I partnered with one guy and we grew by 10,000 percent.
+This is Flow, a solid developer who built a really simple mobile app, but for over a year he tried
+everything and barely made a few hundred dollars. I tried doing it all by myself and only made
+300 dollars per month. Then something happened that changed everything.
+In just one year my entire business completely changed. So I brought him out of the channel to
+break it all down and in this episode we'll dive into his really simple app that makes over
+$30,000 a month. Why you do not need a TikTok army in order to win and how one smart partnership
+can change everything for a business. If you're thinking of building an app in 2026,
+this video is for you. All right, let's dive in. I'm Pat Walls and this is StarterStory.
+All right, Flow, welcome to the channel. Tell me about who you are, what you built and what's your story.
+I'm Flow, I'm from Germany. I built an expense tracking app called Moniai. I launched it
+around three years ago and spent around one and a half years. I'm scaling it to $300 of
+MRR by myself and then I partnered with the content creator and together we scale it to over 35k
+in MRR in just over a year. Okay, wow, so $300 MRR in the first year and a half. Then you found
+an influencer and then it blew up. That's what we're going to be talking about today. I'm super
+excited. But before we get into that, could you walk me through the app you built, who uses it
+and then some of your revenue dashboards to show that this is legit? Yeah, sure. So it's basically
+money tracking app that makes the entry a lot more frictionless by using AI to use voice or use
+automations. So that is the main concept and also that it's minimalistic and not bloated like most
+of the other expense tracking apps. You can see we are currently at a bit over 35k of MRR.
+We are a subscription-based app. We only offer a seven-day trial right now. We use to be
+with a B-testing. We figured out that actually a hard paywall with free trial works best for us.
+Okay, well, let's change topics a little bit before we get into how you found this influencer
+distribution, all this. Talk about your background. How do you get to this point where you start
+building apps, start getting excited about the finance category? How do you get here? So initially,
+I actually wanted to study something in the creative space, but eventually ended up studying
+computer science, and then I taught myself to code iOS apps. Afterwards, I was a mobile UX lead.
+Yeah, I always wanted to build something myself to fully work on my own apps. So I kept building
+side projects next to my shop, but none of them had success until this one. Earlier this year,
+I was finally able to quit my job and do this full-time. Okay, cool. So let's talk about the idea.
+How you come up with the idea for an app that eventually is doing over $30,000 MRR? I initially
+built the app for myself because I wanted to get back into tracking my expenses. I tried many
+different expense tracking apps over the years, and I always quit them again, because they were just
+too cumbersome to use. And eventually, at this point, AI was becoming fairly usable. So I thought
+of combining these two things and using AI to make it more of a frictionless experience. So my goal
+was to also ship it as fast as possible, because before that, I built an app that took me two years,
+and in the end, I launched it and obviously no one cared about it. So I wanted to improve that
+and launch it very quickly. I think it took me a month or two to get the first version,
+and then I continuously iterate it over it. Let's switch topics a little bit and talk about
+this distribution topic, right? It's easy to build stuff nowadays. You can build pretty amazing
+stuff with AI, and when you build it, you got to like $300 MRR after a year and a half, which
+still is amazing to be making money with an app, but it's probably not what you really wanted.
+Then something changed. And in one year, you went from 300 to 30,000 in MRR. What was that?
+What was the big strategy in Wiery here today to share it? Basically, on a very high level,
+I started to collaborate with a fairly big influencer from Colombia after we negotiated some terms.
+He actually reached out to me because he found my socialists in the app, and after negotiating,
+we came up with an agreement, and he's now posting three videos per month on his main channel.
+The first video he posted end of 2024. Within a week, we 10x the MRR, and within a month,
+it was at almost 8K. Okay, yeah. This is why I wanted to bring you on the channel because a lot of
+developers or technical people watch this, and like you said, you thought maybe I don't have product
+market fit or something like that. Maybe there's something wrong with my app. The only thing wrong
+with your app is that nobody was seeing it. And that's what we love to talk about on starter
+stories. Building is cool, but distribution. What's the actual strategy here? I'd love to hear
+just a little bit more of a deeper dive into how this works. How is the influencer partnership
+set up? I think it's cool that you only have one influencer. You don't have to work with like
+20 of them, which sounds complicated. Let's dive in a little bit deeper into it. What's worked
+for you and what's the kind of strategy here? So the partnership is largely built on trust right now.
+We do, of course, have a contract. So now we have a percentage of the profits and a fixed monthly
+retina before we had a percentage of revenue. And we notice that it doesn't really scale well.
+What's good about this is since it's profit-based, his payout is mostly profit-based, he's incentivized
+to actually do what's best for the app. It's not like he's my employee and he just delivers the video
+and calls it a day, but he's constantly thinking about what to do and how to make the greatest
+videos. So he's also incentivized there. What's different also to many other people that work with
+content creators is that we only post three videos per month. They are very high quality, so we really
+want to have quality over quantity. So they are always very story-driven. We don't get millions of
+views mostly, but those that we get, they do convert with a fairly high rate. So yeah, and he's
+responsible for coming up with the video ideas, so I don't have to constantly think about new viral
+video ideas or something that he's the creative mind behind it basically. Okay, cool. I mean,
+this makes a lot of sense to me. I see a couple themes here. The first one is like quality over
+quantity. Both in terms of influencers, right? You don't have, you have one quality influencer,
+not 20 of them, and you do three videos a month, not a hundred, and then hope that something hits.
+The second thing that I think is actually really smart here, as you mentioned, is this guy has
+skin in the game, right? It's not like you just pitching them $300 videos to create, and they create
+something quick and it doesn't convert. This person is incentivized to make great videos, which I think
+makes a lot of sense. I'd love if you could dive a little bit deeper and just show me like, what kind of
+videos are you creating? What's the impact of these videos? I didn't expect you to say that you only
+do three videos a month. Could you show me what the impact of what a successful influencer can do
+to a software business? Yeah, sure. I actually built a little tool for that to visualize it a bit
+better. You can see those small circles where a video was posted, so you can see this was the first one.
+It was actually a very simple video. This one was just a walkthrough of the app, but since his main
+audience didn't know the idea behind it yet, it worked quite well. So this and another video
+actually got us to 7.8K MRR from the 300 from before, and then another video, which was also
+fairly short, but it also got us another boost of more than 5K to 13K MRR. Then we did a lot of
+testing. Actually, we had a low season there. We didn't get another viral video until June 21,
+which was when we were invited from Apple to try and adapt up to see together, so that made for a
+really great story. And like I said, the videos that we post are mostly story-based. That's why
+also we only post three of them because it takes a long time to create them, but this one in total
+got us 1.7 million views and grew in plus almost 5K MRR. And then the latest one was a feature that
+was really wanted by people, and he also made a very nice story behind it, and that grew us now
+to finally over 35K. So you can see from the beginning till now, we grew by over 10,000%.
+I absolutely love everything Flow is sharing right now about how he grew this thing. It just goes
+to show you the power that content can have on your business or your app that you're building
+in 2026. We've actually talked to dozens of founders right here on this channel who've used
+similar strategies to grow their apps. So I decided to put it all together into one free resource
+to help you get started. The organic short form playbook will walk you through how real founders
+are growing real apps making real money right now. From how to find viral content ideas to building
+a content system, this playbook will show you how to think about growth differently. So if you're
+ready to grow, head to the first link in the description and download it for free. All right,
+let's get back to the episode. So this awesome influencer reached out to you because you had built
+something cool and you guys partnered together. For a lot of people watching this, they might be
+thinking, I'm a developer, I'm technical minded. How can I find someone who's a genius at marketing
+and video and content. If you were starting over from scratch with a new app in 2026,
+what would be your playbook for nailing influencer marketing based on everything you've learned?
+Yeah, totally. I talked to my partner about this and we came up with this playbook.
+So step one, finding your aligned partners. So before reaching out, you should make sure that
+the influencer's lifestyle, the tone, the audience actually met your product. So what I was
+looking for in a partnership was great personality, of course, charisma, but also that he connects
+with his viewers. So he replies to comments, which is...
+if you have an app to sell because they will have questions about it so that was important
+and also that he's not purely a tech influencer but he's also like he's kind of tech and lifestyle
+that's why his audience is not just interested in specs of apps or something like that but they
+really care about his story about what he's doing in his life so that makes it really valuable.
+Then step two warm up that relationship that means you should follow them beforehand.
+Those influencers usually notice that people are constantly commenting on their videos so they
+see that recurringly and they see that you actually care about it. Of course that takes a lot of
+time so if you don't have the time then at least be upfront like don't fake that you follow them
+for month or something like that. Step three is that you should be very specific with the outreach
+so don't just send what a lot of people do to say I love your content let's collaborate
+that won't cut it. Instead you should reference a specific video or a specific moment a joke they
+made or something like that so they actually know okay they watch the content they actually care
+about what I do. For example you could say something like I really liked how you made such a little
+detail look so cinematic in that video of whatever that specific product. Step four is connect the
+dots to your product after you show that appreciation he should see the alignment not just a
+transaction so it shouldn't look like I want to pay you make something for me but he should see
+that there's an alignment between the both of you so for me there was like his audience clearly
+values aesthetics and nice tech and my product I think was a perfect overlap for this because it's
+minimalistic aesthetic but still also has the tech heavy side with the AI automations and things
+like that. Then for step five I think this one is the most important one and you should acknowledge
+their value and signal willingness to pay very early on you should really lead with making it clear
+that you will get incentivized one way or another I think that's already set you apart from the rest
+and what could also work really well would be to show examples of products in that niche that already
+make a lot of money you can easily look that up on sensor tower or other websites yeah so you could
+say something like understand the value of what you do you can reach millions of people with a
+single video I would love to have you as a long-term partner and share the profits of the app with you
+it might not be much in the beginning but other apps in that niche make 50 to 100k per month
+with the right distribution so that kind of gives them like a future mental model of what this
+collaboration could lead to and there's some final tips try to be brief I think this one is
+important these creators get hundreds of emails per week so they don't want to read through
+a huge paragraph of text bonus points if you can send a personalized video where you actually
+mentioned their creators name and their content in that video because that shows actually that you
+really care about this collaboration most people won't do this so that's exactly why you should
+do it then what worked for me is that you should add your social handles on your profile that
+this is the the first step you should probably do when you build an app I think this will actually
+become increasingly important in the future because the popularity of apps is getting bigger
+and bigger I feel like so I think more and more content creators will see the value in collaborating
+with a developer so if they find nice apps and they see oh okay there's just a single person
+working on the app I think that could lead to the influence actually reaching out to you which
+would be a lot better for you because then you can also negotiate terms a lot better and most
+importantly which also worked for me is that you should look into other markets than just the US I think
+a lot of great content creators also outside and I think my partner also makes it clear that it
+can also work in in any other market as well yeah there's a lot of influencers out there that are
+US based or popular but the influencer that you worked with is kind of tackling the Colombian
+market it goes to show that there's a lot of emerging influencers across the world that developers
+could work with your German he's Colombian there's so many opportunities and apps are such a huge
+growing space right now so I guess for anyone watching this don't just limit it just to the US
+thank you for sharing that playbook that's amazing I think it's gonna be super useful for people
+watching this I love if you could just give us a quick demo of your app what's the app that makes
+over 30,000 MRR yeah so this is the app it's very minimalistic it doesn't even have tabs or anything
+like that it just shows you what's really important which is the distribution of your expenses and below
+that you see the list if you want to make a new expense you can either do it manually or you can
+use the voice input feature and say something like coffee at Starbucks 50 bucks and we'll use that
+and automatically create the transaction for you add tags add the category and automatically add
+to your list what also works is you can use the Apple Pay automation so we heavily also use shortcuts
+integrations to make it even easier so if you just pay once it gets realized you can see that it
+was automatically now added to the list this is more or less it there's a lot of other things
+like you can add budgets or if you don't find some feature you can always use the AI reports feature
+so you can just simply ask questions about all the finances that you already added which makes it
+very simple like for example you could say I want to save 300 euros a month on which cost should I
+cut back you can see that it would analyze your your finances and then come up with a plan
+okay cool well thanks for showing the app looks like a really cool app I love the AI features
+on that note let's talk about tech stack what's the stack that you built this in where all the tools
+that run is $30,000 plus per month app I build my apps natively so I just use xcode which is free
+I use cloud code extensively I'm paying for the max plan which is 100 bucks I use revenue cats
+to show the revenue stats of course but also most importantly to do AB tests so for me it's around
+400 bucks a month now then I use app right for my backend and authentication and database as well
+that together is 25 bucks for the AI request in the app I use open AI for the easier tasks and
+anthropic for the deeper analysis that is around 200 bucks a month then Helm every iOS developer will
+know the pain of using FSO Connect so this makes it a bit more hassle free I bought the lifetime plan
+which is around 175 bucks and for designer use Figma but just the free plan cool well thanks for
+sharing that last question that we ask all founders to come on starter story you built this awesome
+business is doing over $30,000 a month in revenue congratulations if you go back in time to when
+you had just started your app or when you're at $300 MRR you couldn't figure out how to crack
+product market fit what would be your advice to young flow or anyone who's watching this who wants
+to build apps and achieve success like you did I was very reluctant to start with meta ads because
+it always looked super intimidating for me and I was always afraid it would be a waste of money or
+something like that but what I noticed is my creator can make such great videos these videos you
+can use to experiment with meta ads very easily we just started a few weeks ago and we already see
+really great results with this so I think we could have made a lot more money if we got on that
+yeah no we talked to a lot of founders who are building apps specifically who are crushing it
+with ads right now yeah you got to figure out the content first the content that you run on the
+ads needs to be good but there's been like two three four guys out of a dozen that are building apps
+where ads are really starting to work and they can pour gasoline on the on the fire and it's working
+so that's super cool to hear anybody who's watching this get started throw some money on some paid
+ads and see what happens it can't hurt thank you flow for coming on to the channel and sharing
+all this congratulations to what you've built it's amazing let us know in the comments which you
+thought of this video any other questions if you want flow to come back on and maybe share some more
+things that worked for this $30,000 per month personal finance app which I think is super cool
+thanks for coming on thanks for having me all right Gus producer of starter story what did you think
+of flow man I love that guy super chill and just like straightforward with his like system in terms
+of the story initially what stands out to me obviously is this one influencer thing we talked a
+lot of guys and this is no shade to them but I talked to a lot of guys are seeing on Twitter like
+spamming TikTok dozens of sort of brain-radi content he did the exact opposite that's why I wanted
+to have them on the show that that was like a different way so that's that's one thing for me yeah
+one thing that I like about this is that the skin in the game aspect like I'm a little bit skeptical
+of the influencer strategy of like contact a hundred influencers make a deal with 10 of them
+and then one of them works out and helps you grow your business but that's as far as you can
+really take it right because then you know pay them again and then it gets sort of complicated
+when we talked a lot of these guys that do the influencer playbook there is usually just one influencer
+that really crushed it for them even though they contacted a bunch that's kind of what he did is
+he had one influencer who has skin in the game who's taking a share of the profits who's gonna
+create great content and gonna be thinking about the business from an actual growth perspective
+rather than just recording a video and posting it so the influencer for equity thing is something
+that we there's a lot of videos on our channel that cover that influencer for equity model I think
+it's gonna get bigger and I think it's really great for people like him who clearly aren't content
+creators but they're good developers they can build cool stuff this I think is gonna be big the other
+thing I always think about this when guys like this come on the channel is like his app is basically
+yet another budget tracking essentially for myself from building something or thinking about
+something I'm like oh it's already been done and this is just a good example of like yes it's
+obviously yet another budget tracking app there's obviously some unique things to it that we
+saw in the demo that were really cool but
+but that doesn't matter.
+Like what matters is the distribution
+which you talk about a ton.
+And obviously there's the like other markets element,
+like the Colombian influence
+or the whole other thing we could have driven into.
+But that's what's standing out to me.
+It's like, it's just another budget tracking app.
+That's crazy.
+And it's like 2026 and people are still making money
+with this kind of stuff.
+Right.
+I mean, yeah, there's no clear winner
+in the budget tracking space.
+I don't really use something.
+When he showed me his app, I was like,
+oh, I kind of want to try this out.
+It integrates with Apple Pay.
+Like I use that so that could be kind of cool.
+I immediately wanted to try it out.
+So I can see the appeal and I can see how it would,
+you know, it could be a popular app.
+And yeah, as you mentioned,
+what he did that was really smart is that
+he didn't build it for people in Germany
+where he lives or in the US, where we live.
+He partnered with the influencer
+who built it in Columbia of all places.
+You can, that's a great money in Columbia, by the way.
+There's so much opportunity to build popular apps.
+Build the same exact app in another country
+because the app stores huge in other countries.
+And we talked to a lot of founders who crushed it
+in the early days by targeting other countries.
+France, Argentina come to mind in a couple of videos we did.
+So yeah, let's put that to rest the idea
+that like if it's already been built, you can't build it again.
+So if you're watching this
+and you've built something cool, just like Flow did,
+you definitely want to check out our short form content playbook.
+It is our starter story build playbook
+where you can go on it's 100% free.
+You can see a bunch of different content playbooks
+that are working short form content playbooks
+of the many founders we interviewed on starter story.
+We put it all into one place so you can watch, learn,
+and see what kind of content that might work for you
+so you can focus on distribution.
+I'll put a link to that down there in the description.
+Hope you enjoy it.
+Otherwise, we'll see you in the next one.
+Peace.

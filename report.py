@@ -22,7 +22,7 @@ def save_final_outputs(metadata, segments, output_base="transcript"):
     Saves the final transcript in the EXACT JSON format required by the contract
     and a clean TXT version. Automatically prevents overwriting.
     """
-    plain_text = "\n".join([f"[{format_duration(s['start'])}] {s['text']}" for s in segments])
+    plain_text = "\n".join([s['text'] for s in segments])
     
     # Calculate simple quality score (0-100)
     duration = metadata.get("duration", 1)
